@@ -1,0 +1,11 @@
+{
+  "name": "mhc-mlx",
+  "version": "0.6.2",
+  "summary": "High-performance MLX implementation of Manifold-Constrained Hyper-Connections (mHC)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mhc_mlx-0.6.2.tar.gz",
+  "download_time": "2026-01-12T21:17:57.246117",
+  "package_url": "https://pypi.org/project/mhc-mlx/"
+}

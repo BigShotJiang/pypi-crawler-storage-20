@@ -1,0 +1,11 @@
+{
+  "name": "DIRAC",
+  "version": "9.0.15",
+  "summary": "DIRAC is an interware, meaning a software framework for distributed computing.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": "https://github.com/DIRACGrid/DIRAC/",
+  "download_filename": "dirac-9.0.15.tar.gz",
+  "download_time": "2026-01-12T21:17:50.230809",
+  "package_url": "https://pypi.org/project/DIRAC/"
+}

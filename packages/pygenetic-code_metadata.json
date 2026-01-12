@@ -1,0 +1,11 @@
+{
+  "name": "pygenetic-code",
+  "version": "0.21.3",
+  "summary": "Translate DNA sequences to protein sequences using different genetic codes and translation tables",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pygenetic_code-0.21.3.tar.gz",
+  "download_time": "2026-01-12T21:18:08.327357",
+  "package_url": "https://pypi.org/project/pygenetic-code/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scopus-mcp",
+  "version": "0.1.1",
+  "summary": "A Model Context Protocol server for the Elsevier Scopus API",
+  "author": "thinktraveller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scopus_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-12T21:18:30.321155",
+  "package_url": "https://pypi.org/project/scopus-mcp/"
+}

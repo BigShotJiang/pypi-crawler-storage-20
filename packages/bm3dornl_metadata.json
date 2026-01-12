@@ -1,0 +1,11 @@
+{
+  "name": "bm3dornl",
+  "version": "0.6.1",
+  "summary": "BM3D for streak artifact removal in neutron imaging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bm3dornl-0.6.1.tar.gz",
+  "download_time": "2026-01-12T21:17:48.128402",
+  "package_url": "https://pypi.org/project/bm3dornl/"
+}

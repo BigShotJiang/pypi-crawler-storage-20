@@ -1,0 +1,11 @@
+{
+  "name": "tensor-regression",
+  "version": "0.1.2",
+  "summary": "A small wrapper around pytest_regressions for Tensors",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tensor_regression-0.1.2.tar.gz",
+  "download_time": "2026-01-12T21:18:35.612070",
+  "package_url": "https://pypi.org/project/tensor-regression/"
+}

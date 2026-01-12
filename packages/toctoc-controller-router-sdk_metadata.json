@@ -1,11 +1,11 @@
 {
   "name": "toctoc-controller-router-sdk",
-  "version": "0.0.43",
+  "version": "0.0.45",
   "summary": "TOCTOC API ROUTER",
   "author": "OpenAPI Generator community",
   "license": null,
   "home_page": "https://github.com/toctoc/controller-router",
-  "download_filename": "toctoc_controller_router_sdk-0.0.43.tar.gz",
-  "download_time": "2026-01-12T20:48:15.696154",
+  "download_filename": "toctoc_controller_router_sdk-0.0.45.tar.gz",
+  "download_time": "2026-01-12T21:18:04.416921",
   "package_url": "https://pypi.org/project/toctoc-controller-router-sdk/"
 }

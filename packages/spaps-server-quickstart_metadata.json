@@ -1,0 +1,11 @@
+{
+  "name": "spaps-server-quickstart",
+  "version": "0.2.3",
+  "summary": "Shared FastAPI/Celery scaffolding for Sweet Potato service backends.",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "spaps_server_quickstart-0.2.3.tar.gz",
+  "download_time": "2026-01-12T21:18:34.317265",
+  "package_url": "https://pypi.org/project/spaps-server-quickstart/"
+}

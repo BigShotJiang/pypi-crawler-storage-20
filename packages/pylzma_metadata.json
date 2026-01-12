@@ -1,0 +1,11 @@
+{
+  "name": "pylzma",
+  "version": "0.6.0",
+  "summary": "Python bindings for the LZMA library by Igor Pavlov.",
+  "author": "Joachim Bauch",
+  "license": "LGPL",
+  "home_page": "http://www.joachim-bauch.de/projects/pylzma/",
+  "download_filename": "pylzma-0.6.0.tar.gz",
+  "download_time": "2026-01-12T21:18:18.263777",
+  "package_url": "https://pypi.org/project/pylzma/"
+}

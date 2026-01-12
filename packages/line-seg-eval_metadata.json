@@ -1,0 +1,11 @@
+{
+  "name": "line-seg-eval",
+  "version": "0.1.1",
+  "summary": "High-performance Line Detection Evaluation (sAP, F1)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/SebastianJanampa/line_segment_eval",
+  "download_filename": "line_seg_eval-0.1.1.tar.gz",
+  "download_time": "2026-01-12T21:18:02.467428",
+  "package_url": "https://pypi.org/project/line-seg-eval/"
+}
