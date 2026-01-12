@@ -1,0 +1,11 @@
+{
+  "name": "graponater",
+  "version": "1.0.0",
+  "summary": "Telegram bot for server control and management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graponater-1.0.0.tar.gz",
+  "download_time": "2026-01-12T18:57:56.109045",
+  "package_url": "https://pypi.org/project/graponater/"
+}

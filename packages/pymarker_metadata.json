@@ -1,11 +1,11 @@
 {
   "name": "pymarker",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "A python package to generate AR markers and patterns based on input images",
   "author": "Pablo Silva",
   "license": null,
   "home_page": "https://github.com/pablodiegoss/pymarker",
-  "download_filename": "pymarker-1.2.1.tar.gz",
-  "download_time": "2026-01-12T18:28:41.463377",
+  "download_filename": "pymarker-1.2.2.tar.gz",
+  "download_time": "2026-01-12T18:57:54.563894",
   "package_url": "https://pypi.org/project/pymarker/"
 }

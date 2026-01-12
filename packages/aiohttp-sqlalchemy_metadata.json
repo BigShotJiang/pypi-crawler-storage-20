@@ -1,0 +1,11 @@
+{
+  "name": "aiohttp-sqlalchemy",
+  "version": "1.2.0",
+  "summary": "SQLAlchemy 2.0 support for aiohttp.",
+  "author": "Ruslan Ilyasovich Gilfanov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "aiohttp_sqlalchemy-1.2.0.tar.gz",
+  "download_time": "2026-01-12T18:57:52.486959",
+  "package_url": "https://pypi.org/project/aiohttp-sqlalchemy/"
+}

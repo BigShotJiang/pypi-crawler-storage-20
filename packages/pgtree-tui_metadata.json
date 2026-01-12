@@ -1,0 +1,11 @@
+{
+  "name": "pgtree-tui",
+  "version": "1.2.1",
+  "summary": "Interactive collapsible process tree viewer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pgtree_tui-1.2.1.tar.gz",
+  "download_time": "2026-01-12T18:58:01.342110",
+  "package_url": "https://pypi.org/project/pgtree-tui/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "glueprompt",
+  "version": "0.1.1",
+  "summary": "Git-based prompt versioning system using branches for managing prompt templates",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "glueprompt-0.1.1.tar.gz",
+  "download_time": "2026-01-12T18:58:02.369163",
+  "package_url": "https://pypi.org/project/glueprompt/"
+}
