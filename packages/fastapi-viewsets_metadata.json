@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-viewsets",
+  "version": "1.1.0",
+  "summary": "Package for creating endpoint",
+  "author": "Alexander Valenchits",
+  "license": null,
+  "home_page": "https://github.com/svalench/fastapi_viewsets",
+  "download_filename": "fastapi_viewsets-1.1.0.tar.gz",
+  "download_time": "2026-01-12T19:49:42.467047",
+  "package_url": "https://pypi.org/project/fastapi-viewsets/"
+}

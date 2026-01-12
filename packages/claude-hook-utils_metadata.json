@@ -1,0 +1,11 @@
+{
+  "name": "claude-hook-utils",
+  "version": "0.4.0",
+  "summary": "Utilities for building Claude Code hooks with minimal boilerplate",
+  "author": "Rasmus Godske",
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_hook_utils-0.4.0.tar.gz",
+  "download_time": "2026-01-12T19:49:51.947960",
+  "package_url": "https://pypi.org/project/claude-hook-utils/"
+}
