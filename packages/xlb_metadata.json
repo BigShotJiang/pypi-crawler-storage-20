@@ -1,0 +1,11 @@
+{
+  "name": "xlb",
+  "version": "0.3.1",
+  "summary": "XLB: Accelerated Lattice Boltzmann (XLB) for Physics-based ML",
+  "author": "Mehdi Ataei",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Autodesk/XLB",
+  "download_filename": "xlb-0.3.1.tar.gz",
+  "download_time": "2026-01-12T22:53:26.792387",
+  "package_url": "https://pypi.org/project/xlb/"
+}
