@@ -1,8 +1,11 @@
 {
-  "download_time": "2026-01-12T23:44:13.275695",
+  "download_time": "2026-01-12T23:53:34.172837",
   "total_packages_downloaded": 79,
-  "total_size_mb": 22.08,
+  "total_size_mb": 5.3,
   "packages": [
+    "ws-api",
+    "ragstrap",
+    "softhauzwww",
     "oih-mcp-server",
     "prosperity3opt",
     "paper2epub",
@@ -78,9 +81,6 @@
     "sae-lens",
     "biapack",
     "oldaplib",
-    "tsigna",
-    "icsneopy",
-    "kubernetes-asyncio",
-    "jupyter-export-html-style"
+    "tsigna"
   ]
 }

@@ -1,11 +1,11 @@
 {
   "name": "vikunja-mcp",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "summary": "MCP server for Vikunja task management",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vikunja_mcp-0.8.1.tar.gz",
-  "download_time": "2026-01-12T23:30:16.185565",
+  "download_filename": "vikunja_mcp-0.8.2.tar.gz",
+  "download_time": "2026-01-12T23:53:18.629105",
   "package_url": "https://pypi.org/project/vikunja-mcp/"
 }

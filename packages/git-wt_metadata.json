@@ -1,11 +1,11 @@
 {
   "name": "git-wt",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A lightweight CLI tool for managing git worktrees",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "git_wt-0.1.3.tar.gz",
-  "download_time": "2026-01-12T23:43:40.752995",
+  "download_filename": "git_wt-0.1.4.tar.gz",
+  "download_time": "2026-01-12T23:53:00.230817",
   "package_url": "https://pypi.org/project/git-wt/"
 }

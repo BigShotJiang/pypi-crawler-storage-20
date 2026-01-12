@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-12T23:44:13.275695
+- **Download Time**: 2026-01-12T23:53:34.172837
 - **Total Packages**: 79
-- **Total Size**: 22.08 MB
+- **Total Size**: 5.3 MB
 
 ## Packages List
+- ws-api
+- ragstrap
+- softhauzwww
 - oih-mcp-server
 - prosperity3opt
 - paper2epub
@@ -82,6 +85,3 @@
 - biapack
 - oldaplib
 - tsigna
-- icsneopy
-- kubernetes-asyncio
-- jupyter-export-html-style
