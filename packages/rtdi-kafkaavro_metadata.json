@@ -1,0 +1,11 @@
+{
+  "name": "rtdi-kafkaavro",
+  "version": "0.10.41",
+  "summary": "Kafka schema support for data integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rtdi_kafkaavro-0.10.41.tar.gz",
+  "download_time": "2026-01-12T17:37:46.330494",
+  "package_url": "https://pypi.org/project/rtdi-kafkaavro/"
+}

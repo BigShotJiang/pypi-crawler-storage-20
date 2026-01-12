@@ -1,0 +1,11 @@
+{
+  "name": "hhcli",
+  "version": "0.5.2",
+  "summary": "Неофициальный CLI-клиент для поиска работы и откликов на hh.ru.",
+  "author": "fovendor",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hhcli-0.5.2.tar.gz",
+  "download_time": "2026-01-12T17:37:24.477393",
+  "package_url": "https://pypi.org/project/hhcli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sacrebleu",
+  "version": "2.6.0",
+  "summary": "Hassle-free computation of shareable, comparable, and reproducible BLEU, chrF, and TER scores",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sacrebleu-2.6.0.tar.gz",
+  "download_time": "2026-01-12T17:38:10.187341",
+  "package_url": "https://pypi.org/project/sacrebleu/"
+}

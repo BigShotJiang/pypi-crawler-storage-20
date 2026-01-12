@@ -1,0 +1,11 @@
+{
+  "name": "r7-surcom-sdk",
+  "version": "0.9.11",
+  "summary": "Python SDK used to interact and develop with Rapid7 Surface Command",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "r7_surcom_sdk-0.9.11.tar.gz",
+  "download_time": "2026-01-12T17:37:47.356084",
+  "package_url": "https://pypi.org/project/r7-surcom-sdk/"
+}

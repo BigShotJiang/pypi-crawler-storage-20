@@ -1,0 +1,11 @@
+{
+  "name": "papercutter",
+  "version": "3.0.1",
+  "summary": "Extract structured data from academic papers into analysis-ready datasets",
+  "author": "Pranjal Rawat",
+  "license": null,
+  "home_page": null,
+  "download_filename": "papercutter-3.0.1.tar.gz",
+  "download_time": "2026-01-12T17:37:32.768014",
+  "package_url": "https://pypi.org/project/papercutter/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "neuro-mine",
+  "version": "0.8.0",
+  "summary": "Identifies the contribution of behavioural and stimulus parameters to neural activity",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neuro_mine-0.8.0.tar.gz",
+  "download_time": "2026-01-12T17:37:27.049902",
+  "package_url": "https://pypi.org/project/neuro-mine/"
+}

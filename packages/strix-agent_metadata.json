@@ -1,0 +1,11 @@
+{
+  "name": "strix-agent",
+  "version": "0.6.0",
+  "summary": "Open-source AI Hackers for your apps",
+  "author": "Strix",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "strix_agent-0.6.0.tar.gz",
+  "download_time": "2026-01-12T17:38:06.558306",
+  "package_url": "https://pypi.org/project/strix-agent/"
+}

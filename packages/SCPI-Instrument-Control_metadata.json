@@ -1,0 +1,11 @@
+{
+  "name": "SCPI-Instrument-Control",
+  "version": "1.1.0",
+  "summary": "Universal Python library for controlling SCPI-compatible test equipment via Ethernet/LAN. Supports oscilloscopes (Siglent SDS series, generic SCPI scopes), function generators/AWGs (Siglent SDG series, generic SCPI AWGs), and power supplies (Siglent SPD series, generic SCPI PSUs). Features include waveform capture, measurements, FFT analysis, PyQt6 GUI, automated report generation with AI analysis, and comprehensive SCPI command abstraction.",
+  "author": "Robin Mumm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scpi_instrument_control-1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-12T17:38:02.908379",
+  "package_url": "https://pypi.org/project/SCPI-Instrument-Control/"
+}

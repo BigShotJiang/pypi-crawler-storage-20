@@ -1,0 +1,11 @@
+{
+  "name": "datadog_lambda",
+  "version": "8.121.0",
+  "summary": "The Datadog AWS Lambda Library",
+  "author": "Datadog, Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datadog_lambda-8.121.0.tar.gz",
+  "download_time": "2026-01-12T17:37:28.077227",
+  "package_url": "https://pypi.org/project/datadog_lambda/"
+}
