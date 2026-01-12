@@ -1,0 +1,11 @@
+{
+  "name": "smartcrop",
+  "version": "0.4.2",
+  "summary": "smartcrop implementation in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smartcrop-0.4.2.tar.gz",
+  "download_time": "2026-01-12T20:21:57.457756",
+  "package_url": "https://pypi.org/project/smartcrop/"
+}

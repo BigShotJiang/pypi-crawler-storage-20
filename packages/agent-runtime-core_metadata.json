@@ -1,11 +1,11 @@
 {
   "name": "agent-runtime-core",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "summary": "Framework-agnostic Python library for executing AI agents with consistent patterns",
   "author": "Chris Olstrom",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_runtime_core-0.3.0.tar.gz",
-  "download_time": "2026-01-12T19:22:17.510121",
+  "download_filename": "agent_runtime_core-0.4.0.tar.gz",
+  "download_time": "2026-01-12T20:21:56.852129",
   "package_url": "https://pypi.org/project/agent-runtime-core/"
 }

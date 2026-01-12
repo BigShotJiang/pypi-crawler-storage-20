@@ -1,0 +1,11 @@
+{
+  "name": "django-turbo-orm",
+  "version": "0.2.0",
+  "summary": "Async database operations for Django using psycopg3 async cursors and connection pooling (uses django-async-backend)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "django_turbo_orm-0.2.0.tar.gz",
+  "download_time": "2026-01-12T20:21:50.911263",
+  "package_url": "https://pypi.org/project/django-turbo-orm/"
+}

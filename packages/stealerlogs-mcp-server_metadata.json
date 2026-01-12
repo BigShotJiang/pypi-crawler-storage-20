@@ -1,0 +1,11 @@
+{
+  "name": "stealerlogs-mcp-server",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol server for Stealerlo.gs API - Integrate breach data search with AI assistants",
+  "author": "Stealerlo.gs",
+  "license": null,
+  "home_page": "https://github.com/cryphorix/stealerlo.gs",
+  "download_filename": "stealerlogs_mcp_server-1.0.0.tar.gz",
+  "download_time": "2026-01-12T20:21:28.656055",
+  "package_url": "https://pypi.org/project/stealerlogs-mcp-server/"
+}

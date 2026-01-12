@@ -1,0 +1,11 @@
+{
+  "name": "aiforge-manager",
+  "version": "1.0.1",
+  "summary": "Bidirectional AI-Project Manager: Transform AI outputs into structured projects and vice versa",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aiforge_manager-1.0.1.tar.gz",
+  "download_time": "2026-01-12T20:21:39.669667",
+  "package_url": "https://pypi.org/project/aiforge-manager/"
+}

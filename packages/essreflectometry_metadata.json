@@ -1,0 +1,11 @@
+{
+  "name": "essreflectometry",
+  "version": "26.1.0",
+  "summary": "Reflectometry data reduction for the European Spallation Source",
+  "author": "Scipp contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "essreflectometry-26.1.0.tar.gz",
+  "download_time": "2026-01-12T20:21:26.356025",
+  "package_url": "https://pypi.org/project/essreflectometry/"
+}

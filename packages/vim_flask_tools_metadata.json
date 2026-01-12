@@ -1,0 +1,11 @@
+{
+  "name": "vim_flask_tools",
+  "version": "0.0.2",
+  "summary": "Dump code navigation information for a flask project to use in Vim",
+  "author": "Andrew Radev",
+  "license": null,
+  "home_page": "https://codeberg.org/AndrewRadev/vim_flask_tools.py",
+  "download_filename": "vim_flask_tools-0.0.2.tar.gz",
+  "download_time": "2026-01-12T20:21:54.645185",
+  "package_url": "https://pypi.org/project/vim_flask_tools/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hklpy2",
+  "version": "0.3.0",
+  "summary": "2nd generation controls for diffractometers as PseudoPositioners in the Bluesky Framework.",
+  "author": "Bluesky Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hklpy2-0.3.0.tar.gz",
+  "download_time": "2026-01-12T20:21:42.518785",
+  "package_url": "https://pypi.org/project/hklpy2/"
+}
