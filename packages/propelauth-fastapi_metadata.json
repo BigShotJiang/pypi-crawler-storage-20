@@ -1,0 +1,11 @@
+{
+  "name": "propelauth-fastapi",
+  "version": "4.3.1",
+  "summary": "A FastAPI library for managing authentication, backed by PropelAuth",
+  "author": "PropelAuth",
+  "license": "MIT",
+  "home_page": "https://github.com/propelauth/propelauth-fastapi",
+  "download_filename": "propelauth_fastapi-4.3.1.tar.gz",
+  "download_time": "2026-01-12T20:48:45.656101",
+  "package_url": "https://pypi.org/project/propelauth-fastapi/"
+}

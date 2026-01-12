@@ -1,0 +1,11 @@
+{
+  "name": "fetchcraft-admin",
+  "version": "0.4.3",
+  "summary": "Web-based administration interface for Fetchcraft document ingestion",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetchcraft_admin-0.4.3-py3-none-any.whl",
+  "download_time": "2026-01-12T20:48:44.632907",
+  "package_url": "https://pypi.org/project/fetchcraft-admin/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fetchcraft-core",
+  "version": "0.4.3",
+  "summary": "A flexible framework for building RAG applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fetchcraft_core-0.4.3-py3-none-any.whl",
+  "download_time": "2026-01-12T20:48:43.608685",
+  "package_url": "https://pypi.org/project/fetchcraft-core/"
+}

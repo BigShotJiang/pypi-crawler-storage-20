@@ -1,0 +1,11 @@
+{
+  "name": "uiprotect",
+  "version": "8.1.1",
+  "summary": "Python API for Unifi Protect (Unofficial)",
+  "author": "UI Protect Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "uiprotect-8.1.1.tar.gz",
+  "download_time": "2026-01-12T20:48:33.790257",
+  "package_url": "https://pypi.org/project/uiprotect/"
+}

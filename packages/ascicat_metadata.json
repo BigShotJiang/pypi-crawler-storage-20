@@ -1,0 +1,11 @@
+{
+  "name": "ascicat",
+  "version": "1.0.0",
+  "summary": "Activity-Stability-Cost Integrated Catalyst Discovery Framework",
+  "author": "N. Khossossi",
+  "license": "MIT",
+  "home_page": "https://github.com/nabkh/ASCICat",
+  "download_filename": "ascicat-1.0.0.tar.gz",
+  "download_time": "2026-01-12T20:48:12.286569",
+  "package_url": "https://pypi.org/project/ascicat/"
+}

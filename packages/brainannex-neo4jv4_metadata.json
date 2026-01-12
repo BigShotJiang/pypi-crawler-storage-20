@@ -1,0 +1,11 @@
+{
+  "name": "brainannex-neo4jv4",
+  "version": "5.0rc7",
+  "summary": "Full-Stack Data/Knowledge Management with Neo4j version 4",
+  "author": "Julian West BrainAnnex.org",
+  "license": null,
+  "home_page": null,
+  "download_filename": "brainannex_neo4jv4-5.0rc7.tar.gz",
+  "download_time": "2026-01-12T20:48:36.438549",
+  "package_url": "https://pypi.org/project/brainannex-neo4jv4/"
+}
