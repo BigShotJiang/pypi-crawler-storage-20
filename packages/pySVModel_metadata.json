@@ -1,0 +1,11 @@
+{
+  "name": "pySVModel",
+  "version": "0.5.6",
+  "summary": "An abstract SystemVerilog language model (incl. Verilog).",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pySVModel",
+  "download_filename": "pysvmodel-0.5.6.tar.gz",
+  "download_time": "2026-01-12T23:15:10.737070",
+  "package_url": "https://pypi.org/project/pySVModel/"
+}

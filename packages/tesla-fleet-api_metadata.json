@@ -1,0 +1,11 @@
+{
+  "name": "tesla-fleet-api",
+  "version": "1.4.1",
+  "summary": "Tesla Fleet API library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tesla_fleet_api-1.4.1.tar.gz",
+  "download_time": "2026-01-12T23:15:08.671772",
+  "package_url": "https://pypi.org/project/tesla-fleet-api/"
+}

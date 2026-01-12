@@ -1,0 +1,11 @@
+{
+  "name": "slide-space-monkey",
+  "version": "6.1.0",
+  "summary": "A simple, powerful way to deploy Tyler AI agents as Slack agents",
+  "author": "adamwdraper",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "slide_space_monkey-6.1.0.tar.gz",
+  "download_time": "2026-01-12T23:15:01.339845",
+  "package_url": "https://pypi.org/project/slide-space-monkey/"
+}

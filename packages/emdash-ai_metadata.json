@@ -1,11 +1,11 @@
 {
   "name": "emdash-ai",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "summary": "Graph-based coding intelligence system - The 'Senior Engineer' Context Engine",
   "author": "Em Dash Team",
   "license": null,
   "home_page": null,
-  "download_filename": "emdash_ai-0.1.23.tar.gz",
-  "download_time": "2026-01-12T22:45:20.591970",
+  "download_filename": "emdash_ai-0.1.24.tar.gz",
+  "download_time": "2026-01-12T23:15:14.399733",
   "package_url": "https://pypi.org/project/emdash-ai/"
 }

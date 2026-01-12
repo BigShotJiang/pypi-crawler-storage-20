@@ -1,11 +1,11 @@
 {
   "name": "propelauth-django-rest-framework",
-  "version": "4.3.1",
+  "version": "4.3.2",
   "summary": "A library for managing authentication in Django Rest Framework",
   "author": "PropelAuth",
   "license": "MIT",
   "home_page": "https://github.com/propelauth/propelauth-django-rest-framework",
-  "download_filename": "propelauth_django_rest_framework-4.3.1.tar.gz",
-  "download_time": "2026-01-12T20:48:46.166769",
+  "download_filename": "propelauth_django_rest_framework-4.3.2.tar.gz",
+  "download_time": "2026-01-12T23:15:18.564179",
   "package_url": "https://pypi.org/project/propelauth-django-rest-framework/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "python-autojob",
+  "version": "0.0.2",
+  "summary": "tools for automating job creation and management for DFT calculations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "python_autojob-0.0.2.tar.gz",
+  "download_time": "2026-01-12T23:15:11.815021",
+  "package_url": "https://pypi.org/project/python-autojob/"
+}

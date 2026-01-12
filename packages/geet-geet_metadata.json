@@ -1,11 +1,11 @@
 {
   "name": "geet-geet",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geet_geet-1.5.0.tar.gz",
-  "download_time": "2026-01-12T22:53:19.983827",
+  "download_filename": "geet_geet-1.5.1.tar.gz",
+  "download_time": "2026-01-12T23:15:04.448903",
   "package_url": "https://pypi.org/project/geet-geet/"
 }

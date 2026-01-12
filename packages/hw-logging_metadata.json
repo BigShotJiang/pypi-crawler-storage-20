@@ -1,0 +1,11 @@
+{
+  "name": "hw-logging",
+  "version": "0.1.0",
+  "summary": "Small package to manage log setup for HW Animation Tech projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hw_logging-0.1.0.tar.gz",
+  "download_time": "2026-01-12T23:14:40.602799",
+  "package_url": "https://pypi.org/project/hw-logging/"
+}
