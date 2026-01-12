@@ -1,0 +1,11 @@
+{
+  "name": "aws-durable-execution-sdk-python",
+  "version": "1.1.1",
+  "summary": "AWS Durable Execution SDK for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "aws_durable_execution_sdk_python-1.1.1.tar.gz",
+  "download_time": "2026-01-12T23:43:52.317101",
+  "package_url": "https://pypi.org/project/aws-durable-execution-sdk-python/"
+}

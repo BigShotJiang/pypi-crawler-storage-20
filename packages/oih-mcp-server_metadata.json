@@ -1,0 +1,11 @@
+{
+  "name": "oih-mcp-server",
+  "version": "0.1.0",
+  "summary": "MCP Server for OIH Analysis Tools",
+  "author": null,
+  "license": "Amazon Internal",
+  "home_page": null,
+  "download_filename": "oih_mcp_server-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-12T23:43:31.755702",
+  "package_url": "https://pypi.org/project/oih-mcp-server/"
+}

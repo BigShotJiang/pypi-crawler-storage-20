@@ -1,0 +1,11 @@
+{
+  "name": "pySystemRDLModel",
+  "version": "0.3.7",
+  "summary": "An abstract SystemRDL language model.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/edaa-org/pySystemRDLModel",
+  "download_filename": "pysystemrdlmodel-0.3.7.tar.gz",
+  "download_time": "2026-01-12T23:43:53.345522",
+  "package_url": "https://pypi.org/project/pySystemRDLModel/"
+}

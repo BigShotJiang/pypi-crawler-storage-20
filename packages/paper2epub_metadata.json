@@ -1,0 +1,11 @@
+{
+  "name": "paper2epub",
+  "version": "0.2.0",
+  "summary": "A powerful academic PDF to EPUB converter with AI-powered layout detection and LaTeX math support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "paper2epub-0.2.0.tar.gz",
+  "download_time": "2026-01-12T23:43:33.339506",
+  "package_url": "https://pypi.org/project/paper2epub/"
+}
