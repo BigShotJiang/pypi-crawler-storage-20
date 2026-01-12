@@ -1,0 +1,11 @@
+{
+  "name": "universal-lab-parser",
+  "version": "2.0.0",
+  "summary": "Parse ANY lab instrument data in seconds. Plate readers, qPCR, flow cytometry, and more.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "universal_lab_parser-2.0.0.tar.gz",
+  "download_time": "2026-01-12T21:52:24.281854",
+  "package_url": "https://pypi.org/project/universal-lab-parser/"
+}

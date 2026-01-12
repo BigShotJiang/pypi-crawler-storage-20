@@ -1,12 +1,45 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-12T21:42:59.599761
-- **Total Packages**: 83
-- **Total Size**: 25.89 MB
+- **Download Time**: 2026-01-12T21:52:56.857673
+- **Total Packages**: 81
+- **Total Size**: 10.76 MB
 
 ## Packages List
+- cybrid-api-bank-python
+- cybrid-api-organization-python
+- pymc-core
+- lunalib
+- cybrid-api-id-python
+- modpacker
+- treepeat
+- standardbots
+- gwel
+- catsu
+- agentk8
+- dkist-processing-cryonirsp
+- aiel-runtime
+- proxai
+- istari-digital-client
+- cortexapps-cli
+- dkist-processing-dlnirsp
+- odoo14-addon-l10n-br-nfse
+- tklr-dgraham
+- pydantify-common
+- universal-lab-parser
+- randstadenterprise-edao-libraries
 - mdeval
+- dkist-processing-visp
+- dkist-processing-vbi
+- highbond-sdk
+- hummingbot
+- params-proto
+- solace-ai-connector
+- agr
+- pipen
+- dbos
+- durabletask
+- durabletask.azuremanaged
 - sea-dsl
 - loveahmedclose
 - pyansistring
@@ -14,8 +47,6 @@
 - hypi
 - htmlgraph
 - pctx-client
-- durabletask.azuremanaged
-- durabletask
 - comfyui-envmanager
 - mlalib
 - metworkpy
@@ -31,7 +62,6 @@
 - agent-runtime-core
 - emdash-ai
 - M3Drop
-- agentk8
 - emdash-cli
 - emdash-core
 - dkist-processing-ops
@@ -57,35 +87,3 @@
 - oubli
 - keplar-api
 - stagehand-alpha
-- skene-growth
-- tdp-touchutilcollection
-- satori-playbook-validator
-- airbyte-source-github
-- brawny
-- private-assistant-picture-display-skill
-- weac
-- polygrid
-- trustgraph-vertexai
-- trustgraph-ocr
-- trustgraph-mcp
-- trustgraph-flow
-- trustgraph-embeddings-hf
-- trustgraph-cli
-- trustgraph-bedrock
-- trustgraph-base
-- trustgraph
-- coralnet-toolbox
-- cybrid-api-organization-python
-- omnata-plugin-runtime
-- sleipnirgroup-jormungandr
-- cybrid-api-bank-python
-- nado-protocol
-- django-flex
-- cybrid-api-id-python
-- tanml
-- LHCbDIRAC
-- cruiseplan
-- mleap
-- CPILake-Utils
-- coder-screensaver
-- knexus
