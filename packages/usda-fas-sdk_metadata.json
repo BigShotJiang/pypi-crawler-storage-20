@@ -1,0 +1,11 @@
+{
+  "name": "usda-fas-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for USDA FAS Open Data API",
+  "author": "Chhayly Sreng",
+  "license": "MIT",
+  "home_page": "https://github.com/chhayly/usda-fas-sdk",
+  "download_filename": "usda_fas_sdk-0.1.0.tar.gz",
+  "download_time": "2026-01-12T19:40:39.222452",
+  "package_url": "https://pypi.org/project/usda-fas-sdk/"
+}

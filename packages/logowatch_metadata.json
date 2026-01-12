@@ -1,0 +1,11 @@
+{
+  "name": "logowatch",
+  "version": "0.3.9",
+  "summary": "Autonomous log analysis tool with configurable pattern rules, incremental detection, and rich output",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "logowatch-0.3.9.tar.gz",
+  "download_time": "2026-01-12T19:40:14.018848",
+  "package_url": "https://pypi.org/project/logowatch/"
+}
