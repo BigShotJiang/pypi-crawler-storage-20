@@ -1,0 +1,11 @@
+{
+  "name": "biochatter",
+  "version": "0.14.1",
+  "summary": "Backend library for conversational AI in biomedicine",
+  "author": "Sebastian Lobentanzer",
+  "license": "Apache-2.0",
+  "home_page": "https://biochatter.org",
+  "download_filename": "biochatter-0.14.1.tar.gz",
+  "download_time": "2026-01-12T19:22:20.115176",
+  "package_url": "https://pypi.org/project/biochatter/"
+}

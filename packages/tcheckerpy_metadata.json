@@ -1,0 +1,11 @@
+{
+  "name": "tcheckerpy",
+  "version": "2026.1.12",
+  "summary": "A Python Interface for TChecker",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcheckerpy-2026.1.12.tar.gz",
+  "download_time": "2026-01-12T19:22:37.618073",
+  "package_url": "https://pypi.org/project/tcheckerpy/"
+}
