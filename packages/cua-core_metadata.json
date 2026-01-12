@@ -1,0 +1,11 @@
+{
+  "name": "cua-core",
+  "version": "0.1.13",
+  "summary": "Core functionality for Cua including telemetry and shared utilities",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cua_core-0.1.13.tar.gz",
+  "download_time": "2026-01-12T17:01:04.995645",
+  "package_url": "https://pypi.org/project/cua-core/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dsa-helpers",
+  "version": "3.0.9",
+  "summary": "Utility functions for working with the DSA girder client.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dsa_helpers-3.0.9.tar.gz",
+  "download_time": "2026-01-12T17:01:38.757507",
+  "package_url": "https://pypi.org/project/dsa-helpers/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "diffaaable",
+  "version": "1.2.1",
+  "summary": "JAX-differentiable AAA algorithm",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diffaaable-1.2.1.tar.gz",
+  "download_time": "2026-01-12T17:01:34.082186",
+  "package_url": "https://pypi.org/project/diffaaable/"
+}

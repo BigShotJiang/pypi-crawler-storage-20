@@ -1,0 +1,11 @@
+{
+  "name": "ezyml",
+  "version": "2.0",
+  "summary": "A lightweight tool to train, evaluate, and export ML models in one line.",
+  "author": "Raktim Kalita",
+  "license": null,
+  "home_page": "https://github.com/Rktim/ezyml",
+  "download_filename": "ezyml-2.0.tar.gz",
+  "download_time": "2026-01-12T17:01:08.623000",
+  "package_url": "https://pypi.org/project/ezyml/"
+}

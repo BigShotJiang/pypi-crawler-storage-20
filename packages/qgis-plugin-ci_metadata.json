@@ -1,0 +1,11 @@
+{
+  "name": "qgis-plugin-ci",
+  "version": "2.9.1",
+  "summary": "Let qgis-plugin-ci package and release your QGIS plugins for you. Have a tea or go hiking meanwhile. Contains scripts to perform automated testing and deployment for QGIS plugins. These scripts are written for and tested on GitHub Actions, GitLab CI, Travis-CI, and Transifex.",
+  "author": null,
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "qgis_plugin_ci-2.9.1.tar.gz",
+  "download_time": "2026-01-12T17:01:29.888272",
+  "package_url": "https://pypi.org/project/qgis-plugin-ci/"
+}

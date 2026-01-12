@@ -1,0 +1,11 @@
+{
+  "name": "aio-mc-rcon",
+  "version": "3.4.2",
+  "summary": "An async library for utilizing remote console on Minecraft Java Edition servers",
+  "author": "Milo Weinberg",
+  "license": "MIT",
+  "home_page": "https://github.com/Iapetus-11/aio-mc-rcon",
+  "download_filename": "aio_mc_rcon-3.4.2.tar.gz",
+  "download_time": "2026-01-12T17:01:13.792455",
+  "package_url": "https://pypi.org/project/aio-mc-rcon/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hermes",
+  "version": "0.9.1",
+  "summary": "Workflow to publish research software with rich metadata",
+  "author": "Michael Meinel",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hermes-0.9.1.tar.gz",
+  "download_time": "2026-01-12T17:01:35.625649",
+  "package_url": "https://pypi.org/project/hermes/"
+}

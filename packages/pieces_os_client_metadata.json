@@ -1,0 +1,11 @@
+{
+  "name": "pieces_os_client",
+  "version": "5.0.1",
+  "summary": "A powerful code engine package for writing applications on top of PiecesOS",
+  "author": "Pieces",
+  "license": "MIT",
+  "home_page": "https://pieces.app",
+  "download_filename": "pieces_os_client-5.0.1.tar.gz",
+  "download_time": "2026-01-12T17:01:28.346276",
+  "package_url": "https://pypi.org/project/pieces_os_client/"
+}

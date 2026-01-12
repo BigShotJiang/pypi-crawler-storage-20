@@ -1,0 +1,11 @@
+{
+  "name": "to-ascii",
+  "version": "6.1.1",
+  "summary": "Convert videos, images, gifs, and even live video to ASCII art!",
+  "author": "Milo Weinberg",
+  "license": "MIT",
+  "home_page": "https://github.com/Iapetus-11/To-ASCII",
+  "download_filename": "to_ascii-6.1.1.tar.gz",
+  "download_time": "2026-01-12T17:01:09.653355",
+  "package_url": "https://pypi.org/project/to-ascii/"
+}

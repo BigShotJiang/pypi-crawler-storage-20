@@ -1,0 +1,11 @@
+{
+  "name": "astar-utils",
+  "version": "0.5.0",
+  "summary": "Contains commonly-used utilities for AstarVienna's projects.",
+  "author": "Fabian Haberhauer",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/AstarVienna/astar-utils",
+  "download_filename": "astar_utils-0.5.0.tar.gz",
+  "download_time": "2026-01-12T17:01:01.392359",
+  "package_url": "https://pypi.org/project/astar-utils/"
+}

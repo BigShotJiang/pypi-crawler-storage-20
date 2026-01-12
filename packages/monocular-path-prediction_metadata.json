@@ -1,0 +1,11 @@
+{
+  "name": "monocular-path-prediction",
+  "version": "0.2.1",
+  "summary": "Monocular Path Predition for Exosuits",
+  "author": "Tsmorz",
+  "license": null,
+  "home_page": "https://github.com/TUM-Aries-Lab/monocular-path-prediction",
+  "download_filename": "monocular_path_prediction-0.2.1.tar.gz",
+  "download_time": "2026-01-12T17:01:36.138919",
+  "package_url": "https://pypi.org/project/monocular-path-prediction/"
+}

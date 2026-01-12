@@ -1,0 +1,11 @@
+{
+  "name": "sboxanalyzer",
+  "version": "0.0.2",
+  "summary": "A tool for analyzing S-boxes and Boolean functions against differential, linear, differential-linear, boomerang, and integral attacks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sboxanalyzer-0.0.2.tar.gz",
+  "download_time": "2026-01-12T17:01:33.568521",
+  "package_url": "https://pypi.org/project/sboxanalyzer/"
+}

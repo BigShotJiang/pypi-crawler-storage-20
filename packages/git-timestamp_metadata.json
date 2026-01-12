@@ -1,0 +1,11 @@
+{
+  "name": "git-timestamp",
+  "version": "1.2.2",
+  "summary": "GIT Timestamping client for Zeitgitter",
+  "author": "Marcel Waldvogel",
+  "license": "MIT",
+  "home_page": "https://zeitgitter.net",
+  "download_filename": "git_timestamp-1.2.2.tar.gz",
+  "download_time": "2026-01-12T17:01:11.194705",
+  "package_url": "https://pypi.org/project/git-timestamp/"
+}

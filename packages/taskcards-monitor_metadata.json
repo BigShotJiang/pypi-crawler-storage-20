@@ -1,0 +1,11 @@
+{
+  "name": "taskcards-monitor",
+  "version": "0.7.3",
+  "summary": "Monitor TaskCards boards for changes using GraphQL API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "taskcards_monitor-0.7.3.tar.gz",
+  "download_time": "2026-01-12T17:01:12.740614",
+  "package_url": "https://pypi.org/project/taskcards-monitor/"
+}
