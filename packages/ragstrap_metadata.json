@@ -1,11 +1,11 @@
 {
   "name": "ragstrap",
-  "version": "0.0.0",
-  "summary": "Retrieval-augmented generation bootstrapper",
+  "version": "0.1.1",
+  "summary": "Fetch, distill, and store authoritative references for external libraries",
   "author": "Eric Hamiter",
   "license": null,
   "home_page": null,
-  "download_filename": "ragstrap-0.0.0.tar.gz",
-  "download_time": "2026-01-12T19:22:51.974551",
+  "download_filename": "ragstrap-0.1.1.tar.gz",
+  "download_time": "2026-01-12T22:20:08.813646",
   "package_url": "https://pypi.org/project/ragstrap/"
 }

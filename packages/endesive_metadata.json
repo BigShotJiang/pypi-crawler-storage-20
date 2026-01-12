@@ -1,0 +1,11 @@
+{
+  "name": "endesive",
+  "version": "2.19.3",
+  "summary": "Library for digital signing and verification of digital signatures in mail, PDF and XML documents.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "endesive-2.19.3-py3-none-any.whl",
+  "download_time": "2026-01-12T22:19:47.185360",
+  "package_url": "https://pypi.org/project/endesive/"
+}

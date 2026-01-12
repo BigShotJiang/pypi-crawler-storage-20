@@ -1,0 +1,11 @@
+{
+  "name": "polvo",
+  "version": "0.2.6",
+  "summary": "A collection of computer vision tools that fits anywhere",
+  "author": "lgvaz",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/lgvaz/polvo/",
+  "download_filename": "polvo-0.2.6.tar.gz",
+  "download_time": "2026-01-12T22:19:48.906491",
+  "package_url": "https://pypi.org/project/polvo/"
+}

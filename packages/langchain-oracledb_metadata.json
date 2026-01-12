@@ -1,0 +1,11 @@
+{
+  "name": "langchain-oracledb",
+  "version": "1.2.0",
+  "summary": "An integration package connecting Oracle Database and LangChain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_oracledb-1.2.0.tar.gz",
+  "download_time": "2026-01-12T22:20:12.330076",
+  "package_url": "https://pypi.org/project/langchain-oracledb/"
+}

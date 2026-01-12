@@ -1,11 +1,11 @@
 {
   "name": "hetman-kit-env",
-  "version": "0.1.0",
-  "summary": null,
-  "author": "Hetman",
+  "version": "0.1.1",
+  "summary": "Hetman Kit Environment is a developer-centric environment variable manager. It leverages the Hetman Pipeline engine to treat environment variables not just as strings, but as strictly validated and transformed data structures.",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hetman_kit_env-0.1.0.tar.gz",
-  "download_time": "2026-01-12T21:18:14.118077",
+  "download_filename": "hetman_kit_env-0.1.1.tar.gz",
+  "download_time": "2026-01-12T22:20:05.102604",
   "package_url": "https://pypi.org/project/hetman-kit-env/"
 }

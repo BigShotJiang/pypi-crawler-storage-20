@@ -1,0 +1,11 @@
+{
+  "name": "fw-gear-fast-surfer",
+  "version": "1.0.7",
+  "summary": "Wrapper for Fast Surfer",
+  "author": "Flywheel",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/flywheel-io/flywheel-apps/templates/skeleton",
+  "download_filename": "fw_gear_fast_surfer-1.0.7-py3-none-any.whl",
+  "download_time": "2026-01-12T22:20:09.970785",
+  "package_url": "https://pypi.org/project/fw-gear-fast-surfer/"
+}

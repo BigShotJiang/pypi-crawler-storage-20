@@ -1,0 +1,11 @@
+{
+  "name": "dyf",
+  "version": "0.1.2",
+  "summary": "Fast outlier classification using PCA-based LSH",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dyf-0.1.2.tar.gz",
+  "download_time": "2026-01-12T22:20:04.492894",
+  "package_url": "https://pypi.org/project/dyf/"
+}

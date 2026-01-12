@@ -1,0 +1,11 @@
+{
+  "name": "datatorch",
+  "version": "0.4.9.0",
+  "summary": "A CLI and library for interacting with DataTorch.",
+  "author": "DataTorch",
+  "license": "MIT license",
+  "home_page": "https://github.com/datatorch/python",
+  "download_filename": "datatorch-0.4.9.0.tar.gz",
+  "download_time": "2026-01-12T22:19:37.776606",
+  "package_url": "https://pypi.org/project/datatorch/"
+}

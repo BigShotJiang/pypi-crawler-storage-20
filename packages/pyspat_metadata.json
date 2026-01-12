@@ -1,0 +1,11 @@
+{
+  "name": "pyspat",
+  "version": "0.1.8",
+  "summary": "Spatial point pattern analysis in Python.",
+  "author": "Jack Peyton",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyspat-0.1.8.tar.gz",
+  "download_time": "2026-01-12T22:19:43.712694",
+  "package_url": "https://pypi.org/project/pyspat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "superreload",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "summary": "True hot reload for Django and Python web frameworks - no server restart needed",
   "author": "Superreload Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "superreload-0.3.1.tar.gz",
-  "download_time": "2026-01-12T20:48:08.172708",
+  "download_filename": "superreload-1.0.0.tar.gz",
+  "download_time": "2026-01-12T22:20:01.914869",
   "package_url": "https://pypi.org/project/superreload/"
 }
