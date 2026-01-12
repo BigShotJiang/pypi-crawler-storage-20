@@ -1,0 +1,11 @@
+{
+  "name": "knexus",
+  "version": "0.0.1003",
+  "summary": null,
+  "author": "Simon Waters, Matthew Leon, Alex Baden",
+  "license": null,
+  "home_page": "https://github.com/kernelize-ai/nexus/",
+  "download_filename": "knexus-0.0.1003-cp312-cp312-manylinux1_x86_64.whl",
+  "download_time": "2026-01-12T21:42:59.098873",
+  "package_url": "https://pypi.org/project/knexus/"
+}

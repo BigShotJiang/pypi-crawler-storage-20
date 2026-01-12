@@ -1,0 +1,11 @@
+{
+  "name": "mdeval",
+  "version": "0.1.2",
+  "summary": "A Python implementation of the NIST md-eval.pl script for evaluating rich transcription accuracy.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mdeval-0.1.2-py3-none-any.whl",
+  "download_time": "2026-01-12T21:42:12.836435",
+  "package_url": "https://pypi.org/project/mdeval/"
+}

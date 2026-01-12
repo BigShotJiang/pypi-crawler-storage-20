@@ -1,0 +1,11 @@
+{
+  "name": "mleap",
+  "version": "0.23.4",
+  "summary": "MLeap Python API",
+  "author": "MLeap Developers",
+  "license": null,
+  "home_page": "https://github.com/combust/mleap/tree/master/python",
+  "download_filename": "mleap-0.23.4.tar.gz",
+  "download_time": "2026-01-12T21:42:57.469537",
+  "package_url": "https://pypi.org/project/mleap/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xaux",
+  "version": "0.3.11",
+  "summary": "Support tools for Xsuite packages",
+  "author": "Frederik F. Van der Veken",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "xaux-0.3.11.tar.gz",
+  "download_time": "2026-01-12T21:42:36.876211",
+  "package_url": "https://pypi.org/project/xaux/"
+}
