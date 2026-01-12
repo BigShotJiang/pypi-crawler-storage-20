@@ -1,0 +1,11 @@
+{
+  "name": "crystflux",
+  "version": "0.23.7",
+  "summary": "A type-safe immutable JSON toolkit with chainable method access.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "crystflux-0.23.7.tar.gz",
+  "download_time": "2026-01-12T18:28:21.654907",
+  "package_url": "https://pypi.org/project/crystflux/"
+}

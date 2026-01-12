@@ -1,0 +1,11 @@
+{
+  "name": "promptcanvas",
+  "version": "1.1.0",
+  "summary": "High-performance Python SDK for fetching prompts from PromptCanvas with CLI support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promptcanvas-1.1.0.tar.gz",
+  "download_time": "2026-01-12T18:28:40.950411",
+  "package_url": "https://pypi.org/project/promptcanvas/"
+}

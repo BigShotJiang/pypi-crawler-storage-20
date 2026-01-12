@@ -1,0 +1,11 @@
+{
+  "name": "complexity-diffusion",
+  "version": "0.1.2",
+  "summary": "Llama architecture DiT with INL Dynamics for image generation",
+  "author": "Pacific Prime",
+  "license": null,
+  "home_page": "https://github.com/Web3-League/complexity-diffusion",
+  "download_filename": "complexity_diffusion-0.1.2.tar.gz",
+  "download_time": "2026-01-12T18:28:41.998514",
+  "package_url": "https://pypi.org/project/complexity-diffusion/"
+}

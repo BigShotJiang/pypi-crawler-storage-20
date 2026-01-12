@@ -1,11 +1,11 @@
 {
   "name": "spectra-runner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Local test runner for Spectra DevMode - Run tests on your machine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "spectra_runner-1.0.1.tar.gz",
-  "download_time": "2026-01-12T17:37:57.199831",
+  "download_filename": "spectra_runner-1.0.2.tar.gz",
+  "download_time": "2026-01-12T18:29:03.983309",
   "package_url": "https://pypi.org/project/spectra-runner/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iqrfpy",
+  "version": "0.2.12",
+  "summary": "A python library for communication with IQRF Network",
+  "author": "Karel Hanák",
+  "license": "Apache-2.0",
+  "home_page": "https://gitlab.iqrf.org/open-source/iqrf-sdk/iqrfpy/iqrfpy",
+  "download_filename": "iqrfpy-0.2.12.tar.gz",
+  "download_time": "2026-01-12T18:28:37.832974",
+  "package_url": "https://pypi.org/project/iqrfpy/"
+}

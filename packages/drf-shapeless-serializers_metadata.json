@@ -1,0 +1,11 @@
+{
+  "name": "drf-shapeless-serializers",
+  "version": "1.0.7",
+  "summary": "Dynamic serializer configuration for Django REST Framework - Shape your API responses at runtime.drf-shapeless-serializers revolutionizes API development by giving you runtime serializer superpowers. Instead of creating multiple serializer classes , configure everything on the fly with one serializer to rule them all.Now you can shape your serializers like Lego cubes - rearranging fields, nesting relationships, and transforming outputs dynamically with unlimited flexibility.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "drf_shapeless_serializers-1.0.7.tar.gz",
+  "download_time": "2026-01-12T18:28:47.246342",
+  "package_url": "https://pypi.org/project/drf-shapeless-serializers/"
+}

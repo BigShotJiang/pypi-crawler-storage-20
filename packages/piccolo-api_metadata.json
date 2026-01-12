@@ -1,0 +1,11 @@
+{
+  "name": "piccolo-api",
+  "version": "1.8.0",
+  "summary": "Utilities for using the Piccolo ORM in ASGI apps, plus essential ASGI middleware such as authentication and rate limiting.",
+  "author": "Daniel Townsend",
+  "license": "MIT",
+  "home_page": "https://github.com/piccolo-orm/piccolo_api",
+  "download_filename": "piccolo_api-1.8.0.tar.gz",
+  "download_time": "2026-01-12T18:28:57.189441",
+  "package_url": "https://pypi.org/project/piccolo-api/"
+}

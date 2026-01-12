@@ -1,0 +1,11 @@
+{
+  "name": "django-database-task",
+  "version": "0.2.4",
+  "summary": "A database-backed task queue backend for Django 6.0's built-in task framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_database_task-0.2.4.tar.gz",
+  "download_time": "2026-01-12T18:28:27.266297",
+  "package_url": "https://pypi.org/project/django-database-task/"
+}

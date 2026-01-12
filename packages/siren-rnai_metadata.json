@@ -1,0 +1,11 @@
+{
+  "name": "siren-rnai",
+  "version": "0.1.7",
+  "summary": "SIREN: Suite for Intelligent RNAi design and Evaluation of Nucleotide sequences",
+  "author": "Pablo Vargas Mejia",
+  "license": "GPLv3",
+  "home_page": "https://github.com/pablovargasmejia/SIREN",
+  "download_filename": "siren_rnai-0.1.7.tar.gz",
+  "download_time": "2026-01-12T18:28:20.611428",
+  "package_url": "https://pypi.org/project/siren-rnai/"
+}

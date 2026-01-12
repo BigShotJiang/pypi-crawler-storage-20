@@ -1,0 +1,11 @@
+{
+  "name": "portal",
+  "version": "3.7.4",
+  "summary": "Fast and reliable distributed systems in Python",
+  "author": "Danijar Hafner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "portal-3.7.4.tar.gz",
+  "download_time": "2026-01-12T18:28:42.512536",
+  "package_url": "https://pypi.org/project/portal/"
+}

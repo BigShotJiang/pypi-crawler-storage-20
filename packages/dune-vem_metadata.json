@@ -1,0 +1,11 @@
+{
+  "name": "dune-vem",
+  "version": "2.11.0.5",
+  "summary": "Implementation of a number of virtual element spaces and bilinear forms",
+  "author": "Andreas Dedner",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/dune-fem/dune-vem",
+  "download_filename": "dune_vem-2.11.0.5.tar.gz",
+  "download_time": "2026-01-12T18:29:07.161063",
+  "package_url": "https://pypi.org/project/dune-vem/"
+}

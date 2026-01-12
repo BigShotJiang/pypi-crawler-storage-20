@@ -1,0 +1,11 @@
+{
+  "name": "dune-polygongrid",
+  "version": "2.11.0.5",
+  "summary": "module providing a grid consisting of 2d polygons",
+  "author": "Martin Nolte",
+  "license": null,
+  "home_page": "https://gitlab.dune-project.org/extensions/dune-polygongrid",
+  "download_filename": "dune_polygongrid-2.11.0.5.tar.gz",
+  "download_time": "2026-01-12T18:29:08.742878",
+  "package_url": "https://pypi.org/project/dune-polygongrid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "simple-dav-client",
+  "version": "0.1.0a2",
+  "summary": "A minimal, robust command-line client for interacting with a WebDAV server over plain HTTP with no authentication.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_dav_client-0.1.0a2.tar.gz",
+  "download_time": "2026-01-12T18:28:43.569415",
+  "package_url": "https://pypi.org/project/simple-dav-client/"
+}

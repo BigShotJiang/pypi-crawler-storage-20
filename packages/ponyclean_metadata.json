@@ -1,0 +1,11 @@
+{
+  "name": "ponyclean",
+  "version": "0.2.2",
+  "summary": "Simple and safe CLI tool for cleaning project junk files",
+  "author": "PonyPaPony",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ponyclean-0.2.2.tar.gz",
+  "download_time": "2026-01-12T18:28:34.124138",
+  "package_url": "https://pypi.org/project/ponyclean/"
+}

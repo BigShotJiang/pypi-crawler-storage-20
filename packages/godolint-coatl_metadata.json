@@ -1,0 +1,11 @@
+{
+  "name": "godolint-coatl",
+  "version": "1.2.1",
+  "summary": "Python wrapper around invoking godolint (https://github.com/zabio3/godolint)",
+  "author": "César Román",
+  "license": "MIT",
+  "home_page": "https://github.com/coatl-dev/godolint-coatl",
+  "download_filename": "godolint_coatl-1.2.1.tar.gz",
+  "download_time": "2026-01-12T18:28:40.437579",
+  "package_url": "https://pypi.org/project/godolint-coatl/"
+}

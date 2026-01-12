@@ -1,0 +1,11 @@
+{
+  "name": "rda-python-dbms",
+  "version": "2.0.2",
+  "summary": "RDA Python Package to manage PostreSQL databases",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rda_python_dbms-2.0.2.tar.gz",
+  "download_time": "2026-01-12T18:28:38.871265",
+  "package_url": "https://pypi.org/project/rda-python-dbms/"
+}

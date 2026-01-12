@@ -1,0 +1,11 @@
+{
+  "name": "numpes",
+  "version": "0.0.1a2",
+  "summary": "Numerical operations on polytopes, ellipsoids, and subspaces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "numpes-0.0.1a2.tar.gz",
+  "download_time": "2026-01-12T18:28:55.089427",
+  "package_url": "https://pypi.org/project/numpes/"
+}

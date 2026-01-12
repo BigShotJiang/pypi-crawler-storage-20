@@ -1,0 +1,11 @@
+{
+  "name": "geister",
+  "version": "0.1.6",
+  "summary": "AI Governance Agents for Realms - CLI for managing and running citizen agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "geister-0.1.6.tar.gz",
+  "download_time": "2026-01-12T18:28:30.439981",
+  "package_url": "https://pypi.org/project/geister/"
+}

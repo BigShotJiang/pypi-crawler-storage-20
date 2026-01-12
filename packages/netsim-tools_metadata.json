@@ -1,0 +1,11 @@
+{
+  "name": "netsim-tools",
+  "version": "26.1",
+  "summary": "CLI-based Virtual Networking Lab Abstraction Layer",
+  "author": "Ivan Pepelnjak",
+  "license": null,
+  "home_page": "https://github.com/ipspace/netlab",
+  "download_filename": "netsim_tools-26.1.tar.gz",
+  "download_time": "2026-01-12T18:29:03.450119",
+  "package_url": "https://pypi.org/project/netsim-tools/"
+}

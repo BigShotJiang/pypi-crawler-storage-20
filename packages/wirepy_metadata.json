@@ -1,0 +1,11 @@
+{
+  "name": "wirepy",
+  "version": "0.2.4",
+  "summary": "WirePy is built on top of FastAPI with the core goal of maintaining large Python backends developed by multiple team members using a standardized project structure. It comes with built-in database connectivity and integrated Alembic migrations. Core components such as models, controllers, services, and schemas are already organized and ready to use. Instead of spending time setting up the project structure, you can simply install it via `pip` and start coding right away.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wirepy-0.2.4.tar.gz",
+  "download_time": "2026-01-12T18:28:32.517771",
+  "package_url": "https://pypi.org/project/wirepy/"
+}
