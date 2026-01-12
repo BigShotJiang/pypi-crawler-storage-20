@@ -1,0 +1,11 @@
+{
+  "name": "arcane-googleads",
+  "version": "3.17.0",
+  "summary": "Un package pour interagir avec l'API Google Ads",
+  "author": "Arcane",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arcane_googleads-3.17.0.tar.gz",
+  "download_time": "2026-01-12T17:52:03.185929",
+  "package_url": "https://pypi.org/project/arcane-googleads/"
+}

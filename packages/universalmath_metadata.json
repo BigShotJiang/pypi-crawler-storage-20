@@ -1,0 +1,11 @@
+{
+  "name": "universalmath",
+  "version": "0.1.1",
+  "summary": "The ultimate unified mathematics module - 3600+ functions from math, numpy, scipy, sympy and more",
+  "author": "Tulika Thampi",
+  "license": null,
+  "home_page": "https://github.com/tech-dragoness/universalmath",
+  "download_filename": "universalmath-0.1.1.tar.gz",
+  "download_time": "2026-01-12T17:52:17.400775",
+  "package_url": "https://pypi.org/project/universalmath/"
+}

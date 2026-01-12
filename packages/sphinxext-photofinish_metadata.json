@@ -1,0 +1,11 @@
+{
+  "name": "sphinxext-photofinish",
+  "version": "0.1.12",
+  "summary": "Sphinx Extension that creates responsive images.",
+  "author": "WPILib",
+  "license": null,
+  "home_page": "https://github.com/wpilibsuite/sphinxext-photofinish",
+  "download_filename": "sphinxext_photofinish-0.1.12.tar.gz",
+  "download_time": "2026-01-12T17:52:23.376457",
+  "package_url": "https://pypi.org/project/sphinxext-photofinish/"
+}

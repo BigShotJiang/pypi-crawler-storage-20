@@ -1,0 +1,11 @@
+{
+  "name": "unquotemail",
+  "version": "1.0.11",
+  "summary": "Parse a given Html/Text email and return only the new text, without the quoted part.",
+  "author": "Cyril Nicodeme",
+  "license": "MIT",
+  "home_page": "https://github.com/getfernand/unquotemail",
+  "download_filename": "unquotemail-1.0.11.tar.gz",
+  "download_time": "2026-01-12T17:52:34.659623",
+  "package_url": "https://pypi.org/project/unquotemail/"
+}

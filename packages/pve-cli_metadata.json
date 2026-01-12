@@ -1,0 +1,11 @@
+{
+  "name": "pve-cli",
+  "version": "0.10.2",
+  "summary": "CLI Tool to manage VMs and more on proxmox clusters",
+  "author": "Dominik Rimpf",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pve_cli-0.10.2.tar.gz",
+  "download_time": "2026-01-12T17:52:44.325961",
+  "package_url": "https://pypi.org/project/pve-cli/"
+}

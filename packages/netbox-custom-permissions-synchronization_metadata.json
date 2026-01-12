@@ -1,0 +1,11 @@
+{
+  "name": "netbox-custom-permissions-synchronization",
+  "version": "0.1.2",
+  "summary": "Syncing custom permissions (tenant + permission custom fields) on objects with those from their corresponding parent object in NetBox",
+  "author": "Loris Henrion",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/LoH-lu/netbox_custom_permissions_synchronization/",
+  "download_filename": "netbox_custom_permissions_synchronization-0.1.2.tar.gz",
+  "download_time": "2026-01-12T17:52:09.255187",
+  "package_url": "https://pypi.org/project/netbox-custom-permissions-synchronization/"
+}

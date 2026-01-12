@@ -1,0 +1,11 @@
+{
+  "name": "meili-sdk",
+  "version": "0.9.0",
+  "summary": "Meili FMS SDK",
+  "author": "Meili Robots",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/meilirobots/dev/meili-sdk",
+  "download_filename": "meili_sdk-0.9.0.tar.gz",
+  "download_time": "2026-01-12T17:52:23.964195",
+  "package_url": "https://pypi.org/project/meili-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "django-s3sign",
+  "version": "0.6.0",
+  "summary": "Django view for AWS S3 signing",
+  "author": "Anders Pearson",
+  "license": "GPL3",
+  "home_page": "https://github.com/ccnmtl/django-s3sign",
+  "download_filename": "django_s3sign-0.6.0.tar.gz",
+  "download_time": "2026-01-12T17:52:19.766254",
+  "package_url": "https://pypi.org/project/django-s3sign/"
+}
