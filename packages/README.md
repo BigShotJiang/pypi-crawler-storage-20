@@ -1,16 +1,62 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-12T23:15:22.142582
-- **Total Packages**: 94
-- **Total Size**: 55.64 MB
+- **Download Time**: 2026-01-12T23:30:59.114575
+- **Total Packages**: 88
+- **Total Size**: 16.77 MB
 
 ## Packages List
+- complexity-framework
+- aiel-runtime
+- lunalib
+- edq-utils
+- bashers
+- c1s-slingshot-sdk-py
+- simforge-py
+- roampal
+- vikunja-mcp
+- rubin-gafaelfawr
+- WsTranslator
+- retracesoftware-stream
+- polars-runtime-compat
+- agentjoy-bridge
+- fastapi-bootstrap
+- nutrition-pad
+- c2cciutils
+- writer-sdk
+- git-wt
+- livekit-plugins-valenceai
+- liger-kernel-nightly
+- polars-runtime-32
+- polars
+- svs-core
+- crieur
+- stdcodetest
+- pdflinkcheck
+- rfmux
+- rnow
+- sagemaker-train
+- voxcity
+- iseq-flow
+- erk-bootstrap
+- emdash-ai
+- luvz
+- sae-lens
+- emdash-cli
+- emdash-core
+- biapack
+- qc-simulator
+- oldaplib
+- tsigna
+- icsneopy
+- kubernetes-asyncio
+- jupyter-export-html-style
+- fr-torrent-search-mcp
+- logcenter-sdk
 - jobseek-expat
 - machineconfig
 - nv2a-pretty
 - htmlgraph
-- vikunja-mcp
 - catocli
 - standardbots
 - passagemath-docbuild
@@ -23,7 +69,6 @@
 - passagemath-conf
 - hw-logging
 - atomscale
-- fastapi-bootstrap
 - stocktickers
 - meshagent-api
 - meshagent-markitdown
@@ -49,54 +94,3 @@
 - spotoptim
 - souleyez
 - wasatch
-- moose-lib
-- flwr-nightly
-- marshmallow-recipe
-- caspian-utils
-- randstadenterprise-edao-libraries
-- pyhabitat
-- Mopidy-Pibox
-- roar-cli
-- deepsweep-ai
-- primer-x402
-- slide-lye
-- slide-space-monkey
-- slide-narrator
-- slide-tyler
-- py3dic
-- RadEval
-- age-search
-- geet-geet
-- bm3dornl-gui
-- updates2mqtt
-- kaqing
-- markdown_convert
-- build-filesystem-trie
-- pyxantech
-- stdcodetest
-- tesla-fleet-api
-- data-designer
-- luvz
-- agentfield
-- pySVModel
-- bm3dornl
-- python-autojob
-- agent-cli
-- fastapi-factory-utilities
-- nsx-ai
-- mkdocs-material-ekgf
-- emdash-ai
-- agenterm
-- earthengine-api
-- jsinfer
-- pepmatch
-- c2cwsgiutils
-- propelauth-fastapi
-- lsst-rsp
-- propelauth-django-rest-framework
-- emdash-cli
-- lunalib
-- emdash-core
-- propelauth-flask
-- hh-applicant-tool
-- nmaipy

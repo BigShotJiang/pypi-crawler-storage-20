@@ -1,0 +1,11 @@
+{
+  "name": "kubernetes-asyncio",
+  "version": "34.3.3",
+  "summary": "Kubernetes asynchronous python client",
+  "author": "Kubernetes",
+  "license": "Apache License Version 2.0",
+  "home_page": "https://github.com/tomplus/kubernetes_asyncio",
+  "download_filename": "kubernetes_asyncio-34.3.3.tar.gz",
+  "download_time": "2026-01-12T23:30:35.324610",
+  "package_url": "https://pypi.org/project/kubernetes-asyncio/"
+}
