@@ -1,0 +1,11 @@
+{
+  "name": "datacommons-pandas",
+  "version": "0.0.4",
+  "summary": "A library to create pandas objects using the Data Commons Python API.",
+  "author": "datacommons.org",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/datacommonsorg/api-python",
+  "download_filename": "datacommons_pandas-0.0.4.tar.gz",
+  "download_time": "2026-01-12T22:44:46.047118",
+  "package_url": "https://pypi.org/project/datacommons-pandas/"
+}

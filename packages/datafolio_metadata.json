@@ -1,0 +1,11 @@
+{
+  "name": "datafolio",
+  "version": "1.0.0",
+  "summary": "Lightweight wrapping of dataframes, models, and metadata to track analyses.",
+  "author": "Casey Schneider-Mizell",
+  "license": null,
+  "home_page": null,
+  "download_filename": "datafolio-1.0.0.tar.gz",
+  "download_time": "2026-01-12T22:45:13.293206",
+  "package_url": "https://pypi.org/project/datafolio/"
+}

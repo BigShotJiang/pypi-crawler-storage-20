@@ -1,0 +1,11 @@
+{
+  "name": "torch-semimarkov",
+  "version": "0.1.0",
+  "summary": "Efficient Semi-Markov CRF Inference for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torch_semimarkov-0.1.0.tar.gz",
+  "download_time": "2026-01-12T22:45:03.120278",
+  "package_url": "https://pypi.org/project/torch-semimarkov/"
+}

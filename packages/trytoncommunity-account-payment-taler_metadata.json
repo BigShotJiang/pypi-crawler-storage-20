@@ -1,0 +1,11 @@
+{
+  "name": "trytoncommunity-account-payment-taler",
+  "version": "7.0.0",
+  "summary": "Tryton module for Taler payment",
+  "author": "Hartmut Goebel",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://ich.taler.net/c/integrations/tryton/47",
+  "download_filename": "trytoncommunity_account_payment_taler-7.0.0.tar.gz",
+  "download_time": "2026-01-12T22:45:09.656923",
+  "package_url": "https://pypi.org/project/trytoncommunity-account-payment-taler/"
+}

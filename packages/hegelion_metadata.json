@@ -1,0 +1,11 @@
+{
+  "name": "hegelion",
+  "version": "0.4.3",
+  "summary": "Prompt-driven dialectical reasoning and autocoding for LLMs (thesis -> antithesis -> synthesis)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hegelion-0.4.3.tar.gz",
+  "download_time": "2026-01-12T22:44:54.838784",
+  "package_url": "https://pypi.org/project/hegelion/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "datacommons",
+  "version": "1.4.4",
+  "summary": "A library to access Data Commons Python API.",
+  "author": "datacommons.org",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/datacommonsorg/api-python",
+  "download_filename": "datacommons-1.4.4.tar.gz",
+  "download_time": "2026-01-12T22:44:45.536139",
+  "package_url": "https://pypi.org/project/datacommons/"
+}

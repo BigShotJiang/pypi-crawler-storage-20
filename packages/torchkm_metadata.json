@@ -1,0 +1,11 @@
+{
+  "name": "torchkm",
+  "version": "4.0.0",
+  "summary": "torchkm, a PyTorch-based library that trains kernel SVMs and other large-margin classifiers ",
+  "author": "Yikai Zhang",
+  "license": "MIT",
+  "home_page": "https://github.com/YikaiZhang95/torchkm",
+  "download_filename": "torchkm-4.0.0.tar.gz",
+  "download_time": "2026-01-12T22:45:11.746881",
+  "package_url": "https://pypi.org/project/torchkm/"
+}
