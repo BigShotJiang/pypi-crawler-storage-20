@@ -1,0 +1,11 @@
+{
+  "name": "apache-airflow-providers-common-io",
+  "version": "1.7.0",
+  "summary": "Provider package apache-airflow-providers-common-io for Apache Airflow",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "apache_airflow_providers_common_io-1.7.0.tar.gz",
+  "download_time": "2026-01-13T23:40:27.372951",
+  "package_url": "https://pypi.org/project/apache-airflow-providers-common-io/"
+}
