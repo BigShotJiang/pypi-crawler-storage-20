@@ -1,0 +1,11 @@
+{
+  "name": "cjm-plugin-system",
+  "version": "0.0.28",
+  "summary": "Process-isolated plugin system with resource-aware scheduling, configuration validation, and lifecycle management for extensible Python applications.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-plugin-system",
+  "download_filename": "cjm_plugin_system-0.0.28.tar.gz",
+  "download_time": "2026-01-13T21:19:14.941587",
+  "package_url": "https://pypi.org/project/cjm-plugin-system/"
+}

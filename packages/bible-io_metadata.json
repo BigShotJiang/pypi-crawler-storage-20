@@ -1,0 +1,11 @@
+{
+  "name": "bible-io",
+  "version": "1.0.3",
+  "summary": "Bible parsing package",
+  "author": "Moty Fainer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bible_io-1.0.3.tar.gz",
+  "download_time": "2026-01-13T21:19:33.961501",
+  "package_url": "https://pypi.org/project/bible-io/"
+}

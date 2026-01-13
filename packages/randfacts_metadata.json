@@ -1,0 +1,11 @@
+{
+  "name": "randfacts",
+  "version": "0.23.0",
+  "summary": "Package to generate random facts",
+  "author": "TabulateJarl8",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "randfacts-0.23.0.tar.gz",
+  "download_time": "2026-01-13T21:19:25.874657",
+  "package_url": "https://pypi.org/project/randfacts/"
+}

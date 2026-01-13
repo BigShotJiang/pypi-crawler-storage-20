@@ -1,0 +1,11 @@
+{
+  "name": "bpm-cli",
+  "version": "0.1.4",
+  "summary": "Bioinformatics Project Manager (BPM) — core CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpm_cli-0.1.4.tar.gz",
+  "download_time": "2026-01-13T21:19:13.385682",
+  "package_url": "https://pypi.org/project/bpm-cli/"
+}

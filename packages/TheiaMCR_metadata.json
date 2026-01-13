@@ -1,0 +1,11 @@
+{
+  "name": "TheiaMCR",
+  "version": "3.4.1",
+  "summary": "Theia MCR motor control functions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "theiamcr-3.4.1.tar.gz",
+  "download_time": "2026-01-13T21:19:24.323576",
+  "package_url": "https://pypi.org/project/TheiaMCR/"
+}
