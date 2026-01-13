@@ -1,0 +1,11 @@
+{
+  "name": "nanocore",
+  "version": "0.1.0",
+  "summary": "A Nano Async Core",
+  "author": "Asterio Gonzalez",
+  "license": "MIT license",
+  "home_page": "https://github.com/asteriogonzalez/nanocore",
+  "download_filename": "nanocore-0.1.0-py2.py3-none-any.whl",
+  "download_time": "2026-01-13T17:05:34.360869",
+  "package_url": "https://pypi.org/project/nanocore/"
+}

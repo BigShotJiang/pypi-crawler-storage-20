@@ -1,0 +1,11 @@
+{
+  "name": "matrix-synapse",
+  "version": "1.145.0",
+  "summary": "Homeserver for the Matrix decentralised comms protocol",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matrix_synapse-1.145.0.tar.gz",
+  "download_time": "2026-01-13T17:06:03.200078",
+  "package_url": "https://pypi.org/project/matrix-synapse/"
+}

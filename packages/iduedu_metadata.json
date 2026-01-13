@@ -1,0 +1,11 @@
+{
+  "name": "iduedu",
+  "version": "1.2.0",
+  "summary": "IduEdu is a Python package for the creation and manipulation of complex city networks from OpenStreetMap.",
+  "author": "DDonnyy",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "iduedu-1.2.0.tar.gz",
+  "download_time": "2026-01-13T17:06:14.134628",
+  "package_url": "https://pypi.org/project/iduedu/"
+}

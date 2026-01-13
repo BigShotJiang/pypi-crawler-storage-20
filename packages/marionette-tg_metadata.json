@@ -1,0 +1,11 @@
+{
+  "name": "marionette-tg",
+  "version": "0.2.0",
+  "summary": "Marionette - The polymorphic, programmable proxy.",
+  "author": "Kevin P. Dyer",
+  "license": "MIT",
+  "home_page": "https://github.com/marionette-tg/marionette",
+  "download_filename": "marionette_tg-0.2.0.tar.gz",
+  "download_time": "2026-01-13T17:05:56.339249",
+  "package_url": "https://pypi.org/project/marionette-tg/"
+}

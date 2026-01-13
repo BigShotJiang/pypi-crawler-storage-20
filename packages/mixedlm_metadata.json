@@ -1,0 +1,11 @@
+{
+  "name": "mixedlm",
+  "version": "0.1.1",
+  "summary": "Mixed-effects models in Python with Rust backend",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mixedlm-0.1.1.tar.gz",
+  "download_time": "2026-01-13T17:05:57.947096",
+  "package_url": "https://pypi.org/project/mixedlm/"
+}
