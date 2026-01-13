@@ -1,0 +1,11 @@
+{
+  "name": "imio.pm.locales",
+  "version": "4.2.33",
+  "summary": "Locales for PloneMeeting",
+  "author": "Gauthier Bastien",
+  "license": "GPL",
+  "home_page": "https://github.com/IMIO/imio.pm.locales",
+  "download_filename": "imio_pm_locales-4.2.33.tar.gz",
+  "download_time": "2026-01-13T08:56:00.607149",
+  "package_url": "https://pypi.org/project/imio.pm.locales/"
+}

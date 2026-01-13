@@ -1,0 +1,11 @@
+{
+  "name": "django-devbar",
+  "version": "0.6.0",
+  "summary": "Lightweight performance devbar for Django",
+  "author": "amureki",
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_devbar-0.6.0.tar.gz",
+  "download_time": "2026-01-13T08:56:20.504482",
+  "package_url": "https://pypi.org/project/django-devbar/"
+}

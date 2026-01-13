@@ -1,0 +1,11 @@
+{
+  "name": "infomankit",
+  "version": "0.3.21",
+  "summary": "Infoman base library - A comprehensive toolkit for modern Python applications with dual ORM support",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "infomankit-0.3.21.tar.gz",
+  "download_time": "2026-01-13T08:56:40.314965",
+  "package_url": "https://pypi.org/project/infomankit/"
+}

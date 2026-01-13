@@ -1,0 +1,11 @@
+{
+  "name": "pythoc",
+  "version": "0.3.1",
+  "summary": "PythoC: A Python DSL compiler that maps statically-typed Python subset to LLVM IR, providing C-equivalent capabilities with Python syntax",
+  "author": "PythoC Compiler Team",
+  "license": "MIT",
+  "home_page": "https://github.com/1flei/PythoC",
+  "download_filename": "pythoc-0.3.1.tar.gz",
+  "download_time": "2026-01-13T08:56:41.871296",
+  "package_url": "https://pypi.org/project/pythoc/"
+}

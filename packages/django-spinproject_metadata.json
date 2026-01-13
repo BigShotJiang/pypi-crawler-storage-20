@@ -1,0 +1,11 @@
+{
+  "name": "django-spinproject",
+  "version": "3.0.0",
+  "summary": "Opinionated version of `startproject` with some popular third-party packages. Starter pack includes: whitenoise, django-environ, logging, GitHub Scripts to Rule Them All, basic Dockerfile and Makefile.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_spinproject-3.0.0.tar.gz",
+  "download_time": "2026-01-13T08:56:38.222756",
+  "package_url": "https://pypi.org/project/django-spinproject/"
+}

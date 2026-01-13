@@ -1,0 +1,11 @@
+{
+  "name": "careamics-napari",
+  "version": "0.0.18",
+  "summary": "napari plugin providing an interface to CAREamics.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "careamics_napari-0.0.18.tar.gz",
+  "download_time": "2026-01-13T08:56:18.944511",
+  "package_url": "https://pypi.org/project/careamics-napari/"
+}

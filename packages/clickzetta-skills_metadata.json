@@ -1,0 +1,11 @@
+{
+  "name": "clickzetta-skills",
+  "version": "1.0.0",
+  "summary": "Clickzetta 系统技能工具集 - 包含性能分析、诊断等专业工具",
+  "author": "Clickzetta Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "clickzetta_skills-1.0.0.tar.gz",
+  "download_time": "2026-01-13T08:56:34.558553",
+  "package_url": "https://pypi.org/project/clickzetta-skills/"
+}
