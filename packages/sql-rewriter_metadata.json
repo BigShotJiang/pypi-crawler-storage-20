@@ -1,0 +1,11 @@
+{
+  "name": "sql-rewriter",
+  "version": "0.1.1",
+  "summary": "基于 ANTLR4 的通用 SQL 重写工具，特别适用于 LLM 生成的 SQL 权限管理",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sql_rewriter-0.1.1.tar.gz",
+  "download_time": "2026-01-13T07:00:12.309740",
+  "package_url": "https://pypi.org/project/sql-rewriter/"
+}

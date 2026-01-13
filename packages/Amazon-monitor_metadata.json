@@ -1,11 +1,11 @@
 {
   "name": "Amazon-monitor",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "Amazon 商品监控系统 - 支持多站点商品状态检测和钉钉通知",
   "author": "Leo",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "amazon_monitor-0.1.2.tar.gz",
-  "download_time": "2026-01-13T06:29:49.548746",
+  "download_filename": "amazon_monitor-0.1.3.tar.gz",
+  "download_time": "2026-01-13T06:59:43.098994",
   "package_url": "https://pypi.org/project/Amazon-monitor/"
 }

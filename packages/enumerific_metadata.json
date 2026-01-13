@@ -1,0 +1,11 @@
+{
+  "name": "enumerific",
+  "version": "1.0.9",
+  "summary": "Simplifies working with Python enums.",
+  "author": "Daniel Sissman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "enumerific-1.0.9.tar.gz",
+  "download_time": "2026-01-13T07:00:02.659034",
+  "package_url": "https://pypi.org/project/enumerific/"
+}

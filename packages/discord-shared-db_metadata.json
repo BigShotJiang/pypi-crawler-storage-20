@@ -1,0 +1,11 @@
+{
+  "name": "discord-shared-db",
+  "version": "1.1.0",
+  "summary": "Shared SQLAlchemy models and DB utilities for Discord bots",
+  "author": null,
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "discord_shared_db-1.1.0.tar.gz",
+  "download_time": "2026-01-13T06:59:54.283079",
+  "package_url": "https://pypi.org/project/discord-shared-db/"
+}

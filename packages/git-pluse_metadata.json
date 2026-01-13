@@ -1,0 +1,11 @@
+{
+  "name": "git-pluse",
+  "version": "1.0.0",
+  "summary": "GitHub commit analyzer - analyze and visualize commit frequency",
+  "author": "erquren",
+  "license": "MIT",
+  "home_page": "https://github.com/erquren/git-pluse",
+  "download_filename": "git_pluse-1.0.0.tar.gz",
+  "download_time": "2026-01-13T07:00:11.281407",
+  "package_url": "https://pypi.org/project/git-pluse/"
+}

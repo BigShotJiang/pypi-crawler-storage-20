@@ -1,0 +1,11 @@
+{
+  "name": "piecewise-rational",
+  "version": "1.0.0",
+  "summary": "Shape-preserving piecewise rational cubic interpolation (Delbourgo-Gregory algorithm)",
+  "author": "vollib team",
+  "license": "MIT",
+  "home_page": "https://github.com/vollib/piecewise-rational",
+  "download_filename": "piecewise_rational-1.0.0.tar.gz",
+  "download_time": "2026-01-13T07:00:13.877405",
+  "package_url": "https://pypi.org/project/piecewise-rational/"
+}

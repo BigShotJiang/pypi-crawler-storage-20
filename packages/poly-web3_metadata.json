@@ -1,11 +1,11 @@
 {
   "name": "poly-web3",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "Polymarket Proxy wallet redeem SDK - Execute redeem operations on Polymarket using proxy wallets",
   "author": "PinBar",
   "license": null,
   "home_page": "https://github.com/tosmart01/poly-web3",
-  "download_filename": "poly_web3-0.0.2.tar.gz",
-  "download_time": "2026-01-13T04:53:47.699225",
+  "download_filename": "poly_web3-0.0.3.tar.gz",
+  "download_time": "2026-01-13T06:59:50.137038",
   "package_url": "https://pypi.org/project/poly-web3/"
 }

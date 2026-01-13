@@ -1,0 +1,11 @@
+{
+  "name": "th2-data-services-utils",
+  "version": "0.4.1",
+  "summary": "th2_data_services_utils",
+  "author": "TH2-devs",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/th2-net/th2-data-services-utils",
+  "download_filename": "th2_data_services_utils-0.4.1.tar.gz",
+  "download_time": "2026-01-13T07:00:01.613482",
+  "package_url": "https://pypi.org/project/th2-data-services-utils/"
+}
