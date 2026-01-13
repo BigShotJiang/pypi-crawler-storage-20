@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-ibm-transpiler",
+  "version": "0.15.2",
+  "summary": "A library to use Qiskit IBM Transpiler (https://quantum.cloud.ibm.com/docs/api/qiskit-ibm-transpiler) and the AI transpiler passes (https://quantum.cloud.ibm.com/docs/guides/ai-transpiler-passes)",
+  "author": "Qiskit Development Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "qiskit_ibm_transpiler-0.15.2.tar.gz",
+  "download_time": "2026-01-13T10:49:52.815374",
+  "package_url": "https://pypi.org/project/qiskit-ibm-transpiler/"
+}

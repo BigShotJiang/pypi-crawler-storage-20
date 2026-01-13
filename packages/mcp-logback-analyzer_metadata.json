@@ -1,0 +1,11 @@
+{
+  "name": "mcp-logback-analyzer",
+  "version": "1.0.0",
+  "summary": "日志检索和分析工具 - 基于 FastMCP 的 MCP 工具，支持分析 logback 配置的日志文件",
+  "author": "mengbi",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/mcp-log-analyzer",
+  "download_filename": "mcp_logback_analyzer-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-13T10:50:04.168014",
+  "package_url": "https://pypi.org/project/mcp-logback-analyzer/"
+}

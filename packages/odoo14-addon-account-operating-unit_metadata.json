@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-account-operating-unit",
+  "version": "14.0.1.2.0",
+  "summary": "Introduces Operating Unit (OU) in invoices and Accounting Entries with clearing account",
+  "author": "ForgeFlow, Serpent Consulting Services Pvt. Ltd.,WilldooIT Pty Ltd,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/operating-unit",
+  "download_filename": "odoo14_addon_account_operating_unit-14.0.1.2.0-py3-none-any.whl",
+  "download_time": "2026-01-13T10:50:34.949431",
+  "package_url": "https://pypi.org/project/odoo14-addon-account-operating-unit/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-partner-stage-only-confirmed",
+  "version": "17.0.1.1.0",
+  "summary": "Adds filters on form views to display only confirmed partners",
+  "author": "Odoo Community Association (OCA), Camptocamp",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/partner-contact",
+  "download_filename": "odoo_addon_partner_stage_only_confirmed-17.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-13T10:50:24.758188",
+  "package_url": "https://pypi.org/project/odoo-addon-partner-stage-only-confirmed/"
+}

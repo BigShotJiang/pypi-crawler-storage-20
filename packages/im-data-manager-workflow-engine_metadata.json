@@ -1,0 +1,11 @@
+{
+  "name": "im-data-manager-workflow-engine",
+  "version": "2.0.1",
+  "summary": "The Data Manager workflow engine, schema and decoder.",
+  "author": "Alan Christie",
+  "license": null,
+  "home_page": null,
+  "download_filename": "im_data_manager_workflow_engine-2.0.1-py3-none-any.whl",
+  "download_time": "2026-01-13T10:50:24.181286",
+  "package_url": "https://pypi.org/project/im-data-manager-workflow-engine/"
+}

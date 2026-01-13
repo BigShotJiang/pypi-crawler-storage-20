@@ -1,11 +1,11 @@
 {
   "name": "nginx-lens",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "CLI-инструмент для анализа, визуализации и диагностики конфигураций Nginx",
   "author": "Daniil Astrouski",
   "license": null,
   "home_page": null,
-  "download_filename": "nginx_lens-0.3.1.tar.gz",
-  "download_time": "2026-01-12T17:38:07.582402",
+  "download_filename": "nginx_lens-0.3.2.tar.gz",
+  "download_time": "2026-01-13T10:50:01.931569",
   "package_url": "https://pypi.org/project/nginx-lens/"
 }

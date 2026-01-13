@@ -1,0 +1,11 @@
+{
+  "name": "django-azure-auth",
+  "version": "2.5.0",
+  "summary": "A simple Django app for user authentication with Azure Active Directory/Entra ID.",
+  "author": "Weird Sheep Labs",
+  "license": "MIT",
+  "home_page": "https://github.com/Weird-Sheep-Labs/django-azure-auth",
+  "download_filename": "django_azure_auth-2.5.0.tar.gz",
+  "download_time": "2026-01-13T10:50:34.367998",
+  "package_url": "https://pypi.org/project/django-azure-auth/"
+}

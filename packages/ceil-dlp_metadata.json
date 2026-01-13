@@ -1,0 +1,11 @@
+{
+  "name": "ceil-dlp",
+  "version": "1.1.4",
+  "summary": "Data Loss Prevention plugin for LiteLLM: Block and mask PII in LLM requests with zero infrastructure overhead.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ceil_dlp-1.1.4.tar.gz",
+  "download_time": "2026-01-13T10:50:03.014539",
+  "package_url": "https://pypi.org/project/ceil-dlp/"
+}
