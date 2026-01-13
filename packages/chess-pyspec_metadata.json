@@ -1,11 +1,11 @@
 {
   "name": "chess-pyspec",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Python SPEC modules and tools",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chess_pyspec-1.0.0.tar.gz",
-  "download_time": "2026-01-12T21:18:31.781843",
+  "download_filename": "chess_pyspec-1.0.1-cp310-cp310-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-13T14:39:29.708062",
   "package_url": "https://pypi.org/project/chess-pyspec/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "promptledger",
+  "version": "0.2.0",
+  "summary": "Local-first prompt version control for developers",
+  "author": "PromptLedger Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "promptledger-0.2.0.tar.gz",
+  "download_time": "2026-01-13T14:39:31.438098",
+  "package_url": "https://pypi.org/project/promptledger/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-algo",
+  "version": "2.1.0",
+  "summary": "Official Binance Algo SDK - A lightweight library that provides a convenient interface to Binance's Algo REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_algo-2.1.0.tar.gz",
+  "download_time": "2026-01-13T14:40:08.116663",
+  "package_url": "https://pypi.org/project/binance-sdk-algo/"
+}

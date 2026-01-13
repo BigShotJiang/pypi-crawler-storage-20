@@ -1,0 +1,11 @@
+{
+  "name": "ok_palette_lab",
+  "version": "0.1.0a4",
+  "summary": "Smooth color maps using Oklch color space.",
+  "author": "Kenta Kabashima",
+  "license": null,
+  "home_page": "https://gitlab.com/MusicScience37Projects/utility-libraries/OKPaletteLab",
+  "download_filename": "ok_palette_lab-0.1.0a4.tar.gz",
+  "download_time": "2026-01-13T14:40:11.251287",
+  "package_url": "https://pypi.org/project/ok_palette_lab/"
+}

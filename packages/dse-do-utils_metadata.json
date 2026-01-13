@@ -1,0 +1,11 @@
+{
+  "name": "dse-do-utils",
+  "version": "0.5.7.2",
+  "summary": "Decision Optimization utilities for IBM Cloud Pak for Data projects",
+  "author": "Victor Terpstra",
+  "license": null,
+  "home_page": "https://github.com/IBM/dse-decision-optimization-utilities",
+  "download_filename": "dse_do_utils-0.5.7.2.tar.gz",
+  "download_time": "2026-01-13T14:40:10.220090",
+  "package_url": "https://pypi.org/project/dse-do-utils/"
+}

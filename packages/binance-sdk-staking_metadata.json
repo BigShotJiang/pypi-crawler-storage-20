@@ -1,0 +1,11 @@
+{
+  "name": "binance-sdk-staking",
+  "version": "5.1.0",
+  "summary": "Official Binance Staking SDK - A lightweight library that provides a convenient interface to Binance's Staking REST API",
+  "author": "Binance",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "binance_sdk_staking-5.1.0.tar.gz",
+  "download_time": "2026-01-13T14:39:39.342097",
+  "package_url": "https://pypi.org/project/binance-sdk-staking/"
+}
