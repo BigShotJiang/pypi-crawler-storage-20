@@ -1,11 +1,11 @@
 {
   "name": "ttd-databricks",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Client implementation and helper functions for integrating with the TTD Databricks services.",
   "author": "The Trade Desk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ttd_databricks-1.0.3.tar.gz",
-  "download_time": "2026-01-13T22:19:39.142611",
+  "download_filename": "ttd_databricks-1.0.4.tar.gz",
+  "download_time": "2026-01-13T22:47:02.364175",
   "package_url": "https://pypi.org/project/ttd-databricks/"
 }

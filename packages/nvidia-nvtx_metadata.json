@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-nvtx",
+  "version": "13.1.115",
+  "summary": "NVIDIA Tools Extension",
+  "author": "Nvidia CUDA Installer Team",
+  "license": null,
+  "home_page": "https://developer.nvidia.com/cuda-zone",
+  "download_filename": "nvidia_nvtx-13.1.115-py3-none-manylinux1_x86_64.manylinux_2_5_x86_64.whl",
+  "download_time": "2026-01-13T22:46:49.749508",
+  "package_url": "https://pypi.org/project/nvidia-nvtx/"
+}

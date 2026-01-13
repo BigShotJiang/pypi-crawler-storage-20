@@ -1,11 +1,11 @@
 {
   "name": "nutrition-pad",
-  "version": "1.15.2",
+  "version": "1.16.0",
   "summary": "Nutrition tracking with tablet-friendly interface",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nutrition_pad-1.15.2.tar.gz",
-  "download_time": "2026-01-12T23:30:19.921671",
+  "download_filename": "nutrition_pad-1.16.0.tar.gz",
+  "download_time": "2026-01-13T22:47:01.256684",
   "package_url": "https://pypi.org/project/nutrition-pad/"
 }

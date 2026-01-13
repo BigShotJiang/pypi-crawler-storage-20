@@ -1,11 +1,11 @@
 {
   "name": "kooka-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "summary": "local inference web server for MLX / mlx-lm.",
   "author": "Anchen",
   "license": null,
   "home_page": null,
-  "download_filename": "kooka_server-0.0.3.tar.gz",
-  "download_time": "2026-01-13T08:27:25.801425",
+  "download_filename": "kooka_server-0.0.4.tar.gz",
+  "download_time": "2026-01-13T22:46:59.134678",
   "package_url": "https://pypi.org/project/kooka-server/"
 }

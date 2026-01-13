@@ -1,0 +1,11 @@
+{
+  "name": "SigMF",
+  "version": "1.5.1",
+  "summary": "Easily interact with Signal Metadata Format (SigMF) recordings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sigmf-1.5.1.tar.gz",
+  "download_time": "2026-01-13T22:47:10.223558",
+  "package_url": "https://pypi.org/project/SigMF/"
+}

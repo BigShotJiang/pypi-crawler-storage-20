@@ -1,11 +1,11 @@
 {
   "name": "nancy",
-  "version": "12.0.1",
+  "version": "13.0.0",
   "summary": "Simple templating system",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nancy-12.0.1.tar.gz",
-  "download_time": "2026-01-13T15:58:52.237925",
+  "download_filename": "nancy-13.0.0.tar.gz",
+  "download_time": "2026-01-13T22:46:31.340523",
   "package_url": "https://pypi.org/project/nancy/"
 }

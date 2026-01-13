@@ -1,0 +1,11 @@
+{
+  "name": "model-metrics",
+  "version": "0.0.5a1",
+  "summary": "A Python library for model evaluation, performance tracking, and metric visualizations, supporting classification and regression models with robust analytics and reporting.",
+  "author": "Leonid Shpaner",
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_metrics-0.0.5a1.tar.gz",
+  "download_time": "2026-01-13T22:46:46.052154",
+  "package_url": "https://pypi.org/project/model-metrics/"
+}

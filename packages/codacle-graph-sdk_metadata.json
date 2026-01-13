@@ -1,0 +1,11 @@
+{
+  "name": "codacle-graph-sdk",
+  "version": "1.2.0",
+  "summary": "Python SDK for the Codacle Graph Service API",
+  "author": "Octavio",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "codacle_graph_sdk-1.2.0.tar.gz",
+  "download_time": "2026-01-13T22:46:36.104370",
+  "package_url": "https://pypi.org/project/codacle-graph-sdk/"
+}
