@@ -1,0 +1,11 @@
+{
+  "name": "nforge",
+  "version": "1.1.2",
+  "summary": "The ML API Framework - FastAPI for Machine Learning",
+  "author": "NeuralForge Team",
+  "license": "MIT",
+  "home_page": "https://github.com/rockstream/neuralforge",
+  "download_filename": "nforge-1.1.2.tar.gz",
+  "download_time": "2026-01-13T05:23:37.889970",
+  "package_url": "https://pypi.org/project/nforge/"
+}

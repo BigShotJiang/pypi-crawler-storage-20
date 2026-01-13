@@ -1,0 +1,11 @@
+{
+  "name": "dataskipper-boat",
+  "version": "1.1.0",
+  "summary": "IEC61850/Modbus monitoring, control and data collection system",
+  "author": null,
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "dataskipper_boat-1.1.0.tar.gz",
+  "download_time": "2026-01-13T05:23:30.035930",
+  "package_url": "https://pypi.org/project/dataskipper-boat/"
+}

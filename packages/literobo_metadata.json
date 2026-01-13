@@ -1,0 +1,11 @@
+{
+  "name": "literobo",
+  "version": "0.1.7",
+  "summary": "Lightweight URDF kinematics (forward kinematics + Jacobian) with Rust speed and Python bindings.",
+  "author": "literobo contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "literobo-0.1.7.tar.gz",
+  "download_time": "2026-01-13T05:23:53.080525",
+  "package_url": "https://pypi.org/project/literobo/"
+}
