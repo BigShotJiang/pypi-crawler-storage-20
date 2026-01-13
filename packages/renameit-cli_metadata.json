@@ -1,0 +1,11 @@
+{
+  "name": "renameit-cli",
+  "version": "0.1.2",
+  "summary": "Simple CLI tool to rename files and folders",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "renameit_cli-0.1.2.tar.gz",
+  "download_time": "2026-01-13T18:36:16.749305",
+  "package_url": "https://pypi.org/project/renameit-cli/"
+}

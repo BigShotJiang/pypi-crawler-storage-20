@@ -1,11 +1,11 @@
 {
   "name": "csc-cia-stne",
-  "version": "0.1.63",
+  "version": "0.1.65",
   "summary": "Biblioteca do time CSC-CIA utilizada no desenvolvimento de RPAs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "csc_cia_stne-0.1.63.tar.gz",
-  "download_time": "2026-01-13T14:05:30.350222",
+  "download_filename": "csc_cia_stne-0.1.65.tar.gz",
+  "download_time": "2026-01-13T18:36:12.503820",
   "package_url": "https://pypi.org/project/csc-cia-stne/"
 }

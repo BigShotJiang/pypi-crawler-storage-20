@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-grasshopper-core",
+  "version": "1.43.3",
+  "summary": "Core Honeybee plugin for Grasshopper.",
+  "author": "Ladybug Tools",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ladybug-tools/honeybee-grasshopper-core",
+  "download_filename": "honeybee_grasshopper_core-1.43.3.tar.gz",
+  "download_time": "2026-01-13T18:36:02.055855",
+  "package_url": "https://pypi.org/project/honeybee-grasshopper-core/"
+}

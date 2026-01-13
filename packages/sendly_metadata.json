@@ -1,0 +1,11 @@
+{
+  "name": "sendly",
+  "version": "3.12.2",
+  "summary": "Official Sendly Python SDK for SMS messaging",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sendly-3.12.2.tar.gz",
+  "download_time": "2026-01-13T18:36:09.325955",
+  "package_url": "https://pypi.org/project/sendly/"
+}

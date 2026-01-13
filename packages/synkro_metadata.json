@@ -1,11 +1,11 @@
 {
   "name": "synkro",
-  "version": "0.4.45",
+  "version": "0.4.47",
   "summary": "Generate training datasets from any document",
   "author": "Murtaza Meerza",
   "license": null,
   "home_page": null,
-  "download_filename": "synkro-0.4.45.tar.gz",
-  "download_time": "2026-01-13T17:58:27.480148",
+  "download_filename": "synkro-0.4.47.tar.gz",
+  "download_time": "2026-01-13T18:36:06.746800",
   "package_url": "https://pypi.org/project/synkro/"
 }

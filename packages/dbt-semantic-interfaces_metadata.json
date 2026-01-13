@@ -1,11 +1,11 @@
 {
   "name": "dbt-semantic-interfaces",
-  "version": "0.10.1",
+  "version": "0.10.2",
   "summary": "The shared semantic layer definitions that dbt-core and MetricFlow use",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dbt_semantic_interfaces-0.10.1.tar.gz",
-  "download_time": "2026-01-12T20:48:02.129104",
+  "download_filename": "dbt_semantic_interfaces-0.10.2.tar.gz",
+  "download_time": "2026-01-13T18:35:55.305487",
   "package_url": "https://pypi.org/project/dbt-semantic-interfaces/"
 }

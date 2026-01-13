@@ -1,0 +1,11 @@
+{
+  "name": "gits-statuses",
+  "version": "0.1.50",
+  "summary": "A CLI tool to scan directories for Git repositories and display their status information.",
+  "author": "Nicola Delfino, Jairus Martinez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gits_statuses-0.1.50.tar.gz",
+  "download_time": "2026-01-13T18:35:59.948794",
+  "package_url": "https://pypi.org/project/gits-statuses/"
+}

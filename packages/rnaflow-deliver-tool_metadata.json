@@ -1,0 +1,11 @@
+{
+  "name": "rnaflow-deliver-tool",
+  "version": "0.1.1",
+  "summary": "RNAFlow QC Summary tool with Rust acceleration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rnaflow_deliver_tool-0.1.1.tar.gz",
+  "download_time": "2026-01-13T18:35:54.266578",
+  "package_url": "https://pypi.org/project/rnaflow-deliver-tool/"
+}

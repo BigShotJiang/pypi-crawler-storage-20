@@ -1,0 +1,11 @@
+{
+  "name": "vertac-bridge",
+  "version": "0.2.1",
+  "summary": "VerTac Sensor Data Bridge - Lightweight connector for sensor data ingestion",
+  "author": "VerTac Team",
+  "license": "MIT",
+  "home_page": "https://github.com/your-org/vertac-bridge",
+  "download_filename": "vertac_bridge-0.2.1.tar.gz",
+  "download_time": "2026-01-13T18:36:08.795794",
+  "package_url": "https://pypi.org/project/vertac-bridge/"
+}

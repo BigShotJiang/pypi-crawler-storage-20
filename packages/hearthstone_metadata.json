@@ -1,0 +1,11 @@
+{
+  "name": "hearthstone",
+  "version": "9.19.6",
+  "summary": "CardDefs.xml parser and Hearthstone enums for Python",
+  "author": "Jerome Leclanche",
+  "license": null,
+  "home_page": "https://github.com/HearthSim/python-hearthstone/",
+  "download_filename": "hearthstone-9.19.6.tar.gz",
+  "download_time": "2026-01-13T18:35:33.918783",
+  "package_url": "https://pypi.org/project/hearthstone/"
+}
