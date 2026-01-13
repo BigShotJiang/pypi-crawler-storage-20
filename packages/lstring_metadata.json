@@ -1,11 +1,11 @@
 {
   "name": "lstring",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "True Python lazy string (rope-like) implemented as a C++ extension",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "lstring-0.0.4.tar.gz",
-  "download_time": "2026-01-13T15:35:11.860329",
+  "download_filename": "lstring-0.0.5.tar.gz",
+  "download_time": "2026-01-13T16:38:26.805049",
   "package_url": "https://pypi.org/project/lstring/"
 }

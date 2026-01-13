@@ -1,0 +1,11 @@
+{
+  "name": "datapizza-ai-clients-google",
+  "version": "0.0.6",
+  "summary": "Google (Gemini) client for the datapizza-ai framework",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datapizza_ai_clients_google-0.0.6.tar.gz",
+  "download_time": "2026-01-13T16:38:52.020294",
+  "package_url": "https://pypi.org/project/datapizza-ai-clients-google/"
+}

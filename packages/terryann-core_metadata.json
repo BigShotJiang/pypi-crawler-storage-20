@@ -1,0 +1,11 @@
+{
+  "name": "terryann-core",
+  "version": "0.1.0",
+  "summary": "Gateway + MCP Server for TerryAnn V2 - Medicare Journey Intelligence Platform",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "terryann_core-0.1.0.tar.gz",
+  "download_time": "2026-01-13T16:38:40.198186",
+  "package_url": "https://pypi.org/project/terryann-core/"
+}
