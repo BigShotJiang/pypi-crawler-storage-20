@@ -1,0 +1,11 @@
+{
+  "name": "wipac-keycloak-rest-services",
+  "version": "1.5.1",
+  "summary": "Services surrounding KeyCloak, that use the REST API to read/update state",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wipac_keycloak_rest_services-1.5.1.tar.gz",
+  "download_time": "2026-01-13T17:58:01.439453",
+  "package_url": "https://pypi.org/project/wipac-keycloak-rest-services/"
+}

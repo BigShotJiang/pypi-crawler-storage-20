@@ -1,0 +1,11 @@
+{
+  "name": "devolutions-crypto",
+  "version": "2026.1.13",
+  "summary": "An abstraction layer for the cryptography used by Devolutions",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "devolutions_crypto-2026.1.13-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-13T17:57:59.245305",
+  "package_url": "https://pypi.org/project/devolutions-crypto/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "isage-middleware",
+  "version": "0.2.4.2",
+  "summary": "SAGE Middleware - Streaming-Augmented Generative Execution",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "isage_middleware-0.2.4.2-cp311-none-any.whl",
+  "download_time": "2026-01-13T17:58:46.109587",
+  "package_url": "https://pypi.org/project/isage-middleware/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "phonexia-voice-activity-detection-client",
+  "version": "2.1.0",
+  "summary": "Client for communicating with Phonexia voice activity detection microservice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonexia_voice_activity_detection_client-2.1.0-py3-none-any.whl",
+  "download_time": "2026-01-13T17:58:13.522383",
+  "package_url": "https://pypi.org/project/phonexia-voice-activity-detection-client/"
+}

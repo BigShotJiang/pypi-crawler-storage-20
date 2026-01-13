@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-safconsole20250521",
+  "version": "1.0.0",
+  "summary": "Alibaba Cloud safconsole (20250521) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_safconsole20250521-1.0.0.tar.gz",
+  "download_time": "2026-01-13T17:58:20.746759",
+  "package_url": "https://pypi.org/project/alibabacloud-safconsole20250521/"
+}
