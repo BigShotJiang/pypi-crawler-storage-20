@@ -1,0 +1,11 @@
+{
+  "name": "damage",
+  "version": "0.5.6",
+  "summary": "File manifest generator and python package for statistical data files and documentation'",
+  "author": "Paul Lesack",
+  "license": "MIT",
+  "home_page": "https://ubc-library-rc.github.io/damage",
+  "download_filename": "damage-0.5.6.tar.gz",
+  "download_time": "2026-01-13T23:51:53.003429",
+  "package_url": "https://pypi.org/project/damage/"
+}

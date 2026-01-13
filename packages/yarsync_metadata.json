@@ -1,11 +1,11 @@
 {
   "name": "yarsync",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Yet Another Rsync is a file synchronization and backup tool",
-  "author": "Yaroslav Nikitenko",
-  "license": "GPLv3",
-  "home_page": "https://github.com/ynikitenko/yarsync",
-  "download_filename": "yarsync-0.3.2.tar.gz",
-  "download_time": "2026-01-13T19:28:44.630053",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "yarsync-0.3.3.tar.gz",
+  "download_time": "2026-01-13T23:51:35.399669",
   "package_url": "https://pypi.org/project/yarsync/"
 }
