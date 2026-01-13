@@ -1,0 +1,11 @@
+{
+  "name": "nvidia-cuda-sanitizer-api",
+  "version": "13.1.118",
+  "summary": "CUDA Sanitizer",
+  "author": "Nvidia CUDA Installer Team",
+  "license": null,
+  "home_page": "https://developer.nvidia.com/cuda-zone",
+  "download_filename": "nvidia_cuda_sanitizer_api-13.1.118-py3-none-win_amd64.whl",
+  "download_time": "2026-01-13T23:18:53.261694",
+  "package_url": "https://pypi.org/project/nvidia-cuda-sanitizer-api/"
+}
