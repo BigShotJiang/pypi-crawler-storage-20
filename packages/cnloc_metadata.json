@@ -1,0 +1,11 @@
+{
+  "name": "cnloc",
+  "version": "0.1.7",
+  "summary": "Address Parser for Chinese Administrative Divisions",
+  "author": "Maobin Xu",
+  "license": "MIT",
+  "home_page": "https://github.com/maobin-xu/cnloc",
+  "download_filename": "cnloc-0.1.7.tar.gz",
+  "download_time": "2026-01-13T15:58:28.924587",
+  "package_url": "https://pypi.org/project/cnloc/"
+}

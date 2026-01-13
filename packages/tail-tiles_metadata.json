@@ -1,0 +1,11 @@
+{
+  "name": "tail-tiles",
+  "version": "0.1.1",
+  "summary": "Multi-tile tail viewer (M2T) for terminal in <200 lines of code",
+  "author": "Fabio Ferreira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tail_tiles-0.1.1.tar.gz",
+  "download_time": "2026-01-13T15:58:44.428375",
+  "package_url": "https://pypi.org/project/tail-tiles/"
+}

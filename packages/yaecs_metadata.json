@@ -1,0 +1,11 @@
+{
+  "name": "yaecs",
+  "version": "7.1.2",
+  "summary": "A Config System designed for experimental purposes",
+  "author": "Reactive Reality AG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yaecs-7.1.2.tar.gz",
+  "download_time": "2026-01-13T15:58:26.338666",
+  "package_url": "https://pypi.org/project/yaecs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "smart-automation-utils",
+  "version": "0.2.0",
+  "summary": "A python package for automation developers working with Selenium and Appium",
+  "author": "dhiraj",
+  "license": null,
+  "home_page": "https://www.dhirajdas.dev",
+  "download_filename": "smart_automation_utils-0.2.0.tar.gz",
+  "download_time": "2026-01-13T15:59:05.709266",
+  "package_url": "https://pypi.org/project/smart-automation-utils/"
+}

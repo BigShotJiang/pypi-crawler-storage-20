@@ -1,0 +1,11 @@
+{
+  "name": "trajax",
+  "version": "0.1.12",
+  "summary": "A library providing performant NumPy & JAX implementations of an MPPI planner, along with implementation of related algorithms/tools.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trajax-0.1.12.tar.gz",
+  "download_time": "2026-01-13T15:58:32.569128",
+  "package_url": "https://pypi.org/project/trajax/"
+}

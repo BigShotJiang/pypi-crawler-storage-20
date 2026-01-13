@@ -1,0 +1,11 @@
+{
+  "name": "url2rss",
+  "version": "0.0.1",
+  "summary": "A lightweight tool for generating RSS feeds from public URLs, including news pages, search results, and JavaScript-rendered websites.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "url2rss-0.0.1.tar.gz",
+  "download_time": "2026-01-13T15:58:33.594389",
+  "package_url": "https://pypi.org/project/url2rss/"
+}

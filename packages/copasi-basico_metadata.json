@@ -1,0 +1,11 @@
+{
+  "name": "copasi-basico",
+  "version": "0.86",
+  "summary": "Simplified COPASI interface for python",
+  "author": "COPASI Team",
+  "license": "Artistic-2.0",
+  "home_page": "https://github.com/copasi/basico",
+  "download_filename": "copasi_basico-0.86.tar.gz",
+  "download_time": "2026-01-13T15:58:46.508048",
+  "package_url": "https://pypi.org/project/copasi-basico/"
+}

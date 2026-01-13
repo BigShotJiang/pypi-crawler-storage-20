@@ -1,0 +1,11 @@
+{
+  "name": "markdeck",
+  "version": "0.6.0",
+  "summary": "A lightweight markdown presentation tool",
+  "author": "Orangewise",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markdeck-0.6.0.tar.gz",
+  "download_time": "2026-01-13T15:58:31.536327",
+  "package_url": "https://pypi.org/project/markdeck/"
+}

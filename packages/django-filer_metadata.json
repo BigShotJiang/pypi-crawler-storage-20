@@ -1,0 +1,11 @@
+{
+  "name": "django-filer",
+  "version": "3.4.2",
+  "summary": "A file management application for django that makes handling of files and images a breeze.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_filer-3.4.2.tar.gz",
+  "download_time": "2026-01-13T15:58:45.471136",
+  "package_url": "https://pypi.org/project/django-filer/"
+}

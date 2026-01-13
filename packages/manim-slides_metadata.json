@@ -1,0 +1,11 @@
+{
+  "name": "manim-slides",
+  "version": "5.5.3",
+  "summary": "Tool for live presentations using manim",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "manim_slides-5.5.3.tar.gz",
+  "download_time": "2026-01-13T15:58:49.129814",
+  "package_url": "https://pypi.org/project/manim-slides/"
+}

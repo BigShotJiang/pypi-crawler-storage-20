@@ -1,0 +1,11 @@
+{
+  "name": "email_me_anything",
+  "version": "0.2.1",
+  "summary": "Send emails programmatically with a simple Python interface",
+  "author": "Shreyas Ashtamkar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "email_me_anything-0.2.1.tar.gz",
+  "download_time": "2026-01-13T15:59:06.737606",
+  "package_url": "https://pypi.org/project/email_me_anything/"
+}

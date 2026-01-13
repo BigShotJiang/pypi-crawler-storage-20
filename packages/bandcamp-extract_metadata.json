@@ -1,0 +1,11 @@
+{
+  "name": "bandcamp-extract",
+  "version": "0.1.5",
+  "summary": "Extract BandCamp .zip album folders to their appropriate place",
+  "author": "Jonathan Montgomery",
+  "license": "MIT",
+  "home_page": "https://github.com/JonMontgo/bandcamp_extract",
+  "download_filename": "bandcamp_extract-0.1.5.tar.gz",
+  "download_time": "2026-01-13T15:59:05.198001",
+  "package_url": "https://pypi.org/project/bandcamp-extract/"
+}

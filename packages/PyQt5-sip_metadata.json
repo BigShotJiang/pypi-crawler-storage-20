@@ -1,0 +1,11 @@
+{
+  "name": "PyQt5-sip",
+  "version": "12.18.0",
+  "summary": "The sip module support for PyQt5",
+  "author": "Phil Thompson",
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/Python-SIP/sip",
+  "download_filename": "pyqt5_sip-12.18.0.tar.gz",
+  "download_time": "2026-01-13T15:58:36.680590",
+  "package_url": "https://pypi.org/project/PyQt5-sip/"
+}
