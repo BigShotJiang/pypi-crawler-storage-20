@@ -1,0 +1,11 @@
+{
+  "name": "async-gelf-client",
+  "version": "0.2.1",
+  "summary": "Async UDP client for sending GELF messages to Graylog",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "async_gelf_client-0.2.1.tar.gz",
+  "download_time": "2026-01-13T13:29:33.307808",
+  "package_url": "https://pypi.org/project/async-gelf-client/"
+}

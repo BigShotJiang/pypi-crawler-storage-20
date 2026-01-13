@@ -1,11 +1,11 @@
 {
   "name": "souleyez",
-  "version": "2.43.15",
+  "version": "2.43.18",
   "summary": "AI-Powered Penetration Testing Platform with 40+ integrated tools",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "souleyez-2.43.15.tar.gz",
-  "download_time": "2026-01-13T08:28:05.489616",
+  "download_filename": "souleyez-2.43.18.tar.gz",
+  "download_time": "2026-01-13T13:29:34.347306",
   "package_url": "https://pypi.org/project/souleyez/"
 }

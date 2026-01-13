@@ -1,0 +1,11 @@
+{
+  "name": "geo-inference",
+  "version": "3.2.4",
+  "summary": "Extract features from geospatial imagery using deep learning models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "geo_inference-3.2.4.tar.gz",
+  "download_time": "2026-01-13T13:30:10.846210",
+  "package_url": "https://pypi.org/project/geo-inference/"
+}

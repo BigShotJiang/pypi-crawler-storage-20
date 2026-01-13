@@ -1,11 +1,11 @@
 {
   "name": "transformers",
-  "version": "4.57.4",
+  "version": "4.57.5",
   "summary": "State-of-the-art Machine Learning for JAX, PyTorch and TensorFlow",
   "author": "The Hugging Face team (past and future) with the help of all our contributors (https://github.com/huggingface/transformers/graphs/contributors)",
   "license": "Apache 2.0 License",
   "home_page": "https://github.com/huggingface/transformers",
-  "download_filename": "transformers-4.57.4.tar.gz",
-  "download_time": "2026-01-13T11:18:24.351846",
+  "download_filename": "transformers-4.57.5.tar.gz",
+  "download_time": "2026-01-13T13:29:27.054089",
   "package_url": "https://pypi.org/project/transformers/"
 }

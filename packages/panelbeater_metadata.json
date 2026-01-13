@@ -1,11 +1,11 @@
 {
   "name": "panelbeater",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "summary": "A CLI for finding mispriced options.",
   "author": "Will Sackfield",
   "license": "MIT",
   "home_page": "https://github.com/8W9aG/panelbeater",
-  "download_filename": "panelbeater-0.2.13.tar.gz",
-  "download_time": "2026-01-13T11:42:37.679005",
+  "download_filename": "panelbeater-0.2.14.tar.gz",
+  "download_time": "2026-01-13T13:29:52.715703",
   "package_url": "https://pypi.org/project/panelbeater/"
 }

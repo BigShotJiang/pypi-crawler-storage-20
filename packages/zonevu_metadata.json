@@ -1,0 +1,11 @@
+{
+  "name": "zonevu",
+  "version": "2.0.20",
+  "summary": "ZoneVu Web API Python SDK Package",
+  "author": "Ubiterra",
+  "license": "Proprietary",
+  "home_page": null,
+  "download_filename": "zonevu-2.0.20-py3-none-any.whl",
+  "download_time": "2026-01-13T13:29:55.304026",
+  "package_url": "https://pypi.org/project/zonevu/"
+}

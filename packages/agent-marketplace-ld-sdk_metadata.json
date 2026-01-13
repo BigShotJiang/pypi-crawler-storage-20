@@ -1,0 +1,11 @@
+{
+  "name": "agent-marketplace-ld-sdk",
+  "version": "0.1.1",
+  "summary": "Official Python SDK for Agent Marketplace. Discover, install, and publish AI agents programmatically.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_marketplace_ld_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-13T13:29:47.025245",
+  "package_url": "https://pypi.org/project/agent-marketplace-ld-sdk/"
+}
