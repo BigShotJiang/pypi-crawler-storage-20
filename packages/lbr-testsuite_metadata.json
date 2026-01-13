@@ -1,0 +1,11 @@
+{
+  "name": "lbr-testsuite",
+  "version": "6.1.1",
+  "summary": "Lbr_testsuite package contains various modules used by CESNET projects",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "lbr_testsuite-6.1.1-py3-none-any.whl",
+  "download_time": "2026-01-13T21:55:29.153800",
+  "package_url": "https://pypi.org/project/lbr-testsuite/"
+}

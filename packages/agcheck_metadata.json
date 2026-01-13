@@ -1,0 +1,11 @@
+{
+  "name": "agcheck",
+  "version": "1.0.0",
+  "summary": "CLI tool to check Antigravity AI usage quotas",
+  "author": "Matias Fernandez",
+  "license": null,
+  "home_page": null,
+  "download_filename": "agcheck-1.0.0.tar.gz",
+  "download_time": "2026-01-13T21:54:55.330837",
+  "package_url": "https://pypi.org/project/agcheck/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hummuspy",
+  "version": "0.1.9",
+  "summary": "HuMMuS is a novel method for the inference of regulatory mechanisms from multi-omics data with any type and number of omics, through a heterogeneous multilayer network framework.",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "hummuspy-0.1.9.tar.gz",
+  "download_time": "2026-01-13T21:54:45.001153",
+  "package_url": "https://pypi.org/project/hummuspy/"
+}

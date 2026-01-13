@@ -1,11 +1,11 @@
 {
   "name": "pyopenapi-gen",
-  "version": "2.7.4",
+  "version": "2.7.5",
   "summary": "Modern, async-first Python client generator for OpenAPI specifications with advanced cycle detection and unified type resolution",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyopenapi_gen-2.7.4.tar.gz",
-  "download_time": "2026-01-13T20:22:17.815325",
+  "download_filename": "pyopenapi_gen-2.7.5.tar.gz",
+  "download_time": "2026-01-13T21:55:20.174904",
   "package_url": "https://pypi.org/project/pyopenapi-gen/"
 }

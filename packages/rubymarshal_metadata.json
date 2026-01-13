@@ -1,0 +1,11 @@
+{
+  "name": "rubymarshal",
+  "version": "1.2.10",
+  "summary": "Read and write Ruby-marshalled data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rubymarshal-1.2.10.tar.gz",
+  "download_time": "2026-01-13T21:55:14.446639",
+  "package_url": "https://pypi.org/project/rubymarshal/"
+}

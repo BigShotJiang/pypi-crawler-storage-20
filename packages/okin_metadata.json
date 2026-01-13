@@ -1,0 +1,11 @@
+{
+  "name": "okin",
+  "version": "0.1.2",
+  "summary": "Organic-Kinetics (okin) is a collection of chemistry-related Python tools",
+  "author": "Finn Bork",
+  "license": null,
+  "home_page": null,
+  "download_filename": "okin-0.1.2.tar.gz",
+  "download_time": "2026-01-13T21:55:07.976144",
+  "package_url": "https://pypi.org/project/okin/"
+}

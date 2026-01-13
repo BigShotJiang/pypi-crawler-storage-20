@@ -1,0 +1,11 @@
+{
+  "name": "pypersistent",
+  "version": "1.0.0",
+  "summary": "High-performance persistent (immutable) hash map for Python",
+  "author": "Clemens Marschner",
+  "license": "MIT",
+  "home_page": "https://github.com/cmarschner/pypersistent",
+  "download_filename": "pypersistent-1.0.0.tar.gz",
+  "download_time": "2026-01-13T21:55:25.964468",
+  "package_url": "https://pypi.org/project/pypersistent/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dspip",
+  "version": "1.0.0",
+  "summary": "Digital Signing of Physical Items Protocol SDK - Official Python implementation",
+  "author": "Andy Boell",
+  "license": null,
+  "home_page": "https://github.com/midwestcyber/dspip-python",
+  "download_filename": "dspip-1.0.0.tar.gz",
+  "download_time": "2026-01-13T21:55:30.964194",
+  "package_url": "https://pypi.org/project/dspip/"
+}

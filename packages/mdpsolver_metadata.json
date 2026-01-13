@@ -1,0 +1,11 @@
+{
+  "name": "mdpsolver",
+  "version": "0.9.10",
+  "summary": "A fast solver for Markov Decision Processes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdpsolver-0.9.10.tar.gz",
+  "download_time": "2026-01-13T21:55:01.000705",
+  "package_url": "https://pypi.org/project/mdpsolver/"
+}

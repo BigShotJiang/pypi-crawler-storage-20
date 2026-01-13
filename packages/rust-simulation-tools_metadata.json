@@ -1,0 +1,11 @@
+{
+  "name": "rust-simulation-tools",
+  "version": "0.2.0",
+  "summary": "Fast algorithms for MD trajectories",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rust_simulation_tools-0.2.0.tar.gz",
+  "download_time": "2026-01-13T21:55:00.271476",
+  "package_url": "https://pypi.org/project/rust-simulation-tools/"
+}

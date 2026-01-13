@@ -1,0 +1,11 @@
+{
+  "name": "pygwan",
+  "version": "0.3.0",
+  "summary": "WhatsApp Cloud API is complicated, Twilio is expensive, PyGwan is the opposite of both. Free & Intuitive! ~ Tarmica Chiwara.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygwan-0.3.0.tar.gz",
+  "download_time": "2026-01-13T21:54:58.660079",
+  "package_url": "https://pypi.org/project/pygwan/"
+}
