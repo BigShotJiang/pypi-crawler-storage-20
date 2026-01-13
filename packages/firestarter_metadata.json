@@ -1,0 +1,11 @@
+{
+  "name": "firestarter",
+  "version": "2.0.7",
+  "summary": "EPROM programmer software for the Relatively Universal ROM Programmer",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "firestarter-2.0.7.tar.gz",
+  "download_time": "2026-01-13T12:41:20.949610",
+  "package_url": "https://pypi.org/project/firestarter/"
+}

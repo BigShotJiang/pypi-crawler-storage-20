@@ -1,0 +1,11 @@
+{
+  "name": "kestra",
+  "version": "1.2.0",
+  "summary": "Kestra is an infinitely scalable orchestration and scheduling platform, creating, running, scheduling, and monitoring millions of complex pipelines.",
+  "author": "Kestra",
+  "license": "Apache License 2.0",
+  "home_page": "https://kestra.io",
+  "download_filename": "kestra-1.2.0.tar.gz",
+  "download_time": "2026-01-13T12:40:51.998781",
+  "package_url": "https://pypi.org/project/kestra/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "lousy-ai",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Library for AI Agents to make controlled code changes",
   "author": "shashstormer",
   "license": null,
   "home_page": null,
-  "download_filename": "lousy_ai-0.0.1.tar.gz",
-  "download_time": "2026-01-13T05:23:29.008417",
+  "download_filename": "lousy_ai-0.0.3.tar.gz",
+  "download_time": "2026-01-13T12:41:18.205408",
   "package_url": "https://pypi.org/project/lousy-ai/"
 }

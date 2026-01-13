@@ -1,0 +1,11 @@
+{
+  "name": "eTraGo",
+  "version": "0.10.1",
+  "summary": "electric transmission grid optimization",
+  "author": "Flensburg University of Applied Sciences, Europa-Universität Flensburg, Center for Sustainable Energy Systems Flensburg, DLR - Institute of Networked Energy Systems",
+  "license": "GNU Affero General Public License Version 3 (AGPL-3.0)",
+  "home_page": "https://github.com/openego/eTraGo",
+  "download_filename": "etrago-0.10.1.tar.gz",
+  "download_time": "2026-01-13T12:40:58.995905",
+  "package_url": "https://pypi.org/project/eTraGo/"
+}

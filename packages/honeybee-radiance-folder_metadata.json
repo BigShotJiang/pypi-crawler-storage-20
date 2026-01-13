@@ -1,0 +1,11 @@
+{
+  "name": "honeybee-radiance-folder",
+  "version": "2.11.17",
+  "summary": "Honeybee Radiance folder is a Python library to read, write and validate Radiance folder structure.",
+  "author": "Ladybug Tools",
+  "license": null,
+  "home_page": "https://github.com/ladybug-tools/honeybee-radiance-folder",
+  "download_filename": "honeybee_radiance_folder-2.11.17.tar.gz",
+  "download_time": "2026-01-13T12:41:31.878427",
+  "package_url": "https://pypi.org/project/honeybee-radiance-folder/"
+}

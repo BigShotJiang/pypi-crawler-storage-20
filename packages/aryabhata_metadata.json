@@ -1,0 +1,11 @@
+{
+  "name": "aryabhata",
+  "version": "0.1.2",
+  "summary": "Aryabhata's digit‑pair square‑root algorithm",
+  "author": "DJ Stomp",
+  "license": null,
+  "home_page": "https://github.com/DJStompZone/aryabhata",
+  "download_filename": "aryabhata-0.1.2.tar.gz",
+  "download_time": "2026-01-13T12:40:54.112228",
+  "package_url": "https://pypi.org/project/aryabhata/"
+}

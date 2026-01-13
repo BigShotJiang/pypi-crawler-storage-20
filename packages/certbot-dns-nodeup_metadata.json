@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-nodeup",
+  "version": "1.2.1",
+  "summary": "nodeup DNS Authenticator plugin for Certbot",
+  "author": "Certbot Project",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/certbot/certbot",
+  "download_filename": "certbot_dns_nodeup-1.2.1.tar.gz",
+  "download_time": "2026-01-13T12:41:31.327378",
+  "package_url": "https://pypi.org/project/certbot-dns-nodeup/"
+}

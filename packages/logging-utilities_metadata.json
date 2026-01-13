@@ -1,11 +1,11 @@
 {
   "name": "logging-utilities",
-  "version": "5.2.1",
+  "version": "5.2.3",
   "summary": "A collection of useful logging formatters and filters.Logging Context, JSON Formatter, Extra Formatter, ISO Time Filter, Flask Filter, Django Filter, ...",
   "author": null,
-  "license": "BSD 3-Clause License",
+  "license": null,
   "home_page": null,
-  "download_filename": "logging_utilities-5.2.1.tar.gz",
-  "download_time": "2026-01-13T09:51:06.735813",
+  "download_filename": "logging_utilities-5.2.3.tar.gz",
+  "download_time": "2026-01-13T12:40:55.726896",
   "package_url": "https://pypi.org/project/logging-utilities/"
 }

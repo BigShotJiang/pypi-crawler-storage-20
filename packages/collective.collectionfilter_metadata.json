@@ -1,0 +1,11 @@
+{
+  "name": "collective.collectionfilter",
+  "version": "5.3.1",
+  "summary": "Plone addon for filtering collection results.",
+  "author": "Johannes Raggam",
+  "license": "GPL",
+  "home_page": "http://github.com/collective/collective.collectionfilter",
+  "download_filename": "collective_collectionfilter-5.3.1.tar.gz",
+  "download_time": "2026-01-13T12:41:11.566935",
+  "package_url": "https://pypi.org/project/collective.collectionfilter/"
+}

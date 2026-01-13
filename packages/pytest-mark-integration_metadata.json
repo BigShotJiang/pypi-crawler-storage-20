@@ -1,0 +1,11 @@
+{
+  "name": "pytest-mark-integration",
+  "version": "1.0.0",
+  "summary": "Pytest plugin for automatic integration test marking and management",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pytest_mark_integration-1.0.0.tar.gz",
+  "download_time": "2026-01-13T12:41:29.109121",
+  "package_url": "https://pypi.org/project/pytest-mark-integration/"
+}

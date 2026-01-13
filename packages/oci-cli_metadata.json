@@ -1,0 +1,11 @@
+{
+  "name": "oci-cli",
+  "version": "3.72.0",
+  "summary": "Oracle Cloud Infrastructure CLI",
+  "author": "Oracle",
+  "license": "Universal Permissive License 1.0 or Apache License 2.0",
+  "home_page": "https://docs.cloud.oracle.com/iaas/Content/API/Concepts/cliconcepts.htm",
+  "download_filename": "oci_cli-3.72.0.tar.gz",
+  "download_time": "2026-01-13T12:40:48.237232",
+  "package_url": "https://pypi.org/project/oci-cli/"
+}

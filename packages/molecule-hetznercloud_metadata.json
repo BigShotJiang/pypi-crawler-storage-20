@@ -1,0 +1,11 @@
+{
+  "name": "molecule-hetznercloud",
+  "version": "2.7.0",
+  "summary": "Molecule driver for Hetzner Cloud",
+  "author": "Hetzner Cloud GmbH",
+  "license": "LGPL",
+  "home_page": "https://github.com/ansible-community/molecule-hetznercloud",
+  "download_filename": "molecule_hetznercloud-2.7.0.tar.gz",
+  "download_time": "2026-01-13T12:41:08.809499",
+  "package_url": "https://pypi.org/project/molecule-hetznercloud/"
+}

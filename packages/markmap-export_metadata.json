@@ -1,0 +1,11 @@
+{
+  "name": "markmap-export",
+  "version": "0.2.0",
+  "summary": "Export Markmap mind maps to high-resolution PNG images",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "markmap_export-0.2.0.tar.gz",
+  "download_time": "2026-01-13T12:41:25.808611",
+  "package_url": "https://pypi.org/project/markmap-export/"
+}

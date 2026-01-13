@@ -1,0 +1,11 @@
+{
+  "name": "forecastEval",
+  "version": "0.2.4",
+  "summary": "A lightweight Python framework for rigorous and statistically grounded forecast evaluation, with baseline comparison, horizon-stratified analysis, and Diebold–Mariano testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "forecasteval-0.2.4.tar.gz",
+  "download_time": "2026-01-13T12:41:19.857741",
+  "package_url": "https://pypi.org/project/forecastEval/"
+}
