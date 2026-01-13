@@ -1,0 +1,11 @@
+{
+  "name": "astarte-message-hub-proto",
+  "version": "0.10.0",
+  "summary": "Astarte message hub protocol buffers for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astarte_message_hub_proto-0.10.0.tar.gz",
+  "download_time": "2026-01-13T17:43:54.374586",
+  "package_url": "https://pypi.org/project/astarte-message-hub-proto/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "deebase",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Async SQLAlchemy-based implementation of the fastlite API",
   "author": "Rahul Dave(Credcore)",
   "license": null,
   "home_page": null,
-  "download_filename": "deebase-0.5.1.tar.gz",
-  "download_time": "2026-01-13T17:05:32.707026",
+  "download_filename": "deebase-0.5.2.tar.gz",
+  "download_time": "2026-01-13T17:43:28.092451",
   "package_url": "https://pypi.org/project/deebase/"
 }
