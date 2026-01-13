@@ -1,11 +1,11 @@
 {
   "name": "vollib-test",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Python library for calculating option prices, implied volatility and greeks.",
   "author": "vollib",
   "license": "MIT",
   "home_page": "http://vollib.org",
-  "download_filename": "vollib_test-1.0.3.tar.gz",
-  "download_time": "2026-01-13T07:53:21.607399",
+  "download_filename": "vollib_test-1.0.4.tar.gz",
+  "download_time": "2026-01-13T09:27:34.990145",
   "package_url": "https://pypi.org/project/vollib-test/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "mrzscanner-docsaid",
+  "version": "1.0.7",
+  "summary": "A Python package for recognizing and extracting MRZ from visa and passport documents.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/DocsaidLab/MRZScanner.git",
+  "download_filename": "mrzscanner_docsaid-1.0.7-py3-none-any.whl",
+  "download_time": "2026-01-13T09:27:09.363460",
+  "package_url": "https://pypi.org/project/mrzscanner-docsaid/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "optimum-haystack",
+  "version": "2.0.0",
+  "summary": "Component to embed strings and Documents using models loaded with the HuggingFace Optimum library. This component is designed to seamlessly inference models using the high speed ONNX runtime.",
+  "author": "Ashwin Mathur",
+  "license": null,
+  "home_page": null,
+  "download_filename": "optimum_haystack-2.0.0.tar.gz",
+  "download_time": "2026-01-13T09:27:51.801534",
+  "package_url": "https://pypi.org/project/optimum-haystack/"
+}

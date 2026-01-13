@@ -1,0 +1,11 @@
+{
+  "name": "docaligner-docsaid",
+  "version": "1.1.1",
+  "summary": "Predictions of the four corners of documents in the image.",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/DocsaidLab/DocAligner.git",
+  "download_filename": "docaligner_docsaid-1.1.1-py3-none-any.whl",
+  "download_time": "2026-01-13T09:27:50.079743",
+  "package_url": "https://pypi.org/project/docaligner-docsaid/"
+}

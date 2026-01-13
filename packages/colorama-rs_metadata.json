@@ -1,0 +1,11 @@
+{
+  "name": "colorama-rs",
+  "version": "0.1.1",
+  "summary": "High-performance Rust implementation of colorama - cross-platform colored terminal text",
+  "author": "Rusputyn Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "colorama_rs-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-13T09:27:46.602085",
+  "package_url": "https://pypi.org/project/colorama-rs/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tap-openproject",
+  "version": "0.2.3",
+  "summary": "Singer tap for OpenProject API - Built with the Meltano Singer SDK",
+  "author": "surveilr Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tap_openproject-0.2.3.tar.gz",
+  "download_time": "2026-01-13T09:27:26.388918",
+  "package_url": "https://pypi.org/project/tap-openproject/"
+}

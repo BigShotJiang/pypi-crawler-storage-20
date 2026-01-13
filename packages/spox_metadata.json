@@ -1,0 +1,11 @@
+{
+  "name": "spox",
+  "version": "0.17.0",
+  "summary": "A framework for constructing ONNX computational graphs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spox-0.17.0.tar.gz",
+  "download_time": "2026-01-13T09:27:16.399852",
+  "package_url": "https://pypi.org/project/spox/"
+}

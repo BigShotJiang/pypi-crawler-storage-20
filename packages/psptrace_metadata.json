@@ -1,11 +1,11 @@
 {
   "name": "psptrace",
-  "version": "0.10",
+  "version": "0.11",
   "summary": "PSPTrace can correlate an SPI capture of an AMD boot procedure to the PSP firmware components",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "psptrace-0.10.tar.gz",
-  "download_time": "2026-01-13T08:56:26.242871",
+  "download_filename": "psptrace-0.11.tar.gz",
+  "download_time": "2026-01-13T09:27:44.321782",
   "package_url": "https://pypi.org/project/psptrace/"
 }

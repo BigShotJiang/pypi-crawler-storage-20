@@ -1,0 +1,11 @@
+{
+  "name": "charset-normalizer-rs",
+  "version": "0.1.1",
+  "summary": "High-performance Rust implementation of charset-normalizer - universal character encoding detection",
+  "author": "Rusputyn Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "charset_normalizer_rs-0.1.1-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-13T09:27:48.326237",
+  "package_url": "https://pypi.org/project/charset-normalizer-rs/"
+}

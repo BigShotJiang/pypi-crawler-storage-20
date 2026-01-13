@@ -1,0 +1,11 @@
+{
+  "name": "libtorrentx",
+  "version": "0.0.8",
+  "summary": "libtorrent python api",
+  "author": "Nitin Rai",
+  "license": "MIT License",
+  "home_page": "https://github.com/imneonizer/libtorrentx",
+  "download_filename": "libtorrentx-0.0.8.tar.gz",
+  "download_time": "2026-01-13T09:27:28.087676",
+  "package_url": "https://pypi.org/project/libtorrentx/"
+}

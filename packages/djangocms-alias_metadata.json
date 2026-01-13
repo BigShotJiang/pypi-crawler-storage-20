@@ -1,0 +1,11 @@
+{
+  "name": "djangocms-alias",
+  "version": "3.0.3",
+  "summary": "An alias is a collection of plugins that is managed centrally.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "djangocms_alias-3.0.3.tar.gz",
+  "download_time": "2026-01-13T09:27:08.216748",
+  "package_url": "https://pypi.org/project/djangocms-alias/"
+}
