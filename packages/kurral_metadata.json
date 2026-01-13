@@ -1,0 +1,11 @@
+{
+  "name": "kurral",
+  "version": "0.4.1",
+  "summary": "Security testing and observability for AI agents - find vulnerabilities before production",
+  "author": "Kurral Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "kurral-0.4.1.tar.gz",
+  "download_time": "2026-01-13T05:48:44.580277",
+  "package_url": "https://pypi.org/project/kurral/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "udiskie",
+  "version": "2.6.1",
+  "summary": "Removable disk automounter based on udisks",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "udiskie-2.6.1.tar.gz",
+  "download_time": "2026-01-13T05:48:50.501144",
+  "package_url": "https://pypi.org/project/udiskie/"
+}

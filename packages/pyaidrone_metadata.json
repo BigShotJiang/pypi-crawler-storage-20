@@ -1,0 +1,11 @@
+{
+  "name": "pyaidrone",
+  "version": "1.14",
+  "summary": "Library for AIDrone Products",
+  "author": "IR-Brain",
+  "license": null,
+  "home_page": "http://www.ir-brain.com",
+  "download_filename": "pyaidrone-1.14.tar.gz",
+  "download_time": "2026-01-13T05:48:51.016408",
+  "package_url": "https://pypi.org/project/pyaidrone/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "canonicalwebteam.blog",
+  "version": "6.8.3",
+  "summary": "Flask extension to add a nice blog to your website",
+  "author": "Canonical webteam",
+  "license": null,
+  "home_page": null,
+  "download_filename": "canonicalwebteam_blog-6.8.3.tar.gz",
+  "download_time": "2026-01-13T05:48:49.460624",
+  "package_url": "https://pypi.org/project/canonicalwebteam.blog/"
+}

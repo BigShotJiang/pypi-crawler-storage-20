@@ -1,0 +1,11 @@
+{
+  "name": "arequest",
+  "version": "1.2.0",
+  "summary": "Ultra-fast async HTTP client for web scraping - faster than aiohttp with requests-like API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arequest-1.2.0.tar.gz",
+  "download_time": "2026-01-13T05:48:48.945002",
+  "package_url": "https://pypi.org/project/arequest/"
+}

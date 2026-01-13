@@ -1,0 +1,11 @@
+{
+  "name": "sphere-can",
+  "version": "0.1.2",
+  "summary": "SPHERE CAN command-line interface",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sphere_can-0.1.2.tar.gz",
+  "download_time": "2026-01-13T05:48:20.262947",
+  "package_url": "https://pypi.org/project/sphere-can/"
+}
