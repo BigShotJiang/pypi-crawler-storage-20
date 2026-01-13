@@ -1,0 +1,11 @@
+{
+  "name": "digitalguide-reader",
+  "version": "0.0.54",
+  "summary": "A Python Library to read in a google sheet and turn it into states and actions",
+  "author": "Soeren Etler",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "digitalguide_reader-0.0.54.tar.gz",
+  "download_time": "2026-01-13T15:35:16.616169",
+  "package_url": "https://pypi.org/project/digitalguide-reader/"
+}

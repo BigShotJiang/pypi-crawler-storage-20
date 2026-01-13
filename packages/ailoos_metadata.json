@@ -1,11 +1,11 @@
 {
   "name": "ailoos",
-  "version": "2.2.8",
+  "version": "2.2.16",
   "summary": "Unified SDK experience for computer nodes only",
   "author": "Empoorio",
   "license": "Proprietary - Ailoos Technologies & Empoorio Ecosystem",
   "home_page": "https://github.com/empoorio/ailoos",
-  "download_filename": "ailoos-2.2.8.tar.gz",
-  "download_time": "2026-01-13T14:39:28.494922",
+  "download_filename": "ailoos-2.2.16.tar.gz",
+  "download_time": "2026-01-13T15:34:41.510899",
   "package_url": "https://pypi.org/project/ailoos/"
 }

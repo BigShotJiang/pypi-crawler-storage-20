@@ -1,11 +1,11 @@
 {
   "name": "terryann-cli",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "CLI for TerryAnn Medicare Journey Intelligence Platform",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terryann_cli-0.5.1.tar.gz",
-  "download_time": "2026-01-13T15:00:17.921177",
+  "download_filename": "terryann_cli-0.5.2.tar.gz",
+  "download_time": "2026-01-13T15:35:22.697361",
   "package_url": "https://pypi.org/project/terryann-cli/"
 }

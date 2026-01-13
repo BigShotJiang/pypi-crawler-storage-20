@@ -1,11 +1,11 @@
 {
   "name": "pylexfluent",
-  "version": "0.1.73",
+  "version": "0.1.74",
   "summary": "Librairie outils IA Lexia par Lexfluent",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pylexfluent-0.1.73.tar.gz",
-  "download_time": "2026-01-13T09:27:25.206253",
+  "download_filename": "pylexfluent-0.1.74.tar.gz",
+  "download_time": "2026-01-13T15:35:21.612168",
   "package_url": "https://pypi.org/project/pylexfluent/"
 }

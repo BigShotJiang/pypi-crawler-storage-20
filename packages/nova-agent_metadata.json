@@ -1,0 +1,11 @@
+{
+  "name": "nova-agent",
+  "version": "0.3.8",
+  "summary": "Nova Agent - Browser automation agent for Nova QA platform",
+  "author": "Nova Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nova_agent-0.3.8.tar.gz",
+  "download_time": "2026-01-13T15:34:52.119315",
+  "package_url": "https://pypi.org/project/nova-agent/"
+}

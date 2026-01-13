@@ -1,0 +1,11 @@
+{
+  "name": "assign-uprn",
+  "version": "0.2.1",
+  "summary": "python client for ASSIGN api functions",
+  "author": "joeldn",
+  "license": null,
+  "home_page": "https://git.sr.ht/~joeldn/assign-uprn",
+  "download_filename": "assign_uprn-0.2.1.tar.gz",
+  "download_time": "2026-01-13T15:35:01.697842",
+  "package_url": "https://pypi.org/project/assign-uprn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "muban-cli",
+  "version": "1.0.1",
+  "summary": "Command-line interface for Muban Document Generation Service",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "muban_cli-1.0.1.tar.gz",
+  "download_time": "2026-01-13T15:34:48.422114",
+  "package_url": "https://pypi.org/project/muban-cli/"
+}

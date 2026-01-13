@@ -1,0 +1,11 @@
+{
+  "name": "matrice-inference",
+  "version": "0.1.144",
+  "summary": "Common server utilities for Matrice.ai services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "matrice_inference-0.1.144.tar.gz",
+  "download_time": "2026-01-13T15:35:00.161881",
+  "package_url": "https://pypi.org/project/matrice-inference/"
+}
