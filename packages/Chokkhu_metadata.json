@@ -1,11 +1,11 @@
 {
   "name": "Chokkhu",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "A small python image classification package",
   "author": "tamimystic",
   "license": "MIT",
   "home_page": "https://github.com/tamimystic/Chokkhu-PyPi-Package",
-  "download_filename": "chokkhu-0.1.2.tar.gz",
-  "download_time": "2026-01-13T19:41:13.585657",
+  "download_filename": "chokkhu-0.1.3.tar.gz",
+  "download_time": "2026-01-13T20:22:34.755059",
   "package_url": "https://pypi.org/project/Chokkhu/"
 }

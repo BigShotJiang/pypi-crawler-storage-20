@@ -1,11 +1,11 @@
 {
   "name": "capguard",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Capability-based security for LLM agents",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "capguard-0.1.4.tar.gz",
-  "download_time": "2026-01-13T19:28:36.793843",
+  "download_filename": "capguard-0.1.5.tar.gz",
+  "download_time": "2026-01-13T20:22:11.496731",
   "package_url": "https://pypi.org/project/capguard/"
 }

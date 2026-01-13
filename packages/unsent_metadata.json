@@ -1,0 +1,11 @@
+{
+  "name": "unsent",
+  "version": "1.0.3",
+  "summary": "Python SDK for the Unsent API - Send transactional emails with ease",
+  "author": "sourav",
+  "license": "MIT",
+  "home_page": "https://unsent.dev",
+  "download_filename": "unsent-1.0.3.tar.gz",
+  "download_time": "2026-01-13T20:22:35.832254",
+  "package_url": "https://pypi.org/project/unsent/"
+}

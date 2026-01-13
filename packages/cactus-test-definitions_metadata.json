@@ -1,0 +1,11 @@
+{
+  "name": "cactus-test-definitions",
+  "version": "1.8.11",
+  "summary": "CSIP-AUS Client Test Harness Test Definitions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cactus_test_definitions-1.8.11.tar.gz",
+  "download_time": "2026-01-13T20:21:54.822394",
+  "package_url": "https://pypi.org/project/cactus-test-definitions/"
+}

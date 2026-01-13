@@ -1,11 +1,11 @@
 {
   "name": "smartx-rfid",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "SmartX RFID library",
   "author": "Gabriel Henrique Pascon",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "smartx_rfid-0.4.1.tar.gz",
-  "download_time": "2026-01-13T17:43:18.618226",
+  "download_filename": "smartx_rfid-0.5.0.tar.gz",
+  "download_time": "2026-01-13T20:22:25.229592",
   "package_url": "https://pypi.org/project/smartx-rfid/"
 }

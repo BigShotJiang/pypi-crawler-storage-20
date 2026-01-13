@@ -1,0 +1,11 @@
+{
+  "name": "inception-db-connect",
+  "version": "0.3.4",
+  "summary": "inception_db_connect is a package that allows you to connect to a database",
+  "author": "KhaduaBloom",
+  "license": null,
+  "home_page": "https://github.com/KhaduaBloom/inceptionforcepackages/tree/main/PythonPackage/inceptionDBConnect",
+  "download_filename": "inception_db_connect-0.3.4.tar.gz",
+  "download_time": "2026-01-13T20:21:57.489504",
+  "package_url": "https://pypi.org/project/inception-db-connect/"
+}

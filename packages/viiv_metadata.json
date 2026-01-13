@@ -1,11 +1,11 @@
 {
   "name": "viiv",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "summary": "A python library to create vscode themes.",
   "author": "Bruce Wen",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "viiv-1.0.5.tar.gz",
-  "download_time": "2026-01-13T07:53:05.623931",
+  "download_filename": "viiv-1.0.7.tar.gz",
+  "download_time": "2026-01-13T20:22:36.354562",
   "package_url": "https://pypi.org/project/viiv/"
 }

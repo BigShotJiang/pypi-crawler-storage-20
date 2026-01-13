@@ -1,0 +1,11 @@
+{
+  "name": "pulumi-esc-sdk",
+  "version": "0.12.4",
+  "summary": "ESC (Environments, Secrets, Config) API",
+  "author": "OpenAPI Generator community",
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "pulumi_esc_sdk-0.12.4.tar.gz",
+  "download_time": "2026-01-13T20:22:39.476304",
+  "package_url": "https://pypi.org/project/pulumi-esc-sdk/"
+}
