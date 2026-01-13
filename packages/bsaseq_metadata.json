@@ -1,0 +1,11 @@
+{
+  "name": "bsaseq",
+  "version": "1.0.0",
+  "summary": "Bulk Segregant Analysis for QTL mapping from pooled whole-genome sequencing",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bsaseq-1.0.0.tar.gz",
+  "download_time": "2026-01-13T19:51:14.523509",
+  "package_url": "https://pypi.org/project/bsaseq/"
+}

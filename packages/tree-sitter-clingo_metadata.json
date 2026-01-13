@@ -1,0 +1,11 @@
+{
+  "name": "tree-sitter-clingo",
+  "version": "1.0.4",
+  "summary": "Clingo grammar for tree-sitter",
+  "author": "Roland Kaminski, Sven Thiele",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tree_sitter_clingo-1.0.4.tar.gz",
+  "download_time": "2026-01-13T19:51:38.876276",
+  "package_url": "https://pypi.org/project/tree-sitter-clingo/"
+}
