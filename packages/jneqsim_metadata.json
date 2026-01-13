@@ -1,0 +1,11 @@
+{
+  "name": "jneqsim",
+  "version": "3.2.2",
+  "summary": "Python bindings for the Java library NeqSim (via JPype), with python stubs",
+  "author": "Jørgen",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jneqsim-3.2.2.tar.gz",
+  "download_time": "2026-01-13T04:53:45.925452",
+  "package_url": "https://pypi.org/project/jneqsim/"
+}

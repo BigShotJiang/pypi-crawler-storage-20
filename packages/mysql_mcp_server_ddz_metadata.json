@@ -1,0 +1,11 @@
+{
+  "name": "mysql_mcp_server_ddz",
+  "version": "0.2.3",
+  "summary": "A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases. This server allows AI assistants to list tables, read data, and execute SQL queries through a controlled interface, making database exploration and analysis safer and more structured.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mysql_mcp_server_ddz-0.2.3.tar.gz",
+  "download_time": "2026-01-13T04:53:26.110954",
+  "package_url": "https://pypi.org/project/mysql_mcp_server_ddz/"
+}

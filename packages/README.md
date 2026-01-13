@@ -1,31 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-13T04:11:36.917001
-- **Total Packages**: 82
-- **Total Size**: 58.09 MB
+- **Download Time**: 2026-01-13T04:53:50.358396
+- **Total Packages**: 79
+- **Total Size**: 21.59 MB
 
 ## Packages List
-- ob-metaflow-stubs
-- gllm-inference-binary
-- dev-health-ops
-- oarslily
-- applicationutility
-- dataform-dependency-visualizer
-- mlflow-oidc-auth
-- ob-metaflow-extensions
-- robhan-cdk-lib.aws-aps
-- dycw-utilities
-- pyscreeps-arena
-- odoo-addons-oca-sale-workflow
-- robhan-cdk-lib.aws-mwaa
-- robhan-cdk-lib.aws-grafana
-- robhan-cdk-lib.utils
-- mala-agent
-- keycycle
-- odoo14-addons-oca-sale-workflow
-- chromedriver-binary
-- intentkit
 - originec
 - kollabor
 - hurdat2py
@@ -34,6 +14,7 @@
 - listmonk-mcp
 - fleet-mcp
 - models-dev
+- dataform-dependency-visualizer
 - loq
 - zap-ai
 - philh_myftp_biz
@@ -63,6 +44,7 @@
 - randstadenterprise-edao-libraries
 - gwsim
 - jsonlitedb
+- mysql_mcp_server_ddz
 - lfm-upgrade
 - PyPDFForm
 - odoo-addon-product-configurator
@@ -88,3 +70,18 @@
 - odoo-addons-oca-partner-contact
 - smrpgpatchbuilder
 - cms_enhance
+- abstra
+- dash-prism
+- shutilspy
+- xllamacpp
+- souleyez
+- M3Drop
+- odoo-addon-attribute-set
+- isage-rag
+- jneqsim
+- llm-proxypy
+- zrb
+- poly-web3
+- xmacis2py
+- sciv
+- lybic

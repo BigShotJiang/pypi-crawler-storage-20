@@ -1,0 +1,11 @@
+{
+  "name": "xmacis2py",
+  "version": "2.0",
+  "summary": "A Python library that downloads data from the Applied Climate Information System (ACIS) Database, performs various types of analyses on the data and makes various types of graphical summaries of the data.",
+  "author": "Eric J. Drewitz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "xmacis2py-2.0.tar.gz",
+  "download_time": "2026-01-13T04:53:48.225261",
+  "package_url": "https://pypi.org/project/xmacis2py/"
+}
