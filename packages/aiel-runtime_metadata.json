@@ -1,11 +1,11 @@
 {
   "name": "aiel-runtime",
-  "version": "0.2.5",
+  "version": "0.2.51",
   "summary": "AIEL Runtime adapter used by the Execution Plane to load and execute user projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aiel_runtime-0.2.5.tar.gz",
-  "download_time": "2026-01-13T21:19:05.563559",
+  "download_filename": "aiel_runtime-0.2.51.tar.gz",
+  "download_time": "2026-01-13T21:43:59.240414",
   "package_url": "https://pypi.org/project/aiel-runtime/"
 }

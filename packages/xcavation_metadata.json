@@ -1,11 +1,11 @@
 {
   "name": "xcavation",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "SphereX Data Retrieval and Photometry Toolkit",
   "author": "Hunter Brooks",
   "license": "MIT License",
   "home_page": "https://github.com/huntbrooks85/xcavation",
-  "download_filename": "xcavation-0.2.1.tar.gz",
-  "download_time": "2026-01-13T20:46:55.648105",
+  "download_filename": "xcavation-0.3.0.tar.gz",
+  "download_time": "2026-01-13T21:44:35.956432",
   "package_url": "https://pypi.org/project/xcavation/"
 }

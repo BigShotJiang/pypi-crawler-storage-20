@@ -1,19 +1,8 @@
 {
-  "download_time": "2026-01-13T21:19:37.611219",
-  "total_packages_downloaded": 91,
-  "total_size_mb": 55.41,
+  "download_time": "2026-01-13T21:44:41.055634",
+  "total_packages_downloaded": 90,
+  "total_size_mb": 3.9,
   "packages": [
-    "obra",
-    "fhir-sheets",
-    "careamics-napari",
-    "resilient-circuit",
-    "tencentcloud-sdk-python-intl-en",
-    "swift-book-pdf",
-    "synkro",
-    "agentpool",
-    "codehydra",
-    "batchalign",
-    "rubin-scheduler",
     "lispium",
     "tencentcloud-sdk-python-wedata",
     "tencentcloud-sdk-python-vpc",
@@ -93,6 +82,16 @@
     "lstring",
     "torch-webgpu",
     "tccli-intl-en",
-    "openscvx"
+    "openscvx",
+    "aa-bb",
+    "altbacken",
+    "ida-hcli",
+    "xcavation",
+    "llmcc",
+    "files-com",
+    "pyrogram-navy",
+    "cmake-common",
+    "dataframe-textual",
+    "sideseat"
   ]
 }
