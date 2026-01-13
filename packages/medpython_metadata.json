@@ -1,0 +1,11 @@
+{
+  "name": "medpython",
+  "version": "1.1.1",
+  "summary": "Medial EarlySign Python",
+  "author": "Alon Lanyado",
+  "license": null,
+  "home_page": null,
+  "download_filename": "medpython-1.1.1-cp313-cp313-macosx_14_0_arm64.whl",
+  "download_time": "2026-01-13T09:51:21.855148",
+  "package_url": "https://pypi.org/project/medpython/"
+}

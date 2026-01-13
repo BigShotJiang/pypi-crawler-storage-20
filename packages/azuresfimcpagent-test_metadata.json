@@ -1,0 +1,11 @@
+{
+  "name": "azuresfimcpagent-test",
+  "version": "2.0.4",
+  "summary": "Azure MCP Agent for secure, compliant resource deployment",
+  "author": "Siddhant Jha",
+  "license": null,
+  "home_page": null,
+  "download_filename": "azuresfimcpagent_test-2.0.4.tar.gz",
+  "download_time": "2026-01-13T09:51:35.818799",
+  "package_url": "https://pypi.org/project/azuresfimcpagent-test/"
+}

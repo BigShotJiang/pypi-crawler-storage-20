@@ -1,11 +1,11 @@
 {
   "name": "dycw-installer",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "summary": "Installer",
   "author": "Derek Wan",
   "license": null,
   "home_page": null,
-  "download_filename": "dycw_installer-0.2.12-py3-none-any.whl",
-  "download_time": "2026-01-13T07:32:57.921745",
+  "download_filename": "dycw_installer-0.2.13-py3-none-any.whl",
+  "download_time": "2026-01-13T09:51:09.294306",
   "package_url": "https://pypi.org/project/dycw-installer/"
 }

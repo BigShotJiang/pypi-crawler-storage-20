@@ -1,11 +1,11 @@
 {
   "name": "ucam-faas",
-  "version": "0.20.0",
+  "version": "0.21.0",
   "summary": "Opinionated FaaS support framework extending Google's functions-framework",
   "author": "University of Cambridge Information Services",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ucam_faas-0.20.0.tar.gz",
-  "download_time": "2026-01-12T17:01:06.542578",
+  "download_filename": "ucam_faas-0.21.0.tar.gz",
+  "download_time": "2026-01-13T09:50:55.801330",
   "package_url": "https://pypi.org/project/ucam-faas/"
 }

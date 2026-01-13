@@ -1,0 +1,11 @@
+{
+  "name": "staker",
+  "version": "0.1.0",
+  "summary": "Ethereum staking node orchestrator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "staker-0.1.0.tar.gz",
+  "download_time": "2026-01-13T09:50:51.716958",
+  "package_url": "https://pypi.org/project/staker/"
+}

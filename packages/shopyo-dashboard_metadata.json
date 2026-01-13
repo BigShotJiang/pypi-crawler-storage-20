@@ -1,0 +1,11 @@
+{
+  "name": "shopyo-dashboard",
+  "version": "1.4.0",
+  "summary": "Base module containing jinja macros and templates",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "shopyo_dashboard-1.4.0.tar.gz",
+  "download_time": "2026-01-13T09:51:33.730659",
+  "package_url": "https://pypi.org/project/shopyo-dashboard/"
+}

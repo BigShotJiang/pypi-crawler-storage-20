@@ -1,0 +1,11 @@
+{
+  "name": "indotime",
+  "version": "0.1.0",
+  "summary": "A simple Python library for Indonesian time (WIB).",
+  "author": "Gemini",
+  "license": null,
+  "home_page": "https://github.com/gemini/indotime",
+  "download_filename": "indotime-0.1.0.tar.gz",
+  "download_time": "2026-01-13T09:50:50.182344",
+  "package_url": "https://pypi.org/project/indotime/"
+}

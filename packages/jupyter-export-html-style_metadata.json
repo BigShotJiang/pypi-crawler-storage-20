@@ -1,11 +1,11 @@
 {
   "name": "jupyter-export-html-style",
-  "version": "0.0.2rc1",
+  "version": "0.0.2rc3",
   "summary": "A JupyterLab extension and nbconvert preprocessor/exporter for HTML export with cell style metadata overrides",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_export_html_style-0.0.2rc1.tar.gz",
-  "download_time": "2026-01-12T23:30:35.859716",
+  "download_filename": "jupyter_export_html_style-0.0.2rc3.tar.gz",
+  "download_time": "2026-01-13T09:51:23.387938",
   "package_url": "https://pypi.org/project/jupyter-export-html-style/"
 }

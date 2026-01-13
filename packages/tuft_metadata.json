@@ -1,0 +1,11 @@
+{
+  "name": "tuft",
+  "version": "0.1.0",
+  "summary": "Tenant-unified FineTuning",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tuft-0.1.0.tar.gz",
+  "download_time": "2026-01-13T09:51:10.323742",
+  "package_url": "https://pypi.org/project/tuft/"
+}

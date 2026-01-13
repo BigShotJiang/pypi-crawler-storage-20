@@ -1,0 +1,11 @@
+{
+  "name": "django-saas-sso",
+  "version": "0.6.0",
+  "summary": "The SSO module for building a SaaS product with Django",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_saas_sso-0.6.0.tar.gz",
+  "download_time": "2026-01-13T09:51:33.217083",
+  "package_url": "https://pypi.org/project/django-saas-sso/"
+}

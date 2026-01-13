@@ -1,0 +1,11 @@
+{
+  "name": "speedlogger-speedtools",
+  "version": "6.3.5",
+  "summary": "Fast advanced CLI logger with gradients and custom statuses",
+  "author": "Filip",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "speedlogger_speedtools-6.3.5.tar.gz",
+  "download_time": "2026-01-13T09:51:25.470131",
+  "package_url": "https://pypi.org/project/speedlogger-speedtools/"
+}
