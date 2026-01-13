@@ -1,0 +1,11 @@
+{
+  "name": "cpcontest-setup",
+  "version": "1.0.0",
+  "summary": "Generador automático de estructuras para concursos de programación competitiva modo Colombiano",
+  "author": "josuerom",
+  "license": "MIT",
+  "home_page": "https://github.com/josuerom/cpcontest-setup",
+  "download_filename": "cpcontest_setup-1.0.0.tar.gz",
+  "download_time": "2026-01-13T03:13:14.193369",
+  "package_url": "https://pypi.org/project/cpcontest-setup/"
+}

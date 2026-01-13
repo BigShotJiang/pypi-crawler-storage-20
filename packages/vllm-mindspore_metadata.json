@@ -1,0 +1,11 @@
+{
+  "name": "vllm-mindspore",
+  "version": "0.5.1",
+  "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "author": "MindSpore Team",
+  "license": "Apache 2.0",
+  "home_page": "https://gitee.com/mindspore/vllm-mindspore",
+  "download_filename": "vllm_mindspore-0.5.1-cp310-none-any.whl",
+  "download_time": "2026-01-13T03:13:55.665481",
+  "package_url": "https://pypi.org/project/vllm-mindspore/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "music-assistant-frontend",
+  "version": "2.17.67",
+  "summary": "The Music Assistant frontend",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "music_assistant_frontend-2.17.67.tar.gz",
+  "download_time": "2026-01-13T03:13:34.256963",
+  "package_url": "https://pypi.org/project/music-assistant-frontend/"
+}

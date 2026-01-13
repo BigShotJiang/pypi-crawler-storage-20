@@ -1,0 +1,11 @@
+{
+  "name": "winiutils",
+  "version": "2.3.51",
+  "summary": "A utility library for Python development",
+  "author": "Winipedia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "winiutils-2.3.51.tar.gz",
+  "download_time": "2026-01-13T03:13:31.662224",
+  "package_url": "https://pypi.org/project/winiutils/"
+}

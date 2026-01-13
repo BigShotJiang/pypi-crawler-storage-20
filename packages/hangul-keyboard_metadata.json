@@ -1,0 +1,11 @@
+{
+  "name": "hangul-keyboard",
+  "version": "0.1.0",
+  "summary": "Korean Hangul keyboard-based English to Korean converter",
+  "author": "Kasie",
+  "license": "MIT",
+  "home_page": "https://github.com/backend-kms/hangul-keyboard",
+  "download_filename": "hangul_keyboard-0.1.0.tar.gz",
+  "download_time": "2026-01-13T03:13:26.444941",
+  "package_url": "https://pypi.org/project/hangul-keyboard/"
+}

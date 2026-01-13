@@ -1,0 +1,11 @@
+{
+  "name": "isage-privacy",
+  "version": "0.1.0.0",
+  "summary": "SAGE Privacy Framework - Differential privacy, federated learning, machine unlearning, PII detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "isage_privacy-0.1.0.0-cp311-none-any.whl",
+  "download_time": "2026-01-13T03:13:23.236950",
+  "package_url": "https://pypi.org/project/isage-privacy/"
+}

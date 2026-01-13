@@ -1,0 +1,11 @@
+{
+  "name": "hdx-python-country",
+  "version": "4.0.0",
+  "summary": "HDX Python country code and exchange rate (fx) utilities",
+  "author": "Michael Rans",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hdx_python_country-4.0.0.tar.gz",
+  "download_time": "2026-01-13T03:13:50.400047",
+  "package_url": "https://pypi.org/project/hdx-python-country/"
+}

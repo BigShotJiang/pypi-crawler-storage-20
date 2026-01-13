@@ -1,0 +1,11 @@
+{
+  "name": "claun-tui",
+  "version": "0.1.0",
+  "summary": "Schedule Claude Code jobs with a beautiful TUI or headless mode",
+  "author": "nsmith",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "claun_tui-0.1.0.tar.gz",
+  "download_time": "2026-01-13T03:13:45.676819",
+  "package_url": "https://pypi.org/project/claun-tui/"
+}

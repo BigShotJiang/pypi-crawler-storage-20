@@ -1,0 +1,11 @@
+{
+  "name": "one_claude",
+  "version": "0.1.5",
+  "summary": "TUI manager for Claude Code sessions - browse, search, and teleport across time",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "one_claude-0.1.5-py3-none-any.whl",
+  "download_time": "2026-01-13T03:13:47.741301",
+  "package_url": "https://pypi.org/project/one_claude/"
+}
