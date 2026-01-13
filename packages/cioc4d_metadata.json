@@ -1,0 +1,11 @@
+{
+  "name": "cioc4d",
+  "version": "1.2.2",
+  "summary": "C4D plugin for Conductor Cloud Rendering Platform.",
+  "author": "conductor",
+  "license": null,
+  "home_page": "https://github.com/ConductorTechnologies/cioc4d",
+  "download_filename": "cioc4d-1.2.2-py2.py3-none-any.whl",
+  "download_time": "2026-01-13T20:47:12.303683",
+  "package_url": "https://pypi.org/project/cioc4d/"
+}

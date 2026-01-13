@@ -1,0 +1,11 @@
+{
+  "name": "odoo-sh-gitlab-ci",
+  "version": "1.0.15",
+  "summary": "Simplify and automate Odoo.sh deployment using GitLab and GitHub.",
+  "author": "Jarsa",
+  "license": "AGPL-3.0-only",
+  "home_page": "https://git.jarsa.com/Jarsa/odoo-sh-gitlab-ci",
+  "download_filename": "odoo_sh_gitlab_ci-1.0.15.tar.gz",
+  "download_time": "2026-01-13T20:46:33.241658",
+  "package_url": "https://pypi.org/project/odoo-sh-gitlab-ci/"
+}

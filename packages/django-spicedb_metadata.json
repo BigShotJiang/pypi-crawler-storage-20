@@ -1,11 +1,11 @@
 {
   "name": "django-spicedb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Declarative relationship-based access control (ReBAC) for Django, backed by SpiceDB",
   "author": "Mohammed R. Ali",
   "license": "MIT",
   "home_page": "https://github.com/flak153/django-spicedb",
-  "download_filename": "django_spicedb-0.1.1.tar.gz",
-  "download_time": "2026-01-13T05:23:11.881443",
+  "download_filename": "django_spicedb-0.1.2.tar.gz",
+  "download_time": "2026-01-13T20:46:51.422486",
   "package_url": "https://pypi.org/project/django-spicedb/"
 }

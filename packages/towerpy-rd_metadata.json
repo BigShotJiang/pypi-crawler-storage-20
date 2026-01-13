@@ -1,0 +1,11 @@
+{
+  "name": "towerpy-rd",
+  "version": "1.1.0",
+  "summary": "Towerpy: an open-source toolbox for processing polarimetric radar data",
+  "author": "Daniel Sanchez-Rivas and Miguel A Rico-Ramirez",
+  "license": null,
+  "home_page": "https://github.com/uobwatergroup/towerpy",
+  "download_filename": "towerpy_rd-1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-13T20:47:16.467754",
+  "package_url": "https://pypi.org/project/towerpy-rd/"
+}

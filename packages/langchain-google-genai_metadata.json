@@ -1,0 +1,11 @@
+{
+  "name": "langchain-google-genai",
+  "version": "4.2.0",
+  "summary": "An integration package connecting Google's genai package and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_google_genai-4.2.0.tar.gz",
+  "download_time": "2026-01-13T20:46:41.518679",
+  "package_url": "https://pypi.org/project/langchain-google-genai/"
+}

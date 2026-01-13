@@ -1,0 +1,11 @@
+{
+  "name": "PennyLane-Cirq",
+  "version": "0.44.0",
+  "summary": "PennyLane plugin for Cirq",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": "http://xanadu.ai",
+  "download_filename": "pennylane_cirq-0.44.0-py3-none-any.whl",
+  "download_time": "2026-01-13T20:46:52.962001",
+  "package_url": "https://pypi.org/project/PennyLane-Cirq/"
+}

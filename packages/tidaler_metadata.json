@@ -1,0 +1,11 @@
+{
+  "name": "tidaler",
+  "version": "0.1.1",
+  "summary": "TIDAL Downloader (fork of tidal-dl-ng)",
+  "author": "Maya Doshi",
+  "license": null,
+  "home_page": "https://github.com/maya-doshi/tidal-dl-ng",
+  "download_filename": "tidaler-0.1.1.tar.gz",
+  "download_time": "2026-01-13T20:46:38.944707",
+  "package_url": "https://pypi.org/project/tidaler/"
+}
