@@ -1,0 +1,11 @@
+{
+  "name": "rostaing-ocr",
+  "version": "1.1.1",
+  "summary": "A high-precision, layout-preserving OCR extraction tool for PDFs and images.",
+  "author": "Rostaing",
+  "license": null,
+  "home_page": "https://github.com/Rostaing/rostaing-ocr",
+  "download_filename": "rostaing_ocr-1.1.1.tar.gz",
+  "download_time": "2026-01-13T14:06:03.157176",
+  "package_url": "https://pypi.org/project/rostaing-ocr/"
+}

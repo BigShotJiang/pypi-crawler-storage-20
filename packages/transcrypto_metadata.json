@@ -1,0 +1,11 @@
+{
+  "name": "transcrypto",
+  "version": "1.4.0",
+  "summary": "Basic crypto primitives, not intended for actual use, but as a companion to --Criptografia, Métodos e Algoritmos--",
+  "author": "Daniel Balparda",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/balparda/transcrypto",
+  "download_filename": "transcrypto-1.4.0.tar.gz",
+  "download_time": "2026-01-13T14:05:24.661768",
+  "package_url": "https://pypi.org/project/transcrypto/"
+}

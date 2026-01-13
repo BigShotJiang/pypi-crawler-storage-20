@@ -1,0 +1,11 @@
+{
+  "name": "kafal",
+  "version": "1.0.0",
+  "summary": "Embeddable DSL for trading quant models, research factors, and backtesting.",
+  "author": "Janmay Joshi",
+  "license": "KAFAL License 1.0 (Proprietary)",
+  "home_page": "https://github.com/janmayjoshiii/kafal-DSL",
+  "download_filename": "kafal-1.0.0.tar.gz",
+  "download_time": "2026-01-13T14:06:13.936897",
+  "package_url": "https://pypi.org/project/kafal/"
+}

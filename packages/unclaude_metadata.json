@@ -1,0 +1,11 @@
+{
+  "name": "unclaude",
+  "version": "0.3.1",
+  "summary": "Open Source Model-Independent Alternative to Claude Code",
+  "author": "UnClaude Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unclaude-0.3.1.tar.gz",
+  "download_time": "2026-01-13T14:06:00.538278",
+  "package_url": "https://pypi.org/project/unclaude/"
+}

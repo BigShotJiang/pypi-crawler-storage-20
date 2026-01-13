@@ -1,0 +1,11 @@
+{
+  "name": "mcp-redmine",
+  "version": "2026.1.13.145604",
+  "summary": "A MCP server that connects to your Redmine instance",
+  "author": "Rune Kaagaard",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_redmine-2026.1.13.145604.tar.gz",
+  "download_time": "2026-01-13T14:05:48.564212",
+  "package_url": "https://pypi.org/project/mcp-redmine/"
+}
