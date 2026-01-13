@@ -1,0 +1,11 @@
+{
+  "name": "popsummary",
+  "version": "0.1.0",
+  "summary": "A Python API for interfacing with standardized LIGO-Virgo-KAGRA Rates and Populations results",
+  "author": "Christian Adamcewicz, Zoheyr Doctor",
+  "license": null,
+  "home_page": "https://git.ligo.org/RatesAndPopulations/popsummary",
+  "download_filename": "popsummary-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-13T19:01:10.456972",
+  "package_url": "https://pypi.org/project/popsummary/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mielto",
+  "version": "0.1.6",
+  "summary": "Official Python client library for Mielto API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mielto-0.1.6.tar.gz",
+  "download_time": "2026-01-13T19:00:37.967463",
+  "package_url": "https://pypi.org/project/mielto/"
+}

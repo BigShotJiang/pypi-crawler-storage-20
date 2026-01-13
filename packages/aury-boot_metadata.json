@@ -1,11 +1,11 @@
 {
   "name": "aury-boot",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "summary": "Aury Boot - 基于 FastAPI 生态的企业级 API 开发框架",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aury_boot-0.0.13.tar.gz",
-  "download_time": "2026-01-13T18:35:44.897874",
+  "download_filename": "aury_boot-0.0.14.tar.gz",
+  "download_time": "2026-01-13T19:00:45.634174",
   "package_url": "https://pypi.org/project/aury-boot/"
 }

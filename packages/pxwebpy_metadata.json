@@ -1,0 +1,11 @@
+{
+  "name": "pxwebpy",
+  "version": "0.5.5",
+  "summary": "Client library for the PxWeb API to easily load data into a DataFrame.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pxwebpy-0.5.5.tar.gz",
+  "download_time": "2026-01-13T19:01:16.288496",
+  "package_url": "https://pypi.org/project/pxwebpy/"
+}

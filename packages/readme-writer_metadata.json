@@ -1,0 +1,11 @@
+{
+  "name": "readme-writer",
+  "version": "1.0.10",
+  "summary": "AI-powered documentation generator for Git repositories using OpenAI API",
+  "author": "Readme generator",
+  "license": null,
+  "home_page": null,
+  "download_filename": "readme_writer-1.0.10.tar.gz",
+  "download_time": "2026-01-13T19:01:23.629802",
+  "package_url": "https://pypi.org/project/readme-writer/"
+}

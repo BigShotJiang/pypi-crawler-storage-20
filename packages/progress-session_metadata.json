@@ -1,0 +1,11 @@
+{
+  "name": "progress-session",
+  "version": "0.30.4",
+  "summary": "Replace requests.Session with requests.Session + ProgressBar (rich) with colors",
+  "author": "Hadi Cahyadi",
+  "license": null,
+  "home_page": "https://github.com/cumulus13/progress_session",
+  "download_filename": "progress_session-0.30.4.tar.gz",
+  "download_time": "2026-01-13T19:00:49.288619",
+  "package_url": "https://pypi.org/project/progress-session/"
+}

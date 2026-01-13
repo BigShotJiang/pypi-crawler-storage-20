@@ -1,0 +1,11 @@
+{
+  "name": "pydpm_xl",
+  "version": "0.2.4",
+  "summary": "Python library for DPM-XL data processing and analysis",
+  "author": "MeaningfulData S.L.",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pydpm_xl-0.2.4.tar.gz",
+  "download_time": "2026-01-13T19:00:48.769079",
+  "package_url": "https://pypi.org/project/pydpm_xl/"
+}

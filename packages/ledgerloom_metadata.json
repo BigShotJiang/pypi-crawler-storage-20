@@ -1,0 +1,11 @@
+{
+  "name": "ledgerloom",
+  "version": "0.3.0",
+  "summary": "LedgerLoom: accounting concepts for the modern software mind.",
+  "author": "PyStatsV1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ledgerloom-0.3.0.tar.gz",
+  "download_time": "2026-01-13T19:00:59.392656",
+  "package_url": "https://pypi.org/project/ledgerloom/"
+}

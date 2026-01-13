@@ -1,11 +1,11 @@
 {
   "name": "dc-securex",
-  "version": "1.8.3",
+  "version": "1.8.6",
   "summary": "Backend-only Discord anti-nuke protection SDK",
   "author": "SecureX Team",
   "license": "MIT",
   "home_page": "https://github.com/yourusername/securex-antinuke-sdk",
-  "download_filename": "dc_securex-1.8.3.tar.gz",
-  "download_time": "2026-01-13T18:35:37.687975",
+  "download_filename": "dc_securex-1.8.6.tar.gz",
+  "download_time": "2026-01-13T19:01:20.479548",
   "package_url": "https://pypi.org/project/dc-securex/"
 }
