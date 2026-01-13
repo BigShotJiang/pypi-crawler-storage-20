@@ -1,0 +1,11 @@
+{
+  "name": "aftership-tracking-sdk",
+  "version": "9.0.0",
+  "summary": "The official AfterShip Tracking Python API library",
+  "author": "AfterShip",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aftership_tracking_sdk-9.0.0.tar.gz",
+  "download_time": "2026-01-13T08:28:03.898650",
+  "package_url": "https://pypi.org/project/aftership-tracking-sdk/"
+}

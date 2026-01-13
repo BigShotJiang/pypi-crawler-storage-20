@@ -1,0 +1,11 @@
+{
+  "name": "vidhash",
+  "version": "0.3.2",
+  "summary": "A package for hashing videos and checking for similarity",
+  "author": "Roselyn Coales",
+  "license": "MIT",
+  "home_page": "https://github.com/SpangleLabs/vidhash",
+  "download_filename": "vidhash-0.3.2.tar.gz",
+  "download_time": "2026-01-13T08:28:01.256600",
+  "package_url": "https://pypi.org/project/vidhash/"
+}

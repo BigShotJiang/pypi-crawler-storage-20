@@ -1,0 +1,11 @@
+{
+  "name": "powerrag-sdk",
+  "version": "0.3.0",
+  "summary": "A Python SDK for PowerRAG API, providing easy-to-use interfaces for knowledge base management, document processing, chunking, extraction, RAPTOR, knowledge graph, and retrieval.",
+  "author": "OceanBase Team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "powerrag_sdk-0.3.0.tar.gz",
+  "download_time": "2026-01-13T08:27:39.456227",
+  "package_url": "https://pypi.org/project/powerrag-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "xboinc",
+  "version": "0.6.0",
+  "summary": "Xsuite BOINC interface",
+  "author": "Frederik F. Van der Veken",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/xsuite/xboinc",
+  "download_filename": "xboinc-0.6.0.tar.gz",
+  "download_time": "2026-01-13T08:27:42.015777",
+  "package_url": "https://pypi.org/project/xboinc/"
+}

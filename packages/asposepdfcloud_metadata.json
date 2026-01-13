@@ -1,0 +1,11 @@
+{
+  "name": "asposepdfcloud",
+  "version": "25.12.0",
+  "summary": "Aspose.PDF Cloud",
+  "author": "Aspose PDF Cloud",
+  "license": "MIT",
+  "home_page": "https://products.aspose.cloud/pdf/cloud",
+  "download_filename": "asposepdfcloud-25.12.0.tar.gz",
+  "download_time": "2026-01-13T08:27:33.752467",
+  "package_url": "https://pypi.org/project/asposepdfcloud/"
+}

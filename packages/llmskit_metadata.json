@@ -1,11 +1,11 @@
 {
   "name": "llmskit",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Client and Tools for LLMs",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "llmskit-0.0.7.tar.gz",
-  "download_time": "2026-01-13T06:30:09.133385",
+  "download_filename": "llmskit-0.0.8.tar.gz",
+  "download_time": "2026-01-13T08:27:56.047083",
   "package_url": "https://pypi.org/project/llmskit/"
 }

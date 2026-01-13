@@ -1,0 +1,11 @@
+{
+  "name": "html-to-markdown",
+  "version": "2.21.1",
+  "summary": "High-performance HTML to Markdown converter powered by Rust with a clean Python API",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/kreuzberg-dev/html-to-markdown",
+  "download_filename": "html_to_markdown-2.21.1.tar.gz",
+  "download_time": "2026-01-13T08:27:32.643417",
+  "package_url": "https://pypi.org/project/html-to-markdown/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sklearn-contrib-bde",
+  "version": "1.0.1",
+  "summary": "Bayesian Deep Ensembles with MILE (JAX), scikit-learn style.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sklearn_contrib_bde-1.0.1.tar.gz",
+  "download_time": "2026-01-13T08:27:54.004947",
+  "package_url": "https://pypi.org/project/sklearn-contrib-bde/"
+}
