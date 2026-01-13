@@ -1,11 +1,11 @@
 {
   "name": "xps-lib",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": null,
   "author": "Viktoria Rotheneder, Lara Farkas, Camil x, Richard W. van Nieuwenhoven, Kai Schwenzfeier, Markus Valtiner",
   "license": null,
   "home_page": "https://gitlab.tuwien.ac.at/iap/aip/anp/surface-analysis/xps-analysis",
-  "download_filename": "xps_lib-1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-12T21:42:36.329579",
+  "download_filename": "xps_lib-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-13T15:00:21.715503",
   "package_url": "https://pypi.org/project/xps-lib/"
 }

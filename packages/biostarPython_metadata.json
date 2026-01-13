@@ -1,0 +1,11 @@
+{
+  "name": "biostarPython",
+  "version": "0.6.0.0",
+  "summary": "Python client for Suprema GSDK with included callable classes.",
+  "author": "SupremaUK",
+  "license": null,
+  "home_page": "https://github.com/gcartlidge/biostarPython",
+  "download_filename": "biostarpython-0.6.0.0.tar.gz",
+  "download_time": "2026-01-13T14:59:52.769334",
+  "package_url": "https://pypi.org/project/biostarPython/"
+}

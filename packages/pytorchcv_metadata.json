@@ -1,0 +1,11 @@
+{
+  "name": "pytorchcv",
+  "version": "0.0.74",
+  "summary": "Computer vision models for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytorchcv-0.0.74-py3-none-any.whl",
+  "download_time": "2026-01-13T14:59:38.393951",
+  "package_url": "https://pypi.org/project/pytorchcv/"
+}

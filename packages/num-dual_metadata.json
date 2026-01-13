@@ -1,0 +1,11 @@
+{
+  "name": "num-dual",
+  "version": "0.13.2",
+  "summary": "Generalized (hyper) dual numbers for the calculation of exact (partial) derivatives",
+  "author": "Gernot Bauer <bauer@itt.uni-stuttgart.de>, Philipp Rehner <prehner@ethz.ch>",
+  "license": "MIT OR Apache-2.0",
+  "home_page": "https://github.com/itt-ustutt/num-dual",
+  "download_filename": "num_dual-0.13.2-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-13T14:59:41.125216",
+  "package_url": "https://pypi.org/project/num-dual/"
+}

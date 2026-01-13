@@ -1,0 +1,11 @@
+{
+  "name": "resp-server",
+  "version": "0.1.1",
+  "summary": "A lightweight, embeddable, pure-Python Redis-compatible server for testing",
+  "author": "Vivek Dagar",
+  "license": null,
+  "home_page": "https://github.com/vivekdagar/redis-python",
+  "download_filename": "resp_server-0.1.1.tar.gz",
+  "download_time": "2026-01-13T14:59:33.423992",
+  "package_url": "https://pypi.org/project/resp-server/"
+}

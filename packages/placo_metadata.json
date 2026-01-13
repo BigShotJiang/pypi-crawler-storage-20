@@ -1,0 +1,11 @@
+{
+  "name": "placo",
+  "version": "0.9.19",
+  "summary": "PlaCo: Rhoban Planning and Control",
+  "author": null,
+  "license": null,
+  "home_page": "https://placo.readthedocs.io/en/latest/",
+  "download_filename": "placo-0.9.19.tar.gz",
+  "download_time": "2026-01-13T14:59:52.214444",
+  "package_url": "https://pypi.org/project/placo/"
+}

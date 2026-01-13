@@ -1,0 +1,11 @@
+{
+  "name": "rhdl",
+  "version": "0.1.0.post1768315733",
+  "summary": "RHDL CLI module",
+  "author": "Distributed CI team",
+  "license": "Apache v2.0",
+  "home_page": "https://doc.rhdl.distributed-ci.io/",
+  "download_filename": "rhdl-0.1.0.post1768315733.tar.gz",
+  "download_time": "2026-01-13T14:59:32.884374",
+  "package_url": "https://pypi.org/project/rhdl/"
+}

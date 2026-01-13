@@ -1,0 +1,11 @@
+{
+  "name": "pyvpp",
+  "version": "0.3.1",
+  "summary": "Python package to download phenological data from Wekeo (HR-VPP datasets from Sentinel 2)",
+  "author": "Diego García Díaz",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pyvpp-0.3.1.tar.gz",
+  "download_time": "2026-01-13T14:59:36.197985",
+  "package_url": "https://pypi.org/project/pyvpp/"
+}

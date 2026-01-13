@@ -1,0 +1,11 @@
+{
+  "name": "pulp-npm-client",
+  "version": "0.5.0",
+  "summary": "Pulp 3 API",
+  "author": "Pulp Team",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "pulp_npm_client-0.5.0.tar.gz",
+  "download_time": "2026-01-13T14:59:48.387772",
+  "package_url": "https://pypi.org/project/pulp-npm-client/"
+}
