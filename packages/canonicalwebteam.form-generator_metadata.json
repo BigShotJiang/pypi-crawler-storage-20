@@ -1,0 +1,11 @@
+{
+  "name": "canonicalwebteam.form-generator",
+  "version": "2.2.0",
+  "summary": "Python script to generate HTML forms and attach themas a Flask view func.",
+  "author": "Canonical webteam",
+  "license": null,
+  "home_page": "https://github.com/canonical/canonicalwebteam.form-generator",
+  "download_filename": "canonicalwebteam_form_generator-2.2.0.tar.gz",
+  "download_time": "2026-01-13T11:41:50.145420",
+  "package_url": "https://pypi.org/project/canonicalwebteam.form-generator/"
+}

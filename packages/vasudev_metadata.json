@@ -1,0 +1,11 @@
+{
+  "name": "vasudev",
+  "version": "0.1.0",
+  "summary": "Exclusive development toolkit for projects and services by Ankit Chaubey (aka Vasu).",
+  "author": "Ankit Chaubey",
+  "license": null,
+  "home_page": "https://github.com/ankit-chaubey/vasudev",
+  "download_filename": "vasudev-0.1.0.tar.gz",
+  "download_time": "2026-01-13T11:42:14.983445",
+  "package_url": "https://pypi.org/project/vasudev/"
+}

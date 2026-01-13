@@ -1,0 +1,11 @@
+{
+  "name": "django-taggit-api",
+  "version": "1.1",
+  "summary": "Simple url-paths based api to add and remove tags.",
+  "author": "Thomas Leichtfuß",
+  "license": "BSD License",
+  "home_page": "https://github.com/thomst/django-taggit-api",
+  "download_filename": "django_taggit_api-1.1.tar.gz",
+  "download_time": "2026-01-13T11:41:51.194170",
+  "package_url": "https://pypi.org/project/django-taggit-api/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "biobuntu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A comprehensive platform for running genomic analysis pipelines with CLI, GUI, and web interfaces. Perfect for researchers, labs, and bioinformatics teams.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "biobuntu-1.0.0.tar.gz",
-  "download_time": "2026-01-13T11:18:17.573443",
+  "download_filename": "biobuntu-1.0.1-py3-none-any.whl",
+  "download_time": "2026-01-13T11:42:23.000690",
   "package_url": "https://pypi.org/project/biobuntu/"
 }

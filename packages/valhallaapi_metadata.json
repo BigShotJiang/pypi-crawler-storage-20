@@ -1,11 +1,11 @@
 {
   "name": "valhallaapi",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "summary": "Valhalla API Client",
   "author": "Nextron",
   "license": null,
-  "home_page": "https://github.com/nextron/valhallaAPI",
-  "download_filename": "valhallaapi-0.6.1.tar.gz",
-  "download_time": "2026-01-13T09:27:12.349838",
+  "home_page": "https://github.com/NextronSystems/valhallaAPI",
+  "download_filename": "valhallaapi-0.6.2.tar.gz",
+  "download_time": "2026-01-13T11:42:24.562349",
   "package_url": "https://pypi.org/project/valhallaapi/"
 }
