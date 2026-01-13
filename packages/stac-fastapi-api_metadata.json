@@ -1,11 +1,11 @@
 {
   "name": "stac-fastapi-api",
-  "version": "6.1.4",
+  "version": "6.2.0",
   "summary": "An implementation of STAC API based on the FastAPI framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "stac_fastapi_api-6.1.4.tar.gz",
-  "download_time": "2026-01-12T21:17:43.701986",
+  "download_filename": "stac_fastapi_api-6.2.0.tar.gz",
+  "download_time": "2026-01-13T11:52:58.273323",
   "package_url": "https://pypi.org/project/stac-fastapi-api/"
 }

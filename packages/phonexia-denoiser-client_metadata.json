@@ -1,0 +1,11 @@
+{
+  "name": "phonexia-denoiser-client",
+  "version": "2.0.1",
+  "summary": "Client for communicating with Phonexia denoiser microservice",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phonexia_denoiser_client-2.0.1-py3-none-any.whl",
+  "download_time": "2026-01-13T11:52:39.845395",
+  "package_url": "https://pypi.org/project/phonexia-denoiser-client/"
+}

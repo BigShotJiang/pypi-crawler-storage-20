@@ -1,0 +1,11 @@
+{
+  "name": "idf-component-manager",
+  "version": "2.4.4",
+  "summary": "Espressif IDF Component Manager",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "idf_component_manager-2.4.4.tar.gz",
+  "download_time": "2026-01-13T11:53:16.444039",
+  "package_url": "https://pypi.org/project/idf-component-manager/"
+}

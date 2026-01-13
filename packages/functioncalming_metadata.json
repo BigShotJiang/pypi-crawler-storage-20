@@ -1,0 +1,11 @@
+{
+  "name": "functioncalming",
+  "version": "0.0.23",
+  "summary": "Robust and reliable OpenAI tool calling",
+  "author": "Philipp Dowling",
+  "license": "MIT",
+  "home_page": "https://github.com/phdowling/functioncalming",
+  "download_filename": "functioncalming-0.0.23.tar.gz",
+  "download_time": "2026-01-13T11:52:44.655713",
+  "package_url": "https://pypi.org/project/functioncalming/"
+}

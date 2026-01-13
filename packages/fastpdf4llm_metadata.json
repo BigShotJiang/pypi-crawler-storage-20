@@ -1,0 +1,11 @@
+{
+  "name": "fastpdf4llm",
+  "version": "0.1.5",
+  "summary": "A fast PDF to Markdown converter optimized for LLM processing",
+  "author": "Yue Fei",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastpdf4llm-0.1.5.tar.gz",
+  "download_time": "2026-01-13T11:53:06.438862",
+  "package_url": "https://pypi.org/project/fastpdf4llm/"
+}

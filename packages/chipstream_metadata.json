@@ -1,11 +1,11 @@
 {
   "name": "chipstream",
-  "version": "0.9.10",
+  "version": "0.9.11",
   "summary": "GUI and CLI for DC data postprocessing",
   "author": "Paul Müller",
   "license": null,
   "home_page": null,
-  "download_filename": "chipstream-0.9.10.tar.gz",
-  "download_time": "2026-01-13T11:18:43.632479",
+  "download_filename": "chipstream-0.9.11.tar.gz",
+  "download_time": "2026-01-13T11:53:04.780896",
   "package_url": "https://pypi.org/project/chipstream/"
 }
