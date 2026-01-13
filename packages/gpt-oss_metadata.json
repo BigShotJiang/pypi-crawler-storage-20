@@ -1,0 +1,11 @@
+{
+  "name": "gpt-oss",
+  "version": "0.0.9",
+  "summary": "A collection of reference inference implementations for gpt-oss by OpenAI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gpt_oss-0.0.9.tar.gz",
+  "download_time": "2026-01-13T19:28:55.683940",
+  "package_url": "https://pypi.org/project/gpt-oss/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "graph-analyzer",
+  "version": "0.1.2",
+  "summary": "A Python package for analyzing hand-drawn graphs from images",
+  "author": "Hafiz Muhammad Mujadid Majeed",
+  "license": "MIT",
+  "home_page": "https://github.com/mujadid2001/graph-analyzer",
+  "download_filename": "graph_analyzer-0.1.2.tar.gz",
+  "download_time": "2026-01-13T19:28:21.139948",
+  "package_url": "https://pypi.org/project/graph-analyzer/"
+}
