@@ -1,0 +1,11 @@
+{
+  "name": "kuplift",
+  "version": "0.0.14",
+  "summary": "A User Parameter-free Bayesian Framework for Uplift Modeling",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuplift-0.0.14.tar.gz",
+  "download_time": "2026-01-13T10:21:35.967904",
+  "package_url": "https://pypi.org/project/kuplift/"
+}

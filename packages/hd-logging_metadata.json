@@ -1,0 +1,11 @@
+{
+  "name": "hd-logging",
+  "version": "1.0.4",
+  "summary": "A comprehensive logging library with OpenTelemetry support, environment variable handling, and advanced log rotation",
+  "author": "Hackerdogs.ai",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "hd_logging-1.0.4.tar.gz",
+  "download_time": "2026-01-13T10:21:28.202358",
+  "package_url": "https://pypi.org/project/hd-logging/"
+}

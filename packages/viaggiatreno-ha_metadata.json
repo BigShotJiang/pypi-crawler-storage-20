@@ -1,0 +1,11 @@
+{
+  "name": "viaggiatreno-ha",
+  "version": "0.2.4",
+  "summary": "Viaggiatreno API wrapper to use with Home Assistant.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "viaggiatreno_ha-0.2.4.tar.gz",
+  "download_time": "2026-01-13T10:21:03.794108",
+  "package_url": "https://pypi.org/project/viaggiatreno-ha/"
+}

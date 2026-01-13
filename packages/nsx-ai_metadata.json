@@ -1,11 +1,11 @@
 {
   "name": "nsx-ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Neuro-Symbolic AI Framework with Agentic Capabilities",
   "author": "Ananya Kumar",
   "license": null,
   "home_page": "https://github.com/ananya868/nsx",
-  "download_filename": "nsx_ai-1.0.1.tar.gz",
-  "download_time": "2026-01-12T23:15:13.370045",
+  "download_filename": "nsx_ai-1.0.2.tar.gz",
+  "download_time": "2026-01-13T10:21:33.391790",
   "package_url": "https://pypi.org/project/nsx-ai/"
 }

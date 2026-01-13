@@ -1,0 +1,11 @@
+{
+  "name": "vap-mcp",
+  "version": "0.1.0",
+  "summary": "VAP MCP Server - Media generation tools for Claude Desktop",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vap_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-13T10:21:28.712842",
+  "package_url": "https://pypi.org/project/vap-mcp/"
+}

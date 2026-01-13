@@ -1,0 +1,11 @@
+{
+  "name": "stackit-haystack",
+  "version": "2.0.0",
+  "summary": "An integration of STACKIT as a StackitChatGenerator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stackit_haystack-2.0.0.tar.gz",
+  "download_time": "2026-01-13T10:21:17.321162",
+  "package_url": "https://pypi.org/project/stackit-haystack/"
+}

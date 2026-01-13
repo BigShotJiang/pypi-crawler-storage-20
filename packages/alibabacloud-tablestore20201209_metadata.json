@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-tablestore20201209",
+  "version": "2.0.0",
+  "summary": "Alibaba Cloud Tablestore (20201209) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_tablestore20201209-2.0.0.tar.gz",
+  "download_time": "2026-01-13T10:21:01.745390",
+  "package_url": "https://pypi.org/project/alibabacloud-tablestore20201209/"
+}
