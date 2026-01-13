@@ -1,0 +1,11 @@
+{
+  "name": "gllm-multimodal-binary",
+  "version": "0.3.1",
+  "summary": "A library containing multimodal components for Gen AI applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gllm_multimodal_binary-0.3.1-cp311-cp311-macosx_13_0_arm64.whl",
+  "download_time": "2026-01-13T11:18:40.474770",
+  "package_url": "https://pypi.org/project/gllm-multimodal-binary/"
+}

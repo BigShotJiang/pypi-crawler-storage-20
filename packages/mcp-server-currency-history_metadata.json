@@ -1,0 +1,11 @@
+{
+  "name": "mcp-server-currency-history",
+  "version": "0.1.0",
+  "summary": "A Model Context Protocol (MCP) server for fetching historical currency exchange rates using the Frankfurter API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_server_currency_history-0.1.0.tar.gz",
+  "download_time": "2026-01-13T11:18:33.210923",
+  "package_url": "https://pypi.org/project/mcp-server-currency-history/"
+}

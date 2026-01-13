@@ -1,0 +1,11 @@
+{
+  "name": "cdklabs.cdk-verified-permissions",
+  "version": "0.3.1",
+  "summary": "L2 AWS CDK Constructs for Amazon Verified Permissions",
+  "author": "Amazon Web Services<aws-cdk-dev@amazon.com>",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/cdklabs/cdk-verified-permissions.git",
+  "download_filename": "cdklabs_cdk_verified_permissions-0.3.1.tar.gz",
+  "download_time": "2026-01-13T11:18:43.096061",
+  "package_url": "https://pypi.org/project/cdklabs.cdk-verified-permissions/"
+}

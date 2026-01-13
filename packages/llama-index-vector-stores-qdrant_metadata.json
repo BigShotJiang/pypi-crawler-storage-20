@@ -1,0 +1,11 @@
+{
+  "name": "llama-index-vector-stores-qdrant",
+  "version": "0.9.1",
+  "summary": "llama-index vector_stores qdrant integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "llama_index_vector_stores_qdrant-0.9.1.tar.gz",
+  "download_time": "2026-01-13T11:18:07.195846",
+  "package_url": "https://pypi.org/project/llama-index-vector-stores-qdrant/"
+}

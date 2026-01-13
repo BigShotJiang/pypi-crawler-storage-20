@@ -1,11 +1,11 @@
 {
   "name": "cloudbase-agent-coze",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "Cloudbase Agent Python SDK - Coze framework integration",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "cloudbase_agent_coze-0.1.13.tar.gz",
-  "download_time": "2026-01-13T07:53:21.093110",
+  "download_filename": "cloudbase_agent_coze-0.1.14.tar.gz",
+  "download_time": "2026-01-13T11:18:00.383111",
   "package_url": "https://pypi.org/project/cloudbase-agent-coze/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "iqbench",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "A framework for comprehensive evaluation of Vision Language Models on visual analogy tasks.",
   "author": "Karolina Dunal, Zofia Kamińska",
   "license": null,
   "home_page": null,
-  "download_filename": "iqbench-0.1.1.tar.gz",
-  "download_time": "2026-01-12T22:19:50.672251",
+  "download_filename": "iqbench-0.1.2.tar.gz",
+  "download_time": "2026-01-13T11:18:39.937612",
   "package_url": "https://pypi.org/project/iqbench/"
 }

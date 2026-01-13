@@ -1,0 +1,11 @@
+{
+  "name": "pyMeticulous",
+  "version": "0.3.0",
+  "summary": "Integration with the meticulouscoffee machine via its REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymeticulous-0.3.0.tar.gz",
+  "download_time": "2026-01-13T11:18:25.926809",
+  "package_url": "https://pypi.org/project/pyMeticulous/"
+}

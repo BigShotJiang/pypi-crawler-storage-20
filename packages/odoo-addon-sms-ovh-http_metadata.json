@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sms-ovh-http",
+  "version": "16.0.1.0.0.4",
+  "summary": "Send sms using ovh http API",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/connector-telephony",
+  "download_filename": "odoo_addon_sms_ovh_http-16.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-13T11:18:38.897429",
+  "package_url": "https://pypi.org/project/odoo-addon-sms-ovh-http/"
+}

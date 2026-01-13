@@ -1,0 +1,11 @@
+{
+  "name": "complexity-tokenizer",
+  "version": "0.1.5",
+  "summary": "Fast BPE tokenizer in Rust with HuggingFace compatibility",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "complexity_tokenizer-0.1.5-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-13T11:18:16.038540",
+  "package_url": "https://pypi.org/project/complexity-tokenizer/"
+}
