@@ -1,0 +1,11 @@
+{
+  "name": "kaya-decomposition",
+  "version": "0.2.0",
+  "summary": "Kaya decomposition analysis for integrated-assessment scenario data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kaya_decomposition-0.2.0.tar.gz",
+  "download_time": "2026-01-13T07:52:48.460162",
+  "package_url": "https://pypi.org/project/kaya-decomposition/"
+}

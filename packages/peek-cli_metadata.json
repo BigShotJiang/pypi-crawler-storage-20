@@ -1,0 +1,11 @@
+{
+  "name": "peek-cli",
+  "version": "0.1.3",
+  "summary": "A lightning-fast CLI for inspecting CSVs and datasets in the terminal.",
+  "author": "Arnav Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "peek_cli-0.1.3.tar.gz",
+  "download_time": "2026-01-13T07:53:13.586122",
+  "package_url": "https://pypi.org/project/peek-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yamllint",
+  "version": "1.38.0",
+  "summary": "A linter for YAML files.",
+  "author": "Adrien Vergé",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yamllint-1.38.0.tar.gz",
+  "download_time": "2026-01-13T07:52:53.176474",
+  "package_url": "https://pypi.org/project/yamllint/"
+}

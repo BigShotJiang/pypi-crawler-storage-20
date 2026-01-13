@@ -1,11 +1,11 @@
 {
   "name": "trenchbroom-api",
-  "version": "0.1.0",
-  "summary": "Typing and helpers for TrenchBroom embedded Python module.",
+  "version": "0.1.3",
+  "summary": "Type stubs for TrenchBroom embedded Python module `tb`.",
   "author": "TrenchBroom community",
-  "license": "GPL-3.0-or-later",
+  "license": null,
   "home_page": null,
-  "download_filename": "trenchbroom_api-0.1.0.tar.gz",
-  "download_time": "2026-01-13T07:32:51.037237",
+  "download_filename": "trenchbroom_api-0.1.3.tar.gz",
+  "download_time": "2026-01-13T07:53:18.534623",
   "package_url": "https://pypi.org/project/trenchbroom-api/"
 }

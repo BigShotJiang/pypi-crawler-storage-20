@@ -1,0 +1,11 @@
+{
+  "name": "tomato-picovna",
+  "version": "2.1.0",
+  "summary": "This package is a part of tomato. It has been made for the automation of PicoVNA network analysers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tomato_picovna-2.1.0.tar.gz",
+  "download_time": "2026-01-13T07:52:56.342950",
+  "package_url": "https://pypi.org/project/tomato-picovna/"
+}

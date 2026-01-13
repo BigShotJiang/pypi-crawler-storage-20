@@ -1,0 +1,11 @@
+{
+  "name": "opgg.py",
+  "version": "3.1.0",
+  "summary": "An unofficial Python library for scraping/accessing data from OP.GG",
+  "author": "ShoobyDoo",
+  "license": null,
+  "home_page": null,
+  "download_filename": "opgg_py-3.1.0.tar.gz",
+  "download_time": "2026-01-13T07:53:19.045639",
+  "package_url": "https://pypi.org/project/opgg.py/"
+}

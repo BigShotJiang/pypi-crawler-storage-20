@@ -1,11 +1,11 @@
 {
   "name": "python-tuto-agent-init",
-  "version": "0.0.1a2",
-  "summary": "Package name reserved - real implementation coming soon",
+  "version": "0.1.0",
+  "summary": "A modern Python tutorial for agent initialization",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "python_tuto_agent_init-0.0.1a2.tar.gz",
-  "download_time": "2026-01-13T07:32:34.638891",
+  "download_filename": "python_tuto_agent_init-0.1.0.tar.gz",
+  "download_time": "2026-01-13T07:52:46.282623",
   "package_url": "https://pypi.org/project/python-tuto-agent-init/"
 }
