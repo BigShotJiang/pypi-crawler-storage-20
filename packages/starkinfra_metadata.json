@@ -1,0 +1,11 @@
+{
+  "name": "starkinfra",
+  "version": "0.24.0",
+  "summary": "SDK to facilitate Python integrations with Stark Infra",
+  "author": "Stark Infra",
+  "license": "MIT License",
+  "home_page": "https://github.com/starkinfra/sdk-python",
+  "download_filename": "starkinfra-0.24.0.tar.gz",
+  "download_time": "2026-01-13T22:19:44.534521",
+  "package_url": "https://pypi.org/project/starkinfra/"
+}

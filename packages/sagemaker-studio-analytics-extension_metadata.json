@@ -1,0 +1,11 @@
+{
+  "name": "sagemaker-studio-analytics-extension",
+  "version": "0.2.4",
+  "summary": "SageMaker Studio Analytics Extension",
+  "author": "Amazon Web Services",
+  "license": "Apache 2.0",
+  "home_page": "https://aws.amazon.com/sagemaker",
+  "download_filename": "sagemaker_studio_analytics_extension-0.2.4.tar.gz",
+  "download_time": "2026-01-13T22:19:49.399290",
+  "package_url": "https://pypi.org/project/sagemaker-studio-analytics-extension/"
+}

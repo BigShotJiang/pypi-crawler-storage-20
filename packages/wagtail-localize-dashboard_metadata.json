@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-localize-dashboard",
+  "version": "0.1.1",
+  "summary": "Translation dashboard for wagtail-localize with caching",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wagtail_localize_dashboard-0.1.1.tar.gz",
+  "download_time": "2026-01-13T22:19:47.760292",
+  "package_url": "https://pypi.org/project/wagtail-localize-dashboard/"
+}

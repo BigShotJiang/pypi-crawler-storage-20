@@ -1,0 +1,11 @@
+{
+  "name": "pyearth",
+  "version": "0.1.29",
+  "summary": "Python for Earth Science.",
+  "author": "Chang Liao",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/changliao1025/pyearth",
+  "download_filename": "pyearth-0.1.29.tar.gz",
+  "download_time": "2026-01-13T22:20:10.823491",
+  "package_url": "https://pypi.org/project/pyearth/"
+}

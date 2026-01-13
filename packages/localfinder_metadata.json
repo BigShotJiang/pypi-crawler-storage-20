@@ -1,0 +1,11 @@
+{
+  "name": "localfinder",
+  "version": "0.1.30",
+  "summary": "localfinder – calculate weighted local correlation (hmC) and enrichment significance (ES) between two genomic tracks, optionally discover significantly different regions(SDRs), and visualise results",
+  "author": "Pengfei Yin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "localfinder-0.1.30.tar.gz",
+  "download_time": "2026-01-13T22:20:17.673762",
+  "package_url": "https://pypi.org/project/localfinder/"
+}

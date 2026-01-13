@@ -1,0 +1,11 @@
+{
+  "name": "tomymaritano-chat-fastapi",
+  "version": "0.1.0",
+  "summary": "FastAPI backend SDK for conversational AI chatbots with plugin architecture",
+  "author": "Tomy Maritano",
+  "license": "MIT",
+  "home_page": "https://github.com/tomymaritano/tomymaritano-chat",
+  "download_filename": "tomymaritano_chat_fastapi-0.1.0.tar.gz",
+  "download_time": "2026-01-13T22:19:42.373679",
+  "package_url": "https://pypi.org/project/tomymaritano-chat-fastapi/"
+}

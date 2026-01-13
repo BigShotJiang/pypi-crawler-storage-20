@@ -1,0 +1,11 @@
+{
+  "name": "sentry-streams-k8s",
+  "version": "0.0.1",
+  "summary": "Kubernetes integration for Sentry Streams",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sentry_streams_k8s-0.0.1-py3-none-any.whl",
+  "download_time": "2026-01-13T22:19:39.656924",
+  "package_url": "https://pypi.org/project/sentry-streams-k8s/"
+}

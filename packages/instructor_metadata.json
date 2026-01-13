@@ -1,0 +1,11 @@
+{
+  "name": "instructor",
+  "version": "1.14.3",
+  "summary": "structured outputs for llm",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "instructor-1.14.3-py3-none-any.whl",
+  "download_time": "2026-01-13T22:20:20.261565",
+  "package_url": "https://pypi.org/project/instructor/"
+}
