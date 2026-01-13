@@ -1,0 +1,11 @@
+{
+  "name": "scdesigner",
+  "version": "0.0.8",
+  "summary": "Interactive simulation for rigorous and transparent multi-omics analysis.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scdesigner-0.0.8.tar.gz",
+  "download_time": "2026-01-13T01:20:46.134231",
+  "package_url": "https://pypi.org/project/scdesigner/"
+}

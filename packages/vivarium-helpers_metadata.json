@@ -1,0 +1,11 @@
+{
+  "name": "vivarium-helpers",
+  "version": "0.4.4",
+  "summary": "Tools maintained by the research side of the IHME simluation science team.",
+  "author": "Nathaniel Blair-Stahn, Beatrix Haddock",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ihmeuw/vivarium_helpers",
+  "download_filename": "vivarium_helpers-0.4.4.tar.gz",
+  "download_time": "2026-01-13T01:21:28.333319",
+  "package_url": "https://pypi.org/project/vivarium-helpers/"
+}

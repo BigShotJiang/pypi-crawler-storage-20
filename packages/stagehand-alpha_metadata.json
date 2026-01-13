@@ -1,11 +1,11 @@
 {
   "name": "stagehand-alpha",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "The official Python library for the stagehand API",
   "author": "Stagehand",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stagehand_alpha-0.3.0.tar.gz",
-  "download_time": "2026-01-12T21:42:41.190983",
+  "download_filename": "stagehand_alpha-0.3.1.tar.gz",
+  "download_time": "2026-01-13T01:21:31.555862",
   "package_url": "https://pypi.org/project/stagehand-alpha/"
 }

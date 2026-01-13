@@ -1,11 +1,11 @@
 {
   "name": "complexity-framework",
-  "version": "0.1.3",
+  "version": "0.2.1",
   "summary": "Modular Python framework for building LLMs with INL Dynamics stability",
   "author": null,
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "complexity_framework-0.1.3.tar.gz",
-  "download_time": "2026-01-12T23:43:42.892047",
+  "download_filename": "complexity_framework-0.2.1.tar.gz",
+  "download_time": "2026-01-13T01:21:19.188110",
   "package_url": "https://pypi.org/project/complexity-framework/"
 }

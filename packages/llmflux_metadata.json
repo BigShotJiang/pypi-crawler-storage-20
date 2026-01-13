@@ -1,0 +1,11 @@
+{
+  "name": "llmflux",
+  "version": "0.1.0",
+  "summary": "CLI tool for running LLM batch processing jobs on HPC systems with Ollama and vLLM",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "llmflux-0.1.0.tar.gz",
+  "download_time": "2026-01-13T01:21:19.714873",
+  "package_url": "https://pypi.org/project/llmflux/"
+}

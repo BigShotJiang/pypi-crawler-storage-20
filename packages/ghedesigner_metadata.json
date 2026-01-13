@@ -1,0 +1,11 @@
+{
+  "name": "ghedesigner",
+  "version": "2.1.0",
+  "summary": "A ground heat exchanger design tool with the capability to select and size flexibly configured borehole fields that are customized for specific building and property constraints.",
+  "author": "Jeffrey D. Spitler",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghedesigner-2.1.0.tar.gz",
+  "download_time": "2026-01-13T01:21:13.177800",
+  "package_url": "https://pypi.org/project/ghedesigner/"
+}

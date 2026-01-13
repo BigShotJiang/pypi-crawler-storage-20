@@ -1,0 +1,11 @@
+{
+  "name": "tomlkit",
+  "version": "0.14.0",
+  "summary": "Style preserving TOML library",
+  "author": "Sébastien Eustace",
+  "license": "MIT",
+  "home_page": "https://github.com/sdispater/tomlkit",
+  "download_filename": "tomlkit-0.14.0.tar.gz",
+  "download_time": "2026-01-13T01:20:54.848787",
+  "package_url": "https://pypi.org/project/tomlkit/"
+}

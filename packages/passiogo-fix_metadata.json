@@ -1,0 +1,11 @@
+{
+  "name": "passiogo-fix",
+  "version": "0.0.3",
+  "summary": "An unofficial Python API for Passio Go allowing anyone to build transit-based applications for hundreds of Universities, Municipalities, Paratransit, and Airports. Based on Andrei Thüler's API, with the vehicle latitude/longitude issue fixed.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passiogo_fix-0.0.3.tar.gz",
+  "download_time": "2026-01-13T01:21:20.237900",
+  "package_url": "https://pypi.org/project/passiogo-fix/"
+}
