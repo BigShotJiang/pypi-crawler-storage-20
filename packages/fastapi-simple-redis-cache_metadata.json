@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-simple-redis-cache",
+  "version": "2.0.0",
+  "summary": "Simple Cache Decorator for FastAPI",
+  "author": "Mitchell Karchemsky",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fastapi_simple_redis_cache-2.0.0.tar.gz",
+  "download_time": "2026-01-13T04:11:32.751017",
+  "package_url": "https://pypi.org/project/fastapi-simple-redis-cache/"
+}

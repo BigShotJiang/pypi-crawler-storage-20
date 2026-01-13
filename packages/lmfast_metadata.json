@@ -1,11 +1,11 @@
 {
   "name": "lmfast",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Democratized Small Language Model Training - Train, fine-tune, distill, and deploy sub-500M parameter models on Colab T4 in 30-40 minutes",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lmfast-0.3.4.tar.gz",
-  "download_time": "2026-01-12T18:28:31.468458",
+  "download_filename": "lmfast-0.3.5.tar.gz",
+  "download_time": "2026-01-13T04:11:18.676831",
   "package_url": "https://pypi.org/project/lmfast/"
 }

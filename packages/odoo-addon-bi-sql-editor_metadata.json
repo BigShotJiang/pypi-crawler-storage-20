@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-bi-sql-editor",
+  "version": "18.0.1.0.4.4",
+  "summary": "BI Views builder, based on Materialized or Normal SQL Views",
+  "author": "GRAP,Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/reporting-engine",
+  "download_filename": "odoo_addon_bi_sql_editor-18.0.1.0.4.4-py3-none-any.whl",
+  "download_time": "2026-01-13T04:11:13.020126",
+  "package_url": "https://pypi.org/project/odoo-addon-bi-sql-editor/"
+}

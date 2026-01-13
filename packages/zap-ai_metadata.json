@@ -1,0 +1,11 @@
+{
+  "name": "zap-ai",
+  "version": "0.3.1",
+  "summary": "Zach's Agent Platform is a library built on top of Temporal, FastMCP, and LiteLLM to build resilient agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zap_ai-0.3.1.tar.gz",
+  "download_time": "2026-01-13T04:11:09.413254",
+  "package_url": "https://pypi.org/project/zap-ai/"
+}

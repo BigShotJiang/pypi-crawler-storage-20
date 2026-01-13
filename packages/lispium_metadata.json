@@ -1,0 +1,11 @@
+{
+  "name": "lispium",
+  "version": "0.2.0",
+  "summary": "A Symbolic Computer Algebra System",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "lispium-0.2.0.tar.gz",
+  "download_time": "2026-01-13T04:11:29.088909",
+  "package_url": "https://pypi.org/project/lispium/"
+}

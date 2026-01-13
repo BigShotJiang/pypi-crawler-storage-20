@@ -1,0 +1,11 @@
+{
+  "name": "behringer_mixer",
+  "version": "0.4.12",
+  "summary": "Module to get basic information from Behringer digital mixers eg X32/XAir etc.",
+  "author": "wrodie",
+  "license": "MIT",
+  "home_page": "https://github.com/wrodie/behringer-mixer",
+  "download_filename": "behringer_mixer-0.4.12.tar.gz",
+  "download_time": "2026-01-13T04:11:26.972202",
+  "package_url": "https://pypi.org/project/behringer_mixer/"
+}

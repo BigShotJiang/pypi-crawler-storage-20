@@ -1,0 +1,11 @@
+{
+  "name": "lfm-upgrade",
+  "version": "5.0.1",
+  "summary": "38% Power Savings AI Upgrade with System-Level Copyright",
+  "author": "Keith Luton",
+  "license": "PROPRIETARY",
+  "home_page": "https://github.com/keithluton/lfm-ai-upgrade",
+  "download_filename": "lfm_upgrade-5.0.1.tar.gz",
+  "download_time": "2026-01-13T04:11:23.850203",
+  "package_url": "https://pypi.org/project/lfm-upgrade/"
+}

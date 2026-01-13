@@ -1,11 +1,11 @@
 {
   "name": "replimap",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "AWS Infrastructure Intelligence Engine — Scan, Understand, Transform",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "replimap-0.3.6.tar.gz",
-  "download_time": "2026-01-13T03:13:21.113214",
+  "download_filename": "replimap-0.3.7.tar.gz",
+  "download_time": "2026-01-13T04:11:06.832531",
   "package_url": "https://pypi.org/project/replimap/"
 }
