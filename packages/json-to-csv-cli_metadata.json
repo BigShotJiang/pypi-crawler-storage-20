@@ -1,0 +1,11 @@
+{
+  "name": "json-to-csv-cli",
+  "version": "0.1.0",
+  "summary": "CLI tool to convert JSON files into CSV format.",
+  "author": "jsonviewertool",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "json_to_csv_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-13T06:29:56.827758",
+  "package_url": "https://pypi.org/project/json-to-csv-cli/"
+}

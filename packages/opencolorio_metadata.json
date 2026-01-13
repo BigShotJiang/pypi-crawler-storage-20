@@ -1,0 +1,11 @@
+{
+  "name": "opencolorio",
+  "version": "2.5.1",
+  "summary": "OpenColorIO (OCIO) is a complete color management solution geared towards motion picture production with an emphasis on visual effects and computer animation.",
+  "author": "OpenColorIO Developers",
+  "license": "Copyright Contributors to the OpenColorIO Project.",
+  "home_page": "https://opencolorio.org/",
+  "download_filename": "opencolorio-2.5.1-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2026-01-13T06:30:08.043557",
+  "package_url": "https://pypi.org/project/opencolorio/"
+}
