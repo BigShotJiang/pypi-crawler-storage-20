@@ -1,0 +1,11 @@
+{
+  "name": "git-unite",
+  "version": "1.0.1",
+  "summary": "Manage multiple git repositories in one place.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_unite-1.0.1.tar.gz",
+  "download_time": "2026-01-13T07:33:02.602759",
+  "package_url": "https://pypi.org/project/git-unite/"
+}

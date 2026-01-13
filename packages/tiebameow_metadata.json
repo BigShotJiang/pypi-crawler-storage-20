@@ -1,11 +1,11 @@
 {
   "name": "tiebameow",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "Shared library for TiebaMeow services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tiebameow-0.2.7.tar.gz",
-  "download_time": "2026-01-13T06:59:44.778305",
+  "download_filename": "tiebameow-0.2.8.tar.gz",
+  "download_time": "2026-01-13T07:32:56.837787",
   "package_url": "https://pypi.org/project/tiebameow/"
 }

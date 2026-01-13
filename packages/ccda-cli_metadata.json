@@ -1,11 +1,11 @@
 {
   "name": "ccda-cli",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "summary": "CLI tool for collecting software supply chain security metrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ccda_cli-0.1.10.tar.gz",
-  "download_time": "2026-01-12T22:20:12.917865",
+  "download_filename": "ccda_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-13T07:32:46.339562",
   "package_url": "https://pypi.org/project/ccda-cli/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tradestation-downloader",
+  "version": "1.0.3",
+  "summary": "Download and analyze historical futures data from TradeStation API",
+  "author": "TradeStation Downloader Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tradestation_downloader-1.0.3.tar.gz",
+  "download_time": "2026-01-13T07:32:42.986422",
+  "package_url": "https://pypi.org/project/tradestation-downloader/"
+}

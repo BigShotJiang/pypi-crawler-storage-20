@@ -1,0 +1,11 @@
+{
+  "name": "Gixy-Next",
+  "version": "0.1.2",
+  "summary": "Open source NGINX configuration security scanner for detecting nginx security/performance misconfigurations",
+  "author": "Joshua Rogers",
+  "license": "MPL-2.0",
+  "home_page": "https://gixy.io/",
+  "download_filename": "gixy_next-0.1.2.tar.gz",
+  "download_time": "2026-01-13T07:33:09.443077",
+  "package_url": "https://pypi.org/project/Gixy-Next/"
+}

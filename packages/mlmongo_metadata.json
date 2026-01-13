@@ -1,11 +1,11 @@
 {
   "name": "mlmongo",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "summary": "mongodb数据库操作工具类",
   "author": "mengling",
   "license": null,
   "home_page": "https://www.python.org",
-  "download_filename": "mlmongo-2.0.2.tar.gz",
-  "download_time": "2026-01-13T06:59:51.669197",
+  "download_filename": "mlmongo-2.0.3.tar.gz",
+  "download_time": "2026-01-13T07:33:03.123413",
   "package_url": "https://pypi.org/project/mlmongo/"
 }

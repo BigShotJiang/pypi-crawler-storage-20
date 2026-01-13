@@ -1,11 +1,11 @@
 {
   "name": "date-model",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "summary": "Universal Date Parsing Engine",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "date_model-1.1.0.tar.gz",
-  "download_time": "2026-01-13T06:59:40.428534",
+  "download_filename": "date_model-1.1.2.tar.gz",
+  "download_time": "2026-01-13T07:32:54.197310",
   "package_url": "https://pypi.org/project/date-model/"
 }
