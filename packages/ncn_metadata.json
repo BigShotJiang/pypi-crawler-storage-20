@@ -1,0 +1,11 @@
+{
+  "name": "ncn",
+  "version": "0.0.2",
+  "summary": "Use cnc to name, parse and find nominal composition notation.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ncn-0.0.2.tar.gz",
+  "download_time": "2026-01-14T07:37:56.515677",
+  "package_url": "https://pypi.org/project/ncn/"
+}

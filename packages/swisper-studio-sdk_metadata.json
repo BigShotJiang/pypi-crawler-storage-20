@@ -1,0 +1,11 @@
+{
+  "name": "swisper-studio-sdk",
+  "version": "0.6.0",
+  "summary": "SwisperStudio SDK - Zero-config tracing for LangGraph applications",
+  "author": "Fintama SwisperStudio Team",
+  "license": "Proprietary - Fintama Internal Use Only",
+  "home_page": null,
+  "download_filename": "swisper_studio_sdk-0.6.0.tar.gz",
+  "download_time": "2026-01-14T07:37:51.939586",
+  "package_url": "https://pypi.org/project/swisper-studio-sdk/"
+}

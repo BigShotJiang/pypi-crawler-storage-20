@@ -1,0 +1,11 @@
+{
+  "name": "gllm-datastore-binary",
+  "version": "0.5.47",
+  "summary": "A library containing data store components for Gen AI applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gllm_datastore_binary-0.5.47-cp311-cp311-macosx_13_0_arm64.whl",
+  "download_time": "2026-01-14T07:37:57.095615",
+  "package_url": "https://pypi.org/project/gllm-datastore-binary/"
+}

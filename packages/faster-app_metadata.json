@@ -1,11 +1,11 @@
 {
   "name": "faster-app",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "一个轻量级的 Python Web 框架, 提供自动发现、模型基类、命令行工具等功能",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "faster_app-0.1.6.tar.gz",
-  "download_time": "2026-01-14T04:34:29.692780",
+  "download_filename": "faster_app-0.1.7.tar.gz",
+  "download_time": "2026-01-14T07:37:55.415114",
   "package_url": "https://pypi.org/project/faster-app/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pygaul",
+  "version": "0.4.2",
+  "summary": "Easy access to administrative boundary defined by FAO GAUL from Python scripts",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pygaul-0.4.2.tar.gz",
+  "download_time": "2026-01-14T07:37:49.128077",
+  "package_url": "https://pypi.org/project/pygaul/"
+}

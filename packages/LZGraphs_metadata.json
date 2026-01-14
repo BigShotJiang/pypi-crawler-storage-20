@@ -1,0 +1,11 @@
+{
+  "name": "LZGraphs",
+  "version": "1.2.0",
+  "summary": "An Implementation of LZ76 Based Graphs for Repertoire Representation and Analysis",
+  "author": "Thomas Konstantinovsky",
+  "license": "MIT",
+  "home_page": "https://github.com/MuteJester/LZGraphs",
+  "download_filename": "lzgraphs-1.2.0.tar.gz",
+  "download_time": "2026-01-14T07:38:02.744234",
+  "package_url": "https://pypi.org/project/LZGraphs/"
+}
