@@ -1,0 +1,11 @@
+{
+  "name": "opencap-visualizer",
+  "version": "1.2.0",
+  "summary": "Tool for creating videos from OpenCap biomechanics data with both CLI and Python API",
+  "author": "Selim Gilon",
+  "license": "MIT",
+  "home_page": "https://github.com/utahmobl/opencap-visualizer",
+  "download_filename": "opencap_visualizer-1.2.0.tar.gz",
+  "download_time": "2026-01-14T13:59:43.196725",
+  "package_url": "https://pypi.org/project/opencap-visualizer/"
+}

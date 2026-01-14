@@ -1,0 +1,11 @@
+{
+  "name": "pueue-tui",
+  "version": "0.1.0",
+  "summary": "A beautiful terminal UI for monitoring pueue tasks",
+  "author": "Marcin Miklitz",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pueue_tui-0.1.0.tar.gz",
+  "download_time": "2026-01-14T14:00:00.806306",
+  "package_url": "https://pypi.org/project/pueue-tui/"
+}

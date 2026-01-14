@@ -1,0 +1,11 @@
+{
+  "name": "charting-by-machines",
+  "version": "0.2.0",
+  "summary": "ML-based portfolio selection from historical price patterns (Murray, Xia, Xiao 2024)",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "charting_by_machines-0.2.0.tar.gz",
+  "download_time": "2026-01-14T13:59:59.761167",
+  "package_url": "https://pypi.org/project/charting-by-machines/"
+}

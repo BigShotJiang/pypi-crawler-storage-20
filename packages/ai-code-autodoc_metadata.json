@@ -1,0 +1,11 @@
+{
+  "name": "ai-code-autodoc",
+  "version": "0.11.3",
+  "summary": "AI-powered code intelligence tool for analyzing and documenting codebases",
+  "author": "Autodoc Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ai_code_autodoc-0.11.3.tar.gz",
+  "download_time": "2026-01-14T13:59:35.236315",
+  "package_url": "https://pypi.org/project/ai-code-autodoc/"
+}

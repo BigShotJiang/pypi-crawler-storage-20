@@ -1,0 +1,11 @@
+{
+  "name": "fuzzy4",
+  "version": "0.1.0",
+  "summary": "4-valued fuzzy logic library based on Belnap logic",
+  "author": "Mihail Gribov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fuzzy4-0.1.0.tar.gz",
+  "download_time": "2026-01-14T13:59:39.495386",
+  "package_url": "https://pypi.org/project/fuzzy4/"
+}
