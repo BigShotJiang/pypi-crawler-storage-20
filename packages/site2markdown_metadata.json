@@ -1,11 +1,11 @@
 {
   "name": "site2markdown",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Convert URL content to markdown for better LLM context.",
   "author": "Sumit Banik",
   "license": null,
   "home_page": null,
-  "download_filename": "site2markdown-1.0.1.tar.gz",
-  "download_time": "2026-01-14T22:20:30.445793",
+  "download_filename": "site2markdown-1.0.2.tar.gz",
+  "download_time": "2026-01-14T22:49:02.430997",
   "package_url": "https://pypi.org/project/site2markdown/"
 }

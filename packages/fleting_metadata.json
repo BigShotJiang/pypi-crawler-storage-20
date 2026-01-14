@@ -1,11 +1,11 @@
 {
   "name": "fleting",
-  "version": "1.1.27",
+  "version": "1.1.30",
   "summary": "Micro-framework MVC baseado em Flet para aplicações mobile, tablet e desktop",
   "author": "Alex Yucra",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "fleting-1.1.27.tar.gz",
-  "download_time": "2026-01-12T21:18:23.495108",
+  "download_filename": "fleting-1.1.30.tar.gz",
+  "download_time": "2026-01-14T22:48:52.381019",
   "package_url": "https://pypi.org/project/fleting/"
 }

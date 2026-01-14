@@ -1,0 +1,11 @@
+{
+  "name": "raysurfer",
+  "version": "0.2.0",
+  "summary": "Python SDK for RaySurfer - code block caching and retrieval for AI agents with Claude Agent SDK integration",
+  "author": "Raymond Xu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "raysurfer-0.2.0.tar.gz",
+  "download_time": "2026-01-14T22:48:39.637814",
+  "package_url": "https://pypi.org/project/raysurfer/"
+}

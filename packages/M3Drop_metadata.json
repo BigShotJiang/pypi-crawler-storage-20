@@ -1,11 +1,11 @@
 {
   "name": "M3Drop",
-  "version": "0.4.34",
+  "version": "0.4.36",
   "summary": "A Python implementation of the M3Drop single-cell RNA-seq analysis tool.",
   "author": "Tallulah Andrews",
   "license": "MIT",
   "home_page": "https://github.com/PragalvhaSharma/m3DropNew",
-  "download_filename": "m3drop-0.4.34.tar.gz",
-  "download_time": "2026-01-13T23:51:33.209430",
+  "download_filename": "m3drop-0.4.36.tar.gz",
+  "download_time": "2026-01-14T22:48:46.222478",
   "package_url": "https://pypi.org/project/M3Drop/"
 }

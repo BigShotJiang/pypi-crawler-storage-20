@@ -1,11 +1,11 @@
 {
   "name": "ghlang",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "summary": "Generate language statistics and visualizations from GitHub repositories or local files",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ghlang-3.0.0.tar.gz",
-  "download_time": "2026-01-14T22:20:42.273853",
+  "download_filename": "ghlang-3.0.1.tar.gz",
+  "download_time": "2026-01-14T22:48:30.203652",
   "package_url": "https://pypi.org/project/ghlang/"
 }

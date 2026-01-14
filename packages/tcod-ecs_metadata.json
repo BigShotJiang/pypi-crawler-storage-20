@@ -1,0 +1,11 @@
+{
+  "name": "tcod-ecs",
+  "version": "5.5.0",
+  "summary": "A type-hinted Entity Component System based on Python dictionaries and sets.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcod_ecs-5.5.0.tar.gz",
+  "download_time": "2026-01-14T22:48:36.727679",
+  "package_url": "https://pypi.org/project/tcod-ecs/"
+}

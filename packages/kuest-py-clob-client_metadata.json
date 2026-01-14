@@ -1,0 +1,11 @@
+{
+  "name": "kuest-py-clob-client",
+  "version": "0.34.4",
+  "summary": "Python client for the Kuest CLOB",
+  "author": "Kuest Engineering",
+  "license": null,
+  "home_page": "https://github.com/kuestcom/py-clob-client",
+  "download_filename": "kuest_py_clob_client-0.34.4.tar.gz",
+  "download_time": "2026-01-14T22:49:13.633633",
+  "package_url": "https://pypi.org/project/kuest-py-clob-client/"
+}

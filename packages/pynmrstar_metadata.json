@@ -1,0 +1,11 @@
+{
+  "name": "pynmrstar",
+  "version": "3.3.6",
+  "summary": "PyNMR-STAR provides tools for reading, writing, modifying, and interacting with NMR-STAR files. Maintained by the BMRB.",
+  "author": "Jon Wedell",
+  "license": "MIT",
+  "home_page": "https://github.com/uwbmrb/PyNMRSTAR",
+  "download_filename": "pynmrstar-3.3.6.tar.gz",
+  "download_time": "2026-01-14T22:48:24.799401",
+  "package_url": "https://pypi.org/project/pynmrstar/"
+}

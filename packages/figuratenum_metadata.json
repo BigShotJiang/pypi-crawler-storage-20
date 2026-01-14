@@ -1,0 +1,11 @@
+{
+  "name": "figuratenum",
+  "version": "2.1.1",
+  "summary": "Generate 235 infinite figurate number sequences across multiple dimensions for mathematical research, applications, and exploration in Python.",
+  "author": "Edgar Armando Delgado Vega",
+  "license": null,
+  "home_page": null,
+  "download_filename": "figuratenum-2.1.1.tar.gz",
+  "download_time": "2026-01-14T22:49:01.407311",
+  "package_url": "https://pypi.org/project/figuratenum/"
+}

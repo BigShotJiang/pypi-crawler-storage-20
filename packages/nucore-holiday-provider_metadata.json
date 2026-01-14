@@ -1,0 +1,11 @@
+{
+  "name": "nucore-holiday-provider",
+  "version": "1.0.0",
+  "summary": "Baseclass for holiday providers for NuCore",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nucore_holiday_provider-1.0.0.tar.gz",
+  "download_time": "2026-01-14T22:49:04.171558",
+  "package_url": "https://pypi.org/project/nucore-holiday-provider/"
+}

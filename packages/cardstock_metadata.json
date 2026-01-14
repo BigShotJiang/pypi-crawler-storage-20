@@ -1,0 +1,11 @@
+{
+  "name": "cardstock",
+  "version": "0.99.9",
+  "summary": "A simple development and rapid prototyping tool for quickly building multi-platform desktop programs and web apps.",
+  "author": "Ben Levitt",
+  "license": null,
+  "home_page": "https://github.com/benjie-git/CardStock/wiki",
+  "download_filename": "cardstock-0.99.9.tar.gz",
+  "download_time": "2026-01-14T22:48:47.971038",
+  "package_url": "https://pypi.org/project/cardstock/"
+}

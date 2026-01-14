@@ -1,11 +1,11 @@
 {
   "name": "wcheck",
-  "version": "0.5.0",
+  "version": "0.5.4",
   "summary": "Manage a workspace of git repositories",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wcheck-0.5.0.tar.gz",
-  "download_time": "2026-01-14T20:45:54.342514",
+  "download_filename": "wcheck-0.5.4.tar.gz",
+  "download_time": "2026-01-14T22:48:40.216534",
   "package_url": "https://pypi.org/project/wcheck/"
 }
