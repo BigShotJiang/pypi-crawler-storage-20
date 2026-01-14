@@ -1,0 +1,11 @@
+{
+  "name": "tns-pii-engine",
+  "version": "1.0.0",
+  "summary": "Enterprise PII Masking, Tokenization & Encryption Module",
+  "author": "Naveenkumar Koppala",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tns_pii_engine-1.0.0.tar.gz",
+  "download_time": "2026-01-14T11:54:29.777390",
+  "package_url": "https://pypi.org/project/tns-pii-engine/"
+}

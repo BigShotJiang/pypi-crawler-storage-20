@@ -1,11 +1,11 @@
 {
   "name": "spark-cli",
-  "version": "0.1.1",
-  "summary": "Your intelligent code snippet manager",
-  "author": "Your Name",
+  "version": "0.4.1",
+  "summary": "Your intelligent code snippet manager for developers",
+  "author": "zeroequalsone",
   "license": null,
-  "home_page": "https://github.com/yourusername/spark-cli",
-  "download_filename": "spark_cli-0.1.1.tar.gz",
-  "download_time": "2026-01-14T09:27:11.207432",
+  "home_page": "https://github.com/zeroequalsone/spark-cli",
+  "download_filename": "spark_cli-0.4.1.tar.gz",
+  "download_time": "2026-01-14T11:54:09.217462",
   "package_url": "https://pypi.org/project/spark-cli/"
 }

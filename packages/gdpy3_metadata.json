@@ -1,0 +1,11 @@
+{
+  "name": "gdpy3",
+  "version": "0.8.5",
+  "summary": "Gyrokinetic Toroidal Code Data Processing tools written in python3",
+  "author": "shmilee",
+  "license": "MIT",
+  "home_page": "https://github.com/shmilee/gdpy3.git",
+  "download_filename": "gdpy3-0.8.5-py3-none-any.whl",
+  "download_time": "2026-01-14T11:54:27.208649",
+  "package_url": "https://pypi.org/project/gdpy3/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "composio-openai-agents",
-  "version": "0.10.6",
+  "version": "0.10.7",
   "summary": "Use Composio to get array of strongly typed tools for OpenAI Agents",
   "author": "Composio",
   "license": null,
   "home_page": "https://github.com/ComposioHQ/composio",
-  "download_filename": "composio_openai_agents-0.10.6.tar.gz",
-  "download_time": "2026-01-13T08:56:27.801939",
+  "download_filename": "composio_openai_agents-0.10.7.tar.gz",
+  "download_time": "2026-01-14T11:54:18.791061",
   "package_url": "https://pypi.org/project/composio-openai-agents/"
 }

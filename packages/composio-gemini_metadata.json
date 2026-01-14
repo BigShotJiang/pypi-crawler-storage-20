@@ -1,11 +1,11 @@
 {
   "name": "composio-gemini",
-  "version": "0.10.6",
+  "version": "0.10.7",
   "summary": "Use Composio to get an array of tools with your Gemini agent.",
   "author": "Composio",
   "license": null,
   "home_page": "https://github.com/ComposioHQ/composio",
-  "download_filename": "composio_gemini-0.10.6.tar.gz",
-  "download_time": "2026-01-13T08:56:31.441052",
+  "download_filename": "composio_gemini-0.10.7.tar.gz",
+  "download_time": "2026-01-14T11:54:22.515618",
   "package_url": "https://pypi.org/project/composio-gemini/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pysteps",
+  "version": "1.19.1",
+  "summary": "Python framework for short-term ensemble prediction systems",
+  "author": "PySteps developers",
+  "license": "LICENSE",
+  "home_page": "https://pysteps.github.io/",
+  "download_filename": "pysteps-1.19.1.tar.gz",
+  "download_time": "2026-01-14T11:54:28.234519",
+  "package_url": "https://pypi.org/project/pysteps/"
+}
