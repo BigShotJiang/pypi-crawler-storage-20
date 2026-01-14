@@ -1,0 +1,11 @@
+{
+  "name": "bigcommerce-toolkit",
+  "version": "0.1.14",
+  "summary": "A UNIX-style tool which provides easy access to BigCommerce's API from the command line.",
+  "author": "Joey Hoer",
+  "license": null,
+  "home_page": "https://github.com/TrellisCommerce/bigcommerce-toolkit",
+  "download_filename": "bigcommerce_toolkit-0.1.14.tar.gz",
+  "download_time": "2026-01-14T16:58:05.610758",
+  "package_url": "https://pypi.org/project/bigcommerce-toolkit/"
+}

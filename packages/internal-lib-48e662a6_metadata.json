@@ -1,11 +1,11 @@
 {
   "name": "internal-lib-48e662a6",
-  "version": "0.1.0a1",
-  "summary": "Internal utility package - DO NOT USE",
+  "version": "0.1.0a6",
+  "summary": "Internal utility package",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "internal_lib_48e662a6-0.1.0a1.tar.gz",
-  "download_time": "2026-01-14T11:19:43.857336",
+  "download_filename": "internal_lib_48e662a6-0.1.0a6.tar.gz",
+  "download_time": "2026-01-14T16:57:35.711985",
   "package_url": "https://pypi.org/project/internal-lib-48e662a6/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "phases",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "An Execution Framework for pyPhase projects",
   "author": "Franz Ehrlich",
   "license": null,
   "home_page": "https://gitlab.com/tud.ibmt/phases",
-  "download_filename": "phases-1.4.0.tar.gz",
-  "download_time": "2026-01-14T08:27:03.668914",
+  "download_filename": "phases-1.4.1.tar.gz",
+  "download_time": "2026-01-14T16:57:38.315729",
   "package_url": "https://pypi.org/project/phases/"
 }

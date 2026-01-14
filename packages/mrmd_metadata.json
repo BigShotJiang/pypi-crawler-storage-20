@@ -1,11 +1,11 @@
 {
   "name": "mrmd",
-  "version": "0.9.12",
+  "version": "0.9.14",
   "summary": "Collaborative markdown notebooks - edit and run code together",
   "author": "Maxime",
   "license": null,
   "home_page": null,
-  "download_filename": "mrmd-0.9.12.tar.gz",
-  "download_time": "2026-01-14T16:27:40.108643",
+  "download_filename": "mrmd-0.9.14.tar.gz",
+  "download_time": "2026-01-14T16:58:16.032252",
   "package_url": "https://pypi.org/project/mrmd/"
 }

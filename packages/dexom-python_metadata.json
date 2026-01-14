@@ -1,0 +1,11 @@
+{
+  "name": "dexom-python",
+  "version": "2.2",
+  "summary": "DEXOM implementation in python using cobrapy",
+  "author": "Maximilian Stingl",
+  "license": "GPL-3.0",
+  "home_page": "https://forge.inrae.fr/metexplore/cbm/dexom-python",
+  "download_filename": "dexom_python-2.2.tar.gz",
+  "download_time": "2026-01-14T16:58:19.665296",
+  "package_url": "https://pypi.org/project/dexom-python/"
+}

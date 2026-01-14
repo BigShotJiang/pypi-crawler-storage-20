@@ -1,0 +1,11 @@
+{
+  "name": "substrate-interface",
+  "version": "1.8.0",
+  "summary": "Library for interfacing with a Substrate node",
+  "author": "Stichting Polkascan (Polkascan Foundation)",
+  "license": null,
+  "home_page": "https://github.com/polkascan/py-substrate-interface",
+  "download_filename": "substrate_interface-1.8.0.tar.gz",
+  "download_time": "2026-01-14T16:58:00.462164",
+  "package_url": "https://pypi.org/project/substrate-interface/"
+}

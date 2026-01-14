@@ -1,0 +1,11 @@
+{
+  "name": "netbox-ip-monitor",
+  "version": "0.1.3",
+  "summary": "Visual representation of IP addresses",
+  "author": "Alexander Burmatov",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/Future998/netbox-ip-monitor",
+  "download_filename": "netbox_ip_monitor-0.1.3.tar.gz",
+  "download_time": "2026-01-14T16:58:18.621336",
+  "package_url": "https://pypi.org/project/netbox-ip-monitor/"
+}

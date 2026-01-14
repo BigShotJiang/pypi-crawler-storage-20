@@ -1,0 +1,11 @@
+{
+  "name": "libdenavit",
+  "version": "0.3",
+  "summary": "A Python library for structural engineering research.",
+  "author": "Mark Denavit",
+  "license": "MIT",
+  "home_page": "https://github.com/denavit/libdenavit-py",
+  "download_filename": "libdenavit-0.3.tar.gz",
+  "download_time": "2026-01-14T16:57:59.941160",
+  "package_url": "https://pypi.org/project/libdenavit/"
+}
