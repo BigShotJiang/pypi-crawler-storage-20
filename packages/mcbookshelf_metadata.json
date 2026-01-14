@@ -1,11 +1,11 @@
 {
   "name": "mcbookshelf",
-  "version": "3.2.1",
+  "version": "3.2.1.post3",
   "summary": "Scripts for Bookshelf and the GitHub pipeline.",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "mcbookshelf-3.2.1.tar.gz",
-  "download_time": "2026-01-12T17:37:41.114143",
+  "download_filename": "mcbookshelf-3.2.1.post3.tar.gz",
+  "download_time": "2026-01-14T03:23:29.622546",
   "package_url": "https://pypi.org/project/mcbookshelf/"
 }

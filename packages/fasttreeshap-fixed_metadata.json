@@ -1,0 +1,11 @@
+{
+  "name": "fasttreeshap-fixed",
+  "version": "0.1.4",
+  "summary": "FastTreeSHAP with XGBoost 2.0+, NumPy 2.0+ compatibility and bug fixes",
+  "author": "Matt Heitz (fork maintainer)",
+  "license": "BSD 2-CLAUSE",
+  "home_page": "https://github.com/mattheitz/fasttreeshap-fixed",
+  "download_filename": "fasttreeshap_fixed-0.1.4.tar.gz",
+  "download_time": "2026-01-14T03:23:25.466719",
+  "package_url": "https://pypi.org/project/fasttreeshap-fixed/"
+}

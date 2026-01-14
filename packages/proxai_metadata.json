@@ -1,11 +1,11 @@
 {
   "name": "proxai",
-  "version": "0.2.18",
+  "version": "0.2.19",
   "summary": "ProxAI is a lightweight abstraction layer for foundational AI model connections.",
   "author": "proxai",
   "license": "MIT",
   "home_page": "https://proxai.co",
-  "download_filename": "proxai-0.2.18.tar.gz",
-  "download_time": "2026-01-12T21:52:20.605669",
+  "download_filename": "proxai-0.2.19.tar.gz",
+  "download_time": "2026-01-14T03:22:44.295647",
   "package_url": "https://pypi.org/project/proxai/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vercel-cli",
+  "version": "50.3.2",
+  "summary": "Vercel CLI packaged for Python (bundled Node.js, vendored npm)",
+  "author": "Nuage",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vercel_cli-50.3.2.tar.gz",
+  "download_time": "2026-01-14T03:23:36.517890",
+  "package_url": "https://pypi.org/project/vercel-cli/"
+}

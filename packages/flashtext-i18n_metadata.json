@@ -1,11 +1,11 @@
 {
   "name": "flashtext-i18n",
-  "version": "3.0.0",
+  "version": "3.1.1",
   "summary": "Extract/Replace keywords in sentences. Fork with internationalization fixes for CJK and Unicode.",
   "author": "termdock & Huang Chung Yi",
-  "license": null,
+  "license": "MIT",
   "home_page": "https://github.com/termdock/flashtext-i18n",
-  "download_filename": "flashtext_i18n-3.0.0.tar.gz",
-  "download_time": "2026-01-13T10:50:35.968022",
+  "download_filename": "flashtext_i18n-3.1.1.tar.gz",
+  "download_time": "2026-01-14T03:23:27.174691",
   "package_url": "https://pypi.org/project/flashtext-i18n/"
 }

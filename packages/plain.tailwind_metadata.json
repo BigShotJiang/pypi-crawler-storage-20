@@ -1,11 +1,11 @@
 {
   "name": "plain.tailwind",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "summary": "Integrate Tailwind CSS without JavaScript or npm.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_tailwind-0.18.0.tar.gz",
-  "download_time": "2026-01-13T14:39:35.018671",
+  "download_filename": "plain_tailwind-0.19.0.tar.gz",
+  "download_time": "2026-01-14T03:22:58.249197",
   "package_url": "https://pypi.org/project/plain.tailwind/"
 }

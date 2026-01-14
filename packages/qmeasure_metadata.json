@@ -1,0 +1,11 @@
+{
+  "name": "qmeasure",
+  "version": "1.2.0",
+  "summary": "Measurement code for condensed matter groups at UW based on QCoDeS.",
+  "author": "Christian Rose",
+  "license": null,
+  "home_page": null,
+  "download_filename": "qmeasure-1.2.0.tar.gz",
+  "download_time": "2026-01-14T03:23:15.409360",
+  "package_url": "https://pypi.org/project/qmeasure/"
+}

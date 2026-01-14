@@ -1,11 +1,11 @@
 {
   "name": "plain.auth",
-  "version": "0.23.0",
+  "version": "0.25.0",
   "summary": "Add users to your app and decide what they can access.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_auth-0.23.0.tar.gz",
-  "download_time": "2026-01-13T14:39:44.439126",
+  "download_filename": "plain_auth-0.25.0.tar.gz",
+  "download_time": "2026-01-14T03:23:12.426307",
   "package_url": "https://pypi.org/project/plain.auth/"
 }
