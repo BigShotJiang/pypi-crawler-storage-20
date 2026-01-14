@@ -1,0 +1,11 @@
+{
+  "name": "zhinst-utils",
+  "version": "0.7.1",
+  "summary": "Zurich Instruments utils for device control",
+  "author": "Zurich Instrument",
+  "license": null,
+  "home_page": "https://github.com/zhinst/zhinst-utils",
+  "download_filename": "zhinst_utils-0.7.1-py3-none-any.whl",
+  "download_time": "2026-01-14T14:32:09.963558",
+  "package_url": "https://pypi.org/project/zhinst-utils/"
+}

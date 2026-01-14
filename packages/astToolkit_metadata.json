@@ -1,0 +1,11 @@
+{
+  "name": "astToolkit",
+  "version": "0.11.0",
+  "summary": "A powerfully composable, type-safe toolkit for Python abstract syntax tree (AST) manipulation, analysis, transformation, and code generation with a layered architecture designed for building sophisticated code processing assembly-lines.",
+  "author": null,
+  "license": "CC-BY-NC-4.0",
+  "home_page": null,
+  "download_filename": "asttoolkit-0.11.0.tar.gz",
+  "download_time": "2026-01-14T14:32:07.345405",
+  "package_url": "https://pypi.org/project/astToolkit/"
+}

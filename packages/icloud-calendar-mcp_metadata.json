@@ -1,0 +1,11 @@
+{
+  "name": "icloud-calendar-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for iCloud Calendar access via CalDAV",
+  "author": "Onekash Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "icloud_calendar_mcp-1.0.1.tar.gz",
+  "download_time": "2026-01-14T14:32:01.057208",
+  "package_url": "https://pypi.org/project/icloud-calendar-mcp/"
+}

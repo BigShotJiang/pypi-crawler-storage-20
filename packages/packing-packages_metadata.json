@@ -1,0 +1,11 @@
+{
+  "name": "packing-packages",
+  "version": "0.4.0",
+  "summary": "This module provides functionality to pack conda environments and their dependencies into a specified directory.",
+  "author": "yu9824",
+  "license": null,
+  "home_page": null,
+  "download_filename": "packing_packages-0.4.0.tar.gz",
+  "download_time": "2026-01-14T14:31:56.140302",
+  "package_url": "https://pypi.org/project/packing-packages/"
+}

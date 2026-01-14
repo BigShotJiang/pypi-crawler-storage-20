@@ -1,0 +1,11 @@
+{
+  "name": "sisu-wrapper",
+  "version": "0.2.0",
+  "summary": "A lightweight wrapper for the Aalto University Sisu API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sisu_wrapper-0.2.0.tar.gz",
+  "download_time": "2026-01-14T14:32:24.260276",
+  "package_url": "https://pypi.org/project/sisu-wrapper/"
+}

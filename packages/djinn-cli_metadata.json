@@ -1,0 +1,11 @@
+{
+  "name": "djinn-cli",
+  "version": "2.3.3",
+  "summary": "AI-powered CLI that converts natural language into shell commands. Built-in tools for DevOps, Security, Development, and Productivity.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djinn_cli-2.3.3.tar.gz",
+  "download_time": "2026-01-14T14:31:42.511672",
+  "package_url": "https://pypi.org/project/djinn-cli/"
+}

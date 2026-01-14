@@ -1,0 +1,11 @@
+{
+  "name": "klovis",
+  "version": "0.6.1",
+  "summary": "Data preprocessing library for Retrieval-Augmented Generation (RAG) systems.",
+  "author": "Houzelle Eric",
+  "license": "LICENSE",
+  "home_page": "https://github.com/klovis-ai/klovis",
+  "download_filename": "klovis-0.6.1.tar.gz",
+  "download_time": "2026-01-14T14:32:18.951752",
+  "package_url": "https://pypi.org/project/klovis/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adnus",
+  "version": "0.1.8",
+  "summary": "A Python library for Advanced Number Systems (AdNuS), including Bicomplex, Neutrosophic, Hyperreal numbers, reals, Complex, Quaternion, Octonion, Sedenion, Pathion, Chingon, Routon, Voudon.",
+  "author": "Mehmet Keçeci",
+  "license": "MIT",
+  "home_page": "https://github.com/WhiteSymmetry/adnus",
+  "download_filename": "adnus-0.1.8.tar.gz",
+  "download_time": "2026-01-14T14:31:55.100643",
+  "package_url": "https://pypi.org/project/adnus/"
+}

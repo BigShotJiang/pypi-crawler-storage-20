@@ -1,11 +1,11 @@
 {
   "name": "napcat-sdk",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "NapCat SDK for Python - Fully typed and async ready",
   "author": "吴天一",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "napcat_sdk-0.1.7.tar.gz",
-  "download_time": "2026-01-14T13:29:19.915686",
+  "download_filename": "napcat_sdk-0.1.9.tar.gz",
+  "download_time": "2026-01-14T14:31:51.963223",
   "package_url": "https://pypi.org/project/napcat-sdk/"
 }

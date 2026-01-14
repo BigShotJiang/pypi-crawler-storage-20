@@ -1,0 +1,11 @@
+{
+  "name": "imcntr",
+  "version": "1.0.0",
+  "summary": "A package providing an API for imaging controller based on an Arduino Nano Every to communicate via serial port.",
+  "author": "Clemens Trunner",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "imcntr-1.0.0.tar.gz",
+  "download_time": "2026-01-14T14:32:09.442630",
+  "package_url": "https://pypi.org/project/imcntr/"
+}

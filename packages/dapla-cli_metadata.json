@@ -1,0 +1,11 @@
+{
+  "name": "dapla-cli",
+  "version": "0.3.0",
+  "summary": "Dapla CLI",
+  "author": "Team Statistikktjenester",
+  "license": "MIT",
+  "home_page": "https://github.com/statisticsnorway/dapla-cli",
+  "download_filename": "dapla_cli-0.3.0.tar.gz",
+  "download_time": "2026-01-14T14:31:48.310199",
+  "package_url": "https://pypi.org/project/dapla-cli/"
+}

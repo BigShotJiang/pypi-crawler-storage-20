@@ -1,0 +1,11 @@
+{
+  "name": "asyncapi3",
+  "version": "0.0.2",
+  "summary": "Python AsyncAPI 3.0 object model",
+  "author": "Andrey Shpak",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "asyncapi3-0.0.2.tar.gz",
+  "download_time": "2026-01-14T14:31:44.122925",
+  "package_url": "https://pypi.org/project/asyncapi3/"
+}

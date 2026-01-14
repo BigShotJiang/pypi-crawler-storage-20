@@ -1,0 +1,11 @@
+{
+  "name": "mxm-config",
+  "version": "0.5.1",
+  "summary": "MXM configuration loader and context resolver",
+  "author": "mxm",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mxm_config-0.5.1.tar.gz",
+  "download_time": "2026-01-14T14:31:53.009190",
+  "package_url": "https://pypi.org/project/mxm-config/"
+}
