@@ -1,0 +1,11 @@
+{
+  "name": "mypy-boto3-connect",
+  "version": "1.42.28",
+  "summary": "Type annotations for boto3 Connect 1.42.28 service generated with mypy-boto3-builder 8.12.0",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypy_boto3_connect-1.42.28.tar.gz",
+  "download_time": "2026-01-14T20:57:12.213151",
+  "package_url": "https://pypi.org/project/mypy-boto3-connect/"
+}

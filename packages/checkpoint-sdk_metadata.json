@@ -1,0 +1,11 @@
+{
+  "name": "checkpoint-sdk",
+  "version": "0.1.0",
+  "summary": "Program-agnostic Solana IDL transaction decoder and SDK",
+  "author": "apchhui",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "checkpoint_sdk-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-14T20:57:01.893499",
+  "package_url": "https://pypi.org/project/checkpoint-sdk/"
+}

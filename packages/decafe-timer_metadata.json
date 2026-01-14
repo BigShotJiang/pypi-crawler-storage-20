@@ -1,0 +1,11 @@
+{
+  "name": "decafe-timer",
+  "version": "0.7.0",
+  "summary": "CLI coffee cooldown timer with a shrinking ASCII bar.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "decafe_timer-0.7.0.tar.gz",
+  "download_time": "2026-01-14T20:57:22.010031",
+  "package_url": "https://pypi.org/project/decafe-timer/"
+}

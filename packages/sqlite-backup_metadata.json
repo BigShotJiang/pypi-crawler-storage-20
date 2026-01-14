@@ -1,0 +1,11 @@
+{
+  "name": "sqlite-backup",
+  "version": "0.1.8",
+  "summary": "A tool to copy sqlite databases you don't own",
+  "author": "purarue",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlite_backup-0.1.8.tar.gz",
+  "download_time": "2026-01-14T20:57:02.454462",
+  "package_url": "https://pypi.org/project/sqlite-backup/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "annotate",
+  "version": "2.0.11",
+  "summary": "Decorator to set a function's __annotations__ like Py3.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "annotate-2.0.11.tar.gz",
+  "download_time": "2026-01-14T20:57:01.364805",
+  "package_url": "https://pypi.org/project/annotate/"
+}
