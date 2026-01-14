@@ -1,11 +1,11 @@
 {
   "name": "sea-dsl",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "summary": "SEA DSL - Semantic Enterprise Architecture Domain Specific Language",
   "author": "DomainForge Contributors",
   "license": "Apache-2.0",
   "home_page": "https://github.com/GodSpeedAI/DomainForge",
-  "download_filename": "sea_dsl-0.9.0.tar.gz",
-  "download_time": "2026-01-12T21:42:13.961208",
+  "download_filename": "sea_dsl-0.10.0.tar.gz",
+  "download_time": "2026-01-14T01:27:11.708023",
   "package_url": "https://pypi.org/project/sea-dsl/"
 }

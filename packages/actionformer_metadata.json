@@ -1,0 +1,11 @@
+{
+  "name": "actionformer",
+  "version": "1.5.0",
+  "summary": "ActionFormer: Localizing Moments of Actions with Transformers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "actionformer-1.5.0.tar.gz",
+  "download_time": "2026-01-14T01:27:18.221101",
+  "package_url": "https://pypi.org/project/actionformer/"
+}

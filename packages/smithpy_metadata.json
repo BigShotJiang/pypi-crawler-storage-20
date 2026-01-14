@@ -1,0 +1,11 @@
+{
+  "name": "smithpy",
+  "version": "0.1.5",
+  "summary": "SmithPy — a Modrinth-based Minecraft modpack builder",
+  "author": "Frank1o3",
+  "license": "MIT",
+  "home_page": "https://github.com/Frank1o3/smithpy",
+  "download_filename": "smithpy-0.1.5.tar.gz",
+  "download_time": "2026-01-14T01:27:49.339542",
+  "package_url": "https://pypi.org/project/smithpy/"
+}

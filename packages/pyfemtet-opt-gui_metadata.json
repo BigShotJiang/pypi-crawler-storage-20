@@ -1,0 +1,11 @@
+{
+  "name": "pyfemtet-opt-gui",
+  "version": "0.10.7",
+  "summary": "GUI to build and run a script for pyfemtet.opt",
+  "author": "pyfemtet",
+  "license": null,
+  "home_page": "https://github.com/pyfemtet/pyfemtet-opt-gui",
+  "download_filename": "pyfemtet_opt_gui-0.10.7.tar.gz",
+  "download_time": "2026-01-14T01:28:01.017034",
+  "package_url": "https://pypi.org/project/pyfemtet-opt-gui/"
+}

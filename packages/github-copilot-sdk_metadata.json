@@ -1,11 +1,11 @@
 {
   "name": "github-copilot-sdk",
-  "version": "0.1.10rc2",
+  "version": "0.1.10",
   "summary": "Python SDK for GitHub Copilot CLI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "github_copilot_sdk-0.1.10rc2.tar.gz",
-  "download_time": "2026-01-12T22:44:52.764309",
+  "download_filename": "github_copilot_sdk-0.1.10.tar.gz",
+  "download_time": "2026-01-14T01:27:49.996585",
   "package_url": "https://pypi.org/project/github-copilot-sdk/"
 }
