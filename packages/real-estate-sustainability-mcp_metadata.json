@@ -1,0 +1,11 @@
+{
+  "name": "real-estate-sustainability-mcp",
+  "version": "0.0.1",
+  "summary": "MCP server for analyzing building sustainability metrics through Excel, PDF, and standardized frameworks (ESG, LEED, BREEAM, DGNB) with IFC integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "real_estate_sustainability_mcp-0.0.1.tar.gz",
+  "download_time": "2026-01-14T19:52:00.475906",
+  "package_url": "https://pypi.org/project/real-estate-sustainability-mcp/"
+}

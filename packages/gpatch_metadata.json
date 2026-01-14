@@ -1,0 +1,11 @@
+{
+  "name": "gpatch",
+  "version": "0.4.0",
+  "summary": "Assemble contigs into a chromosome-scalse pseudo-assembly using alignments to a reference sequence. Download the github repository for helper scripts to automate GPatch workflows, identify and correct misjoins in the contig assembly, produce dot-plots of patched pseudoassemblies to a reference assembly, and generate chrom.sizes and liftover chains for patched pseudoassemblies.",
+  "author": "Adam Diehl",
+  "license": null,
+  "home_page": "https://github.com/adadiehl/GPatch",
+  "download_filename": "gpatch-0.4.0.tar.gz",
+  "download_time": "2026-01-14T19:52:11.406476",
+  "package_url": "https://pypi.org/project/gpatch/"
+}

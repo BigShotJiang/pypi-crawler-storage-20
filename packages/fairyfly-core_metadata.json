@@ -1,11 +1,11 @@
 {
   "name": "fairyfly-core",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "A library to represent construction detail geometry for environmental simulation.",
   "author": "Ladybug Tools",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/ladybug-tools/fairyfly-core",
-  "download_filename": "fairyfly_core-0.2.6.tar.gz",
-  "download_time": "2026-01-13T01:21:01.171314",
+  "download_filename": "fairyfly_core-0.2.7.tar.gz",
+  "download_time": "2026-01-14T19:51:40.847097",
   "package_url": "https://pypi.org/project/fairyfly-core/"
 }

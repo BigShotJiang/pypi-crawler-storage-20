@@ -1,0 +1,11 @@
+{
+  "name": "stick-stream",
+  "version": "0.1.3",
+  "summary": "Gamepad streaming for Linux",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stick_stream-0.1.3.tar.gz",
+  "download_time": "2026-01-14T19:51:57.389467",
+  "package_url": "https://pypi.org/project/stick-stream/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "quantum-debugger",
+  "version": "0.6.0",
+  "summary": "Comprehensive quantum machine learning library with AutoML, GPU acceleration, advanced algorithms (QGANs, Quantum RL), transfer learning, and multi-framework support (Qiskit, PennyLane, Cirq, TensorFlow, PyTorch)",
+  "author": "Raunak Kumar Gupta",
+  "license": null,
+  "home_page": "https://github.com/Raunakg2005/quantum-debugger",
+  "download_filename": "quantum_debugger-0.6.0.tar.gz",
+  "download_time": "2026-01-14T19:52:00.990445",
+  "package_url": "https://pypi.org/project/quantum-debugger/"
+}

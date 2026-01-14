@@ -1,11 +1,11 @@
 {
   "name": "flax-metrics",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Flax NXX implementation of common metrics.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flax_metrics-0.2.3.tar.gz",
-  "download_time": "2026-01-14T16:27:51.597393",
+  "download_filename": "flax_metrics-0.2.4.tar.gz",
+  "download_time": "2026-01-14T19:51:54.817380",
   "package_url": "https://pypi.org/project/flax-metrics/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fastapi-provider-postmark",
+  "version": "0.1.2",
+  "summary": "Postmark email provider for FastAPI projects.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fastapi_provider_postmark-0.1.2.tar.gz",
+  "download_time": "2026-01-14T19:52:08.329907",
+  "package_url": "https://pypi.org/project/fastapi-provider-postmark/"
+}

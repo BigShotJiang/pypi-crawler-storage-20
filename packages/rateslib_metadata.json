@@ -1,0 +1,11 @@
+{
+  "name": "rateslib",
+  "version": "2.5.1",
+  "summary": "A fixed income library for trading interest rates",
+  "author": "J H M Darbyshire",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rateslib-2.5.1.tar.gz",
+  "download_time": "2026-01-14T19:51:55.335867",
+  "package_url": "https://pypi.org/project/rateslib/"
+}

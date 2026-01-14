@@ -1,0 +1,11 @@
+{
+  "name": "resdag",
+  "version": "0.1.3",
+  "summary": "PyTorch-native reservoir computing library with GPU acceleration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "resdag-0.1.3.tar.gz",
+  "download_time": "2026-01-14T19:52:17.051267",
+  "package_url": "https://pypi.org/project/resdag/"
+}

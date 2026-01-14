@@ -1,0 +1,11 @@
+{
+  "name": "vastai-sdk",
+  "version": "0.3.1",
+  "summary": "SDK for Vast.ai GPU Cloud Service",
+  "author": "Chris McKenzie",
+  "license": null,
+  "home_page": "https://vast.ai",
+  "download_filename": "vastai_sdk-0.3.1.tar.gz",
+  "download_time": "2026-01-14T19:51:46.028383",
+  "package_url": "https://pypi.org/project/vastai-sdk/"
+}

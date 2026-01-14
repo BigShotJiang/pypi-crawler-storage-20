@@ -1,0 +1,11 @@
+{
+  "name": "smbmap",
+  "version": "1.10.8",
+  "summary": "SMBMap is a handy SMB enumeration tool ",
+  "author": "ShawnDEvans",
+  "license": null,
+  "home_page": "https://github.com/ShawnDEvans/smbmap",
+  "download_filename": "smbmap-1.10.8.tar.gz",
+  "download_time": "2026-01-14T19:52:05.230834",
+  "package_url": "https://pypi.org/project/smbmap/"
+}
