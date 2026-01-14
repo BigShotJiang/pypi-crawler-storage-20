@@ -1,11 +1,11 @@
 {
   "name": "dakb-server",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "summary": "Distributed Agent Knowledge Base Server - A shared knowledge system for multi-agent AI collaboration",
   "author": "oracleseed",
   "license": null,
   "home_page": null,
-  "download_filename": "dakb_server-1.0.0.tar.gz",
-  "download_time": "2026-01-13T22:20:02.862435",
+  "download_filename": "dakb_server-1.2.1.tar.gz",
+  "download_time": "2026-01-14T20:45:52.608355",
   "package_url": "https://pypi.org/project/dakb-server/"
 }

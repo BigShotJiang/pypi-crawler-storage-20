@@ -1,0 +1,11 @@
+{
+  "name": "sipyconfig",
+  "version": "1.2.3",
+  "summary": "Python replacement for the functionality of SportIdent Config+",
+  "author": null,
+  "license": "GPL-3.0-only",
+  "home_page": null,
+  "download_filename": "sipyconfig-1.2.3.tar.gz",
+  "download_time": "2026-01-14T20:45:19.861239",
+  "package_url": "https://pypi.org/project/sipyconfig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "sqlalchemy-kinetica",
+  "version": "7.2.3.0",
+  "summary": "Kinetica Dialect for SQLAlchemy",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "sqlalchemy_kinetica-7.2.3.0-py3-none-any.whl",
+  "download_time": "2026-01-14T20:46:04.989655",
+  "package_url": "https://pypi.org/project/sqlalchemy-kinetica/"
+}

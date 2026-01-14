@@ -1,0 +1,11 @@
+{
+  "name": "cmeel-coinutils",
+  "version": "2.11.12",
+  "summary": "cmeel distribution for coinutils",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/cmeel-coinutils",
+  "download_filename": "cmeel_coinutils-2.11.12.tar.gz",
+  "download_time": "2026-01-14T20:45:48.470743",
+  "package_url": "https://pypi.org/project/cmeel-coinutils/"
+}

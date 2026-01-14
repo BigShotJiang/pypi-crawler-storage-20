@@ -1,0 +1,11 @@
+{
+  "name": "jenkins-lockable-resources",
+  "version": "1.2.1",
+  "summary": "A Python API for accessing lockable resources from Jenkins lockable-resources plugin.",
+  "author": "Alexandre Perrin",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/alexandre-perrin1/jenkins-lockable-resources",
+  "download_filename": "jenkins_lockable_resources-1.2.1.tar.gz",
+  "download_time": "2026-01-14T20:45:40.952626",
+  "package_url": "https://pypi.org/project/jenkins-lockable-resources/"
+}

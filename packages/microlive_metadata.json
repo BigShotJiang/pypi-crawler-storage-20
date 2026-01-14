@@ -1,11 +1,11 @@
 {
   "name": "microlive",
-  "version": "1.0.13",
+  "version": "1.0.14",
   "summary": "Live-cell microscopy image analysis and single-molecule measurements",
   "author": "Luis U. Aguilera, William S. Raymond, Rhiannon M. Sears, Nathan L. Nowling, Brian Munsky, Ning Zhao",
   "license": null,
   "home_page": null,
-  "download_filename": "microlive-1.0.13.tar.gz",
-  "download_time": "2026-01-12T18:57:45.097583",
+  "download_filename": "microlive-1.0.14-py3-none-any.whl",
+  "download_time": "2026-01-14T20:45:39.164937",
   "package_url": "https://pypi.org/project/microlive/"
 }

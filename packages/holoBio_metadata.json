@@ -1,0 +1,11 @@
+{
+  "name": "holoBio",
+  "version": "1.0.2",
+  "summary": "A comprehensive library for Digital Holographic Microscopy (DHM)",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "holobio-1.0.2.tar.gz",
+  "download_time": "2026-01-14T20:46:03.768575",
+  "package_url": "https://pypi.org/project/holoBio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tws-sdk",
+  "version": "0.4.0",
+  "summary": "TWS client for Python.",
+  "author": "Fireline Science",
+  "license": "MIT",
+  "home_page": "https://github.com/Fireline-Science/tws-py",
+  "download_filename": "tws_sdk-0.4.0.tar.gz",
+  "download_time": "2026-01-14T20:45:53.765260",
+  "package_url": "https://pypi.org/project/tws-sdk/"
+}

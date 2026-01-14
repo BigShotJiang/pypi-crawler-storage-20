@@ -1,0 +1,11 @@
+{
+  "name": "hx-requests",
+  "version": "0.40.1",
+  "summary": "Facilitates the usage of HTMX with Django",
+  "author": "yaakovLowenstein",
+  "license": "MIT",
+  "home_page": "https://github.com/yaakovLowenstein/hx-requests",
+  "download_filename": "hx_requests-0.40.1.tar.gz",
+  "download_time": "2026-01-14T20:45:18.581350",
+  "package_url": "https://pypi.org/project/hx-requests/"
+}
