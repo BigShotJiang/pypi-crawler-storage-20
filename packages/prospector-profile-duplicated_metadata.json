@@ -1,0 +1,11 @@
+{
+  "name": "prospector-profile-duplicated",
+  "version": "1.11.0",
+  "summary": "Profile that can be used to disable the duplicated or conflict rules between Prospector and other tools",
+  "author": "Stéphane Brunner",
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "prospector_profile_duplicated-1.11.0.tar.gz",
+  "download_time": "2026-01-14T10:52:12.631083",
+  "package_url": "https://pypi.org/project/prospector-profile-duplicated/"
+}

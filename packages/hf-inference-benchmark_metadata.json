@@ -1,0 +1,11 @@
+{
+  "name": "hf-inference-benchmark",
+  "version": "0.1.4",
+  "summary": "Production-grade HuggingFace inference benchmarking tool",
+  "author": "Yuvraj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hf_inference_benchmark-0.1.4.tar.gz",
+  "download_time": "2026-01-14T10:51:41.512417",
+  "package_url": "https://pypi.org/project/hf-inference-benchmark/"
+}

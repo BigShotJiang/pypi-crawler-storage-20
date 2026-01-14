@@ -1,0 +1,11 @@
+{
+  "name": "algomanim",
+  "version": "0.5.0",
+  "summary": "Manim-powered algorithm tasks visualizations for LeetCode and beyond",
+  "author": "Benedict Abub",
+  "license": "MIT",
+  "home_page": "https://github.com/benabub/algomanim",
+  "download_filename": "algomanim-0.5.0.tar.gz",
+  "download_time": "2026-01-14T10:51:43.604117",
+  "package_url": "https://pypi.org/project/algomanim/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "agent-skill",
+  "version": "1.0.0",
+  "summary": "CLI and MCP Server for managing AI agent skills from SkillMaster",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agent_skill-1.0.0.tar.gz",
+  "download_time": "2026-01-14T10:51:43.085761",
+  "package_url": "https://pypi.org/project/agent-skill/"
+}

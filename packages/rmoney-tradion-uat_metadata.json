@@ -1,0 +1,11 @@
+{
+  "name": "rmoney-tradion-uat",
+  "version": "1.0.1",
+  "summary": "Python SDK for integrating with Aliceblue trading platform.",
+  "author": "Codifi",
+  "license": "MIT",
+  "home_page": "https://weblive.rmoneyindia.net/",
+  "download_filename": "rmoney_tradion_uat-1.0.1-py3-none-any.whl",
+  "download_time": "2026-01-14T10:51:34.727186",
+  "package_url": "https://pypi.org/project/rmoney-tradion-uat/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mcpcn-video-cover-mcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "MCP server for adding cover image/first frame and fade transitions to videos",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mcpcn_video_cover_mcp-0.2.0.tar.gz",
-  "download_time": "2026-01-14T10:22:20.906752",
+  "download_filename": "mcpcn_video_cover_mcp-0.2.1.tar.gz",
+  "download_time": "2026-01-14T10:51:42.567701",
   "package_url": "https://pypi.org/project/mcpcn-video-cover-mcp/"
 }

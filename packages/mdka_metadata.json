@@ -1,11 +1,11 @@
 {
   "name": "mdka",
-  "version": "1.6.4",
+  "version": "1.6.5",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mdka-1.6.4.tar.gz",
-  "download_time": "2026-01-14T09:52:18.893532",
+  "download_filename": "mdka-1.6.5.tar.gz",
+  "download_time": "2026-01-14T10:51:42.048265",
   "package_url": "https://pypi.org/project/mdka/"
 }

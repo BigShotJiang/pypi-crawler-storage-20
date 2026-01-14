@@ -1,0 +1,11 @@
+{
+  "name": "droughtmonitor",
+  "version": "0.1.5",
+  "summary": "A python-based API wrapper for U.S. Drought Monitor",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "droughtmonitor-0.1.5.tar.gz",
+  "download_time": "2026-01-14T10:51:54.418881",
+  "package_url": "https://pypi.org/project/droughtmonitor/"
+}
