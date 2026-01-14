@@ -1,11 +1,11 @@
 {
   "name": "etlplus",
-  "version": "0.11.12",
+  "version": "0.12.1",
   "summary": "A Swiss Army knife for simple ETL operations",
   "author": "ETLPlus Team",
   "license": "MIT",
   "home_page": "https://github.com/Dagitali/ETLPlus",
-  "download_filename": "etlplus-0.11.12.tar.gz",
-  "download_time": "2026-01-14T14:31:49.892120",
+  "download_filename": "etlplus-0.12.1.tar.gz",
+  "download_time": "2026-01-14T17:52:46.881944",
   "package_url": "https://pypi.org/project/etlplus/"
 }

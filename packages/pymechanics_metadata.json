@@ -1,0 +1,11 @@
+{
+  "name": "pymechanics",
+  "version": "0.2.0",
+  "summary": "A Python library for classical mechanical engineering calculations",
+  "author": "Bakare Abdullateef Opeyemi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymechanics-0.2.0.tar.gz",
+  "download_time": "2026-01-14T17:52:35.804493",
+  "package_url": "https://pypi.org/project/pymechanics/"
+}

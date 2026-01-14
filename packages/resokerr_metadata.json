@@ -1,11 +1,11 @@
 {
   "name": "resokerr",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "A Python library for simple Result/Ok/Err return types with rich message tracing and metadata support.",
   "author": "Picurit",
   "license": "MIT",
   "home_page": "https://github.com/picurit/py-resokerr",
-  "download_filename": "resokerr-0.0.1.tar.gz",
-  "download_time": "2026-01-13T06:59:57.373192",
+  "download_filename": "resokerr-0.1.0.tar.gz",
+  "download_time": "2026-01-14T17:53:03.759203",
   "package_url": "https://pypi.org/project/resokerr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "onesource-cli",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "summary": "A vibe coding tool to aggregate project code for LLMs.",
   "author": "lolLeo",
   "license": null,
   "home_page": "https://github.com/TW-RF54732/OneSource",
-  "download_filename": "onesource_cli-1.1.3.tar.gz",
-  "download_time": "2026-01-14T15:33:19.619562",
+  "download_filename": "onesource_cli-1.2.0.tar.gz",
+  "download_time": "2026-01-14T17:52:32.697838",
   "package_url": "https://pypi.org/project/onesource-cli/"
 }

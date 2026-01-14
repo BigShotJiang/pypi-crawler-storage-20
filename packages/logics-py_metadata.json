@@ -1,0 +1,11 @@
+{
+  "name": "logics-py",
+  "version": "0.4.1",
+  "summary": "Logics is a user-friendly formula language with a subset of Python''s expression syntax",
+  "author": "Jan Max Meyer",
+  "license": "MIT",
+  "home_page": "https://github.com/viur-framework/logics",
+  "download_filename": "logics_py-0.4.1-py3-none-any.whl",
+  "download_time": "2026-01-14T17:52:42.254645",
+  "package_url": "https://pypi.org/project/logics-py/"
+}

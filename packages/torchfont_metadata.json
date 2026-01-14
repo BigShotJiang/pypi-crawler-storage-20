@@ -1,0 +1,11 @@
+{
+  "name": "torchfont",
+  "version": "0.7.1",
+  "summary": "Datasets, Transforms and Models specific to Vector Fonts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "torchfont-0.7.1.tar.gz",
+  "download_time": "2026-01-14T17:52:37.923711",
+  "package_url": "https://pypi.org/project/torchfont/"
+}

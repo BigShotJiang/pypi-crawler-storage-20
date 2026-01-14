@@ -1,0 +1,11 @@
+{
+  "name": "academic-phd-scraper",
+  "version": "1.0.0",
+  "summary": "A Python module to scrape PhD offers from academicpositions.com",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "academic_phd_scraper-1.0.0.tar.gz",
+  "download_time": "2026-01-14T17:52:41.200234",
+  "package_url": "https://pypi.org/project/academic-phd-scraper/"
+}

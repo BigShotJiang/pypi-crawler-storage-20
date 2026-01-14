@@ -1,0 +1,11 @@
+{
+  "name": "fastsql",
+  "version": "2.1.1",
+  "summary": "A MiniDataAPI spec implementation for SQLAlchemy V2",
+  "author": "Jeremy Howard, Daniel Roy Greenfeld, and Answer.AI team",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/answerdotai/fastsql",
+  "download_filename": "fastsql-2.1.1.tar.gz",
+  "download_time": "2026-01-14T17:52:35.291215",
+  "package_url": "https://pypi.org/project/fastsql/"
+}

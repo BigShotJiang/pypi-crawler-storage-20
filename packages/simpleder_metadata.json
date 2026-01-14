@@ -1,0 +1,11 @@
+{
+  "name": "simpleder",
+  "version": "0.0.4",
+  "summary": "A lightweight library to compute Diarization Error Rate (DER).",
+  "author": "Quan Wang",
+  "license": null,
+  "home_page": "https://github.com/wq2012/SimpleDER",
+  "download_filename": "simpleder-0.0.4.tar.gz",
+  "download_time": "2026-01-14T17:53:01.655131",
+  "package_url": "https://pypi.org/project/simpleder/"
+}

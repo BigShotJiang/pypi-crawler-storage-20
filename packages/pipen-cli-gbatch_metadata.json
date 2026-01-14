@@ -1,0 +1,11 @@
+{
+  "name": "pipen-cli-gbatch",
+  "version": "1.1.1",
+  "summary": "A pipen cli plugin to run command via Google Cloud Batch",
+  "author": "pwwang",
+  "license": "MIT",
+  "home_page": "https://github.com/pwwang/pipen-cli-gbatch",
+  "download_filename": "pipen_cli_gbatch-1.1.1.tar.gz",
+  "download_time": "2026-01-14T17:52:31.154048",
+  "package_url": "https://pypi.org/project/pipen-cli-gbatch/"
+}

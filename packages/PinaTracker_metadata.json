@@ -1,0 +1,11 @@
+{
+  "name": "PinaTracker",
+  "version": "0.1.0",
+  "summary": "Библиотека для поиска изображений на экране и клика по ним",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pinatracker-0.1.0.tar.gz",
+  "download_time": "2026-01-14T17:52:28.003812",
+  "package_url": "https://pypi.org/project/PinaTracker/"
+}

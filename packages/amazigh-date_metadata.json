@@ -1,0 +1,11 @@
+{
+  "name": "amazigh-date",
+  "version": "2026.1",
+  "summary": "Amazigh (Berber) calendar library and CLI",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "amazigh_date-2026.1.tar.gz",
+  "download_time": "2026-01-14T17:52:34.777950",
+  "package_url": "https://pypi.org/project/amazigh-date/"
+}

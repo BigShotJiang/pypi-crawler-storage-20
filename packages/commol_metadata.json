@@ -1,0 +1,11 @@
+{
+  "name": "commol",
+  "version": "0.0.0",
+  "summary": "A high-performance compartment modelling library in Rust and Python.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "commol-0.0.0.tar.gz",
+  "download_time": "2026-01-14T17:52:45.850068",
+  "package_url": "https://pypi.org/project/commol/"
+}
