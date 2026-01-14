@@ -1,0 +1,11 @@
+{
+  "name": "py2hy",
+  "version": "0.2.1",
+  "summary": "Translate Python code to Hy code",
+  "author": "Kodi B. Arfer",
+  "license": null,
+  "home_page": null,
+  "download_filename": "py2hy-0.2.1.tar.gz",
+  "download_time": "2026-01-14T18:30:15.633503",
+  "package_url": "https://pypi.org/project/py2hy/"
+}

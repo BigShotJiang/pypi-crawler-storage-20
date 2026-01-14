@@ -1,0 +1,11 @@
+{
+  "name": "pydartdiags",
+  "version": "0.6.3",
+  "summary": "Observation Sequence Diagnostics for DART",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydartdiags-0.6.3.tar.gz",
+  "download_time": "2026-01-14T18:30:32.279757",
+  "package_url": "https://pypi.org/project/pydartdiags/"
+}

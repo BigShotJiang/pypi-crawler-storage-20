@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-kas",
+  "version": "0.1.2",
+  "summary": "All-Inkl KAS DNS Authenticator plugin for Certbot",
+  "author": "Antigravity",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/mobilandi/certbot-dns-kas",
+  "download_filename": "certbot_dns_kas-0.1.2.tar.gz",
+  "download_time": "2026-01-14T18:30:55.631100",
+  "package_url": "https://pypi.org/project/certbot-dns-kas/"
+}

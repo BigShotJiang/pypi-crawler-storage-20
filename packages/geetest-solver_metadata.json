@@ -1,0 +1,11 @@
+{
+  "name": "geetest-solver",
+  "version": "1.0.2",
+  "summary": "GeeTest v4 ICON CAPTCHA solver using YOLO + template matching",
+  "author": "kv",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/geetest-solver",
+  "download_filename": "geetest_solver-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-14T18:30:12.367373",
+  "package_url": "https://pypi.org/project/geetest-solver/"
+}
