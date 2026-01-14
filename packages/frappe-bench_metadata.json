@@ -1,0 +1,11 @@
+{
+  "name": "frappe-bench",
+  "version": "5.29.0",
+  "summary": "CLI to manage Multi-tenant deployments for Frappe apps",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "frappe_bench-5.29.0.tar.gz",
+  "download_time": "2026-01-14T06:32:20.986501",
+  "package_url": "https://pypi.org/project/frappe-bench/"
+}

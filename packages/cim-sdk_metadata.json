@@ -1,0 +1,11 @@
+{
+  "name": "cim-sdk",
+  "version": "0.1.5",
+  "summary": "Unofficial Python SDK for the CameronSino CIM Admin API.",
+  "author": "Json",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cim_sdk-0.1.5.tar.gz",
+  "download_time": "2026-01-14T06:32:31.948324",
+  "package_url": "https://pypi.org/project/cim-sdk/"
+}

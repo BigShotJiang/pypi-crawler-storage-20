@@ -1,0 +1,11 @@
+{
+  "name": "bert4torch",
+  "version": "0.6.1",
+  "summary": "an elegant bert4torch",
+  "author": "Tongjilibo",
+  "license": "MIT Licence",
+  "home_page": "https://github.com/Tongjilibo/bert4torch",
+  "download_filename": "bert4torch-0.6.1.tar.gz",
+  "download_time": "2026-01-14T06:32:03.721419",
+  "package_url": "https://pypi.org/project/bert4torch/"
+}

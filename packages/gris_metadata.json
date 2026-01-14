@@ -1,0 +1,11 @@
+{
+  "name": "gris",
+  "version": "0.9.0",
+  "summary": "Parser of RIS file format",
+  "author": "Angel Yanguas-Gil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gris-0.9.0.tar.gz",
+  "download_time": "2026-01-14T06:32:35.585076",
+  "package_url": "https://pypi.org/project/gris/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bpsai-pair",
+  "version": "2.9.1",
+  "summary": "CLI for AI pair-coding workflow",
+  "author": "BPS AI Software",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bpsai_pair-2.9.1.tar.gz",
+  "download_time": "2026-01-14T06:31:59.530522",
+  "package_url": "https://pypi.org/project/bpsai-pair/"
+}

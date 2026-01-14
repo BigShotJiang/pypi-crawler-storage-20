@@ -1,0 +1,11 @@
+{
+  "name": "takopi-scripts",
+  "version": "0.1.0",
+  "summary": "Dynamic script runner plugin for takopi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "takopi_scripts-0.1.0.tar.gz",
+  "download_time": "2026-01-14T06:32:25.712396",
+  "package_url": "https://pypi.org/project/takopi-scripts/"
+}

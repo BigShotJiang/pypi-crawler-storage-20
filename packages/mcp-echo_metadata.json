@@ -1,11 +1,11 @@
 {
   "name": "mcp-echo",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "一个简单的MCP服务器，提供echo功能：输入什么就返回什么",
   "author": "Bach Studio",
   "license": "MIT",
   "home_page": "https://github.com/BACH-AI-Tools/mcp-echo",
-  "download_filename": "mcp_echo-0.1.0-py3-none-any.whl",
-  "download_time": "2026-01-14T05:41:51.370211",
+  "download_filename": "mcp_echo-0.1.2.tar.gz",
+  "download_time": "2026-01-14T06:32:19.937579",
   "package_url": "https://pypi.org/project/mcp-echo/"
 }

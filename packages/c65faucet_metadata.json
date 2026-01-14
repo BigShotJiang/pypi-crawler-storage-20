@@ -1,0 +1,11 @@
+{
+  "name": "c65faucet",
+  "version": "1.0.97",
+  "summary": "Faucet is an OpenFlow controller that implements a layer 2 and layer 3 switch.",
+  "author": "Faucet development team",
+  "license": "Apache-2",
+  "home_page": "https://faucet.nz",
+  "download_filename": "c65faucet-1.0.97.tar.gz",
+  "download_time": "2026-01-14T06:32:15.759928",
+  "package_url": "https://pypi.org/project/c65faucet/"
+}
