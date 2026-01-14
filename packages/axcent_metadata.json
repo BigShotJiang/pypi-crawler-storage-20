@@ -1,0 +1,11 @@
+{
+  "name": "axcent",
+  "version": "0.3.0",
+  "summary": "The easiest way to build AI agents in Python",
+  "author": "Mohin Uddin Shipon",
+  "license": null,
+  "home_page": "https://github.com/ssshiponu/axcent",
+  "download_filename": "axcent-0.3.0.tar.gz",
+  "download_time": "2026-01-14T12:40:38.876137",
+  "package_url": "https://pypi.org/project/axcent/"
+}

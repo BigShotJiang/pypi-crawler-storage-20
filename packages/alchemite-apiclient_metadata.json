@@ -1,0 +1,11 @@
+{
+  "name": "alchemite-apiclient",
+  "version": "0.97.0",
+  "summary": "A python API client for using Alchemite Analytics",
+  "author": "Intellegens",
+  "license": null,
+  "home_page": null,
+  "download_filename": "alchemite_apiclient-0.97.0.tar.gz",
+  "download_time": "2026-01-14T12:41:00.354100",
+  "package_url": "https://pypi.org/project/alchemite-apiclient/"
+}

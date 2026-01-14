@@ -1,11 +1,11 @@
 {
   "name": "heisenberg-cli",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "summary": "Heisenberg CLI - Command line interface for using Heisenberg services",
   "author": "SeshatLabs",
   "license": "Commercial - see LICENSE.txt",
   "home_page": null,
-  "download_filename": "heisenberg_cli-1.1.2.tar.gz",
-  "download_time": "2026-01-14T11:19:51.132423",
+  "download_filename": "heisenberg_cli-1.1.3.tar.gz",
+  "download_time": "2026-01-14T12:40:48.434992",
   "package_url": "https://pypi.org/project/heisenberg-cli/"
 }

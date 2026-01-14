@@ -1,0 +1,11 @@
+{
+  "name": "leaf-pymavlink",
+  "version": "0.1.14",
+  "summary": "Python MAVLink code",
+  "author": null,
+  "license": "LGPLv3",
+  "home_page": "https://github.com/DroneLeaf/pymavlink/",
+  "download_filename": "leaf_pymavlink-0.1.14.tar.gz",
+  "download_time": "2026-01-14T12:40:47.287315",
+  "package_url": "https://pypi.org/project/leaf-pymavlink/"
+}

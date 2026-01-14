@@ -1,0 +1,11 @@
+{
+  "name": "looqbox-components",
+  "version": "6.2.5",
+  "summary": "A looqbox package with most used visual components templates",
+  "author": "Looqbox",
+  "license": null,
+  "home_page": "https://github.com/looqbox/python-visual-components",
+  "download_filename": "looqbox_components-6.2.5-py3-none-any.whl",
+  "download_time": "2026-01-14T12:40:50.089184",
+  "package_url": "https://pypi.org/project/looqbox-components/"
+}

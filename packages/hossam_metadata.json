@@ -1,11 +1,11 @@
 {
   "name": "hossam",
-  "version": "0.3.18",
+  "version": "0.3.19",
   "summary": "Hossam Data Helper",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hossam-0.3.18.tar.gz",
-  "download_time": "2026-01-14T11:19:47.870771",
+  "download_filename": "hossam-0.3.19.tar.gz",
+  "download_time": "2026-01-14T12:41:12.861972",
   "package_url": "https://pypi.org/project/hossam/"
 }

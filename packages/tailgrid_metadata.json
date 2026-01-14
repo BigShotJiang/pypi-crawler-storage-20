@@ -1,0 +1,11 @@
+{
+  "name": "tailgrid",
+  "version": "0.3.0",
+  "summary": "Multi-tile tail viewer for terminal",
+  "author": "Fabio Ferreira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tailgrid-0.3.0.tar.gz",
+  "download_time": "2026-01-14T12:40:25.935811",
+  "package_url": "https://pypi.org/project/tailgrid/"
+}

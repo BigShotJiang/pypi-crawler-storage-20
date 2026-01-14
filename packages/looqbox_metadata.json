@@ -1,0 +1,11 @@
+{
+  "name": "looqbox",
+  "version": "6.2.8",
+  "summary": "A looqbox package to write python scripts in the platform",
+  "author": "looqbox",
+  "license": null,
+  "home_page": "https://github.com/looqbox/python-package",
+  "download_filename": "looqbox-6.2.8-py3-none-any.whl",
+  "download_time": "2026-01-14T12:41:10.586209",
+  "package_url": "https://pypi.org/project/looqbox/"
+}

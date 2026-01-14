@@ -1,0 +1,11 @@
+{
+  "name": "tsseg-eval",
+  "version": "0.1.2",
+  "summary": "Evaluation measures for time series segmentation",
+  "author": "Félix Chavelli",
+  "license": null,
+  "home_page": "https://github.com/fchavelli/tsseg-eval",
+  "download_filename": "tsseg_eval-0.1.2.tar.gz",
+  "download_time": "2026-01-14T12:40:33.137904",
+  "package_url": "https://pypi.org/project/tsseg-eval/"
+}
