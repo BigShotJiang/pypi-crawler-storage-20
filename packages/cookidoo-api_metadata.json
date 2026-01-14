@@ -1,0 +1,11 @@
+{
+  "name": "cookidoo-api",
+  "version": "0.16.0",
+  "summary": "Unofficial package to access Cookidoo.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cookidoo_api-0.16.0.tar.gz",
+  "download_time": "2026-01-14T21:22:24.340693",
+  "package_url": "https://pypi.org/project/cookidoo-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "spec-classes",
+  "version": "1.5.13",
+  "summary": "Represent type-checked specifications as Python classes and incrementally build them.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spec_classes-1.5.13.tar.gz",
+  "download_time": "2026-01-14T21:22:26.475374",
+  "package_url": "https://pypi.org/project/spec-classes/"
+}

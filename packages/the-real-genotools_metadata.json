@@ -1,0 +1,11 @@
+{
+  "name": "the-real-genotools",
+  "version": "1.3.6",
+  "summary": "A collection of tools for genotype quality control and analysis",
+  "author": "Dan Vitale",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/dvitale199/GenoTools",
+  "download_filename": "the_real_genotools-1.3.6.tar.gz",
+  "download_time": "2026-01-14T21:22:43.730675",
+  "package_url": "https://pypi.org/project/the-real-genotools/"
+}

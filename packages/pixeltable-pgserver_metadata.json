@@ -1,0 +1,11 @@
+{
+  "name": "pixeltable-pgserver",
+  "version": "0.5.0",
+  "summary": "Embedded Postgres Server for Pixeltable",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixeltable_pgserver-0.5.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-14T21:22:40.091703",
+  "package_url": "https://pypi.org/project/pixeltable-pgserver/"
+}

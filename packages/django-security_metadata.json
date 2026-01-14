@@ -1,0 +1,11 @@
+{
+  "name": "django-security",
+  "version": "1.1.5",
+  "summary": "Models, views, middlewares and forms to facilitate security hardening of Django applications.",
+  "author": "Security Compass",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "django_security-1.1.5.tar.gz",
+  "download_time": "2026-01-14T21:22:00.456494",
+  "package_url": "https://pypi.org/project/django-security/"
+}
