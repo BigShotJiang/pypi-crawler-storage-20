@@ -1,0 +1,11 @@
+{
+  "name": "protocols-io-mcp",
+  "version": "1.0.3",
+  "summary": "An MCP server that enables MCP clients like Claude Desktop to interact with data from protocols.io.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "protocols_io_mcp-1.0.3.tar.gz",
+  "download_time": "2026-01-14T13:30:00.228619",
+  "package_url": "https://pypi.org/project/protocols-io-mcp/"
+}

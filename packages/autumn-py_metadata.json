@@ -1,0 +1,11 @@
+{
+  "name": "autumn-py",
+  "version": "3.1.9",
+  "summary": "A Python SDK for Autumn's REST API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "autumn_py-3.1.9.tar.gz",
+  "download_time": "2026-01-14T13:29:43.921880",
+  "package_url": "https://pypi.org/project/autumn-py/"
+}

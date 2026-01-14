@@ -1,11 +1,11 @@
 {
   "name": "gemini-parallel",
-  "version": "0.7.0",
+  "version": "0.7.3",
   "summary": "Simplified Sequential Processor for Google Gemini API",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gemini_parallel-0.7.0.tar.gz",
-  "download_time": "2026-01-14T10:51:36.838574",
+  "download_filename": "gemini_parallel-0.7.3.tar.gz",
+  "download_time": "2026-01-14T13:29:22.196332",
   "package_url": "https://pypi.org/project/gemini-parallel/"
 }

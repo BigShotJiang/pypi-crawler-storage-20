@@ -1,0 +1,11 @@
+{
+  "name": "ovos-hardware-helpers",
+  "version": "0.0.1",
+  "summary": "Helper scripts for some hardware",
+  "author": "builderjer",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos_hardware_helpers",
+  "download_filename": "ovos_hardware_helpers-0.0.1.tar.gz",
+  "download_time": "2026-01-14T13:30:01.835152",
+  "package_url": "https://pypi.org/project/ovos-hardware-helpers/"
+}
