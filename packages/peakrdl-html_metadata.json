@@ -1,0 +1,11 @@
+{
+  "name": "peakrdl-html",
+  "version": "2.12.0",
+  "summary": "HTML documentation generator for SystemRDL-based register models",
+  "author": "Alex Mykyta",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "peakrdl_html-2.12.0-py3-none-any.whl",
+  "download_time": "2026-01-14T05:41:56.371610",
+  "package_url": "https://pypi.org/project/peakrdl-html/"
+}

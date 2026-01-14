@@ -1,0 +1,11 @@
+{
+  "name": "bookstack-file-exporter",
+  "version": "1.6.2",
+  "summary": "An exporter written in python to export all documents from a bookstack instance in different formats",
+  "author": "pchang388",
+  "license": "MIT License",
+  "home_page": "https://github.com/homeylab/bookstack-file-exporter",
+  "download_filename": "bookstack_file_exporter-1.6.2.tar.gz",
+  "download_time": "2026-01-14T05:42:36.382197",
+  "package_url": "https://pypi.org/project/bookstack-file-exporter/"
+}

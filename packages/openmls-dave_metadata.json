@@ -1,0 +1,11 @@
+{
+  "name": "openmls-dave",
+  "version": "0.1.0",
+  "summary": "OpenMLS bindings for Discord DAVE protocol implementation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "openmls_dave-0.1.0.tar.gz",
+  "download_time": "2026-01-14T05:42:07.325471",
+  "package_url": "https://pypi.org/project/openmls-dave/"
+}

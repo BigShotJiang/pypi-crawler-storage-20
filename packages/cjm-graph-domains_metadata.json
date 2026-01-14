@@ -1,0 +1,11 @@
+{
+  "name": "cjm-graph-domains",
+  "version": "0.0.2",
+  "summary": "A shared library of Pydantic models and standard schemas for the cjm-graph-plugin-system ecosystem, enabling type-safe domain definitions across plugins and UIs.",
+  "author": "Christian J. Mills",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/cj-mills/cjm-graph-domains",
+  "download_filename": "cjm_graph_domains-0.0.2.tar.gz",
+  "download_time": "2026-01-14T05:41:52.450854",
+  "package_url": "https://pypi.org/project/cjm-graph-domains/"
+}
