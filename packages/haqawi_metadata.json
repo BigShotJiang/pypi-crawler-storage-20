@@ -1,0 +1,11 @@
+{
+  "name": "haqawi",
+  "version": "1.0.0",
+  "summary": "مكتبة Python لتحميل وتنفيذ الملفات",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/Lnatainstaller",
+  "download_filename": "haqawi-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-14T20:19:27.537519",
+  "package_url": "https://pypi.org/project/haqawi/"
+}

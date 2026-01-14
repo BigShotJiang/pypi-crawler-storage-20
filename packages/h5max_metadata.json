@@ -1,0 +1,11 @@
+{
+  "name": "h5max",
+  "version": "0.3.4",
+  "summary": "scipy.sparse support on h5py",
+  "author": "Jim Clauwaert",
+  "license": null,
+  "home_page": "https://github.com/jdcla/h5max",
+  "download_filename": "h5max-0.3.4.tar.gz",
+  "download_time": "2026-01-14T20:19:31.161341",
+  "package_url": "https://pypi.org/project/h5max/"
+}

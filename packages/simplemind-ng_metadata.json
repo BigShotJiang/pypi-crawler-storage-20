@@ -1,11 +1,11 @@
 {
   "name": "simplemind-ng",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A maintained next-generation fork of simplemind with ongoing development and modern LLM features.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "simplemind_ng-0.5.0.tar.gz",
-  "download_time": "2026-01-14T19:52:17.571283",
+  "download_filename": "simplemind_ng-0.5.1.tar.gz",
+  "download_time": "2026-01-14T20:19:25.202659",
   "package_url": "https://pypi.org/project/simplemind-ng/"
 }

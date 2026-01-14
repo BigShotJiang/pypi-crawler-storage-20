@@ -1,0 +1,11 @@
+{
+  "name": "vibe-ukis",
+  "version": "1.0.2",
+  "summary": "vibe-ukis is a set of tools that are designed to help developers build working and reliable applications with LlamaIndex, llama-index-workflows and Chainlit.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibe_ukis-1.0.2.tar.gz",
+  "download_time": "2026-01-14T20:19:28.127233",
+  "package_url": "https://pypi.org/project/vibe-ukis/"
+}

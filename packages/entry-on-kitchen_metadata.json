@@ -1,11 +1,11 @@
 {
   "name": "entry-on-kitchen",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Official Python Module for using entry blocks on kitchen",
   "author": "Endevre Technologies",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "entry_on_kitchen-0.3.0.tar.gz",
-  "download_time": "2026-01-14T05:42:05.143022",
+  "download_filename": "entry_on_kitchen-0.3.1.tar.gz",
+  "download_time": "2026-01-14T20:19:37.149079",
   "package_url": "https://pypi.org/project/entry-on-kitchen/"
 }
