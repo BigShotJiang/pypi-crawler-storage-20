@@ -1,0 +1,11 @@
+{
+  "name": "mtcli-tradehistory",
+  "version": "1.0.0",
+  "summary": "Plugin do mtcli",
+  "author": "Valmir França",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtcli_tradehistory-1.0.0.tar.gz",
+  "download_time": "2026-01-14T04:34:38.098470",
+  "package_url": "https://pypi.org/project/mtcli-tradehistory/"
+}

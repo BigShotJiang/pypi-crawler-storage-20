@@ -1,11 +1,11 @@
 {
   "name": "pyxantech",
-  "version": "0.10.4",
+  "version": "0.10.5",
   "summary": "Python library for controlling Xantech, Monoprice, and Dayton Audio multi-zone amplifiers via RS232",
   "author": "Ryan Snodgrass",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pyxantech-0.10.4.tar.gz",
-  "download_time": "2026-01-12T23:15:07.631746",
+  "download_filename": "pyxantech-0.10.5.tar.gz",
+  "download_time": "2026-01-14T04:34:26.551104",
   "package_url": "https://pypi.org/project/pyxantech/"
 }

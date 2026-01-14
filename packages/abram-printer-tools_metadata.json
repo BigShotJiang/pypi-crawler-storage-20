@@ -1,0 +1,11 @@
+{
+  "name": "abram-printer-tools",
+  "version": "1.1.3",
+  "summary": "A library made by a 10-year-old to print text in cool ways",
+  "author": "Abram Jindal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abram_printer_tools-1.1.3.tar.gz",
+  "download_time": "2026-01-14T04:34:00.558246",
+  "package_url": "https://pypi.org/project/abram-printer-tools/"
+}

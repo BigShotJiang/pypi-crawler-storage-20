@@ -1,0 +1,11 @@
+{
+  "name": "itemseg",
+  "version": "3.1.0",
+  "summary": "The 10-K Report Item Segmentation Tool",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "itemseg-3.1.0.tar.gz",
+  "download_time": "2026-01-14T04:34:31.289978",
+  "package_url": "https://pypi.org/project/itemseg/"
+}

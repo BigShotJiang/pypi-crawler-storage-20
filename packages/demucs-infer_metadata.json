@@ -1,0 +1,11 @@
+{
+  "name": "demucs-infer",
+  "version": "4.1.2",
+  "summary": "Music source separation in the waveform domain - Inference-only (PyTorch 2.x)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "demucs_infer-4.1.2.tar.gz",
+  "download_time": "2026-01-14T04:34:30.739561",
+  "package_url": "https://pypi.org/project/demucs-infer/"
+}

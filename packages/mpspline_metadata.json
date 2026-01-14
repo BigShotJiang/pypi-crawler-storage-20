@@ -1,11 +1,11 @@
 {
   "name": "mpspline",
-  "version": "0.1.0",
-  "summary": "Mass-preserving equal-area quadratic splines for depth harmonization of soil component profiles",
+  "version": "0.2.0",
+  "summary": "Mass-preserving equal-area quadratic splines for depth harmonization of soil profiles",
   "author": "Lauren O'Brien",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "mpspline-0.1.0.tar.gz",
-  "download_time": "2026-01-13T08:56:39.792932",
+  "download_filename": "mpspline-0.2.0.tar.gz",
+  "download_time": "2026-01-14T04:34:15.459100",
   "package_url": "https://pypi.org/project/mpspline/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sqldumpdiff",
+  "version": "0.1.0",
+  "summary": "Compare SQL dump files and generate delta update scripts",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqldumpdiff-0.1.0.tar.gz",
+  "download_time": "2026-01-14T04:34:32.899180",
+  "package_url": "https://pypi.org/project/sqldumpdiff/"
+}

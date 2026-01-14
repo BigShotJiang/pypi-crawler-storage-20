@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-stay",
-  "version": "16.0.2.1.0",
+  "version": "16.0.2.1.0.1",
   "summary": "Simple management of stays and meals",
   "author": "Barroux Abbey, Akretion, Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/vertical-abbey",
-  "download_filename": "odoo_addon_stay-16.0.2.1.0-py3-none-any.whl",
-  "download_time": "2026-01-13T20:47:01.451950",
+  "download_filename": "odoo_addon_stay-16.0.2.1.0.1-py3-none-any.whl",
+  "download_time": "2026-01-14T04:34:01.077069",
   "package_url": "https://pypi.org/project/odoo-addon-stay/"
 }

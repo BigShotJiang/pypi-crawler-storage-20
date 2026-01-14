@@ -1,11 +1,11 @@
 {
   "name": "mantr",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Official Python SDK for Mantr - Deterministic Semantic Memory",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mantr-1.0.5.tar.gz",
-  "download_time": "2026-01-14T03:23:30.844909",
+  "download_filename": "mantr-1.0.6.tar.gz",
+  "download_time": "2026-01-14T04:34:13.768343",
   "package_url": "https://pypi.org/project/mantr/"
 }

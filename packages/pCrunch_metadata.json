@@ -1,0 +1,11 @@
+{
+  "name": "pCrunch",
+  "version": "2.1.5",
+  "summary": "IO and Post Processing for generic time series data of multibody aeroelastic wind turbine simulations.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pcrunch-2.1.5.tar.gz",
+  "download_time": "2026-01-14T04:34:02.705833",
+  "package_url": "https://pypi.org/project/pCrunch/"
+}
