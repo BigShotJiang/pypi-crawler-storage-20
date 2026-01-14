@@ -1,11 +1,11 @@
 {
   "name": "device-manager-mcp",
-  "version": "1.0.3",
+  "version": "1.0.7",
   "summary": "MCP server for fast Android device interaction with scrcpy acceleration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "device_manager_mcp-1.0.3.tar.gz",
-  "download_time": "2026-01-14T15:33:46.228874",
+  "download_filename": "device_manager_mcp-1.0.7.tar.gz",
+  "download_time": "2026-01-14T15:56:20.260097",
   "package_url": "https://pypi.org/project/device-manager-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "tifftools",
+  "version": "1.7.0",
+  "summary": "Pure python tiff tools to handle all tags and IFDs.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "tifftools-1.7.0.tar.gz",
+  "download_time": "2026-01-14T15:56:02.838507",
+  "package_url": "https://pypi.org/project/tifftools/"
+}
