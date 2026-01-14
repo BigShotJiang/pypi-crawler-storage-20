@@ -1,12 +1,14 @@
 {
-  "download_time": "2026-01-14T23:17:37.582245",
-  "total_packages_downloaded": 85,
-  "total_size_mb": 38.29,
+  "download_time": "2026-01-14T23:39:55.537266",
+  "total_packages_downloaded": 83,
+  "total_size_mb": 6.86,
   "packages": [
+    "scc-cli",
+    "M3Drop",
+    "zoulib",
     "rivet-rs",
     "athena-intelligence",
     "uvtemplate",
-    "zoulib",
     "regex",
     "orfmi",
     "cp_measure",
@@ -53,7 +55,6 @@
     "xaal.dashboard",
     "pulumi-webflow",
     "wisent",
-    "prefect-keeper",
     "boosters",
     "prometheux-chain",
     "cwatqim",
@@ -84,9 +85,6 @@
     "plexutil",
     "crate-docs-theme",
     "aether-codegen",
-    "peace-augmentation",
-    "tigramite",
-    "gren",
-    "ghlang"
+    "peace-augmentation"
   ]
 }
