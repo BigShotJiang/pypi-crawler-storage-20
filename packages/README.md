@@ -1,51 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-14T21:44:56.108679
-- **Total Packages**: 91
-- **Total Size**: 54.47 MB
+- **Download Time**: 2026-01-14T21:56:25.956125
+- **Total Packages**: 89
+- **Total Size**: 1.06 MB
 
 ## Packages List
-- rnow
-- adafruit-circuitpython-ra8875
-- hyundai-kia-connect-api
-- real-estate-sustainability-mcp
-- lucidscan
-- xwebetl
-- project-context-mcp
-- oasys2
-- modal
-- lispium
-- toolsets
-- servextools
-- anscom
-- pic-standard
-- agnt5
-- maitai-python
-- dycw-installer
-- anchorbrowser
-- crds
-- luminescent
-- bodhi-llm
-- nuwa-build
-- minot-cli
-- pyThermoCalcDB
-- crcc
-- tensorlake
-- photonforge
-- swarmkit
-- botocraft
-- pragmatiks-gcp-provider
-- array-api-signal
-- uniqfunc
-- biocommons.anyvar
-- montykit
-- enyal
-- fdq
-- phenomics
-- pragmatiks-cli
-- botocore-stubs
-- aind-data-transfer-lite
 - spotoptim
 - pyhcal
 - lunaengine
@@ -55,6 +15,7 @@
 - edgygraph
 - plotly
 - ukraine
+- xwebetl
 - nachos
 - paper-siphon
 - policyengine-api-simulation-client
@@ -62,9 +23,11 @@
 - biatoolkit
 - kuest-py-eip712-structs
 - cwatqim
+- toolsets
 - throughput
 - lbt-grasshopper
 - flog-otlp
+- pragmatiks-cli
 - fairyfly-grasshopper
 - hspf
 - robotframework-testdoc
@@ -97,3 +60,38 @@
 - ogrep
 - ofiber
 - py-ai-toolkit
+- raja
+- models-dev
+- tencentcloud-sdk-python-intl-en
+- sonictag
+- langsmith-cli
+- optvl
+- polars-mas
+- synkro
+- LAgencia-prospects-softseguros
+- batrachian-toad
+- kuest-py-builder-signing-sdk
+- pathsim-chem
+- langchain-ampersend
+- tencentcloud-sdk-python-vpc
+- tencentcloud-sdk-python-vod
+- tencentcloud-sdk-python-trtc
+- cookidoo-api
+- tencentcloud-sdk-python-tke
+- clifpy
+- tencentcloud-sdk-python-ssm
+- spec-classes
+- tencentcloud-sdk-python-ocr
+- ado-git-repo-insights
+- tencentcloud-sdk-python-ess
+- meta-memcache
+- tencentcloud-sdk-python-dlc
+- tencentcloud-sdk-python-common
+- wisent
+- tencentcloud-sdk-python-cls
+- serena-vbnet
+- gatewizard
+- tencentcloud-sdk-python-cfw
+- headroom-ai
+- tencentcloud-sdk-python-bh
+- tencentcloud-sdk-python-ai3d
