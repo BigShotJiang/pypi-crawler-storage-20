@@ -1,11 +1,11 @@
 {
   "name": "wasm-action",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "summary": "Interact with WebAssembly registries.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wasm_action-0.0.3.tar.gz",
-  "download_time": "2026-01-13T11:53:11.279821",
+  "download_filename": "wasm_action-0.0.5.tar.gz",
+  "download_time": "2026-01-14T09:52:47.801703",
   "package_url": "https://pypi.org/project/wasm-action/"
 }

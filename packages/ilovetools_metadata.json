@@ -1,11 +1,11 @@
 {
   "name": "ilovetools",
-  "version": "0.2.26",
+  "version": "0.2.27",
   "summary": "A comprehensive Python utility library with modular tools for AI/ML, data processing, and daily programming needs",
   "author": "Ali Mehdi",
   "license": null,
   "home_page": "https://github.com/AliMehdi512/ilovetools",
-  "download_filename": "ilovetools-0.2.26.tar.gz",
-  "download_time": "2026-01-13T11:42:14.464849",
+  "download_filename": "ilovetools-0.2.27.tar.gz",
+  "download_time": "2026-01-14T09:52:17.320432",
   "package_url": "https://pypi.org/project/ilovetools/"
 }

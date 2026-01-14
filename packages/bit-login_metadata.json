@@ -1,0 +1,11 @@
+{
+  "name": "bit-login",
+  "version": "2.0.0",
+  "summary": "北京理工大学统一身份验证登录模块",
+  "author": "teclab",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bit_login-2.0.0-py3-none-any.whl",
+  "download_time": "2026-01-14T09:52:10.011223",
+  "package_url": "https://pypi.org/project/bit-login/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mdka",
-  "version": "1.6.2",
+  "version": "1.6.4",
   "summary": null,
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "mdka-1.6.2-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
-  "download_time": "2026-01-14T09:27:04.984325",
+  "download_filename": "mdka-1.6.4.tar.gz",
+  "download_time": "2026-01-14T09:52:18.893532",
   "package_url": "https://pypi.org/project/mdka/"
 }

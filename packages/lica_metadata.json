@@ -1,0 +1,11 @@
+{
+  "name": "lica",
+  "version": "3.0.4",
+  "summary": "Assorte collection of utilities (functions, classes, etc.) used in other projects at LICA, UCM",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lica-3.0.4.tar.gz",
+  "download_time": "2026-01-14T09:52:46.233765",
+  "package_url": "https://pypi.org/project/lica/"
+}

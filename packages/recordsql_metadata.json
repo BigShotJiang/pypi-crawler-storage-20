@@ -1,0 +1,11 @@
+{
+  "name": "recordsql",
+  "version": "0.1.8",
+  "summary": "A Python-based SQL query builder with a fluent and composable interface, built on expressQL.",
+  "author": "Grayjou",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "recordsql-0.1.8.tar.gz",
+  "download_time": "2026-01-14T09:52:33.174814",
+  "package_url": "https://pypi.org/project/recordsql/"
+}

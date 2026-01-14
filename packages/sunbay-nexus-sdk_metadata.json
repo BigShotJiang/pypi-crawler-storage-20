@@ -1,11 +1,11 @@
 {
   "name": "sunbay-nexus-sdk",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Official Sunbay Nexus Python SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sunbay_nexus_sdk-1.0.8.tar.gz",
-  "download_time": "2026-01-14T09:27:19.262601",
+  "download_filename": "sunbay_nexus_sdk-1.0.9.tar.gz",
+  "download_time": "2026-01-14T09:52:16.281755",
   "package_url": "https://pypi.org/project/sunbay-nexus-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "pyharm",
+  "version": "0.4.8",
+  "summary": "Python wrapper for CHarm, a C library to work with spherical harmonics up to almost arbitrarily high degrees",
+  "author": "Blazej Bucha",
+  "license": null,
+  "home_page": "https://github.com/blazej-bucha/charm",
+  "download_filename": "pyharm-0.4.8-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-14T09:52:47.282707",
+  "package_url": "https://pypi.org/project/pyharm/"
+}
