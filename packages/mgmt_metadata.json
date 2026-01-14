@@ -1,0 +1,11 @@
+{
+  "name": "mgmt",
+  "version": "0.10.0",
+  "summary": "An intuitive command line interface that wraps boto3 to search and manage media assets",
+  "author": null,
+  "license": "GNU GPL v3.0",
+  "home_page": null,
+  "download_filename": "mgmt-0.10.0.tar.gz",
+  "download_time": "2026-01-14T08:55:13.841578",
+  "package_url": "https://pypi.org/project/mgmt/"
+}
