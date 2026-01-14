@@ -1,0 +1,11 @@
+{
+  "name": "owrf1d",
+  "version": "1.0.2",
+  "summary": "Online Window Regression Filter 1D (fast-cython, parameterless)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "owrf1d-1.0.2.tar.gz",
+  "download_time": "2026-01-14T15:33:21.176495",
+  "package_url": "https://pypi.org/project/owrf1d/"
+}

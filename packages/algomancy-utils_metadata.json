@@ -1,0 +1,11 @@
+{
+  "name": "algomancy-utils",
+  "version": "0.3.13",
+  "summary": "Miscellaneous modules used in the Algomancy library",
+  "author": "Pepijn Wissing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "algomancy_utils-0.3.13-py3-none-any.whl",
+  "download_time": "2026-01-14T15:33:28.414892",
+  "package_url": "https://pypi.org/project/algomancy-utils/"
+}

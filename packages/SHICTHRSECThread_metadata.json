@@ -1,0 +1,11 @@
+{
+  "name": "SHICTHRSECThread",
+  "version": "1.0.0",
+  "summary": "SHICTHRS browser history reader",
+  "author": "SHICTHRS",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/JNTMTMTM/SHICTHRS_ECThread",
+  "download_filename": "shicthrsecthread-1.0.0.tar.gz",
+  "download_time": "2026-01-14T15:33:27.902612",
+  "package_url": "https://pypi.org/project/SHICTHRSECThread/"
+}

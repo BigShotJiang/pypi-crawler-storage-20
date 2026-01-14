@@ -1,0 +1,11 @@
+{
+  "name": "ydb-sqlalchemy",
+  "version": "0.1.15",
+  "summary": "YDB Dialect for SQLAlchemy",
+  "author": "Yandex LLC",
+  "license": "Apache 2.0",
+  "home_page": "http://github.com/ydb-platform/ydb-sqlalchemy",
+  "download_filename": "ydb_sqlalchemy-0.1.15.tar.gz",
+  "download_time": "2026-01-14T15:33:40.365725",
+  "package_url": "https://pypi.org/project/ydb-sqlalchemy/"
+}

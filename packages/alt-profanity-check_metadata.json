@@ -1,0 +1,11 @@
+{
+  "name": "alt-profanity-check",
+  "version": "1.8.0",
+  "summary": "A fast, robust library to check for offensive language in strings. Dropdown replacement of \"profanity-check\".",
+  "author": "Victor Zhou (original author), Menelaos Kotoglou, Dimitrios Mistriotis",
+  "license": null,
+  "home_page": "https://github.com/dimitrismistriotis/alt-profanity-check",
+  "download_filename": "alt_profanity_check-1.8.0.tar.gz",
+  "download_time": "2026-01-14T15:33:26.366582",
+  "package_url": "https://pypi.org/project/alt-profanity-check/"
+}

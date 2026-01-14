@@ -1,11 +1,11 @@
 {
   "name": "prometheus-client",
-  "version": "0.24.0",
+  "version": "0.24.1",
   "summary": "Python client for the Prometheus monitoring system.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "prometheus_client-0.24.0.tar.gz",
-  "download_time": "2026-01-12T20:21:44.227976",
+  "download_filename": "prometheus_client-0.24.1.tar.gz",
+  "download_time": "2026-01-14T15:33:38.820039",
   "package_url": "https://pypi.org/project/prometheus-client/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "essent-dynamic-pricing",
+  "version": "0.3.1",
+  "summary": "Async client for Essent dynamic energy prices",
+  "author": "Home Assistant Community",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "essent_dynamic_pricing-0.3.1.tar.gz",
+  "download_time": "2026-01-14T15:33:40.877898",
+  "package_url": "https://pypi.org/project/essent-dynamic-pricing/"
+}

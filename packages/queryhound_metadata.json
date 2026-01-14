@@ -1,0 +1,11 @@
+{
+  "name": "queryhound",
+  "version": "0.8.0",
+  "summary": "CLI tool for parsing MongoDB logs with filters and summary statistics",
+  "author": "Dwayne McNab",
+  "license": "MIT",
+  "home_page": "https://github.com/dmcna005/queryhound_qh",
+  "download_filename": "queryhound-0.8.0.tar.gz",
+  "download_time": "2026-01-14T15:33:26.877566",
+  "package_url": "https://pypi.org/project/queryhound/"
+}

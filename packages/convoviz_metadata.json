@@ -1,0 +1,11 @@
+{
+  "name": "convoviz",
+  "version": "0.2.14",
+  "summary": "Get analytics and visualizations on your ChatGPT data!",
+  "author": "Mohamed Cheikh Sidiya",
+  "license": null,
+  "home_page": null,
+  "download_filename": "convoviz-0.2.14.tar.gz",
+  "download_time": "2026-01-14T15:33:32.539179",
+  "package_url": "https://pypi.org/project/convoviz/"
+}

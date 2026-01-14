@@ -1,0 +1,11 @@
+{
+  "name": "keeper-keys",
+  "version": "0.2.0",
+  "summary": "KEYS - Straightforward CLI wrapper for Keeper Commander",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "keeper_keys-0.2.0.tar.gz",
+  "download_time": "2026-01-14T15:33:34.606969",
+  "package_url": "https://pypi.org/project/keeper-keys/"
+}

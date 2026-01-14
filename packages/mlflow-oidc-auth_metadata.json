@@ -1,11 +1,11 @@
 {
   "name": "mlflow-oidc-auth",
-  "version": "6.1.0",
+  "version": "6.1.1",
   "summary": "OIDC auth plugin for MLflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mlflow_oidc_auth-6.1.0.tar.gz",
-  "download_time": "2026-01-13T04:10:57.464600",
+  "download_filename": "mlflow_oidc_auth-6.1.1.tar.gz",
+  "download_time": "2026-01-14T15:34:05.487958",
   "package_url": "https://pypi.org/project/mlflow-oidc-auth/"
 }

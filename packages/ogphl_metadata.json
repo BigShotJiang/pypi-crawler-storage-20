@@ -1,0 +1,11 @@
+{
+  "name": "ogphl",
+  "version": "0.0.15",
+  "summary": "Philippines Calibration for OG-Core",
+  "author": "Marcelo LaFleur, Richard W. Evans, and Jason DeBacker",
+  "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+  "home_page": "https://github.com/EAPD-DRB/OG-PHL/",
+  "download_filename": "ogphl-0.0.15.tar.gz",
+  "download_time": "2026-01-14T15:33:45.717364",
+  "package_url": "https://pypi.org/project/ogphl/"
+}

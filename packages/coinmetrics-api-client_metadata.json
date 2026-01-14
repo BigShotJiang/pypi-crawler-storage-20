@@ -1,0 +1,11 @@
+{
+  "name": "coinmetrics-api-client",
+  "version": "2026.1.14.15",
+  "summary": "Python client for Coin Metrics API v4.",
+  "author": "Coin Metrics",
+  "license": "MIT",
+  "home_page": "https://coinmetrics.github.io/api-client-python/site/index.html",
+  "download_filename": "coinmetrics_api_client-2026.1.14.15.tar.gz",
+  "download_time": "2026-01-14T15:33:24.285346",
+  "package_url": "https://pypi.org/project/coinmetrics-api-client/"
+}
