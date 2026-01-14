@@ -1,0 +1,11 @@
+{
+  "name": "respondo",
+  "version": "0.4.0",
+  "summary": "Scraping-friendly HTTP, string parsing, JSON helpers, and AI parsing.",
+  "author": "Respondo Maintainers",
+  "license": null,
+  "home_page": null,
+  "download_filename": "respondo-0.4.0.tar.gz",
+  "download_time": "2026-01-14T17:28:50.386241",
+  "package_url": "https://pypi.org/project/respondo/"
+}

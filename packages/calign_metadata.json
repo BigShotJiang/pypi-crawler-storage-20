@@ -1,0 +1,11 @@
+{
+  "name": "calign",
+  "version": "1.0.1",
+  "summary": "A Python package for aligning epitopes to protein sequences",
+  "author": "André Luiz Caliari Costa, Leonardo Pereira de Araújo, Evandro Neves Silva, Patrícia Paiva Corsetti, Leonardo Augusto de Almeida",
+  "license": "MIT",
+  "home_page": "https://github.com/labiomol/Calign-development",
+  "download_filename": "calign-1.0.1.tar.gz",
+  "download_time": "2026-01-14T17:28:17.203507",
+  "package_url": "https://pypi.org/project/calign/"
+}

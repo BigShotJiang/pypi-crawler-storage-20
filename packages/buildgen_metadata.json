@@ -1,11 +1,11 @@
 {
   "name": "buildgen",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Build system generator - Makefile, CMake, scikit-build-core and more.",
   "author": "Shakeeb Alireza",
   "license": null,
   "home_page": null,
-  "download_filename": "buildgen-0.1.6.tar.gz",
-  "download_time": "2026-01-14T16:58:11.317887",
+  "download_filename": "buildgen-0.1.7.tar.gz",
+  "download_time": "2026-01-14T17:28:27.175355",
   "package_url": "https://pypi.org/project/buildgen/"
 }

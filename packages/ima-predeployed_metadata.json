@@ -1,0 +1,11 @@
+{
+  "name": "ima-predeployed",
+  "version": "2.3.0",
+  "summary": "A tool to generate config for predeployed IMA",
+  "author": "Dmytro Stebaiev",
+  "license": null,
+  "home_page": "https://github.com/skalenetwork/IMA",
+  "download_filename": "ima_predeployed-2.3.0.tar.gz",
+  "download_time": "2026-01-14T17:28:57.827859",
+  "package_url": "https://pypi.org/project/ima-predeployed/"
+}

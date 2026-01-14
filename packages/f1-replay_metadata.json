@@ -1,11 +1,11 @@
 {
   "name": "f1-replay",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Formula 1 Race Replay and Visualization Library",
   "author": "F1 Replay Development",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "f1_replay-0.1.6.tar.gz",
-  "download_time": "2026-01-13T22:46:51.300098",
+  "download_filename": "f1_replay-0.1.8.tar.gz",
+  "download_time": "2026-01-14T17:28:17.724886",
   "package_url": "https://pypi.org/project/f1-replay/"
 }

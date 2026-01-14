@@ -1,0 +1,11 @@
+{
+  "name": "pymetropolis",
+  "version": "0.1.1",
+  "summary": "Helper functions to generate, calibrate, run, and analyze METROPOLIS2 simulation instances",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pymetropolis-0.1.1.tar.gz",
+  "download_time": "2026-01-14T17:28:21.403067",
+  "package_url": "https://pypi.org/project/pymetropolis/"
+}
