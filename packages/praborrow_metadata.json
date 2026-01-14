@@ -1,0 +1,11 @@
+{
+  "name": "praborrow",
+  "version": "1.2.3",
+  "summary": "Python bindings for PraBorrow: A formal distributed ownership system.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "praborrow-1.2.3.tar.gz",
+  "download_time": "2026-01-14T05:03:32.620946",
+  "package_url": "https://pypi.org/project/praborrow/"
+}

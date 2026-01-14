@@ -1,0 +1,11 @@
+{
+  "name": "supabase-functions",
+  "version": "2.27.2",
+  "summary": "Library for Supabase Functions",
+  "author": "Joel Lee, Andrew Smith",
+  "license": null,
+  "home_page": null,
+  "download_filename": "supabase_functions-2.27.2.tar.gz",
+  "download_time": "2026-01-14T05:03:15.898027",
+  "package_url": "https://pypi.org/project/supabase-functions/"
+}

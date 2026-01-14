@@ -1,0 +1,11 @@
+{
+  "name": "gcal-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for querying Google Calendar events",
+  "author": "Al Duncanson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "gcal_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-14T05:03:24.783315",
+  "package_url": "https://pypi.org/project/gcal-mcp/"
+}

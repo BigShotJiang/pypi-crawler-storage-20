@@ -1,11 +1,11 @@
 {
   "name": "sshcp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Easy SSH file copy CLI tool with persistent server selection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sshcp-0.2.0.tar.gz",
-  "download_time": "2026-01-14T04:34:12.728450",
+  "download_filename": "sshcp-0.2.1.tar.gz",
+  "download_time": "2026-01-14T05:03:35.233107",
   "package_url": "https://pypi.org/project/sshcp/"
 }

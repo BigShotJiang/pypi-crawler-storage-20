@@ -1,11 +1,11 @@
 {
   "name": "mixtrain",
-  "version": "0.1.22",
+  "version": "0.1.23",
   "summary": "Mixtrain SDK and CLI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mixtrain-0.1.22-py3-none-any.whl",
-  "download_time": "2026-01-13T07:33:12.573381",
+  "download_filename": "mixtrain-0.1.23-py3-none-any.whl",
+  "download_time": "2026-01-14T05:03:34.713273",
   "package_url": "https://pypi.org/project/mixtrain/"
 }

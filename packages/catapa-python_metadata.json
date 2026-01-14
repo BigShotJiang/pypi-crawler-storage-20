@@ -1,0 +1,11 @@
+{
+  "name": "catapa-python",
+  "version": "0.1.0a1",
+  "summary": "Python client library for Catapa API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "catapa_python-0.1.0a1.tar.gz",
+  "download_time": "2026-01-14T05:03:34.191444",
+  "package_url": "https://pypi.org/project/catapa-python/"
+}

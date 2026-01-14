@@ -1,11 +1,11 @@
 {
   "name": "momentumx",
-  "version": "2.8.1",
+  "version": "2.8.2",
   "summary": "Zero-copy shared memory IPC library for building complex streaming data pipelines capable of processing large datasets",
   "author": "Captivation Software, LLC",
   "license": null,
   "home_page": "https://github.com/captivationsoftware/MomentumX",
-  "download_filename": "momentumx-2.8.1.tar.gz",
-  "download_time": "2026-01-14T04:34:35.496332",
+  "download_filename": "momentumx-2.8.2.tar.gz",
+  "download_time": "2026-01-14T05:03:23.228615",
   "package_url": "https://pypi.org/project/momentumx/"
 }
