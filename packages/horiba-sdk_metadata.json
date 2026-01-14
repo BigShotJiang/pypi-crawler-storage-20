@@ -1,0 +1,11 @@
+{
+  "name": "horiba-sdk",
+  "version": "1.0.0",
+  "summary": "'horiba-sdk' is a package that provides source code for the development with Horiba devices",
+  "author": "HORIBA Instruments, Inc.",
+  "license": "MIT",
+  "home_page": "https://github.com/HORIBAEzSpecSDK/python-sdk",
+  "download_filename": "horiba_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-14T19:35:30.710181",
+  "package_url": "https://pypi.org/project/horiba-sdk/"
+}

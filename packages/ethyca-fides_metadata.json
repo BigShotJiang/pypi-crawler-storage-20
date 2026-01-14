@@ -1,0 +1,11 @@
+{
+  "name": "ethyca-fides",
+  "version": "2.77.0",
+  "summary": "Open-source ecosystem for data privacy as code.",
+  "author": "Ethyca, Inc.",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/ethyca/fides",
+  "download_filename": "ethyca_fides-2.77.0.tar.gz",
+  "download_time": "2026-01-14T19:35:28.398560",
+  "package_url": "https://pypi.org/project/ethyca-fides/"
+}

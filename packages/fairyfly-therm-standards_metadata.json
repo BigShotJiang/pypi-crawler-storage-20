@@ -1,0 +1,11 @@
+{
+  "name": "fairyfly-therm-standards",
+  "version": "0.1.0",
+  "summary": "Standard materials and conditions used in the fairyfly-therm extension.",
+  "author": "Ladybug Tools",
+  "license": null,
+  "home_page": "https://github.com/ladybug-tools/fairyfly-therm-standards",
+  "download_filename": "fairyfly_therm_standards-0.1.0.tar.gz",
+  "download_time": "2026-01-14T19:34:51.138535",
+  "package_url": "https://pypi.org/project/fairyfly-therm-standards/"
+}

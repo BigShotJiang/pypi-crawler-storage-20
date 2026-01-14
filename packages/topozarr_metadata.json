@@ -1,11 +1,11 @@
 {
   "name": "topozarr",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "summary": "Lightweight multiscale zarr",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "topozarr-0.0.1.tar.gz",
-  "download_time": "2026-01-12T19:40:11.437151",
+  "download_filename": "topozarr-0.0.3.tar.gz",
+  "download_time": "2026-01-14T19:35:26.987383",
   "package_url": "https://pypi.org/project/topozarr/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "flet",
-  "version": "0.80.1",
+  "version": "0.80.2",
   "summary": "Flet for Python - easily build interactive multi-platform apps in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flet-0.80.1.tar.gz",
-  "download_time": "2026-01-12T19:40:26.359183",
+  "download_filename": "flet-0.80.2.tar.gz",
+  "download_time": "2026-01-14T19:35:24.661071",
   "package_url": "https://pypi.org/project/flet/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "hydra-tui",
+  "version": "0.1.0",
+  "summary": "Hydra TUI for inspecting and overriding Hydra configurations",
+  "author": "Alexander Kovrigin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hydra_tui-0.1.0.tar.gz",
+  "download_time": "2026-01-14T19:35:05.782411",
+  "package_url": "https://pypi.org/project/hydra-tui/"
+}

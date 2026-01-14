@@ -1,0 +1,11 @@
+{
+  "name": "qlever",
+  "version": "0.5.42",
+  "summary": "Command-line tool for using the QLever graph database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "qlever-0.5.42.tar.gz",
+  "download_time": "2026-01-14T19:34:51.713734",
+  "package_url": "https://pypi.org/project/qlever/"
+}

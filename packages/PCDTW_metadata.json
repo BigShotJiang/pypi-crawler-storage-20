@@ -1,11 +1,11 @@
 {
   "name": "PCDTW",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "This package has functions for the conversion of amino acid sequences to physicochemical vectors and the subsequent analysis of those vector sequences.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pcdtw-0.4.1.tar.gz",
-  "download_time": "2026-01-14T18:30:48.819448",
+  "download_filename": "pcdtw-0.4.2.tar.gz",
+  "download_time": "2026-01-14T19:34:43.429676",
   "package_url": "https://pypi.org/project/PCDTW/"
 }

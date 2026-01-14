@@ -1,11 +1,11 @@
 {
   "name": "exec-sandbox",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Secure code execution in microVMs with QEMU",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "exec_sandbox-0.2.0.tar.gz",
-  "download_time": "2026-01-14T18:30:17.758102",
+  "download_filename": "exec_sandbox-0.2.1.tar.gz",
+  "download_time": "2026-01-14T19:34:47.633334",
   "package_url": "https://pypi.org/project/exec-sandbox/"
 }

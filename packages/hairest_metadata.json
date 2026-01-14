@@ -1,0 +1,11 @@
+{
+  "name": "hairest",
+  "version": "2.3.3",
+  "summary": "Discord Clipboard System",
+  "author": "Callum",
+  "license": null,
+  "home_page": "https://github.com/callummill/hairest",
+  "download_filename": "hairest-2.3.3.tar.gz",
+  "download_time": "2026-01-14T19:35:05.207810",
+  "package_url": "https://pypi.org/project/hairest/"
+}

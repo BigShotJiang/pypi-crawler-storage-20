@@ -1,0 +1,11 @@
+{
+  "name": "kh2d-solver",
+  "version": "0.1.6",
+  "summary": "A high-performance solver for 2D Kelvin-Helmholtz instability with Numba acceleration",
+  "author": "Sandy H. S. Herho",
+  "license": "WTFPL",
+  "home_page": "https://github.com/sandyherho/kelvin-helmholtz-2d-solver",
+  "download_filename": "kh2d_solver-0.1.6.tar.gz",
+  "download_time": "2026-01-14T19:34:45.778272",
+  "package_url": "https://pypi.org/project/kh2d-solver/"
+}

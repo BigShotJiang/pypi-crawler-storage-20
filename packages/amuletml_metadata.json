@@ -1,0 +1,11 @@
+{
+  "name": "amuletml",
+  "version": "0.5.0",
+  "summary": "Amulet is a Python machine learning (ML) package to evaluate the susceptibility of different risks to security, privacy, and fairness.",
+  "author": "Asim Waheed",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "amuletml-0.5.0.tar.gz",
+  "download_time": "2026-01-14T19:34:58.153964",
+  "package_url": "https://pypi.org/project/amuletml/"
+}

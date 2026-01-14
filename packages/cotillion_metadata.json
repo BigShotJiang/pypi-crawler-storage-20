@@ -1,0 +1,11 @@
+{
+  "name": "cotillion",
+  "version": "0.10",
+  "summary": "cotillion",
+  "author": "dev",
+  "license": "BSD",
+  "home_page": "https://bitbucket.org/dbuy/cotillion",
+  "download_filename": "cotillion-0.10.tar.gz",
+  "download_time": "2026-01-14T19:34:44.011888",
+  "package_url": "https://pypi.org/project/cotillion/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "mrmd-python",
-  "version": "0.3.0",
+  "version": "0.3.4",
   "summary": "Python runtime server implementing the MRMD Runtime Protocol (MRP)",
   "author": "mrmd contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mrmd_python-0.3.0.tar.gz",
-  "download_time": "2026-01-14T16:27:25.861763",
+  "download_filename": "mrmd_python-0.3.4.tar.gz",
+  "download_time": "2026-01-14T19:34:57.572646",
   "package_url": "https://pypi.org/project/mrmd-python/"
 }
