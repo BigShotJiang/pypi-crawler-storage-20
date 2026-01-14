@@ -1,0 +1,11 @@
+{
+  "name": "receptor-utils",
+  "version": "0.0.63",
+  "summary": "Some tools I find useful for working with Ig receptor sequences",
+  "author": "William Lees",
+  "license": "EUPL-1.2",
+  "home_page": "https://github.com/williamdlees/receptor_utils",
+  "download_filename": "receptor_utils-0.0.63.tar.gz",
+  "download_time": "2026-01-14T11:20:01.465108",
+  "package_url": "https://pypi.org/project/receptor-utils/"
+}

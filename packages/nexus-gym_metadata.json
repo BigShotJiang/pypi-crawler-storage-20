@@ -1,0 +1,11 @@
+{
+  "name": "nexus-gym",
+  "version": "0.1.0",
+  "summary": "A Gymnasium environment for the Nexus Platformer game with WebSocket communication",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nexus_gym-0.1.0.tar.gz",
+  "download_time": "2026-01-14T11:19:54.947802",
+  "package_url": "https://pypi.org/project/nexus-gym/"
+}

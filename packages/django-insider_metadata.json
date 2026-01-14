@@ -1,11 +1,11 @@
 {
   "name": "django-insider",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "The missing observability dashboard for Django.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "django_insider-0.1.4.tar.gz",
-  "download_time": "2026-01-14T09:52:51.967363",
+  "download_filename": "django_insider-0.1.5.tar.gz",
+  "download_time": "2026-01-14T11:19:30.636906",
   "package_url": "https://pypi.org/project/django-insider/"
 }

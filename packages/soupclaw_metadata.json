@@ -1,0 +1,11 @@
+{
+  "name": "soupclaw",
+  "version": "1.7.2",
+  "summary": "Discord Clipboard System",
+  "author": "Callum",
+  "license": null,
+  "home_page": "https://github.com/callummill/soupclaw",
+  "download_filename": "soupclaw-1.7.2.tar.gz",
+  "download_time": "2026-01-14T11:19:31.275776",
+  "package_url": "https://pypi.org/project/soupclaw/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "wrmodes",
+  "version": "0.0.5",
+  "summary": "Calculate modes and mode-conversion losses in rectangular waveguides",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wrmodes-0.0.5.tar.gz",
+  "download_time": "2026-01-14T11:19:36.444877",
+  "package_url": "https://pypi.org/project/wrmodes/"
+}
