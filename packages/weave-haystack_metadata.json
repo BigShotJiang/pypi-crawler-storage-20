@@ -1,11 +1,11 @@
 {
   "name": "weave-haystack",
-  "version": "3.0.0",
+  "version": "3.1.0",
   "summary": "An integration of Weights & Biases Weave tracer with Haystack",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "weave_haystack-3.0.0.tar.gz",
-  "download_time": "2026-01-13T11:42:19.799060",
+  "download_filename": "weave_haystack-3.1.0.tar.gz",
+  "download_time": "2026-01-14T16:27:32.148989",
   "package_url": "https://pypi.org/project/weave-haystack/"
 }

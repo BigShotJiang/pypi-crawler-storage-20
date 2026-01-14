@@ -1,0 +1,11 @@
+{
+  "name": "edgee",
+  "version": "1.0.0",
+  "summary": "Lightweight Python SDK for Edgee AI Gateway",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "edgee-1.0.0.tar.gz",
+  "download_time": "2026-01-14T16:27:52.614778",
+  "package_url": "https://pypi.org/project/edgee/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "trame-flow",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "summary": "A node editor for trame using VueFlow",
   "author": "Trame Developer",
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "trame_flow-1.1.0.tar.gz",
-  "download_time": "2026-01-13T08:56:11.584319",
+  "download_filename": "trame_flow-2.0.0.tar.gz",
+  "download_time": "2026-01-14T16:27:53.125892",
   "package_url": "https://pypi.org/project/trame-flow/"
 }

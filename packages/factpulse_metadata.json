@@ -1,0 +1,11 @@
+{
+  "name": "factpulse",
+  "version": "3.0.14",
+  "summary": "FactPulse REST API",
+  "author": "FactPulse",
+  "license": "Proprietary",
+  "home_page": "https://github.com/factpulse/sdk-python",
+  "download_filename": "factpulse-3.0.14.tar.gz",
+  "download_time": "2026-01-14T16:27:37.937910",
+  "package_url": "https://pypi.org/project/factpulse/"
+}

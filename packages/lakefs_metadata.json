@@ -1,0 +1,11 @@
+{
+  "name": "lakefs",
+  "version": "0.15.0",
+  "summary": "lakeFS Python SDK Wrapper",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lakefs-0.15.0.tar.gz",
+  "download_time": "2026-01-14T16:27:15.035034",
+  "package_url": "https://pypi.org/project/lakefs/"
+}
