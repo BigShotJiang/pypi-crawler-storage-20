@@ -1,0 +1,11 @@
+{
+  "name": "workforce",
+  "version": "1.1.14",
+  "summary": "Run bash commands with python multiprocessing. Includes a Tkinter GUI for workflow editing.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "workforce-1.1.14.tar.gz",
+  "download_time": "2026-01-14T22:20:42.840660",
+  "package_url": "https://pypi.org/project/workforce/"
+}

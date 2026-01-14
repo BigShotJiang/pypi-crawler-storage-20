@@ -1,11 +1,11 @@
 {
   "name": "candlecraft",
-  "version": "0.1.2",
-  "summary": "A clean, reusable Python library for fetching OHLCV data from multiple providers",
+  "version": "0.1.4",
+  "summary": "A clean, reusable Python library for fetching OHLCV data from multiple providers (Binance, Twelve Data) with flexible provider selection",
   "author": "AlfredAlpino",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "candlecraft-0.1.2.tar.gz",
-  "download_time": "2026-01-14T07:53:44.882823",
+  "download_filename": "candlecraft-0.1.4.tar.gz",
+  "download_time": "2026-01-14T22:20:28.348915",
   "package_url": "https://pypi.org/project/candlecraft/"
 }

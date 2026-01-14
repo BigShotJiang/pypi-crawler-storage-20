@@ -1,11 +1,11 @@
 {
   "name": "codepacker",
-  "version": "11.2.0",
-  "summary": "Experimental adaptation.",
+  "version": "12.4.0",
+  "summary": "Enhanced Updates.",
   "author": "BMI-MoonspicAI",
   "license": null,
   "home_page": null,
-  "download_filename": "codepacker-11.2.0.tar.gz",
-  "download_time": "2026-01-14T06:32:35.066195",
+  "download_filename": "codepacker-12.4.0.tar.gz",
+  "download_time": "2026-01-14T22:20:39.152375",
   "package_url": "https://pypi.org/project/codepacker/"
 }

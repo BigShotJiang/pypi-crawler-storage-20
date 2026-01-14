@@ -1,11 +1,11 @@
 {
   "name": "anscom",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "A fast native C recursive file scanner and analyzer",
   "author": "Aditya Narayan Singh",
   "license": null,
   "home_page": "https://github.com/PC5518",
-  "download_filename": "anscom-0.5.0.tar.gz",
-  "download_time": "2026-01-14T21:44:13.902470",
+  "download_filename": "anscom-0.6.0.tar.gz",
+  "download_time": "2026-01-14T22:20:48.095001",
   "package_url": "https://pypi.org/project/anscom/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hunterMakesPy",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Easy Python functions making making functional Python functions easier.",
   "author": null,
   "license": "CC-BY-NC-4.0",
   "home_page": null,
-  "download_filename": "huntermakespy-0.3.2.tar.gz",
-  "download_time": "2026-01-14T16:57:48.481778",
+  "download_filename": "huntermakespy-0.3.3.tar.gz",
+  "download_time": "2026-01-14T22:20:21.730770",
   "package_url": "https://pypi.org/project/hunterMakesPy/"
 }

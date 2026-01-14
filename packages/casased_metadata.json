@@ -1,11 +1,11 @@
 {
   "name": "casased",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Python library to retrieve historical and intraday data from Casablanca Stock Exchange via Medias24 API with Cloudflare bypass",
-  "author": "ANDAM Amine",
+  "author": "Désiré A. D.",
   "license": "MIT",
   "home_page": "https://github.com/QuantBender/casased",
-  "download_filename": "casased-0.2.1.tar.gz",
-  "download_time": "2026-01-14T20:45:45.553117",
+  "download_filename": "casased-0.2.2.tar.gz",
+  "download_time": "2026-01-14T22:20:51.218153",
   "package_url": "https://pypi.org/project/casased/"
 }

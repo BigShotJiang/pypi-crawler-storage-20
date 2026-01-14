@@ -1,0 +1,11 @@
+{
+  "name": "square_database_helper",
+  "version": "2.7.0",
+  "summary": "helper to access the database layer for my personal server.",
+  "author": "Parth Mukesh Mangtani",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "square_database_helper-2.7.0.tar.gz",
+  "download_time": "2026-01-14T22:20:34.801379",
+  "package_url": "https://pypi.org/project/square_database_helper/"
+}

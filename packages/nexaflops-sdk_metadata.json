@@ -1,0 +1,11 @@
+{
+  "name": "nexaflops-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for NEXAFLOPS Control Plane API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nexaflops_sdk-0.1.0.tar.gz",
+  "download_time": "2026-01-14T22:21:02.413706",
+  "package_url": "https://pypi.org/project/nexaflops-sdk/"
+}

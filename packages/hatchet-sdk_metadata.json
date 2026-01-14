@@ -1,11 +1,11 @@
 {
   "name": "hatchet-sdk",
-  "version": "1.22.5",
+  "version": "1.22.6",
   "summary": "This is the official Python SDK for Hatchet, a distributed, fault-tolerant task queue. The SDK allows you to easily integrate Hatchet's task scheduling and workflow orchestration capabilities into your Python applications.",
   "author": "Alexander Belanger",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hatchet_sdk-1.22.5.tar.gz",
-  "download_time": "2026-01-12T18:57:14.861611",
+  "download_filename": "hatchet_sdk-1.22.6.tar.gz",
+  "download_time": "2026-01-14T22:21:08.255763",
   "package_url": "https://pypi.org/project/hatchet-sdk/"
 }

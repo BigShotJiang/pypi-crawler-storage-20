@@ -1,0 +1,11 @@
+{
+  "name": "sentry-kafka-schemas",
+  "version": "2.1.20",
+  "summary": "Kafka topics and schemas for Sentry",
+  "author": "Sentry",
+  "license": null,
+  "home_page": "https://github.com/getsentry/sentry-kafka-schemas",
+  "download_filename": "sentry_kafka_schemas-2.1.20.tar.gz",
+  "download_time": "2026-01-14T22:20:46.534628",
+  "package_url": "https://pypi.org/project/sentry-kafka-schemas/"
+}

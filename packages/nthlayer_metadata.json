@@ -1,11 +1,11 @@
 {
   "name": "nthlayer",
-  "version": "0.1.0a12",
+  "version": "0.1.0a13",
   "summary": "NthLayer - The Missing Layer of Reliability",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nthlayer-0.1.0a12.tar.gz",
-  "download_time": "2026-01-12T22:19:48.328377",
+  "download_filename": "nthlayer-0.1.0a13.tar.gz",
+  "download_time": "2026-01-14T22:20:41.752831",
   "package_url": "https://pypi.org/project/nthlayer/"
 }

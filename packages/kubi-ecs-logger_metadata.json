@@ -1,0 +1,11 @@
+{
+  "name": "kubi-ecs-logger",
+  "version": "0.1.3",
+  "summary": "Logger based on Elasticsearch Common Schema.",
+  "author": "Kumina",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "kubi_ecs_logger-0.1.3.tar.gz",
+  "download_time": "2026-01-14T22:21:05.100948",
+  "package_url": "https://pypi.org/project/kubi-ecs-logger/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ai-parrot",
-  "version": "0.18.2",
+  "version": "0.18.5",
   "summary": "Chatbot services for Navigator, based on Langchain",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_parrot-0.18.2-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
-  "download_time": "2026-01-12T19:40:41.304848",
+  "download_filename": "ai_parrot-0.18.5-cp310-cp310-manylinux2014_x86_64.manylinux_2_17_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-14T22:20:37.438176",
   "package_url": "https://pypi.org/project/ai-parrot/"
 }

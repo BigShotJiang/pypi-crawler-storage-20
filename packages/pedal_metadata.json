@@ -1,0 +1,11 @@
+{
+  "name": "pedal",
+  "version": "2.9.2",
+  "summary": "Tools to provide feedback on student code.",
+  "author": "acbart,lukesg08",
+  "license": "Creative Commons Attribution-Noncommercial-Share Alike license",
+  "home_page": "https://pedal-edu.github.io/pedal",
+  "download_filename": "pedal-2.9.2.tar.gz",
+  "download_time": "2026-01-14T22:20:23.392583",
+  "package_url": "https://pypi.org/project/pedal/"
+}

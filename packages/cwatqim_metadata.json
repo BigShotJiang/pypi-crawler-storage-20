@@ -1,11 +1,11 @@
 {
   "name": "cwatqim",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Crop-Water Quota Irrigation Model - ABM for Yellow River water allocation",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cwatqim-0.1.1.tar.gz",
-  "download_time": "2026-01-14T21:44:36.532917",
+  "download_filename": "cwatqim-0.1.2.tar.gz",
+  "download_time": "2026-01-14T22:20:29.404064",
   "package_url": "https://pypi.org/project/cwatqim/"
 }
