@@ -1,8 +1,11 @@
 {
-  "download_time": "2026-01-14T11:20:13.746486",
+  "download_time": "2026-01-14T11:44:01.669381",
   "total_packages_downloaded": 89,
-  "total_size_mb": 50.2,
+  "total_size_mb": 10.61,
   "packages": [
+    "ll-la",
+    "starrocks",
+    "pyatlan",
     "mns-common",
     "napcat-sdk",
     "hfortix",
@@ -29,7 +32,6 @@
     "djhtmx",
     "risklabs",
     "django-insider",
-    "soupclaw",
     "dc-securex",
     "bdpan",
     "stan-circular-inference",
@@ -89,8 +91,6 @@
     "konduktor-nightly",
     "python-amazon-ad-api",
     "aluvia-sdk",
-    "qiskit-leaky-scheduling",
-    "pluto-ml-nightly",
-    "trainy-policy-nightly"
+    "qiskit-leaky-scheduling"
   ]
 }

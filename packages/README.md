@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-14T11:20:13.746486
+- **Download Time**: 2026-01-14T11:44:01.669381
 - **Total Packages**: 89
-- **Total Size**: 50.2 MB
+- **Total Size**: 10.61 MB
 
 ## Packages List
+- ll-la
+- starrocks
+- pyatlan
 - mns-common
 - napcat-sdk
 - hfortix
@@ -32,7 +35,6 @@
 - djhtmx
 - risklabs
 - django-insider
-- soupclaw
 - dc-securex
 - bdpan
 - stan-circular-inference
@@ -93,5 +95,3 @@
 - python-amazon-ad-api
 - aluvia-sdk
 - qiskit-leaky-scheduling
-- pluto-ml-nightly
-- trainy-policy-nightly
