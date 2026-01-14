@@ -1,11 +1,11 @@
 {
   "name": "xaal.dashboard",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "xAAL Dashboard",
   "author": null,
-  "license": "GPL License",
+  "license": null,
   "home_page": null,
-  "download_filename": "xaal_dashboard-0.4.1.tar.gz",
-  "download_time": "2026-01-14T01:27:10.404102",
+  "download_filename": "xaal_dashboard-0.4.2.tar.gz",
+  "download_time": "2026-01-14T23:17:15.881783",
   "package_url": "https://pypi.org/project/xaal.dashboard/"
 }

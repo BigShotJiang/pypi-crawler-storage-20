@@ -1,0 +1,11 @@
+{
+  "name": "boosters",
+  "version": "0.1.0",
+  "summary": "Fast gradient boosting library with native Rust core",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "boosters-0.1.0.tar.gz",
+  "download_time": "2026-01-14T23:17:18.058626",
+  "package_url": "https://pypi.org/project/boosters/"
+}

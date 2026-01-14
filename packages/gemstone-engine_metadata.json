@@ -1,0 +1,11 @@
+{
+  "name": "gemstone-engine",
+  "version": "1.2.1",
+  "summary": "GEMSTONe: Generic Engine for Modular Software Task Orchestration and Negotiation",
+  "author": null,
+  "license": "CC BY-ND 4.0",
+  "home_page": null,
+  "download_filename": "gemstone_engine-1.2.1.tar.gz",
+  "download_time": "2026-01-14T23:17:22.909387",
+  "package_url": "https://pypi.org/project/gemstone-engine/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fw-curation",
+  "version": "1.0.2",
+  "summary": "Flywheel Curation tools",
+  "author": "Flywheel",
+  "license": null,
+  "home_page": "https://flywheel-io.gitlab.io/tools/lib/fw-curation",
+  "download_filename": "fw_curation-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-14T23:16:59.675387",
+  "package_url": "https://pypi.org/project/fw-curation/"
+}

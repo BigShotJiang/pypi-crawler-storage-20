@@ -1,0 +1,11 @@
+{
+  "name": "mkdocs-addresses",
+  "version": "0.5.6",
+  "summary": "Mkdocs automatic paths/addresses building - auto-completion support (VSC)",
+  "author": "Frédéric Zinelli",
+  "license": "free-BSD",
+  "home_page": null,
+  "download_filename": "mkdocs_addresses-0.5.6.tar.gz",
+  "download_time": "2026-01-14T23:16:59.148794",
+  "package_url": "https://pypi.org/project/mkdocs-addresses/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "orfmi",
+  "version": "20260114231306",
+  "summary": "Open Rainforest Machine Image - CLI tool for creating AWS AMIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "orfmi-20260114231306.tar.gz",
+  "download_time": "2026-01-14T23:16:52.095037",
+  "package_url": "https://pypi.org/project/orfmi/"
+}

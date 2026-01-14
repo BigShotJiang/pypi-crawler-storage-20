@@ -1,0 +1,11 @@
+{
+  "name": "flowtask-cli",
+  "version": "0.1.0",
+  "summary": "A blazing fast, AI-native task management system for developers and AI agents",
+  "author": null,
+  "license": "Proprietary - All Rights Reserved",
+  "home_page": null,
+  "download_filename": "flowtask_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-14T23:16:53.162376",
+  "package_url": "https://pypi.org/project/flowtask-cli/"
+}

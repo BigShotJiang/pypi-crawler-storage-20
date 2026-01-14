@@ -1,0 +1,11 @@
+{
+  "name": "generatepdfs-python-sdk",
+  "version": "1.0.0",
+  "summary": "Python SDK for GeneratePDFs.com API",
+  "author": "GeneratePDFs",
+  "license": "MIT",
+  "home_page": "https://github.com/GeneratePDFs/python-sdk",
+  "download_filename": "generatepdfs_python_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-14T23:16:54.210182",
+  "package_url": "https://pypi.org/project/generatepdfs-python-sdk/"
+}
