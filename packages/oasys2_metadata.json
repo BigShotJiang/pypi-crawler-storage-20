@@ -1,0 +1,11 @@
+{
+  "name": "oasys2",
+  "version": "0.0.38",
+  "summary": "Core component of OASYS 2.0",
+  "author": "Manuel Sanchez del Rio & Luca Rebuffi",
+  "license": "BSD3",
+  "home_page": "https://www.aps.anl.gov/Science/Scientific-Software/OASYS",
+  "download_filename": "oasys2-0.0.38-py3-none-any.whl",
+  "download_time": "2026-01-14T21:44:11.301720",
+  "package_url": "https://pypi.org/project/oasys2/"
+}

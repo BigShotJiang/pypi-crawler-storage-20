@@ -1,11 +1,11 @@
 {
   "name": "toolsets",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A Python toolsets library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toolsets-0.1.7-py3-none-any.whl",
-  "download_time": "2026-01-14T21:22:03.535751",
+  "download_filename": "toolsets-0.1.9-py3-none-any.whl",
+  "download_time": "2026-01-14T21:44:12.877006",
   "package_url": "https://pypi.org/project/toolsets/"
 }

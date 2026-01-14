@@ -1,11 +1,11 @@
 {
   "name": "bodhi-llm",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "BODHI: Epistemic virtues (curiosity and humility) for LLM responses",
-  "author": null,
+  "author": "Felipe Ocampo Osorio, Janan Arslan, Kurt Benke, Rowell Castro, Leo Anthony Celi, Gustavo Adolfo Cruz-Suarez, Roben Delos Reyes, Justin Engelmann, Ari Ercole, Almog Hilel, Mahima Kalla, Leo Kinyera, Maximin Lange, Torleif Markussen Lunde, Mackenzie J Meni, Anna E Premo, Jana Sedlakova, Pritika Vig",
   "license": null,
   "home_page": null,
-  "download_filename": "bodhi_llm-0.1.2.tar.gz",
-  "download_time": "2026-01-14T19:35:32.004113",
+  "download_filename": "bodhi_llm-0.1.3.tar.gz",
+  "download_time": "2026-01-14T21:44:18.100179",
   "package_url": "https://pypi.org/project/bodhi-llm/"
 }

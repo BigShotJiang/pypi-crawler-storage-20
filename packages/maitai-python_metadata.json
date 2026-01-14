@@ -1,0 +1,11 @@
+{
+  "name": "maitai-python",
+  "version": "1.2.30",
+  "summary": "Maitai SDK for Python",
+  "author": "Maitai",
+  "license": "MIT",
+  "home_page": "https://docs.trymaitai.ai",
+  "download_filename": "maitai_python-1.2.30.tar.gz",
+  "download_time": "2026-01-14T21:44:15.499201",
+  "package_url": "https://pypi.org/project/maitai-python/"
+}

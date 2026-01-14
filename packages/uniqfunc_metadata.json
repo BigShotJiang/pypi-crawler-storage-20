@@ -1,11 +1,11 @@
 {
   "name": "uniqfunc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Git-aware checker for globally unique Python function names + reuse suggestions for AI agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "uniqfunc-0.1.1.tar.gz",
-  "download_time": "2026-01-14T19:40:33.429979",
+  "download_filename": "uniqfunc-0.1.2.tar.gz",
+  "download_time": "2026-01-14T21:44:23.884413",
   "package_url": "https://pypi.org/project/uniqfunc/"
 }

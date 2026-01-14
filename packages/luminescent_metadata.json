@@ -1,11 +1,11 @@
 {
   "name": "luminescent",
-  "version": "3.1",
+  "version": "3.1.1",
   "summary": "GPU-accelerated fully differentiable FDTD for photonics and RF",
   "author": "Paul Shen",
   "license": null,
   "home_page": null,
-  "download_filename": "luminescent-3.1.tar.gz",
-  "download_time": "2026-01-14T20:45:40.343603",
+  "download_filename": "luminescent-3.1.1.tar.gz",
+  "download_time": "2026-01-14T21:44:17.579665",
   "package_url": "https://pypi.org/project/luminescent/"
 }
