@@ -1,11 +1,11 @@
 {
   "name": "iris-sdk",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "SDK for Agentic AI workflow management with Iris",
   "author": "Iris",
   "license": "Nobody can use this",
   "home_page": null,
-  "download_filename": "iris_sdk-0.1.13.tar.gz",
-  "download_time": "2026-01-14T05:42:35.834008",
+  "download_filename": "iris_sdk-0.1.14.tar.gz",
+  "download_time": "2026-01-14T07:53:48.505483",
   "package_url": "https://pypi.org/project/iris-sdk/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "context-compressor-llm",
+  "version": "0.1.0",
+  "summary": "Incremental context compression for LLMs with anchored summaries",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_compressor_llm-0.1.0.tar.gz",
+  "download_time": "2026-01-14T07:53:22.497370",
+  "package_url": "https://pypi.org/project/context-compressor-llm/"
+}

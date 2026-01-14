@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_cactusinhand_mcp-server-notify",
+  "version": "0.1.0",
+  "summary": "MCP Server for system notifications with sound",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_cactusinhand_mcp_server_notify-0.1.0.tar.gz",
+  "download_time": "2026-01-14T07:54:02.458362",
+  "package_url": "https://pypi.org/project/iflow-mcp_cactusinhand_mcp-server-notify/"
+}

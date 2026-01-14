@@ -1,0 +1,11 @@
+{
+  "name": "ezpanos",
+  "version": "0.1.2",
+  "summary": "A lightweight PanOS (Palo Alto Netoworks) firewall Management utility.",
+  "author": "Noah Black",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezpanos-0.1.2.tar.gz",
+  "download_time": "2026-01-14T07:53:39.226416",
+  "package_url": "https://pypi.org/project/ezpanos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aiccel",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "summary": "AIccel is a versatile Python library for building lightweight AI agents with multiple LLM providers",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "aiccel-3.1.1.tar.gz",
-  "download_time": "2026-01-14T06:32:24.676620",
+  "download_filename": "aiccel-3.1.2.tar.gz",
+  "download_time": "2026-01-14T07:53:46.936448",
   "package_url": "https://pypi.org/project/aiccel/"
 }

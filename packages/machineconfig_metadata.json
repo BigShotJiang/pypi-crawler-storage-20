@@ -1,11 +1,11 @@
 {
   "name": "machineconfig",
-  "version": "8.46",
+  "version": "8.48",
   "summary": "Dotfiles management package",
   "author": null,
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "machineconfig-8.46.tar.gz",
-  "download_time": "2026-01-13T05:23:33.677887",
+  "download_filename": "machineconfig-8.48.tar.gz",
+  "download_time": "2026-01-14T07:53:36.611523",
   "package_url": "https://pypi.org/project/machineconfig/"
 }

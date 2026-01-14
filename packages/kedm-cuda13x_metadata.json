@@ -1,0 +1,11 @@
+{
+  "name": "kedm-cuda13x",
+  "version": "0.10.1",
+  "summary": "A high-performance implementation of the Empirical Dynamic Modeling (EDM) framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kedm_cuda13x-0.10.1-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-14T07:53:41.801048",
+  "package_url": "https://pypi.org/project/kedm-cuda13x/"
+}

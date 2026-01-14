@@ -1,11 +1,11 @@
 {
   "name": "xplan-tools",
-  "version": "1.12.0",
+  "version": "1.12.1",
   "summary": "Manage XPlanung data",
   "author": "Tobias Kraft",
   "license": "EUPL-1.2-or-later",
   "home_page": "https://gitlab.opencode.de/xleitstelle/xplanung/xplan-tools",
-  "download_filename": "xplan_tools-1.12.0.tar.gz",
-  "download_time": "2026-01-13T10:21:41.169673",
+  "download_filename": "xplan_tools-1.12.1.tar.gz",
+  "download_time": "2026-01-14T07:53:26.735124",
   "package_url": "https://pypi.org/project/xplan-tools/"
 }

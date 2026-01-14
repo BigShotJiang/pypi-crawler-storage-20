@@ -1,0 +1,11 @@
+{
+  "name": "fairpyx",
+  "version": "0.0.9",
+  "summary": "Fair division algorithms in Python",
+  "author": "Erel Segal-Halevi",
+  "license": null,
+  "home_page": "https://github.com/ariel-research/fairpyx",
+  "download_filename": "fairpyx-0.0.9.tar.gz",
+  "download_time": "2026-01-14T07:53:27.247498",
+  "package_url": "https://pypi.org/project/fairpyx/"
+}

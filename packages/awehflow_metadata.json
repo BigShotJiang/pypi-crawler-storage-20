@@ -1,0 +1,11 @@
+{
+  "name": "awehflow",
+  "version": "4.0.4",
+  "summary": "Configuration based Apache Airflow",
+  "author": "Philip Perold",
+  "license": null,
+  "home_page": null,
+  "download_filename": "awehflow-4.0.4.tar.gz",
+  "download_time": "2026-01-14T07:53:33.510604",
+  "package_url": "https://pypi.org/project/awehflow/"
+}

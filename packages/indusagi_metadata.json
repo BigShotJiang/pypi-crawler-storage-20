@@ -1,0 +1,11 @@
+{
+  "name": "indusagi",
+  "version": "0.2.1",
+  "summary": "A modern, extensible indus-agents for building autonomous agents with LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "indusagi-0.2.1.tar.gz",
+  "download_time": "2026-01-14T07:54:05.554941",
+  "package_url": "https://pypi.org/project/indusagi/"
+}

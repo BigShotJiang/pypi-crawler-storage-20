@@ -1,0 +1,11 @@
+{
+  "name": "ai-comm",
+  "version": "0.2.8",
+  "summary": "Cross-AI CLI communication tool for kitty terminal",
+  "author": "WindFade",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ai_comm-0.2.8.tar.gz",
+  "download_time": "2026-01-14T07:53:53.257630",
+  "package_url": "https://pypi.org/project/ai-comm/"
+}
