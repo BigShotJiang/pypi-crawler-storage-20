@@ -1,0 +1,11 @@
+{
+  "name": "drevalpy",
+  "version": "1.4.1",
+  "summary": "Drug response evaluation of cancer cell line drug response models in a fair setting",
+  "author": "DrEvalPy development team",
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "drevalpy-1.4.1-py3-none-any.whl",
+  "download_time": "2026-01-14T09:27:03.322080",
+  "package_url": "https://pypi.org/project/drevalpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dph-services",
+  "version": "1.6.0",
+  "summary": "Python client library for DPH Services",
+  "author": "IBM",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/IBM/data-product-exchange-python-sdk",
+  "download_filename": "dph_services-1.6.0.tar.gz",
+  "download_time": "2026-01-14T09:27:10.181456",
+  "package_url": "https://pypi.org/project/dph-services/"
+}

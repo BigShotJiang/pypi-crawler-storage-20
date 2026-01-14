@@ -1,0 +1,11 @@
+{
+  "name": "hkfdb",
+  "version": "6.1",
+  "summary": "Hong Kong Finance Database.",
+  "author": "Hong Kong Finance Database Team",
+  "license": null,
+  "home_page": "https://www.hkfdb.net",
+  "download_filename": "hkfdb-6.1.tar.gz",
+  "download_time": "2026-01-14T09:27:17.703497",
+  "package_url": "https://pypi.org/project/hkfdb/"
+}

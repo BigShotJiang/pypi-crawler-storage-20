@@ -1,0 +1,11 @@
+{
+  "name": "harlequin-clickhouse-adapter",
+  "version": "0.1.1",
+  "summary": "A Harlequin adapter for ClickHouse.",
+  "author": "Artem Gromov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "harlequin_clickhouse_adapter-0.1.1.tar.gz",
+  "download_time": "2026-01-14T09:27:13.793089",
+  "package_url": "https://pypi.org/project/harlequin-clickhouse-adapter/"
+}

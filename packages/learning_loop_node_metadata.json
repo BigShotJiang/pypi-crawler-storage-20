@@ -1,0 +1,11 @@
+{
+  "name": "learning_loop_node",
+  "version": "0.18.3",
+  "summary": "Python Library for Nodes which connect to the Zauberzeug Learning Loop",
+  "author": "Zauberzeug",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "learning_loop_node-0.18.3.tar.gz",
+  "download_time": "2026-01-14T09:27:29.567507",
+  "package_url": "https://pypi.org/project/learning_loop_node/"
+}
