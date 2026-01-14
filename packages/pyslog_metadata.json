@@ -1,11 +1,11 @@
 {
   "name": "pyslog",
-  "version": "0.1.0.dev5",
+  "version": "0.1.0.dev8",
   "summary": "Python e-SLOG library. Simplifies the generation of Slovenian e-SLOG electronic documents.",
   "author": "Gregor Gabrovšek",
   "license": null,
   "home_page": null,
-  "download_filename": "pyslog-0.1.0.dev5.tar.gz",
-  "download_time": "2026-01-14T11:54:31.937149",
+  "download_filename": "pyslog-0.1.0.dev8.tar.gz",
+  "download_time": "2026-01-14T15:00:27.169787",
   "package_url": "https://pypi.org/project/pyslog/"
 }

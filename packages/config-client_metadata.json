@@ -1,0 +1,11 @@
+{
+  "name": "config-client",
+  "version": "1.5.0",
+  "summary": "config client for Spring Cloud Config Server and Cloud Foundry",
+  "author": "Alexandre Menezes",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/amenezes/config-client",
+  "download_filename": "config_client-1.5.0.tar.gz",
+  "download_time": "2026-01-14T15:00:33.384583",
+  "package_url": "https://pypi.org/project/config-client/"
+}

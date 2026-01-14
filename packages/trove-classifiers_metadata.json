@@ -1,11 +1,11 @@
 {
   "name": "trove-classifiers",
-  "version": "2026.1.12.15",
+  "version": "2026.1.14.14",
   "summary": "Canonical source for classifiers on PyPI (pypi.org).",
   "author": "The PyPI Admins",
   "license": null,
   "home_page": "https://github.com/pypa/trove-classifiers",
-  "download_filename": "trove_classifiers-2026.1.12.15.tar.gz",
-  "download_time": "2026-01-12T17:52:08.668252",
+  "download_filename": "trove_classifiers-2026.1.14.14.tar.gz",
+  "download_time": "2026-01-14T15:00:06.533158",
   "package_url": "https://pypi.org/project/trove-classifiers/"
 }

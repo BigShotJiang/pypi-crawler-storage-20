@@ -1,0 +1,11 @@
+{
+  "name": "grid-samp",
+  "version": "0.1.1",
+  "summary": "The official PIL Implementation of GridSamp: A common environment for grid-based image sampling using intuitive python code.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "grid_samp-0.1.1.tar.gz",
+  "download_time": "2026-01-14T15:00:16.855641",
+  "package_url": "https://pypi.org/project/grid-samp/"
+}

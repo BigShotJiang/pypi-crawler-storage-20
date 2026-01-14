@@ -1,0 +1,11 @@
+{
+  "name": "isim",
+  "version": "16.3.0",
+  "summary": "Python wrapper around the simctl utility",
+  "author": "Dale Myers",
+  "license": "MIT",
+  "home_page": "https://github.com/dalemyers/xcrun",
+  "download_filename": "isim-16.3.0.tar.gz",
+  "download_time": "2026-01-14T15:00:20.983215",
+  "package_url": "https://pypi.org/project/isim/"
+}

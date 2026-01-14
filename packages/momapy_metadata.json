@@ -1,11 +1,11 @@
 {
   "name": "momapy",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "summary": "A library to work with molecular maps",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "momapy-0.2.4.tar.gz",
-  "download_time": "2026-01-13T12:40:57.916525",
+  "download_filename": "momapy-0.2.5.tar.gz",
+  "download_time": "2026-01-14T15:00:11.703887",
   "package_url": "https://pypi.org/project/momapy/"
 }

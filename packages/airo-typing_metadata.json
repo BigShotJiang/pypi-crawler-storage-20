@@ -1,0 +1,11 @@
+{
+  "name": "airo-typing",
+  "version": "2026.1.0",
+  "summary": "Python type definitions for use in the python packages at the Ghent University AI and Robotics Lab",
+  "author": "Thomas Lips",
+  "license": null,
+  "home_page": null,
+  "download_filename": "airo_typing-2026.1.0.tar.gz",
+  "download_time": "2026-01-14T14:59:45.742160",
+  "package_url": "https://pypi.org/project/airo-typing/"
+}

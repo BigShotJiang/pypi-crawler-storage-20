@@ -1,0 +1,11 @@
+{
+  "name": "grid-api",
+  "version": "1.10.0",
+  "summary": "The official Python library for the GRID API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "grid_api-1.10.0.tar.gz",
+  "download_time": "2026-01-14T15:00:06.016951",
+  "package_url": "https://pypi.org/project/grid-api/"
+}

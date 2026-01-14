@@ -1,11 +1,11 @@
 {
   "name": "terra_ui_components",
-  "version": "0.0.130",
+  "version": "0.0.131",
   "summary": "NASA Terra UI Components Library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "terra_ui_components-0.0.130.tar.gz",
-  "download_time": "2026-01-13T21:55:03.843519",
+  "download_filename": "terra_ui_components-0.0.131.tar.gz",
+  "download_time": "2026-01-14T14:59:59.700717",
   "package_url": "https://pypi.org/project/terra_ui_components/"
 }
