@@ -1,0 +1,11 @@
+{
+  "name": "af3io",
+  "version": "0.3",
+  "summary": "Utilities for AlphaFold 3 input/output files",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "af3io-0.3.tar.gz",
+  "download_time": "2026-01-14T10:23:01.948392",
+  "package_url": "https://pypi.org/project/af3io/"
+}

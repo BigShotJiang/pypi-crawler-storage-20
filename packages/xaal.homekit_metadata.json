@@ -1,0 +1,11 @@
+{
+  "name": "xaal.homekit",
+  "version": "0.2.1",
+  "summary": "xAAL devices for Homekit",
+  "author": null,
+  "license": "GPL License",
+  "home_page": null,
+  "download_filename": "xaal_homekit-0.2.1.tar.gz",
+  "download_time": "2026-01-14T10:22:41.547303",
+  "package_url": "https://pypi.org/project/xaal.homekit/"
+}

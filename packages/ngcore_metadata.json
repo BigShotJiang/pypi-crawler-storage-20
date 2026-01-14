@@ -1,0 +1,11 @@
+{
+  "name": "ngcore",
+  "version": "1.0.0",
+  "summary": "High-performance cognitive computing platform with Rust Core, WebSocket API, and real-time event processing (304K events/sec)",
+  "author": "Chernov Denys <noreply@neurograph.dev>",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/dchrnv/neurograph",
+  "download_filename": "ngcore-1.0.0-py3-none-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-01-14T10:22:21.955034",
+  "package_url": "https://pypi.org/project/ngcore/"
+}

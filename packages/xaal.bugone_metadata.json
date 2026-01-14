@@ -1,0 +1,11 @@
+{
+  "name": "xaal.bugone",
+  "version": "0.1.1",
+  "summary": "xAAL devices for bugNet wireless sensors",
+  "author": null,
+  "license": "GPL License",
+  "home_page": null,
+  "download_filename": "xaal_bugone-0.1.1.tar.gz",
+  "download_time": "2026-01-14T10:22:53.611655",
+  "package_url": "https://pypi.org/project/xaal.bugone/"
+}

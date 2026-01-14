@@ -1,0 +1,11 @@
+{
+  "name": "smtdata-lake-reports",
+  "version": "1.6.1",
+  "summary": "Python SDK for building Lake Reports in SMT Data ITBI Cloud",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smtdata_lake_reports-1.6.1.tar.gz",
+  "download_time": "2026-01-14T10:22:46.024967",
+  "package_url": "https://pypi.org/project/smtdata-lake-reports/"
+}

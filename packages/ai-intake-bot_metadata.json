@@ -1,11 +1,11 @@
 {
   "name": "ai-intake-bot",
-  "version": "0.1.0",
-  "summary": "Persona- and RAG-based intake SDK (prototype)",
+  "version": "0.1.2",
+  "summary": "Persona-(session) and RAG-based intake SDK (prototype)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ai_intake_bot-0.1.0.tar.gz",
-  "download_time": "2026-01-14T07:02:56.881321",
+  "download_filename": "ai_intake_bot-0.1.2.tar.gz",
+  "download_time": "2026-01-14T10:22:51.368222",
   "package_url": "https://pypi.org/project/ai-intake-bot/"
 }

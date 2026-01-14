@@ -1,0 +1,11 @@
+{
+  "name": "pvtlib",
+  "version": "1.11.0",
+  "summary": "A library containing various tools in the categories of thermodynamics, fluid mechanics, metering etc.",
+  "author": "Christian Hågenvik",
+  "license": "MIT",
+  "home_page": "https://github.com/equinor/pvtlib",
+  "download_filename": "pvtlib-1.11.0.tar.gz",
+  "download_time": "2026-01-14T10:22:47.594997",
+  "package_url": "https://pypi.org/project/pvtlib/"
+}

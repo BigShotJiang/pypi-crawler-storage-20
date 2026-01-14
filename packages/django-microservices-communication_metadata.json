@@ -1,0 +1,11 @@
+{
+  "name": "django-microservices-communication",
+  "version": "2.6.9",
+  "summary": "Pub/Sub for microservice on django",
+  "author": "ksinn",
+  "license": null,
+  "home_page": "https://github.com/ksinn/django-microservices-communication",
+  "download_filename": "django_microservices_communication-2.6.9.tar.gz",
+  "download_time": "2026-01-14T10:22:59.536192",
+  "package_url": "https://pypi.org/project/django-microservices-communication/"
+}

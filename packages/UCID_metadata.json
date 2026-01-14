@@ -1,0 +1,11 @@
+{
+  "name": "UCID",
+  "version": "1.0.0",
+  "summary": "Urban Context Identifier - A standardized temporal identifier system for comprehensive urban context analysis across global cities",
+  "author": null,
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "ucid-1.0.0.tar.gz",
+  "download_time": "2026-01-14T10:22:16.703509",
+  "package_url": "https://pypi.org/project/UCID/"
+}

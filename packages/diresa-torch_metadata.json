@@ -1,0 +1,11 @@
+{
+  "name": "diresa-torch",
+  "version": "1.2.1",
+  "summary": "Diresa - distance-regularized siamese twin autoencoder",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "diresa_torch-1.2.1.tar.gz",
+  "download_time": "2026-01-14T10:22:31.787908",
+  "package_url": "https://pypi.org/project/diresa-torch/"
+}

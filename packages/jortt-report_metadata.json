@@ -1,11 +1,11 @@
 {
   "name": "jortt-report",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Terminal-based timesheet reporting for Jortt with DuckDB backend",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "jortt_report-0.1.0.tar.gz",
-  "download_time": "2026-01-14T09:52:11.573489",
+  "download_filename": "jortt_report-0.1.1.tar.gz",
+  "download_time": "2026-01-14T10:22:53.072311",
   "package_url": "https://pypi.org/project/jortt-report/"
 }

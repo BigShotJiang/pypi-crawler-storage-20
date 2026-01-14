@@ -1,0 +1,11 @@
+{
+  "name": "2fas",
+  "version": "1.1.1",
+  "summary": "Unofficial implementation of 2fas for Python (as a CLI tool)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "2fas-1.1.1.tar.gz",
+  "download_time": "2026-01-14T10:22:43.760586",
+  "package_url": "https://pypi.org/project/2fas/"
+}

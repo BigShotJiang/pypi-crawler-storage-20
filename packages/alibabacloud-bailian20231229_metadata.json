@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-bailian20231229",
+  "version": "2.7.0",
+  "summary": "Alibaba Cloud bailian (20231229) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_bailian20231229-2.7.0.tar.gz",
+  "download_time": "2026-01-14T10:22:35.031692",
+  "package_url": "https://pypi.org/project/alibabacloud-bailian20231229/"
+}

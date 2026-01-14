@@ -1,11 +1,11 @@
 {
   "name": "mbe-tools",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A practical toolkit for Many-Body Expansion (MBE) workflows: cluster design, MBE input generation, output parsing, and analysis.",
   "author": "Jiarui Wang",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mbe_tools-0.2.0.tar.gz",
-  "download_time": "2026-01-12T19:22:48.302925",
+  "download_filename": "mbe_tools-0.2.1.tar.gz",
+  "download_time": "2026-01-14T10:22:36.128280",
   "package_url": "https://pypi.org/project/mbe-tools/"
 }
