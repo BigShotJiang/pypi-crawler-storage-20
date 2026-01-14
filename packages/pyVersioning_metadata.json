@@ -1,0 +1,11 @@
+{
+  "name": "pyVersioning",
+  "version": "0.18.4",
+  "summary": "Write version information collected from (CI) environment for any programming language as source file.",
+  "author": "Patrick Lehmann",
+  "license": "Apache-2.0",
+  "home_page": "https://GitHub.com/Paebbels/pyVersioning",
+  "download_filename": "pyversioning-0.18.4.tar.gz",
+  "download_time": "2026-01-14T07:02:30.171246",
+  "package_url": "https://pypi.org/project/pyVersioning/"
+}

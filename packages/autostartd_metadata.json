@@ -1,0 +1,11 @@
+{
+  "name": "autostartd",
+  "version": "0.1.2",
+  "summary": "Cross-platform autostart manager for Windows Task Scheduler and Linux Supervisor",
+  "author": "Dawalishi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autostartd-0.1.2.tar.gz",
+  "download_time": "2026-01-14T07:02:32.775637",
+  "package_url": "https://pypi.org/project/autostartd/"
+}

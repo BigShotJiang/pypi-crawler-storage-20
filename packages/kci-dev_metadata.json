@@ -1,0 +1,11 @@
+{
+  "name": "kci-dev",
+  "version": "0.1.10",
+  "summary": "Stand alone tool for Linux Kernel developers and maintainers to interact with KernelCI",
+  "author": "Arisu Tachibana",
+  "license": "LGPL-2.1-or-later",
+  "home_page": "https://github.com/kernelci/kci-dev",
+  "download_filename": "kci_dev-0.1.10.tar.gz",
+  "download_time": "2026-01-14T07:02:40.113615",
+  "package_url": "https://pypi.org/project/kci-dev/"
+}

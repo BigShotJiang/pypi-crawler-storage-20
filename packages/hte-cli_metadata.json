@@ -1,0 +1,11 @@
+{
+  "name": "hte-cli",
+  "version": "0.1.9",
+  "summary": "Human Time-to-Completion Evaluation CLI",
+  "author": "Lyptus Research",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hte_cli-0.1.9.tar.gz",
+  "download_time": "2026-01-14T07:02:45.407747",
+  "package_url": "https://pypi.org/project/hte-cli/"
+}

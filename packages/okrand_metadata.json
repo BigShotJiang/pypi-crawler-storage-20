@@ -1,0 +1,11 @@
+{
+  "name": "okrand",
+  "version": "1.7.0",
+  "summary": "Okrand is an internationalization/translation tool for Django",
+  "author": "Anders Hovmöller",
+  "license": "BSD",
+  "home_page": "https://github.com/boxed/okrand",
+  "download_filename": "okrand-1.7.0.tar.gz",
+  "download_time": "2026-01-14T07:02:58.947800",
+  "package_url": "https://pypi.org/project/okrand/"
+}

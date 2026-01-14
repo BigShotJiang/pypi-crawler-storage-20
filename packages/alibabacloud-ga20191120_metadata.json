@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-ga20191120",
+  "version": "3.0.0",
+  "summary": "Alibaba Cloud Global Acceleration (20191120) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_ga20191120-3.0.0.tar.gz",
+  "download_time": "2026-01-14T07:02:26.808285",
+  "package_url": "https://pypi.org/project/alibabacloud-ga20191120/"
+}

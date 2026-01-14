@@ -1,0 +1,11 @@
+{
+  "name": "nfpm",
+  "version": "2.44.1",
+  "summary": "nFPM is Not FPM - a zero dependencies, simple deb, rpm, apk, ipk, and arch linux packager written in Go",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nfpm-2.44.1-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-14T07:02:43.842759",
+  "package_url": "https://pypi.org/project/nfpm/"
+}
