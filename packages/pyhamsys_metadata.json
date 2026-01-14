@@ -1,0 +1,11 @@
+{
+  "name": "pyhamsys",
+  "version": "0.88",
+  "summary": "Some tools for Hamiltonian systems",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": null,
+  "download_filename": "pyhamsys-0.88.tar.gz",
+  "download_time": "2026-01-14T08:27:12.234916",
+  "package_url": "https://pypi.org/project/pyhamsys/"
+}

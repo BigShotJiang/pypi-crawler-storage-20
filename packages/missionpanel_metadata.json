@@ -1,0 +1,11 @@
+{
+  "name": "missionpanel",
+  "version": "1.5.5",
+  "summary": "A mission panel",
+  "author": "yindaheng98",
+  "license": null,
+  "home_page": "https://github.com/yindaheng98/missionpanel",
+  "download_filename": "missionpanel-1.5.5.tar.gz",
+  "download_time": "2026-01-14T08:27:33.693916",
+  "package_url": "https://pypi.org/project/missionpanel/"
+}

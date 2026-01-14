@@ -1,0 +1,11 @@
+{
+  "name": "loom-agent",
+  "version": "0.3.7",
+  "summary": "Enterprise-grade recursive state machine agent framework with event sourcing, multi-agent collaboration, hierarchical memory, and RAG integration",
+  "author": "kongusen",
+  "license": "Apache-2.0 with Commons Clause",
+  "home_page": "https://github.com/kongusen/loom-agent",
+  "download_filename": "loom_agent-0.3.7.tar.gz",
+  "download_time": "2026-01-14T08:27:29.471810",
+  "package_url": "https://pypi.org/project/loom-agent/"
+}

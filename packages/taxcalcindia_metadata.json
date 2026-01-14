@@ -1,0 +1,11 @@
+{
+  "name": "taxcalcindia",
+  "version": "0.1.4",
+  "summary": "A package to calculate income tax for Indian taxpayers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taxcalcindia-0.1.4.tar.gz",
+  "download_time": "2026-01-14T08:27:10.167155",
+  "package_url": "https://pypi.org/project/taxcalcindia/"
+}

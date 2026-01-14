@@ -1,0 +1,11 @@
+{
+  "name": "badminton-cli",
+  "version": "0.1.1",
+  "summary": "Beautiful console application for German U19 badminton rankings",
+  "author": "Paulo Matos",
+  "license": null,
+  "home_page": null,
+  "download_filename": "badminton_cli-0.1.1.tar.gz",
+  "download_time": "2026-01-14T08:26:56.286193",
+  "package_url": "https://pypi.org/project/badminton-cli/"
+}

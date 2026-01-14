@@ -1,0 +1,11 @@
+{
+  "name": "sysstra",
+  "version": "0.1.4.2.8",
+  "summary": "Official Python Library for Sysstra Algo Trading",
+  "author": "Anurag Singh Kushwah",
+  "license": null,
+  "home_page": "https://github.com/sysstra/sysstra",
+  "download_filename": "sysstra-0.1.4.2.8.tar.gz",
+  "download_time": "2026-01-14T08:27:39.885943",
+  "package_url": "https://pypi.org/project/sysstra/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bioshield",
+  "version": "1.0.0",
+  "summary": "BioShield: Intelligent Soil Monitoring & Auto-Adjustment System",
+  "author": "Samir Baladi",
+  "license": null,
+  "home_page": "https://github.com/emerladcompass/BioShield",
+  "download_filename": "bioshield-1.0.0.tar.gz",
+  "download_time": "2026-01-14T08:27:23.136456",
+  "package_url": "https://pypi.org/project/bioshield/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepdrift",
+  "version": "0.2.1",
+  "summary": "A Layer-Wise Diagnostic Framework for Neural Network Robustness",
+  "author": "Alexey Evtushenko",
+  "license": null,
+  "home_page": "https://github.com/Eutonics/DeepDrift",
+  "download_filename": "deepdrift-0.2.1.tar.gz",
+  "download_time": "2026-01-14T08:27:22.605171",
+  "package_url": "https://pypi.org/project/deepdrift/"
+}

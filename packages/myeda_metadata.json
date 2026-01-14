@@ -1,11 +1,11 @@
 {
   "name": "myeda",
-  "version": "0.1.1",
-  "summary": "Lightweight Exploratory Data Analysis library",
+  "version": "0.1.4",
+  "summary": "One-line Exploratory Data Analysis (EDA) library",
   "author": "Khaja Mubashir Arsalan",
   "license": null,
   "home_page": null,
-  "download_filename": "myeda-0.1.1.tar.gz",
-  "download_time": "2026-01-13T11:42:26.653739",
+  "download_filename": "myeda-0.1.4.tar.gz",
+  "download_time": "2026-01-14T08:27:16.358759",
   "package_url": "https://pypi.org/project/myeda/"
 }
