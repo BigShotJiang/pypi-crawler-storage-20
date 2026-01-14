@@ -1,0 +1,11 @@
+{
+  "name": "daring",
+  "version": "1.2.1.1",
+  "summary": "The daring is a collection of Python scripts that focuses on providing a range of efficient and flexible translation tool functions.",
+  "author": "Raodi",
+  "license": null,
+  "home_page": "https://gitee.com/Raodi/daring",
+  "download_filename": "daring-1.2.1.1.tar.gz",
+  "download_time": "2026-01-14T19:40:35.510304",
+  "package_url": "https://pypi.org/project/daring/"
+}

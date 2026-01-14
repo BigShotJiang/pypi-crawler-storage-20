@@ -1,0 +1,11 @@
+{
+  "name": "polartableone",
+  "version": "0.1.1",
+  "summary": "A polars-based implementation of the `tableone` library for generating summary statistics tables, often referred to as a 'Table 1'.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polartableone-0.1.1.tar.gz",
+  "download_time": "2026-01-14T19:40:39.156272",
+  "package_url": "https://pypi.org/project/polartableone/"
+}

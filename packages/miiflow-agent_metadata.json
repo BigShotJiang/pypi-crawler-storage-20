@@ -1,0 +1,11 @@
+{
+  "name": "miiflow-agent",
+  "version": "1.0.0",
+  "summary": "A lightweight Python SDK for building AI agents with unified LLM providers, ReAct orchestration, and tool calling",
+  "author": "Yaozhong Kang",
+  "license": "MIT",
+  "home_page": "https://github.com/Miiflow/miiflow-agent",
+  "download_filename": "miiflow_agent-1.0.0.tar.gz",
+  "download_time": "2026-01-14T19:40:41.792274",
+  "package_url": "https://pypi.org/project/miiflow-agent/"
+}

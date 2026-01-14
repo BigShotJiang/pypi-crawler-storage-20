@@ -1,11 +1,11 @@
 {
   "name": "thds.termtool",
-  "version": "1.0.20260113205739",
+  "version": "1.0.20260114143224",
   "summary": "Tools for terminal-based applications",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "thds_termtool-1.0.20260113205739-py3-none-any.whl",
-  "download_time": "2026-01-13T21:19:31.864218",
+  "download_filename": "thds_termtool-1.0.20260114143224-py3-none-any.whl",
+  "download_time": "2026-01-14T19:40:16.656017",
   "package_url": "https://pypi.org/project/thds.termtool/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "simple_function_benchmark",
+  "version": "0.1.4",
+  "summary": "Simple benchmarking library for comparing algorithm runtime",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "simple_function_benchmark-0.1.4.tar.gz",
+  "download_time": "2026-01-14T19:40:18.797399",
+  "package_url": "https://pypi.org/project/simple_function_benchmark/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-l10n-br-purchase",
+  "version": "16.0.6.0.2.5",
+  "summary": "Brazilian Localization Purchase",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/l10n-brazil",
+  "download_filename": "odoo_addon_l10n_br_purchase-16.0.6.0.2.5-py3-none-any.whl",
+  "download_time": "2026-01-14T19:40:48.086992",
+  "package_url": "https://pypi.org/project/odoo-addon-l10n-br-purchase/"
+}
