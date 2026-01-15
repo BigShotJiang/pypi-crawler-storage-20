@@ -1,0 +1,11 @@
+{
+  "name": "kimi-sdk",
+  "version": "0.1.1",
+  "summary": "A lightweight Python SDK for the Kimi API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kimi_sdk-0.1.1.tar.gz",
+  "download_time": "2026-01-15T17:59:06.553754",
+  "package_url": "https://pypi.org/project/kimi-sdk/"
+}

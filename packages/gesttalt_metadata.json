@@ -1,11 +1,11 @@
 {
   "name": "gesttalt",
-  "version": "0.7.8",
+  "version": "0.7.9",
   "summary": "A universal OAuth2.0 client written in Zig concurrency-ready",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gesttalt-0.7.8-py3-none-macosx_10_9_x86_64.whl",
-  "download_time": "2026-01-14T19:35:20.597093",
+  "download_filename": "gesttalt-0.7.9-py3-none-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-15T17:58:35.910042",
   "package_url": "https://pypi.org/project/gesttalt/"
 }

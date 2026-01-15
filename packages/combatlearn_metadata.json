@@ -1,0 +1,11 @@
+{
+  "name": "combatlearn",
+  "version": "1.1.1",
+  "summary": "Batch-effect harmonization for machine learning frameworks.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "combatlearn-1.1.1.tar.gz",
+  "download_time": "2026-01-15T17:58:44.265955",
+  "package_url": "https://pypi.org/project/combatlearn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pynina",
+  "version": "1.0.2",
+  "summary": "A Python API wrapper to retrieve warnings from the german NINA app.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pynina-1.0.2.tar.gz",
+  "download_time": "2026-01-15T17:59:10.577761",
+  "package_url": "https://pypi.org/project/pynina/"
+}

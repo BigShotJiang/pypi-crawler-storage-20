@@ -1,0 +1,11 @@
+{
+  "name": "datatrail-cli",
+  "version": "0.9.2",
+  "summary": "CHIME/FRB Datatrail CLI",
+  "author": "CHIME FRB Project Office",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datatrail_cli-0.9.2.tar.gz",
+  "download_time": "2026-01-15T17:58:32.654315",
+  "package_url": "https://pypi.org/project/datatrail-cli/"
+}

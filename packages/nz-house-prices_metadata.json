@@ -1,0 +1,11 @@
+{
+  "name": "nz-house-prices",
+  "version": "2.0.1",
+  "summary": "Scrape house price estimates from NZ real estate websites",
+  "author": "Gio",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nz_house_prices-2.0.1.tar.gz",
+  "download_time": "2026-01-15T17:58:29.463093",
+  "package_url": "https://pypi.org/project/nz-house-prices/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "reverse-api-engineer",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "A tool to capture browser traffic for API reverse engineering",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "reverse_api_engineer-0.3.1.tar.gz",
-  "download_time": "2026-01-15T17:18:49.173250",
+  "download_filename": "reverse_api_engineer-0.3.2.tar.gz",
+  "download_time": "2026-01-15T17:58:51.723424",
   "package_url": "https://pypi.org/project/reverse-api-engineer/"
 }
