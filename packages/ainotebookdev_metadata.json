@@ -1,0 +1,11 @@
+{
+  "name": "ainotebookdev",
+  "version": "0.1.1",
+  "summary": "Jupyter AI client bundle (connector + JupyterLab extension)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ainotebookdev-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-15T23:44:07.805833",
+  "package_url": "https://pypi.org/project/ainotebookdev/"
+}

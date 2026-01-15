@@ -1,0 +1,11 @@
+{
+  "name": "contexere-ai",
+  "version": "0.2.0",
+  "summary": "LLM Tracing and Context Engineering for Production AI Agents",
+  "author": "Vitoria",
+  "license": null,
+  "home_page": "https://github.com/contexere/contexere",
+  "download_filename": "contexere_ai-0.2.0.tar.gz",
+  "download_time": "2026-01-15T23:44:29.274763",
+  "package_url": "https://pypi.org/project/contexere-ai/"
+}

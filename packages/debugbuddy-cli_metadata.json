@@ -1,0 +1,11 @@
+{
+  "name": "debugbuddy-cli",
+  "version": "0.4.6",
+  "summary": "Your terminal's debugging companion - instant error explanations",
+  "author": "DevArqf",
+  "license": "MIT",
+  "home_page": "https://github.com/DevArqf/DeBugBuddy",
+  "download_filename": "debugbuddy_cli-0.4.6.tar.gz",
+  "download_time": "2026-01-15T23:44:10.499145",
+  "package_url": "https://pypi.org/project/debugbuddy-cli/"
+}

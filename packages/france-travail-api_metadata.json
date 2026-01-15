@@ -1,0 +1,11 @@
+{
+  "name": "france-travail-api",
+  "version": "1.2.0",
+  "summary": "A Python SDK for France Travail API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "france_travail_api-1.2.0.tar.gz",
+  "download_time": "2026-01-15T23:44:28.253412",
+  "package_url": "https://pypi.org/project/france-travail-api/"
+}

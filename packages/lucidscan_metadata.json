@@ -1,11 +1,11 @@
 {
   "name": "lucidscan",
-  "version": "0.5.8",
+  "version": "0.5.9",
   "summary": "LucidScan - The trust layer for AI-assisted development",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "lucidscan-0.5.8.tar.gz",
-  "download_time": "2026-01-14T21:44:09.717618",
+  "download_filename": "lucidscan-0.5.9.tar.gz",
+  "download_time": "2026-01-15T23:44:35.584097",
   "package_url": "https://pypi.org/project/lucidscan/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "sequana-multitax",
+  "version": "0.14",
+  "summary": "A multi-sample and multi-databases taxonomic analysis using Kraken",
+  "author": "Sequana Team",
+  "license": "BSD-3",
+  "home_page": "https://github.com/sequana/multitax",
+  "download_filename": "sequana_multitax-0.14.tar.gz",
+  "download_time": "2026-01-15T23:43:55.558354",
+  "package_url": "https://pypi.org/project/sequana-multitax/"
+}

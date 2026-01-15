@@ -1,11 +1,11 @@
 {
   "name": "omni-cortex",
-  "version": "1.12.1",
+  "version": "1.13.0",
   "summary": "Give Claude Code a perfect memory - auto-logs everything, searches smartly, and gets smarter over time",
   "author": "Tony",
   "license": null,
   "home_page": null,
-  "download_filename": "omni_cortex-1.12.1.tar.gz",
-  "download_time": "2026-01-15T22:48:41.444050",
+  "download_filename": "omni_cortex-1.13.0.tar.gz",
+  "download_time": "2026-01-15T23:44:31.411315",
   "package_url": "https://pypi.org/project/omni-cortex/"
 }

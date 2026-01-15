@@ -1,0 +1,11 @@
+{
+  "name": "lfdocs-conf",
+  "version": "0.10.0",
+  "summary": "Linux Foundation DocsConf",
+  "author": "Linux Foundation Releng",
+  "license": "EPL-1.0",
+  "home_page": "https://docs.releng.linuxfoundation.org/projects/lfdocs-conf",
+  "download_filename": "lfdocs_conf-0.10.0.tar.gz",
+  "download_time": "2026-01-15T23:44:41.783967",
+  "package_url": "https://pypi.org/project/lfdocs-conf/"
+}

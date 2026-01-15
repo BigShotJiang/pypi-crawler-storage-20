@@ -1,0 +1,11 @@
+{
+  "name": "taxonomy",
+  "version": "0.10.2",
+  "summary": "Routines for loading, saving, and manipulating taxonomic trees",
+  "author": "Vincent Prouillet <vincent@onecodex.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "taxonomy-0.10.2.tar.gz",
+  "download_time": "2026-01-15T23:44:22.432845",
+  "package_url": "https://pypi.org/project/taxonomy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "immersivepoints",
+  "version": "1.0.0",
+  "summary": "Render point clouds inline in Jupyter notebooks and in VR",
+  "author": "ImmersivePoints",
+  "license": null,
+  "home_page": "https://github.com/rmeertens/ImmersivePoints",
+  "download_filename": "immersivepoints-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-15T23:44:42.292999",
+  "package_url": "https://pypi.org/project/immersivepoints/"
+}
