@@ -1,0 +1,11 @@
+{
+  "name": "ghidrafrida",
+  "version": "12.0",
+  "summary": "Ghidra's Plugin for Frida",
+  "author": "Ghidra Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghidrafrida-12.0-py3-none-any.whl",
+  "download_time": "2026-01-15T15:23:13.390353",
+  "package_url": "https://pypi.org/project/ghidrafrida/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "monolit-local-app",
+  "version": "2.0.2",
+  "summary": "Simple package for fast writing local sites and desktop apps, with html, css and javascript",
+  "author": "Ars2011",
+  "license": "MIT",
+  "home_page": "https://github.com/arseniylazarev7-ctrl/Monolit",
+  "download_filename": "monolit_local_app-2.0.2.tar.gz",
+  "download_time": "2026-01-15T15:23:33.785390",
+  "package_url": "https://pypi.org/project/monolit-local-app/"
+}

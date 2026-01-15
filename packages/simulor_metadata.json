@@ -1,0 +1,11 @@
+{
+  "name": "simulor",
+  "version": "0.1.0a1",
+  "summary": "Production-ready event-driven backtesting framework with institutional-grade analytics",
+  "author": "Simulor Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "simulor-0.1.0a1.tar.gz",
+  "download_time": "2026-01-15T15:23:22.968702",
+  "package_url": "https://pypi.org/project/simulor/"
+}

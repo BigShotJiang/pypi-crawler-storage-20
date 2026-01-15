@@ -1,0 +1,11 @@
+{
+  "name": "collective.dms.mailcontent",
+  "version": "1.17.0",
+  "summary": "Mail content type for document management system",
+  "author": "Ecreall, Entrouvert, IMIO",
+  "license": "gpl",
+  "home_page": "https://github.com/collective/collective.dms.mailcontent",
+  "download_filename": "collective_dms_mailcontent-1.17.0.tar.gz",
+  "download_time": "2026-01-15T15:23:44.750204",
+  "package_url": "https://pypi.org/project/collective.dms.mailcontent/"
+}

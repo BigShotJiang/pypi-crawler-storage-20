@@ -1,0 +1,11 @@
+{
+  "name": "lcdp-flask-utils",
+  "version": "1.5.8",
+  "summary": "Flask Utils",
+  "author": "Le Comptoir Des Pharmacies",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lcdp_flask_utils-1.5.8.tar.gz",
+  "download_time": "2026-01-15T15:23:49.841925",
+  "package_url": "https://pypi.org/project/lcdp-flask-utils/"
+}

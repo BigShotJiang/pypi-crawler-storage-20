@@ -1,0 +1,11 @@
+{
+  "name": "ghmd",
+  "version": "1.0.1.post1",
+  "summary": "A simple CLI to convert markdown files to HTML using GitHub API using the GitHub Markdown style.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ghmd-1.0.1.post1.tar.gz",
+  "download_time": "2026-01-15T15:23:51.548559",
+  "package_url": "https://pypi.org/project/ghmd/"
+}
