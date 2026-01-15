@@ -1,11 +1,11 @@
 {
   "name": "filter-crop",
-  "version": "0.1.9",
+  "version": "0.1.11",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "filter_crop-0.1.9-py3-none-any.whl",
-  "download_time": "2026-01-14T12:40:27.144564",
+  "download_filename": "filter_crop-0.1.11-py3-none-any.whl",
+  "download_time": "2026-01-15T00:10:41.020779",
   "package_url": "https://pypi.org/project/filter-crop/"
 }

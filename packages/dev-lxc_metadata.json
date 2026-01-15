@@ -1,0 +1,11 @@
+{
+  "name": "dev-lxc",
+  "version": "0.4.2",
+  "summary": "A small wrapper for creating LXD system containers for development purposes.",
+  "author": "Mitch Burton",
+  "license": "MIT",
+  "home_page": "https://github.com/Perfect5th/dev-lxc",
+  "download_filename": "dev_lxc-0.4.2.tar.gz",
+  "download_time": "2026-01-15T00:10:29.334735",
+  "package_url": "https://pypi.org/project/dev-lxc/"
+}

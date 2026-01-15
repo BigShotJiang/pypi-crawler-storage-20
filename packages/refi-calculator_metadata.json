@@ -1,11 +1,11 @@
 {
   "name": "refi-calculator",
-  "version": "0.5.6",
+  "version": "0.6.0",
   "summary": "Refi Calculator Package.",
   "author": "Jordan Pflum",
   "license": null,
   "home_page": "https://github.com/jordandpflum/refi-calculator",
-  "download_filename": "refi_calculator-0.5.6.tar.gz",
-  "download_time": "2026-01-14T16:58:13.399059",
+  "download_filename": "refi_calculator-0.6.0.tar.gz",
+  "download_time": "2026-01-15T00:10:28.759020",
   "package_url": "https://pypi.org/project/refi-calculator/"
 }

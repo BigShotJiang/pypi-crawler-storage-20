@@ -1,11 +1,11 @@
 {
   "name": "anomaly-pipeline",
-  "version": "0.1.55",
-  "summary": null,
+  "version": "0.1.60",
+  "summary": "Ensemble framework for detecting outliers in grouped time-series data",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "anomaly_pipeline-0.1.55.tar.gz",
-  "download_time": "2026-01-13T19:01:26.605343",
+  "download_filename": "anomaly_pipeline-0.1.60.tar.gz",
+  "download_time": "2026-01-15T00:10:45.803605",
   "package_url": "https://pypi.org/project/anomaly-pipeline/"
 }
