@@ -1,11 +1,11 @@
 {
   "name": "cihub",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "summary": "Centralized CI/CD orchestration hub for multi-repository pipelines",
   "author": "jguida941",
   "license": "Elastic License 2.0",
   "home_page": null,
-  "download_filename": "cihub-1.0.5.tar.gz",
-  "download_time": "2026-01-15T14:30:33.695764",
+  "download_filename": "cihub-1.0.8.tar.gz",
+  "download_time": "2026-01-15T16:33:39.179871",
   "package_url": "https://pypi.org/project/cihub/"
 }

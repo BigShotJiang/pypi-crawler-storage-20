@@ -1,11 +1,11 @@
 {
   "name": "xkd",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "本模块用来帮助儿童进行3d编程学习，使用简化的语法让孩子们更容易得学习编程，促进孩子们对于三维数学和三维编程的理解和使用。",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xkd-0.1.5.tar.gz",
-  "download_time": "2026-01-14T19:40:43.924946",
+  "download_filename": "xkd-0.1.6.tar.gz",
+  "download_time": "2026-01-15T16:33:40.837227",
   "package_url": "https://pypi.org/project/xkd/"
 }

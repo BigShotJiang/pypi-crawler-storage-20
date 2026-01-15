@@ -1,11 +1,11 @@
 {
   "name": "dttb",
-  "version": "0.2.1",
+  "version": "0.2.4",
   "summary": "DateTime TraceBack",
   "author": "Rocky Haotian Du",
   "license": null,
   "home_page": null,
-  "download_filename": "dttb-0.2.1.tar.gz",
-  "download_time": "2026-01-15T08:56:43.553007",
+  "download_filename": "dttb-0.2.4.tar.gz",
+  "download_time": "2026-01-15T16:33:15.187774",
   "package_url": "https://pypi.org/project/dttb/"
 }

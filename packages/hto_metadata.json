@@ -1,0 +1,11 @@
+{
+  "name": "hto",
+  "version": "1.1.6",
+  "summary": "A method to demultiplex hashtagged single-cell data.",
+  "author": "Tobias Krause",
+  "license": "MIT",
+  "home_page": "https://pypi.org/project/hto/",
+  "download_filename": "hto-1.1.6.tar.gz",
+  "download_time": "2026-01-15T16:33:32.947031",
+  "package_url": "https://pypi.org/project/hto/"
+}

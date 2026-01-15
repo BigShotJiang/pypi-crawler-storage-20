@@ -1,0 +1,11 @@
+{
+  "name": "py-crispr-analyser",
+  "version": "1.0.3",
+  "summary": "Analyse a genome for CRISPRs and off-targets",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "py_crispr_analyser-1.0.3.tar.gz",
+  "download_time": "2026-01-15T16:33:41.454247",
+  "package_url": "https://pypi.org/project/py-crispr-analyser/"
+}

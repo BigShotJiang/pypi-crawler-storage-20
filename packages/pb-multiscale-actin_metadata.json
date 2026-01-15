@@ -1,11 +1,11 @@
 {
   "name": "pb-multiscale-actin",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": null,
   "author": "Blair Lyons",
   "license": "Apache Software License 2.0",
   "home_page": null,
-  "download_filename": "pb_multiscale_actin-1.2.1.tar.gz",
-  "download_time": "2026-01-14T19:51:58.930629",
+  "download_filename": "pb_multiscale_actin-1.2.2.tar.gz",
+  "download_time": "2026-01-15T16:33:13.468493",
   "package_url": "https://pypi.org/project/pb-multiscale-actin/"
 }

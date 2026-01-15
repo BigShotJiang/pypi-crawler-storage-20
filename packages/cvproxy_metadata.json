@@ -1,0 +1,11 @@
+{
+  "name": "cvproxy",
+  "version": "1.0.3",
+  "summary": "CVProxy - CloudVision Proxy",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cvproxy-1.0.3.tar.gz",
+  "download_time": "2026-01-15T16:33:25.448258",
+  "package_url": "https://pypi.org/project/cvproxy/"
+}
