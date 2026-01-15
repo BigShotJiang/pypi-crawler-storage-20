@@ -1,0 +1,11 @@
+{
+  "name": "gink",
+  "version": "0.20260115.1768439183",
+  "summary": "a system for storing data structures in lmdb",
+  "author": "Darin McGill",
+  "license": null,
+  "home_page": "https://github.com/x5e/gink",
+  "download_filename": "gink-0.20260115.1768439183.tar.gz",
+  "download_time": "2026-01-15T01:23:35.766605",
+  "package_url": "https://pypi.org/project/gink/"
+}

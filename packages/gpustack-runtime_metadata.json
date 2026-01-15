@@ -1,11 +1,11 @@
 {
   "name": "gpustack-runtime",
-  "version": "0.1.40",
+  "version": "0.1.40.post1",
   "summary": "GPUStack Runtime is library for detecting GPU resources and launching GPU workloads.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gpustack_runtime-0.1.40.tar.gz",
-  "download_time": "2026-01-14T13:29:21.648216",
+  "download_filename": "gpustack_runtime-0.1.40.post1.tar.gz",
+  "download_time": "2026-01-15T01:24:21.524160",
   "package_url": "https://pypi.org/project/gpustack-runtime/"
 }

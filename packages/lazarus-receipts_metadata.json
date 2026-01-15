@@ -1,0 +1,11 @@
+{
+  "name": "lazarus-receipts",
+  "version": "1.0.2",
+  "summary": "Lazarus Receipts SDK - Cryptographic receipt verification",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lazarus_receipts-1.0.2.tar.gz",
+  "download_time": "2026-01-15T01:23:55.416200",
+  "package_url": "https://pypi.org/project/lazarus-receipts/"
+}

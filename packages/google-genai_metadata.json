@@ -1,0 +1,11 @@
+{
+  "name": "google-genai",
+  "version": "1.58.0",
+  "summary": "GenAI Python SDK",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "google_genai-1.58.0.tar.gz",
+  "download_time": "2026-01-15T01:24:26.929299",
+  "package_url": "https://pypi.org/project/google-genai/"
+}

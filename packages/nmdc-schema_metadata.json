@@ -1,0 +1,11 @@
+{
+  "name": "nmdc-schema",
+  "version": "11.15.0",
+  "summary": "Schema resources for the National Microbiome Data Collaborative (NMDC)",
+  "author": "Bill Duncan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "nmdc_schema-11.15.0.tar.gz",
+  "download_time": "2026-01-15T01:24:27.585383",
+  "package_url": "https://pypi.org/project/nmdc-schema/"
+}

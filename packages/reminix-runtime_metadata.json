@@ -1,0 +1,11 @@
+{
+  "name": "reminix-runtime",
+  "version": "0.0.1",
+  "summary": "Reminix Runtime - Deploy AI agents via REST APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "reminix_runtime-0.0.1.tar.gz",
+  "download_time": "2026-01-15T01:23:38.816857",
+  "package_url": "https://pypi.org/project/reminix-runtime/"
+}

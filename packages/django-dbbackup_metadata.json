@@ -1,0 +1,11 @@
+{
+  "name": "django-dbbackup",
+  "version": "5.1.2",
+  "summary": "Management commands to help backup and restore a project database and media.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_dbbackup-5.1.2.tar.gz",
+  "download_time": "2026-01-15T01:24:30.191777",
+  "package_url": "https://pypi.org/project/django-dbbackup/"
+}

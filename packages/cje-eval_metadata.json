@@ -1,0 +1,11 @@
+{
+  "name": "cje-eval",
+  "version": "0.2.13",
+  "summary": "Causal Judge Evaluation - Unbiased LLM evaluation framework",
+  "author": "Eddie Landesberg",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cje_eval-0.2.13.tar.gz",
+  "download_time": "2026-01-15T01:23:48.709768",
+  "package_url": "https://pypi.org/project/cje-eval/"
+}

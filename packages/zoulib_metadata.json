@@ -1,11 +1,11 @@
 {
   "name": "zoulib",
-  "version": "0.0.22954",
-  "summary": "Python library with yttik module for YouTube & TikTok",
+  "version": "0.0.23050",
+  "summary": "zoulib lib",
   "author": "zoulib",
   "license": null,
   "home_page": null,
-  "download_filename": "zoulib-0.0.22954.tar.gz",
-  "download_time": "2026-01-15T00:10:07.877823",
+  "download_filename": "zoulib-0.0.23050.tar.gz",
+  "download_time": "2026-01-15T01:23:50.670491",
   "package_url": "https://pypi.org/project/zoulib/"
 }

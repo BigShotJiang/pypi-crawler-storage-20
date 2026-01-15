@@ -1,11 +1,11 @@
 {
   "name": "agentium-sdk",
-  "version": "0.4.5",
+  "version": "0.4.7",
   "summary": "Agentium SDK for Python - DID and Verifiable Credentials",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentium_sdk-0.4.5.tar.gz",
-  "download_time": "2026-01-15T00:10:33.962064",
+  "download_filename": "agentium_sdk-0.4.7.tar.gz",
+  "download_time": "2026-01-15T01:24:24.367422",
   "package_url": "https://pypi.org/project/agentium-sdk/"
 }
