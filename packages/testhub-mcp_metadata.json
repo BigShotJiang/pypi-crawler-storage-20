@@ -1,0 +1,11 @@
+{
+  "name": "testhub-mcp",
+  "version": "0.1.1",
+  "summary": "TestHub MCP Server - 提供开发任务管理和项目文档集成",
+  "author": "TestHub Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "testhub_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-15T10:51:16.510472",
+  "package_url": "https://pypi.org/project/testhub-mcp/"
+}

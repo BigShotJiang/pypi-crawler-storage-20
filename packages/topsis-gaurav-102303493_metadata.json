@@ -1,11 +1,11 @@
 {
   "name": "topsis-gaurav-102303493",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "A Python package implementing the TOPSIS method for multi-criteria decision making.",
   "author": "Gaurav Prakash Srivastava",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "topsis_gaurav_102303493-1.0.2.tar.gz",
-  "download_time": "2026-01-15T09:51:01.823513",
+  "download_filename": "topsis_gaurav_102303493-1.0.3.tar.gz",
+  "download_time": "2026-01-15T10:51:26.979931",
   "package_url": "https://pypi.org/project/topsis-gaurav-102303493/"
 }

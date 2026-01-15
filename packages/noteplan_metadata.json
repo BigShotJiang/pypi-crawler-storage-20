@@ -1,11 +1,11 @@
 {
   "name": "noteplan",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Helpers for interacting with NotePlan",
   "author": "Paul Traylor",
   "license": null,
   "home_page": null,
-  "download_filename": "noteplan-0.1.0.tar.gz",
-  "download_time": "2026-01-15T10:22:36.765086",
+  "download_filename": "noteplan-0.2.0.tar.gz",
+  "download_time": "2026-01-15T10:51:04.037918",
   "package_url": "https://pypi.org/project/noteplan/"
 }

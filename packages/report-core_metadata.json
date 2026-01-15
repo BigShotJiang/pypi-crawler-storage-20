@@ -1,0 +1,11 @@
+{
+  "name": "report-core",
+  "version": "0.12.0",
+  "summary": "Вспомогательное ядро для построения отчетов на базе XLSX",
+  "author": "Alexander Starovoytov",
+  "license": null,
+  "home_page": "https://github.com/stalexsm/report_core.git",
+  "download_filename": "report_core-0.12.0.tar.gz",
+  "download_time": "2026-01-15T10:51:17.040284",
+  "package_url": "https://pypi.org/project/report-core/"
+}

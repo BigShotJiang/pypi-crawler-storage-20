@@ -1,0 +1,11 @@
+{
+  "name": "kkape-nanolink",
+  "version": "0.4.1",
+  "summary": "Python SDK for NanoLink monitoring system",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "kkape_nanolink-0.4.1.tar.gz",
+  "download_time": "2026-01-15T10:51:18.136453",
+  "package_url": "https://pypi.org/project/kkape-nanolink/"
+}

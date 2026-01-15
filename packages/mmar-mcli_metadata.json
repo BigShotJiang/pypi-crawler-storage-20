@@ -1,11 +1,11 @@
 {
   "name": "mmar-mcli",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "summary": "Client to Maestro",
   "author": "tagin",
   "license": null,
   "home_page": null,
-  "download_filename": "mmar_mcli-1.0.11.tar.gz",
-  "download_time": "2026-01-14T15:33:44.175323",
+  "download_filename": "mmar_mcli-1.0.13.tar.gz",
+  "download_time": "2026-01-15T10:51:25.120913",
   "package_url": "https://pypi.org/project/mmar-mcli/"
 }
