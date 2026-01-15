@@ -1,0 +1,11 @@
+{
+  "name": "yamal",
+  "version": "8.0.31",
+  "summary": "Featuremine YTP packages",
+  "author": "Featuremine Corporation",
+  "license": "COPYRIGHT (c) 2019-2023 by Featuremine Corporation",
+  "home_page": "https://www.featuremine.com",
+  "download_filename": "yamal-8.0.31-py3-none-macosx_15_0_arm64.whl",
+  "download_time": "2026-01-15T19:38:19.747031",
+  "package_url": "https://pypi.org/project/yamal/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dagster-aws",
+  "version": "0.28.11",
+  "summary": "Package for AWS-specific Dagster framework solid and resource components.",
+  "author": "Dagster Labs",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dagster-io/dagster/tree/master/python_modules/libraries/dagster-aws",
+  "download_filename": "dagster_aws-0.28.11.tar.gz",
+  "download_time": "2026-01-15T19:39:11.817825",
+  "package_url": "https://pypi.org/project/dagster-aws/"
+}

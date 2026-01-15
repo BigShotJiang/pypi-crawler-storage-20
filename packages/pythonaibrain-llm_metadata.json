@@ -1,0 +1,11 @@
+{
+  "name": "pythonaibrain-llm",
+  "version": "0.1.0",
+  "summary": "LLM extension for Pythonaibrain with quantized model support",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pythonaibrain_llm-0.1.0.tar.gz",
+  "download_time": "2026-01-15T19:38:17.226654",
+  "package_url": "https://pypi.org/project/pythonaibrain-llm/"
+}

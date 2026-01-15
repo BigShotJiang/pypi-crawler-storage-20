@@ -1,0 +1,11 @@
+{
+  "name": "gen3utils",
+  "version": "1.0.0",
+  "summary": "Utils for Gen3 Commons management",
+  "author": "CTDS UChicago",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/uc-cdis/gen3utils",
+  "download_filename": "gen3utils-1.0.0.tar.gz",
+  "download_time": "2026-01-15T19:38:23.176194",
+  "package_url": "https://pypi.org/project/gen3utils/"
+}

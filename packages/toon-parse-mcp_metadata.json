@@ -1,0 +1,11 @@
+{
+  "name": "toon-parse-mcp",
+  "version": "1.0.1b0",
+  "summary": "Token optimization MCP server that reduces LLM context by stripping code comments and converting data formats to TOON",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "toon_parse_mcp-1.0.1b0.tar.gz",
+  "download_time": "2026-01-15T19:38:46.130479",
+  "package_url": "https://pypi.org/project/toon-parse-mcp/"
+}

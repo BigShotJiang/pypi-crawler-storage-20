@@ -1,0 +1,11 @@
+{
+  "name": "mlflow-modal-deploy",
+  "version": "0.2.1",
+  "summary": "MLflow deployment plugin for Modal serverless GPU infrastructure (actively maintained)",
+  "author": "Debu Sinha",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/debu-sinha/mlflow-modal",
+  "download_filename": "mlflow_modal_deploy-0.2.1.tar.gz",
+  "download_time": "2026-01-15T19:38:22.001680",
+  "package_url": "https://pypi.org/project/mlflow-modal-deploy/"
+}
