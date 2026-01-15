@@ -1,0 +1,11 @@
+{
+  "name": "muke",
+  "version": "0.4.0",
+  "summary": "A simple approach to 3D keypoint detection using 2D estimation methods and multiview rendering.",
+  "author": "Florian Bruggisser",
+  "license": "MIT License",
+  "home_page": "https://github.com/cansik/multiview-3d-keypoint-detection",
+  "download_filename": "muke-0.4.0-py3-none-any.whl",
+  "download_time": "2026-01-15T13:59:21.596851",
+  "package_url": "https://pypi.org/project/muke/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dab-py",
+  "version": "1.0.0",
+  "summary": "A Python client for DAB Terms API and DAB API (WHOS / HIS-Central API)",
+  "author": "Alun Sagara Putra (CNR Internship)",
+  "license": "AGPL-3.0",
+  "home_page": "https://github.com/ESSI-Lab/dab-py/tree/main",
+  "download_filename": "dab_py-1.0.0.tar.gz",
+  "download_time": "2026-01-15T13:59:49.469806",
+  "package_url": "https://pypi.org/project/dab-py/"
+}

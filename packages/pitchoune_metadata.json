@@ -1,0 +1,11 @@
+{
+  "name": "pitchoune",
+  "version": "0.60.5",
+  "summary": "Load & save data & chat with LLMs",
+  "author": "Pierre-Emmanuel Brian",
+  "license": null,
+  "home_page": "https://github.com/pe-brian/pitchoune",
+  "download_filename": "pitchoune-0.60.5.tar.gz",
+  "download_time": "2026-01-15T13:59:10.738162",
+  "package_url": "https://pypi.org/project/pitchoune/"
+}

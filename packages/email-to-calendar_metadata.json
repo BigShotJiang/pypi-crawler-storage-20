@@ -1,0 +1,11 @@
+{
+  "name": "email-to-calendar",
+  "version": "20260115135314.dev0",
+  "summary": "Takes emails from an IMAP server, parses the body, and creates event(s) in a CalDAV calendar",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "email_to_calendar-20260115135314.dev0.tar.gz",
+  "download_time": "2026-01-15T13:59:18.010627",
+  "package_url": "https://pypi.org/project/email-to-calendar/"
+}

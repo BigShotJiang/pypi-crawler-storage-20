@@ -1,0 +1,11 @@
+{
+  "name": "deadlink",
+  "version": "0.6.4",
+  "summary": "Check and fix URLs in files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deadlink-0.6.4-py3-none-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-15T13:59:30.350701",
+  "package_url": "https://pypi.org/project/deadlink/"
+}
