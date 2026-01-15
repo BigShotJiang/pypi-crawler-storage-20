@@ -1,0 +1,11 @@
+{
+  "name": "btreedict",
+  "version": "1.0.0",
+  "summary": "B-Tree data structure implemented in C for Python",
+  "author": "Alberto",
+  "license": "MIT",
+  "home_page": "https://github.com/irazza/btree",
+  "download_filename": "btreedict-1.0.0-cp311-cp311-macosx_10_9_x86_64.whl",
+  "download_time": "2026-01-15T07:45:40.583918",
+  "package_url": "https://pypi.org/project/btreedict/"
+}

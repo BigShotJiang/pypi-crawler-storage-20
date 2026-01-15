@@ -1,0 +1,11 @@
+{
+  "name": "langchain-codex-oauth",
+  "version": "1.0.0",
+  "summary": "Use ChatGPT Plus/Pro Codex (OAuth) as a LangChain/LangGraph chat model",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_codex_oauth-1.0.0.tar.gz",
+  "download_time": "2026-01-15T07:45:24.125177",
+  "package_url": "https://pypi.org/project/langchain-codex-oauth/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-account-statement-import-base",
+  "version": "19.0.1.0.0.2",
+  "summary": "Base module for Bank Statement Import",
+  "author": "Akretion, Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/bank-statement-import",
+  "download_filename": "odoo_addon_account_statement_import_base-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-15T07:45:38.867113",
+  "package_url": "https://pypi.org/project/odoo-addon-account-statement-import-base/"
+}

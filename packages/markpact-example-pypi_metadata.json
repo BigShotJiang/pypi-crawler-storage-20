@@ -1,11 +1,11 @@
 {
   "name": "markpact-example-pypi",
-  "version": "0.1.1",
-  "summary": "Example package published with markpact",
+  "version": "0.1.7",
+  "summary": "Example package published with markpact Example package published with markpact",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "markpact_example_pypi-0.1.1.tar.gz",
-  "download_time": "2026-01-14T21:22:09.226610",
+  "download_filename": "markpact_example_pypi-0.1.7.tar.gz",
+  "download_time": "2026-01-15T07:45:09.817575",
   "package_url": "https://pypi.org/project/markpact-example-pypi/"
 }
