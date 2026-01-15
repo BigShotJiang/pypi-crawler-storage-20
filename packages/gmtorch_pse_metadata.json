@@ -1,11 +1,11 @@
 {
   "name": "gmtorch_pse",
-  "version": "0.1.2.dev0",
+  "version": "0.1.2.dev3",
   "summary": "A library to work with gm",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gmtorch_pse-0.1.2.dev0.tar.gz",
-  "download_time": "2026-01-15T19:07:32.495408",
+  "download_filename": "gmtorch_pse-0.1.2.dev3.tar.gz",
+  "download_time": "2026-01-15T19:56:12.785694",
   "package_url": "https://pypi.org/project/gmtorch_pse/"
 }

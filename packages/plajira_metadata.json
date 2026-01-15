@@ -1,11 +1,11 @@
 {
   "name": "plajira",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "summary": "Sync your .plan file with Jira Cloud",
   "author": "plajira contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "plajira-0.3.1.tar.gz",
-  "download_time": "2026-01-15T17:58:26.901986",
+  "download_filename": "plajira-0.4.0.tar.gz",
+  "download_time": "2026-01-15T19:56:43.382212",
   "package_url": "https://pypi.org/project/plajira/"
 }
