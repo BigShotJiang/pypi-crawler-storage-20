@@ -1,0 +1,11 @@
+{
+  "name": "sashite-cell",
+  "version": "2.0.0",
+  "summary": "CELL (Coordinate Encoding for Layered Locations) implementation for Python",
+  "author": "Cyril Kato",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sashite_cell-2.0.0.tar.gz",
+  "download_time": "2026-01-15T22:48:27.876411",
+  "package_url": "https://pypi.org/project/sashite-cell/"
+}

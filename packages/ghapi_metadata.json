@@ -1,0 +1,11 @@
+{
+  "name": "ghapi",
+  "version": "1.0.9",
+  "summary": "A python client for the GitHub API",
+  "author": "Jeremy Howard",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/fastai/ghapi",
+  "download_filename": "ghapi-1.0.9.tar.gz",
+  "download_time": "2026-01-15T22:47:59.692055",
+  "package_url": "https://pypi.org/project/ghapi/"
+}

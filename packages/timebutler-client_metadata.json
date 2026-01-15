@@ -1,0 +1,11 @@
+{
+  "name": "timebutler-client",
+  "version": "0.0.2",
+  "summary": "Async Python client for the Timebutler API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "timebutler_client-0.0.2.tar.gz",
+  "download_time": "2026-01-15T22:48:23.704133",
+  "package_url": "https://pypi.org/project/timebutler-client/"
+}

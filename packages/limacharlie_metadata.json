@@ -1,11 +1,11 @@
 {
   "name": "limacharlie",
-  "version": "4.11.1",
+  "version": "4.11.3",
   "summary": "Python API for LimaCharlie.io",
   "author": "Maxime Lamothe-Brassard ( Refraction Point, Inc )",
   "license": "Apache v2",
   "home_page": "https://limacharlie.io",
-  "download_filename": "limacharlie-4.11.1.tar.gz",
-  "download_time": "2026-01-12T18:28:23.856377",
+  "download_filename": "limacharlie-4.11.3.tar.gz",
+  "download_time": "2026-01-15T22:48:07.095284",
   "package_url": "https://pypi.org/project/limacharlie/"
 }

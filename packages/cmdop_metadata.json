@@ -1,0 +1,11 @@
+{
+  "name": "cmdop",
+  "version": "0.1.9",
+  "summary": "Python SDK for CMDOP agent interaction",
+  "author": "CMDOP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cmdop-0.1.9.tar.gz",
+  "download_time": "2026-01-15T22:47:51.705370",
+  "package_url": "https://pypi.org/project/cmdop/"
+}

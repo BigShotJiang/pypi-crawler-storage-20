@@ -1,0 +1,11 @@
+{
+  "name": "voicetest",
+  "version": "2",
+  "summary": "A generic test harness for voice agent workflows",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voicetest-2.tar.gz",
+  "download_time": "2026-01-15T22:48:16.261348",
+  "package_url": "https://pypi.org/project/voicetest/"
+}
