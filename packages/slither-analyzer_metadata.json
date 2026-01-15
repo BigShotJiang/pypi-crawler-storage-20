@@ -1,0 +1,11 @@
+{
+  "name": "slither-analyzer",
+  "version": "0.11.4",
+  "summary": "Slither is a Solidity and Vyper static analysis framework written in Python 3.",
+  "author": "Trail of Bits",
+  "license": "AGPL-3.0",
+  "home_page": null,
+  "download_filename": "slither_analyzer-0.11.4-py3-none-any.whl",
+  "download_time": "2026-01-15T19:07:26.321015",
+  "package_url": "https://pypi.org/project/slither-analyzer/"
+}

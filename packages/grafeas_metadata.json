@@ -1,11 +1,11 @@
 {
   "name": "grafeas",
-  "version": "1.17.0",
+  "version": "1.18.0",
   "summary": "Grafeas API client library",
   "author": "Google LLC",
   "license": "Apache 2.0",
   "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/grafeas",
-  "download_filename": "grafeas-1.17.0.tar.gz",
-  "download_time": "2026-01-15T13:29:42.812196",
+  "download_filename": "grafeas-1.18.0.tar.gz",
+  "download_time": "2026-01-15T19:07:52.059764",
   "package_url": "https://pypi.org/project/grafeas/"
 }

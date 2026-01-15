@@ -1,0 +1,11 @@
+{
+  "name": "tilings",
+  "version": "4.1.0",
+  "summary": "A Python library for gridded permutations and tilings.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "tilings-4.1.0.tar.gz",
+  "download_time": "2026-01-15T19:07:14.936423",
+  "package_url": "https://pypi.org/project/tilings/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pk2api",
-  "version": "1.2.0",
+  "version": "1.4.1",
   "summary": "Python library to read and write Silkroad Online PK2 files",
   "author": "dadav",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pk2api-1.2.0.tar.gz",
-  "download_time": "2026-01-14T16:58:03.049423",
+  "download_filename": "pk2api-1.4.1.tar.gz",
+  "download_time": "2026-01-15T19:07:11.246071",
   "package_url": "https://pypi.org/project/pk2api/"
 }

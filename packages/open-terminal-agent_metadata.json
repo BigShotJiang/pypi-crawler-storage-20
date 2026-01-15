@@ -1,0 +1,11 @@
+{
+  "name": "open-terminal-agent",
+  "version": "0.2.0",
+  "summary": "A coding agent for the terminal, powered by Ollama Cloud",
+  "author": "Noah Sabaj",
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_terminal_agent-0.2.0.tar.gz",
+  "download_time": "2026-01-15T19:07:25.802235",
+  "package_url": "https://pypi.org/project/open-terminal-agent/"
+}

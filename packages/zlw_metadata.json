@@ -1,11 +1,11 @@
 {
   "name": "zlw",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Zero Latency Whitening Utilities",
   "author": null,
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "zlw-0.2.0.tar.gz",
-  "download_time": "2026-01-14T19:35:03.448437",
+  "download_filename": "zlw-0.2.1.tar.gz",
+  "download_time": "2026-01-15T19:07:19.592557",
   "package_url": "https://pypi.org/project/zlw/"
 }
