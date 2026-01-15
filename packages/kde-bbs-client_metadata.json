@@ -1,0 +1,11 @@
+{
+  "name": "kde-bbs-client",
+  "version": "0.1.1",
+  "summary": "A modern KDE client for old school telnet based BBS systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kde_bbs_client-0.1.1.tar.gz",
+  "download_time": "2026-01-15T23:20:00.253174",
+  "package_url": "https://pypi.org/project/kde-bbs-client/"
+}

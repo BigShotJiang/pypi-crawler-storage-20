@@ -1,0 +1,11 @@
+{
+  "name": "training-doctor",
+  "version": "0.1.0",
+  "summary": "A framework-agnostic library for monitoring deep learning training runs and diagnosing issues",
+  "author": "Training Doctor Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "training_doctor-0.1.0.tar.gz",
+  "download_time": "2026-01-15T23:20:28.782011",
+  "package_url": "https://pypi.org/project/training-doctor/"
+}

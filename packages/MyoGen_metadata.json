@@ -1,0 +1,11 @@
+{
+  "name": "MyoGen",
+  "version": "0.8.5",
+  "summary": "Modular and extensible neuromuscular simulation framework for generating physiologically grounded motor-unit activity, muscle force, and EMG signals (surface and intramuscular)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "myogen-0.8.5.tar.gz",
+  "download_time": "2026-01-15T23:20:11.512841",
+  "package_url": "https://pypi.org/project/MyoGen/"
+}

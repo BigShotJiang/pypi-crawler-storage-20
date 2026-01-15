@@ -1,0 +1,11 @@
+{
+  "name": "dmgbuild",
+  "version": "1.6.7",
+  "summary": "macOS command line utility to build disk images",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dmgbuild-1.6.7.tar.gz",
+  "download_time": "2026-01-15T23:19:58.708166",
+  "package_url": "https://pypi.org/project/dmgbuild/"
+}

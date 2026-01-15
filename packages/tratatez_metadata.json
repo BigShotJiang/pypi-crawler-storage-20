@@ -1,0 +1,11 @@
+{
+  "name": "tratatez",
+  "version": "1.5",
+  "summary": "Librería para manipulación avanzada de archivos de texto .txt con proposito educativo... enfocada, para construir y simular una consola (preferiblemente utilizando el comando match de python)",
+  "author": "El Señor es el único eterno. Que la ciencia lo honre a Él.",
+  "license": "MPL-2.0",
+  "home_page": "https://github.com/Jesu-super-galactico/tratatez",
+  "download_filename": "tratatez-1.5.tar.gz",
+  "download_time": "2026-01-15T23:20:21.867703",
+  "package_url": "https://pypi.org/project/tratatez/"
+}
