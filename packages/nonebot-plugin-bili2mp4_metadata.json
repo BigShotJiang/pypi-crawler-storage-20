@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-bili2mp4",
+  "version": "0.1.9",
+  "summary": "在指定群内将B站小程序/分享链接解析转MP4后发送的NoneBot2插件",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_bili2mp4-0.1.9.tar.gz",
+  "download_time": "2026-01-15T18:41:07.744623",
+  "package_url": "https://pypi.org/project/nonebot-plugin-bili2mp4/"
+}

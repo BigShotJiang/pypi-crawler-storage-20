@@ -1,0 +1,11 @@
+{
+  "name": "opsautopsy",
+  "version": "0.1.0",
+  "summary": "Kubernetes post-incident forensics and timeline reconstruction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "opsautopsy-0.1.0.tar.gz",
+  "download_time": "2026-01-15T18:41:23.992347",
+  "package_url": "https://pypi.org/project/opsautopsy/"
+}

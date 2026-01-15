@@ -1,0 +1,11 @@
+{
+  "name": "aegislog",
+  "version": "3.0.0",
+  "summary": "Fire-and-Forget Evidence Logging for EU AI Act Compliance with Time Machine Defense",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "aegislog-3.0.0.tar.gz",
+  "download_time": "2026-01-15T18:41:15.272127",
+  "package_url": "https://pypi.org/project/aegislog/"
+}

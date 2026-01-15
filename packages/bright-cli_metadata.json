@@ -1,0 +1,11 @@
+{
+  "name": "bright-cli",
+  "version": "0.1.0",
+  "summary": "Thin wrapper around Bright Data Web Unlocker HTTP API",
+  "author": "Benjamin Anderson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bright_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-15T18:41:04.274976",
+  "package_url": "https://pypi.org/project/bright-cli/"
+}

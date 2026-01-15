@@ -1,0 +1,11 @@
+{
+  "name": "model-generate",
+  "version": "0.0.3",
+  "summary": "A unified utility to generate NPU and Hybrid OGA Models",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "model_generate-0.0.3-py3-none-any.whl",
+  "download_time": "2026-01-15T18:41:03.699542",
+  "package_url": "https://pypi.org/project/model-generate/"
+}

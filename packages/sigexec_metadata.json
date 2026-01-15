@@ -1,11 +1,11 @@
 {
   "name": "sigexec",
-  "version": "2026.38",
+  "version": "2026.45",
   "summary": "Signal processing execution graph using DAG and data classes",
   "author": "Signal Processing Team",
   "license": null,
   "home_page": null,
-  "download_filename": "sigexec-2026.38.tar.gz",
-  "download_time": "2026-01-14T16:27:23.810526",
+  "download_filename": "sigexec-2026.45.tar.gz",
+  "download_time": "2026-01-15T18:40:41.813145",
   "package_url": "https://pypi.org/project/sigexec/"
 }

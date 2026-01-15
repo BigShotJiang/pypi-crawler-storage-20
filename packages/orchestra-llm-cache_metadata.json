@@ -1,11 +1,11 @@
 {
   "name": "orchestra-llm-cache",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Reduce AI orchestration costs by 85% with semantic caching",
   "author": "Orchestra Team",
   "license": null,
   "home_page": "https://github.com/uejsh/orchestra",
-  "download_filename": "orchestra_llm_cache-0.2.2.tar.gz",
-  "download_time": "2026-01-14T20:57:19.259314",
+  "download_filename": "orchestra_llm_cache-0.3.0.tar.gz",
+  "download_time": "2026-01-15T18:41:08.321325",
   "package_url": "https://pypi.org/project/orchestra-llm-cache/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "vibrant-auth-middleware",
+  "version": "0.1.0",
+  "summary": "FastAPI middleware for JWT extraction and verification",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vibrant_auth_middleware-0.1.0.tar.gz",
+  "download_time": "2026-01-15T18:41:00.093668",
+  "package_url": "https://pypi.org/project/vibrant-auth-middleware/"
+}
