@@ -1,0 +1,11 @@
+{
+  "name": "langchain-mongodb",
+  "version": "0.11.0",
+  "summary": "An integration package connecting MongoDB and LangChain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "langchain_mongodb-0.11.0.tar.gz",
+  "download_time": "2026-01-15T17:19:09.537307",
+  "package_url": "https://pypi.org/project/langchain-mongodb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "g3wsuite-config-scripts",
+  "version": "0.6.3",
+  "summary": "Configuration scripts for the g3w suite setup",
+  "author": "Andrea Antonello",
+  "license": null,
+  "home_page": "https://github.com/moovida/g3wsuite_config_scripts",
+  "download_filename": "g3wsuite_config_scripts-0.6.3.tar.gz",
+  "download_time": "2026-01-15T17:19:04.285642",
+  "package_url": "https://pypi.org/project/g3wsuite-config-scripts/"
+}

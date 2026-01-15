@@ -1,0 +1,11 @@
+{
+  "name": "dicebear",
+  "version": "3.9.4",
+  "summary": "A python wrapper for DiceBear's avatar generating API.",
+  "author": "jvherck",
+  "license": "MIT License",
+  "home_page": "https://dicebear.vhjan.me/",
+  "download_filename": "dicebear-3.9.4.tar.gz",
+  "download_time": "2026-01-15T17:19:16.461067",
+  "package_url": "https://pypi.org/project/dicebear/"
+}

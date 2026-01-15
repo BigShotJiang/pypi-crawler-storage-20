@@ -1,0 +1,11 @@
+{
+  "name": "collective.eeafaceted.z3ctable",
+  "version": "2.30",
+  "summary": "Package proposant un type de colonne compatible avec eea.facetednavigation",
+  "author": "IMIO",
+  "license": "GPL V2",
+  "home_page": "http://pypi.python.org/pypi/collective.eeafaceted.z3ctable",
+  "download_filename": "collective_eeafaceted_z3ctable-2.30.tar.gz",
+  "download_time": "2026-01-15T17:18:56.955207",
+  "package_url": "https://pypi.org/project/collective.eeafaceted.z3ctable/"
+}

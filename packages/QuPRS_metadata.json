@@ -1,0 +1,11 @@
+{
+  "name": "QuPRS",
+  "version": "0.12.2",
+  "summary": "QuPRS: Quantum Path-sum Reduction and Solver",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "quprs-0.12.2.tar.gz",
+  "download_time": "2026-01-15T17:19:16.980018",
+  "package_url": "https://pypi.org/project/QuPRS/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "struct-frame",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "summary": "A framework for serializing data with headers",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "struct_frame-0.4.0.tar.gz",
-  "download_time": "2026-01-14T22:48:54.049875",
+  "download_filename": "struct_frame-0.5.0.tar.gz",
+  "download_time": "2026-01-15T17:18:45.412011",
   "package_url": "https://pypi.org/project/struct-frame/"
 }

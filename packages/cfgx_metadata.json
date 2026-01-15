@@ -1,0 +1,11 @@
+{
+  "name": "cfgx",
+  "version": "0.4.0",
+  "summary": "Python-first config loader with composition and CLI overrides.",
+  "author": "Karim Abou Zeid",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cfgx-0.4.0.tar.gz",
+  "download_time": "2026-01-15T17:19:20.132957",
+  "package_url": "https://pypi.org/project/cfgx/"
+}
