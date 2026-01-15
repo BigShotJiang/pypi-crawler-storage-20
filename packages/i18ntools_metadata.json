@@ -1,0 +1,11 @@
+{
+  "name": "i18ntools",
+  "version": "0.2.2",
+  "summary": "i18ntools helps translate Java properties i18n files using Azure Cognitive Services Translator",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "i18ntools-0.2.2.tar.gz",
+  "download_time": "2026-01-15T20:24:16.470412",
+  "package_url": "https://pypi.org/project/i18ntools/"
+}

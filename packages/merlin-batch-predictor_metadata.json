@@ -1,0 +1,11 @@
+{
+  "name": "merlin-batch-predictor",
+  "version": "0.49.3",
+  "summary": "Base PySpark application for running Merlin prediction batch job",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "merlin_batch_predictor-0.49.3.tar.gz",
+  "download_time": "2026-01-15T20:24:05.256912",
+  "package_url": "https://pypi.org/project/merlin-batch-predictor/"
+}

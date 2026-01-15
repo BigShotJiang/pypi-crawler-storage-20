@@ -1,11 +1,11 @@
 {
   "name": "mloda-community",
-  "version": "0.2.4",
-  "summary": "All community plugins for mloda (meta-package)",
+  "version": "0.2.5",
+  "summary": "All community plugins for mloda",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mloda_community-0.2.4.tar.gz",
-  "download_time": "2026-01-15T19:56:22.805015",
+  "download_filename": "mloda_community-0.2.5.tar.gz",
+  "download_time": "2026-01-15T20:24:19.633603",
   "package_url": "https://pypi.org/project/mloda-community/"
 }

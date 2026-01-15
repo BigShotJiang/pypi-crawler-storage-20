@@ -1,0 +1,11 @@
+{
+  "name": "arviz-base",
+  "version": "0.8.1",
+  "summary": "Base ArviZ features and converters.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "arviz_base-0.8.1.tar.gz",
+  "download_time": "2026-01-15T20:23:59.925214",
+  "package_url": "https://pypi.org/project/arviz-base/"
+}

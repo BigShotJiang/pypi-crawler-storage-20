@@ -1,0 +1,11 @@
+{
+  "name": "zephyr-kconfig",
+  "version": "0.0.1",
+  "summary": "Tools for Zephyr Kconfig files",
+  "author": "Sachdeva, Kapil",
+  "license": null,
+  "home_page": null,
+  "download_filename": "zephyr_kconfig-0.0.1.tar.gz",
+  "download_time": "2026-01-15T20:24:22.243907",
+  "package_url": "https://pypi.org/project/zephyr-kconfig/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "merlin-sdk",
+  "version": "0.49.3",
+  "summary": "Python SDK for Merlin",
+  "author": "Merlin",
+  "license": null,
+  "home_page": "https://github.com/caraml-dev/merlin",
+  "download_filename": "merlin_sdk-0.49.3.tar.gz",
+  "download_time": "2026-01-15T20:24:06.481709",
+  "package_url": "https://pypi.org/project/merlin-sdk/"
+}
