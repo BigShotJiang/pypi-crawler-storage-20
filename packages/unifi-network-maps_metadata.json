@@ -1,11 +1,11 @@
 {
   "name": "unifi-network-maps",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "summary": "Dynamic UniFi -> network maps in mermaid or svg",
   "author": "Merlijn",
   "license": null,
   "home_page": null,
-  "download_filename": "unifi_network_maps-1.4.6.tar.gz",
-  "download_time": "2026-01-15T08:10:48.514247",
+  "download_filename": "unifi_network_maps-1.4.7.tar.gz",
+  "download_time": "2026-01-15T09:51:32.620348",
   "package_url": "https://pypi.org/project/unifi-network-maps/"
 }

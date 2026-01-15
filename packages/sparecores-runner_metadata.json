@@ -1,11 +1,11 @@
 {
   "name": "sparecores-runner",
-  "version": "0.0.37",
+  "version": "0.0.38",
   "summary": "Start and manage cloud instances.",
   "author": "Attila Nagy, Gergely Daroczi",
   "license": null,
   "home_page": null,
-  "download_filename": "sparecores_runner-0.0.37.tar.gz",
-  "download_time": "2026-01-14T22:49:01.920212",
+  "download_filename": "sparecores_runner-0.0.38.tar.gz",
+  "download_time": "2026-01-15T09:51:22.234784",
   "package_url": "https://pypi.org/project/sparecores-runner/"
 }

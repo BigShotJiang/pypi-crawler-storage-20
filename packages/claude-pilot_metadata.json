@@ -1,11 +1,11 @@
 {
   "name": "claude-pilot",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "summary": "Claude Code CLI Pilot - Your development workflow companion",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "claude_pilot-3.3.2.tar.gz",
-  "download_time": "2026-01-15T08:28:27.567814",
+  "download_filename": "claude_pilot-3.3.3.tar.gz",
+  "download_time": "2026-01-15T09:51:23.965977",
   "package_url": "https://pypi.org/project/claude-pilot/"
 }

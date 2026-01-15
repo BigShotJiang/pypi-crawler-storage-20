@@ -1,0 +1,11 @@
+{
+  "name": "pypn-habref-api",
+  "version": "0.4.3",
+  "summary": "Python lib related to Habref referential (INPN)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/PnX-SI/Habref-api-module",
+  "download_filename": "pypn_habref_api-0.4.3.tar.gz",
+  "download_time": "2026-01-15T09:51:19.948658",
+  "package_url": "https://pypi.org/project/pypn-habref-api/"
+}

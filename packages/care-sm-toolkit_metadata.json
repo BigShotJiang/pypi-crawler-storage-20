@@ -1,0 +1,11 @@
+{
+  "name": "care-sm-toolkit",
+  "version": "1.1",
+  "summary": "A toolkit for CARE-SM data transformation.",
+  "author": "Pablo Alarcón Moreno",
+  "license": "MIT",
+  "home_page": "https://github.com/CARE-SM/CARE-SM-Toolkit",
+  "download_filename": "care_sm_toolkit-1.1.tar.gz",
+  "download_time": "2026-01-15T09:50:57.588321",
+  "package_url": "https://pypi.org/project/care-sm-toolkit/"
+}

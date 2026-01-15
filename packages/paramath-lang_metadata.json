@@ -1,0 +1,11 @@
+{
+  "name": "paramath-lang",
+  "version": "2.2.5",
+  "summary": "A differentiable programming language for continuous computation",
+  "author": "Kaemori Yozzan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "paramath_lang-2.2.5.tar.gz",
+  "download_time": "2026-01-15T09:51:05.951150",
+  "package_url": "https://pypi.org/project/paramath-lang/"
+}

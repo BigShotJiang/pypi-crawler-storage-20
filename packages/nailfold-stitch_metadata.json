@@ -1,0 +1,11 @@
+{
+  "name": "nailfold-stitch",
+  "version": "1.0.0",
+  "summary": "This is my first Python SDK, intended for testing packaging.",
+  "author": "Jianan Lin",
+  "license": null,
+  "home_page": "https://github.com/你的仓库地址",
+  "download_filename": "nailfold_stitch-1.0.0.tar.gz",
+  "download_time": "2026-01-15T09:51:05.376887",
+  "package_url": "https://pypi.org/project/nailfold-stitch/"
+}
