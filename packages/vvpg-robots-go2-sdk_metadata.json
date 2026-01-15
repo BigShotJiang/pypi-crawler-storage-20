@@ -1,0 +1,11 @@
+{
+  "name": "vvpg-robots-go2-sdk",
+  "version": "0.1.2",
+  "summary": "VVPGRobots Go2 Python SDK (ROS2 Humble runtime; Unitree Sport helpers).",
+  "author": "VVPGRobots",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vvpg_robots_go2_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-15T08:56:38.325935",
+  "package_url": "https://pypi.org/project/vvpg-robots-go2-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "imap-tools",
+  "version": "1.11.1",
+  "summary": "Work with email by IMAP",
+  "author": "Vladimir Kaukin",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ikvk/imap_tools",
+  "download_filename": "imap_tools-1.11.1.tar.gz",
+  "download_time": "2026-01-15T08:57:00.036300",
+  "package_url": "https://pypi.org/project/imap-tools/"
+}

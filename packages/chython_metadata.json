@@ -1,0 +1,11 @@
+{
+  "name": "chython",
+  "version": "2.15.1",
+  "summary": "Library for processing molecules and reactions in python way",
+  "author": "Ramil Nugmanov",
+  "license": "LGPLv3",
+  "home_page": null,
+  "download_filename": "chython-2.15.1-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-01-15T08:56:36.021166",
+  "package_url": "https://pypi.org/project/chython/"
+}

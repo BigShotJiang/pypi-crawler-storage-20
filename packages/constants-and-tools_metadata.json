@@ -1,0 +1,11 @@
+{
+  "name": "constants-and-tools",
+  "version": "2.2.2",
+  "summary": "Librería para desarrollo rápido y debug",
+  "author": "Aletheia_corp",
+  "license": null,
+  "home_page": "https://github.com/aletheIA-Corp/constants_and_tools",
+  "download_filename": "constants_and_tools-2.2.2.tar.gz",
+  "download_time": "2026-01-15T08:56:58.292305",
+  "package_url": "https://pypi.org/project/constants-and-tools/"
+}

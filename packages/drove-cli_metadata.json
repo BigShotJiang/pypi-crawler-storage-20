@@ -1,11 +1,11 @@
 {
   "name": "drove-cli",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "summary": "Drove Command Line Interface",
   "author": "Santanu Sinha",
   "license": "Apache-2.0",
   "home_page": "https://github.com/PhonePe/drove-cli",
-  "download_filename": "drove_cli-0.0.7.tar.gz",
-  "download_time": "2026-01-15T04:59:49.475714",
+  "download_filename": "drove_cli-0.0.8.tar.gz",
+  "download_time": "2026-01-15T08:56:46.456626",
   "package_url": "https://pypi.org/project/drove-cli/"
 }

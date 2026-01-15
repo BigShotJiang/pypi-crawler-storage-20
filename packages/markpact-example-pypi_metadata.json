@@ -1,11 +1,11 @@
 {
   "name": "markpact-example-pypi",
-  "version": "0.1.7",
-  "summary": "Example package published with markpact Example package published with markpact",
+  "version": "0.1.11",
+  "summary": "Example package published with markpact Przykład publikacji paczki Python do PyPI bezpośrednio z README. Upewnij się, że masz skonfigurowany `~/.pypirc`: publishing: output: published project: [https://pypi.org/project/markpact-example-pypi/](https://pypi.org/project/markpact-example-pypi/) ---",
   "author": "Your Name",
   "license": null,
   "home_page": null,
-  "download_filename": "markpact_example_pypi-0.1.7.tar.gz",
-  "download_time": "2026-01-15T07:45:09.817575",
+  "download_filename": "markpact_example_pypi-0.1.11.tar.gz",
+  "download_time": "2026-01-15T08:56:56.476125",
   "package_url": "https://pypi.org/project/markpact-example-pypi/"
 }

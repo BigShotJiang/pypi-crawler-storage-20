@@ -1,0 +1,11 @@
+{
+  "name": "celeste-text-generation",
+  "version": "0.3.8",
+  "summary": "Text generation package for Celeste AI. Unified interface for all providers",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "celeste_text_generation-0.3.8.tar.gz",
+  "download_time": "2026-01-15T08:57:13.645560",
+  "package_url": "https://pypi.org/project/celeste-text-generation/"
+}

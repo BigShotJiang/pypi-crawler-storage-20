@@ -1,0 +1,11 @@
+{
+  "name": "mcp-cuc-bsy",
+  "version": "0.1.0",
+  "summary": "An MCP Server that provides a tool to get the current time with optional timezone support",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_cuc_bsy-0.1.0.tar.gz",
+  "download_time": "2026-01-15T08:56:36.597577",
+  "package_url": "https://pypi.org/project/mcp-cuc-bsy/"
+}
