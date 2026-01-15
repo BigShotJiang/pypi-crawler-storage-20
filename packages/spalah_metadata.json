@@ -1,11 +1,11 @@
 {
   "name": "spalah",
-  "version": "1.1.7",
+  "version": "1.1.8",
   "summary": "Spalah is a set of PySpark dataframe helpers",
-  "author": "Alex Volok",
-  "license": "MIT",
+  "author": null,
+  "license": null,
   "home_page": null,
-  "download_filename": "spalah-1.1.7.tar.gz",
-  "download_time": "2026-01-14T21:22:36.425247",
+  "download_filename": "spalah-1.1.8.tar.gz",
+  "download_time": "2026-01-15T13:29:29.454701",
   "package_url": "https://pypi.org/project/spalah/"
 }

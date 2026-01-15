@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-datalabeling",
+  "version": "1.15.0",
+  "summary": "Google Cloud Datalabeling API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-datalabeling",
+  "download_filename": "google_cloud_datalabeling-1.15.0.tar.gz",
+  "download_time": "2026-01-15T13:29:48.625360",
+  "package_url": "https://pypi.org/project/google-cloud-datalabeling/"
+}

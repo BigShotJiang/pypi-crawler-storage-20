@@ -1,0 +1,11 @@
+{
+  "name": "bionexus",
+  "version": "0.1.0",
+  "summary": "BioNexus facilitates cross-modal retrieval between natural products and biosynthetic gene clusters",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bionexus-0.1.0.tar.gz",
+  "download_time": "2026-01-15T13:29:10.590135",
+  "package_url": "https://pypi.org/project/bionexus/"
+}

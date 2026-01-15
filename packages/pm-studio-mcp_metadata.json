@@ -1,0 +1,11 @@
+{
+  "name": "pm-studio-mcp",
+  "version": "0.6.5",
+  "summary": "PM Studio MCP Server - A Model Context Protocol server for product managers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pm_studio_mcp-0.6.5.tar.gz",
+  "download_time": "2026-01-15T13:29:43.478717",
+  "package_url": "https://pypi.org/project/pm-studio-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "deepseek-ocr-cli",
+  "version": "0.3.2",
+  "summary": "CLI tool for OCR using DeepSeek-OCR model via Ollama",
+  "author": "Ruben Fernandez Fuertes",
+  "license": "MIT",
+  "home_page": "https://github.com/r-uben/deepseek-ocr-cli",
+  "download_filename": "deepseek_ocr_cli-0.3.2.tar.gz",
+  "download_time": "2026-01-15T13:29:30.996167",
+  "package_url": "https://pypi.org/project/deepseek-ocr-cli/"
+}

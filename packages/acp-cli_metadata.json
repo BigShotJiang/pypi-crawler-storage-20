@@ -1,0 +1,11 @@
+{
+  "name": "acp-cli",
+  "version": "0.1.0",
+  "summary": "CLI interface for ACP",
+  "author": "ACP Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "acp_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-15T13:29:35.103163",
+  "package_url": "https://pypi.org/project/acp-cli/"
+}

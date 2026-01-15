@@ -1,0 +1,11 @@
+{
+  "name": "argus-debate-ai",
+  "version": "1.3",
+  "summary": "ARGUS: A Debate-Native Multi-Agent AI Architecture for Accelerating Scientific Discovery",
+  "author": "Ankush Pandey, Rishi Ghodawat, Ronit Mehta",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "argus_debate_ai-1.3.tar.gz",
+  "download_time": "2026-01-15T13:29:23.175215",
+  "package_url": "https://pypi.org/project/argus-debate-ai/"
+}

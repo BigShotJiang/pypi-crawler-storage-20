@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-documentai",
+  "version": "3.8.0",
+  "summary": "Google Cloud Documentai API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-documentai",
+  "download_filename": "google_cloud_documentai-3.8.0.tar.gz",
+  "download_time": "2026-01-15T13:29:42.300087",
+  "package_url": "https://pypi.org/project/google-cloud-documentai/"
+}

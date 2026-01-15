@@ -1,0 +1,11 @@
+{
+  "name": "concepttordf",
+  "version": "3.0.1",
+  "summary": "A library for mapping a concept collection to rdf",
+  "author": "Stig B. Dørmænen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Informasjonsforvaltning/concepttordf",
+  "download_filename": "concepttordf-3.0.1.tar.gz",
+  "download_time": "2026-01-15T13:29:38.709552",
+  "package_url": "https://pypi.org/project/concepttordf/"
+}

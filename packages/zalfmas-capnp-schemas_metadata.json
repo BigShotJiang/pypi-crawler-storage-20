@@ -1,11 +1,11 @@
 {
   "name": "zalfmas-capnp-schemas",
-  "version": "0.1.46",
+  "version": "0.1.47",
   "summary": null,
   "author": "Michael Berg-Mohnicke",
   "license": null,
   "home_page": null,
-  "download_filename": "zalfmas_capnp_schemas-0.1.46.tar.gz",
-  "download_time": "2026-01-14T14:31:52.485956",
+  "download_filename": "zalfmas_capnp_schemas-0.1.47.tar.gz",
+  "download_time": "2026-01-15T13:29:49.656977",
   "package_url": "https://pypi.org/project/zalfmas-capnp-schemas/"
 }

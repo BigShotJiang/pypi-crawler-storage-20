@@ -1,0 +1,11 @@
+{
+  "name": "content-negotiation",
+  "version": "2.0.1",
+  "summary": "A library for deciding content-type based on media ranges in HTTP Accept headers.",
+  "author": "Stig B. Dørmænen",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/Informasjonsforvaltning/content-negotiation",
+  "download_filename": "content_negotiation-2.0.1.tar.gz",
+  "download_time": "2026-01-15T13:29:35.615351",
+  "package_url": "https://pypi.org/project/content-negotiation/"
+}

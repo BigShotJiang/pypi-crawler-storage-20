@@ -1,0 +1,11 @@
+{
+  "name": "google-cloud-developerconnect",
+  "version": "0.3.0",
+  "summary": "Google Cloud Developerconnect API client library",
+  "author": "Google LLC",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/googleapis/google-cloud-python/tree/main/packages/google-cloud-developerconnect",
+  "download_filename": "google_cloud_developerconnect-0.3.0.tar.gz",
+  "download_time": "2026-01-15T13:29:43.995257",
+  "package_url": "https://pypi.org/project/google-cloud-developerconnect/"
+}
