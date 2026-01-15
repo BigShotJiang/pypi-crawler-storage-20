@@ -1,0 +1,11 @@
+{
+  "name": "vieneu",
+  "version": "1.1.5",
+  "summary": "Advanced on-device Vietnamese TTS with instant voice cloning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vieneu-1.1.5.tar.gz",
+  "download_time": "2026-01-15T09:26:37.956958",
+  "package_url": "https://pypi.org/project/vieneu/"
+}

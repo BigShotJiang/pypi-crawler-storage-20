@@ -1,0 +1,11 @@
+{
+  "name": "wagtail-ninja",
+  "version": "0.1.19",
+  "summary": "Ninja API for Wagtail",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "wagtail_ninja-0.1.19.tar.gz",
+  "download_time": "2026-01-15T09:26:21.359095",
+  "package_url": "https://pypi.org/project/wagtail-ninja/"
+}
