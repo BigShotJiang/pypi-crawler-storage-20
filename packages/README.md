@@ -1,49 +1,15 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-15T11:19:29.745645
-- **Total Packages**: 85
-- **Total Size**: 52.56 MB
+- **Download Time**: 2026-01-15T11:43:17.456228
+- **Total Packages**: 84
+- **Total Size**: 42.01 MB
 
 ## Packages List
-- ghidra-stubs
-- govuk-frontend-jinja
-- legend-pygeom-l200
-- yeref
-- tapback
-- pyghidra
-- dslighting
-- grid-samp
-- hledger-tui
-- drf-yasg
-- cloudbeds-fiscal-document
-- python-category-equations
-- letstayinn-package
-- caddytail
-- inspect-flow
-- ForcomeBot
-- mt5-bridge
-- Equimo
-- tf-keras-nightly
-- qdrant-edge-py
-- samna
-- ansys-api-meshing-prime
-- internet-archive-extractor
-- multilang-probe
-- notion2pandas
-- ctyunsdk-bandwidth20220909
-- emic
-- cloudvision
-- odoo-addon-account-move-tier-validation
-- aurigma-asset-generator-api-client
-- pyscript-programming-language
-- pybugger-mcp
-- mns-common
-- agenthink
-- reframodel
 - mrmd
 - protein-lang
 - marshmallow-recipe
+- ForcomeBot
 - simple-sonarqube-api
 - dash-prism
 - llama-cpp-py-sync
@@ -52,14 +18,17 @@
 - aiccel
 - signnow-mcp-server
 - pyconvexity
+- tapback
 - cycls
 - amulet-core
 - hex-robo-utils
 - factpulse
 - scs-architecture-handlers
 - uber-compose
+- dslighting
 - spiki
 - lgtm-ai
+- mns-common
 - naas-abi-marketplace
 - timesat-cli
 - xhs-note-extractor
@@ -91,3 +60,33 @@
 - certigen
 - konduktor-nightly
 - pywebguard
+- kbcstorage
+- inventree-report-lsp-plugin
+- repoclean-cli
+- mercury
+- xhshow
+- pluto-ml-nightly
+- distributed-a2a
+- datagouv_client
+- ida-hcli
+- agora-python-server-sdk
+- ai-atlas-nexus
+- trainy-policy-nightly
+- PraisonAI
+- dir-content-diff
+- ducvannguyen
+- aurigma-backoffice-api-client
+- svada
+- diskpack
+- ferrumpy
+- django-modeltree
+- django-codenerix
+- scc-firewall-manager-sdk
+- dycw-installer
+- pyhyflex
+- neptune-query
+- giftpy
+- grid-samp
+- letta-nightly
+- hotopy
+- mcp-simple-timeserver

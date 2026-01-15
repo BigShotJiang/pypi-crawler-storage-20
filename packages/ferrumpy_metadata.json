@@ -1,0 +1,11 @@
+{
+  "name": "ferrumpy",
+  "version": "0.1.5",
+  "summary": "Rust debugger enhancements for LLDB",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ferrumpy-0.1.5-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-15T11:43:09.027102",
+  "package_url": "https://pypi.org/project/ferrumpy/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hotopy",
+  "version": "0.24",
+  "summary": "A toolbox for X-ray holo-tomography in Python",
+  "author": "Jens Lucht, Paul Meyer, Leon M. Lohse",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "hotopy-0.24.tar.gz",
+  "download_time": "2026-01-15T11:43:16.310413",
+  "package_url": "https://pypi.org/project/hotopy/"
+}

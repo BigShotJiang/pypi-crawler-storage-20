@@ -1,11 +1,11 @@
 {
   "name": "ForcomeBot",
-  "version": "2.2.16",
+  "version": "2.2.17",
   "summary": "FORCOME 康康 - 千寻微信框架Pro与LangBot的中间件",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "forcomebot-2.2.16.tar.gz",
-  "download_time": "2026-01-15T11:18:51.914486",
+  "download_filename": "forcomebot-2.2.17.tar.gz",
+  "download_time": "2026-01-15T11:42:24.609435",
   "package_url": "https://pypi.org/project/ForcomeBot/"
 }
