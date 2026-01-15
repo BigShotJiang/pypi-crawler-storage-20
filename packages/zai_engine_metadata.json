@@ -1,0 +1,11 @@
+{
+  "name": "zai_engine",
+  "version": "0.1.6",
+  "summary": "A robust game engine for the strategic board game Zai",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "zai_engine-0.1.6.tar.gz",
+  "download_time": "2026-01-15T11:54:51.695794",
+  "package_url": "https://pypi.org/project/zai_engine/"
+}

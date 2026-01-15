@@ -1,0 +1,11 @@
+{
+  "name": "multi-proto-agent",
+  "version": "0.1.2",
+  "summary": "旨在简化基于多种协议的消息通信,内置了对JSON和Protobuf的序列化、反序列化支持，并设计为线程安全，让你可以轻松创建和管理成百上千个并发通信代理。",
+  "author": "Shi Feng",
+  "license": null,
+  "home_page": "https://gitee.com/flinttina/multi-proto-agent",
+  "download_filename": "multi_proto_agent-0.1.2.tar.gz",
+  "download_time": "2026-01-15T11:54:46.583553",
+  "package_url": "https://pypi.org/project/multi-proto-agent/"
+}

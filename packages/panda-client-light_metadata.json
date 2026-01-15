@@ -1,0 +1,11 @@
+{
+  "name": "panda-client-light",
+  "version": "1.6.6",
+  "summary": "Lightweight PanDA Client Package installed on PanDA server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "panda_client_light-1.6.6-py2.py3-none-any.whl",
+  "download_time": "2026-01-15T11:55:06.953239",
+  "package_url": "https://pypi.org/project/panda-client-light/"
+}

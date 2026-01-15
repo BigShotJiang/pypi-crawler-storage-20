@@ -1,0 +1,11 @@
+{
+  "name": "foundationallm-agent-plugins-langchain",
+  "version": "0.9.7.post9",
+  "summary": "FoundationaLLM Agent plugins.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "foundationallm_agent_plugins_langchain-0.9.7.post9.tar.gz",
+  "download_time": "2026-01-15T11:54:52.300213",
+  "package_url": "https://pypi.org/project/foundationallm-agent-plugins-langchain/"
+}

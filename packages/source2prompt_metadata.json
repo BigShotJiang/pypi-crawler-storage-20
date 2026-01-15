@@ -1,0 +1,11 @@
+{
+  "name": "source2prompt",
+  "version": "0.3.2",
+  "summary": "A simple tool to convert source files to a single prompt file for LLMs",
+  "author": "IchigoHydrogen",
+  "license": null,
+  "home_page": "https://github.com/IchigoHydrogen/source2prompt",
+  "download_filename": "source2prompt-0.3.2.tar.gz",
+  "download_time": "2026-01-15T11:55:09.117786",
+  "package_url": "https://pypi.org/project/source2prompt/"
+}

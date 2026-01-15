@@ -1,0 +1,11 @@
+{
+  "name": "nececv",
+  "version": "0.2.6",
+  "summary": "NECECV – LLMs, Computer Vision, and Enterprise Semantic Cache",
+  "author": "Singhai Kshitij Jain",
+  "license": null,
+  "home_page": "https://github.com/singhaikshitijjain/nececv",
+  "download_filename": "nececv-0.2.6.tar.gz",
+  "download_time": "2026-01-15T11:54:37.735097",
+  "package_url": "https://pypi.org/project/nececv/"
+}

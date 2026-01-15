@@ -1,11 +1,11 @@
 {
   "name": "bbstrader",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "Simplified Investment & Trading Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "bbstrader-2.0.0.tar.gz",
-  "download_time": "2026-01-14T20:57:17.664853",
+  "download_filename": "bbstrader-2.0.1.tar.gz",
+  "download_time": "2026-01-15T11:55:14.106236",
   "package_url": "https://pypi.org/project/bbstrader/"
 }
