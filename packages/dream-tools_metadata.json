@@ -1,0 +1,11 @@
+{
+  "name": "dream-tools",
+  "version": "4.1.1",
+  "summary": "A collection of tools used by the Danish Research Institute for Economic Analysis and Modelling, DREAM (https://dreamgruppen.dk/).",
+  "author": "Martin Kirk Bonde",
+  "license": null,
+  "home_page": "https://github.com/MartinBonde/dream-tools",
+  "download_filename": "dream_tools-4.1.1.tar.gz",
+  "download_time": "2026-01-15T14:30:53.613466",
+  "package_url": "https://pypi.org/project/dream-tools/"
+}

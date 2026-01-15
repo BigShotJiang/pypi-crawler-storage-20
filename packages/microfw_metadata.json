@@ -1,0 +1,11 @@
+{
+  "name": "microfw",
+  "version": "0.1.0",
+  "summary": "A lightweight, high-performance asynchronous Python micro-framework for building modern microservices and web applications",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "microfw-0.1.0.tar.gz",
+  "download_time": "2026-01-15T14:31:15.459451",
+  "package_url": "https://pypi.org/project/microfw/"
+}

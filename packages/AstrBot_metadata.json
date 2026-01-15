@@ -1,0 +1,11 @@
+{
+  "name": "AstrBot",
+  "version": "4.12.1",
+  "summary": "Easy-to-use multi-platform LLM chatbot and development framework",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrbot-4.12.1.tar.gz",
+  "download_time": "2026-01-15T14:30:49.964039",
+  "package_url": "https://pypi.org/project/AstrBot/"
+}

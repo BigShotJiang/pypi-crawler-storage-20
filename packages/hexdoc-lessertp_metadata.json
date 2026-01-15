@@ -1,0 +1,11 @@
+{
+  "name": "hexdoc-lessertp",
+  "version": "1.2.4.1.2.dev0",
+  "summary": "Python web book docgen and hexdoc plugin for Lesser Teleport.",
+  "author": "Real-Luxof",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hexdoc_lessertp-1.2.4.1.2.dev0.tar.gz",
+  "download_time": "2026-01-15T14:31:01.086319",
+  "package_url": "https://pypi.org/project/hexdoc-lessertp/"
+}

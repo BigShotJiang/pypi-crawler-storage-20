@@ -1,0 +1,11 @@
+{
+  "name": "agentroute-cli",
+  "version": "0.1.0",
+  "summary": "AgentRoute CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agentroute_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-15T14:30:50.985449",
+  "package_url": "https://pypi.org/project/agentroute-cli/"
+}

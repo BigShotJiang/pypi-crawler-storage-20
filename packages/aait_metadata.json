@@ -1,11 +1,11 @@
 {
   "name": "aait",
-  "version": "2.3.14",
+  "version": "2.3.15",
   "summary": "Advanced Artificial Intelligence Tools is a package meant to develop and enable advanced AI functionalities in Orange",
   "author": "Orange community",
   "license": null,
   "home_page": null,
-  "download_filename": "aait-2.3.14.tar.gz",
-  "download_time": "2026-01-13T10:21:38.592612",
+  "download_filename": "aait-2.3.15.tar.gz",
+  "download_time": "2026-01-15T14:31:00.574796",
   "package_url": "https://pypi.org/project/aait/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "opentps-gui",
+  "version": "3.0.0",
+  "summary": "Open source TPS for advanced proton therapy",
+  "author": "Sylvain Deffet",
+  "license": "GPLv3",
+  "home_page": null,
+  "download_filename": "opentps_gui-3.0.0.tar.gz",
+  "download_time": "2026-01-15T14:30:33.092648",
+  "package_url": "https://pypi.org/project/opentps-gui/"
+}

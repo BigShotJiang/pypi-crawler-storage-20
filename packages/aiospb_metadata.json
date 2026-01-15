@@ -1,0 +1,11 @@
+{
+  "name": "aiospb",
+  "version": "8.0.13",
+  "summary": "Library to comunicate with MQTT following Sparkplug B estandard",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "aiospb-8.0.13.tar.gz",
+  "download_time": "2026-01-15T14:30:45.352863",
+  "package_url": "https://pypi.org/project/aiospb/"
+}

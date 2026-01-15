@@ -1,0 +1,11 @@
+{
+  "name": "slub-finclookup",
+  "version": "1.0.0",
+  "summary": "A collection of lookup scripts to map legacy metadata formats to standardized facets for SLUB/finc search systems.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slub_finclookup-1.0.0.tar.gz",
+  "download_time": "2026-01-15T14:30:46.376122",
+  "package_url": "https://pypi.org/project/slub-finclookup/"
+}
