@@ -1,0 +1,11 @@
+{
+  "name": "inkpython",
+  "version": "0.1.0",
+  "summary": "Python runtime for Ink stories.",
+  "author": "Pete Garcin",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inkpython-0.1.0.tar.gz",
+  "download_time": "2026-01-15T03:16:36.316839",
+  "package_url": "https://pypi.org/project/inkpython/"
+}

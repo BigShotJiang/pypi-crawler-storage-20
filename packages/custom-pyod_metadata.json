@@ -1,0 +1,11 @@
+{
+  "name": "custom-pyod",
+  "version": "0.1.0",
+  "summary": "COPOD and ECOD implementation using Polars",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custom_pyod-0.1.0.tar.gz",
+  "download_time": "2026-01-15T03:16:39.936165",
+  "package_url": "https://pypi.org/project/custom-pyod/"
+}

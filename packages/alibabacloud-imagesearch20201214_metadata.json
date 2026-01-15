@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-imagesearch20201214",
+  "version": "4.2.3",
+  "summary": "Alibaba Cloud image search (20201214) SDK Library for Python",
+  "author": "Alibaba Cloud SDK",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
+  "download_filename": "alibabacloud_imagesearch20201214-4.2.3.tar.gz",
+  "download_time": "2026-01-15T03:16:37.878050",
+  "package_url": "https://pypi.org/project/alibabacloud-imagesearch20201214/"
+}

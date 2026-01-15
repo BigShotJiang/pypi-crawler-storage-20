@@ -1,0 +1,11 @@
+{
+  "name": "daglite",
+  "version": "0.7.0",
+  "summary": "Lightweight Python framework for building static DAGs with explicit bindings.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daglite-0.7.0.tar.gz",
+  "download_time": "2026-01-15T03:16:42.004113",
+  "package_url": "https://pypi.org/project/daglite/"
+}

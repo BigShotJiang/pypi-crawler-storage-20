@@ -1,0 +1,11 @@
+{
+  "name": "mcpm",
+  "version": "2.12.1",
+  "summary": "MCPM - Model Context Protocol Manager",
+  "author": "MCPM Contributors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcpm-2.12.1.tar.gz",
+  "download_time": "2026-01-15T03:17:18.435862",
+  "package_url": "https://pypi.org/project/mcpm/"
+}

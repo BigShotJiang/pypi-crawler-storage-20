@@ -1,0 +1,11 @@
+{
+  "name": "daglite-rich",
+  "version": "0.3.0",
+  "summary": "Rich logging and progress bars for daglite.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "daglite_rich-0.3.0.tar.gz",
+  "download_time": "2026-01-15T03:16:42.525848",
+  "package_url": "https://pypi.org/project/daglite-rich/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "manim-voiceover-plus",
+  "version": "0.6.9",
+  "summary": "Manim plugin for all things voiceover (fork with updated ElevenLabs API)",
+  "author": "Anthony Kuang",
+  "license": "MIT",
+  "home_page": "https://github.com/shimamooo/manim-voiceover-plus",
+  "download_filename": "manim_voiceover_plus-0.6.9.tar.gz",
+  "download_time": "2026-01-15T03:16:48.247879",
+  "package_url": "https://pypi.org/project/manim-voiceover-plus/"
+}

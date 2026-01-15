@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-connector-jira",
-  "version": "17.0.1.0.0.3",
+  "version": "17.0.1.0.0.4",
   "summary": "JIRA Connector",
   "author": "Camptocamp,Odoo Community Association (OCA)",
   "license": "AGPL-3",
   "home_page": "https://github.com/OCA/connector-jira",
-  "download_filename": "odoo_addon_connector_jira-17.0.1.0.0.3-py3-none-any.whl",
-  "download_time": "2026-01-13T13:29:35.912632",
+  "download_filename": "odoo_addon_connector_jira-17.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-15T03:17:14.180579",
   "package_url": "https://pypi.org/project/odoo-addon-connector-jira/"
 }

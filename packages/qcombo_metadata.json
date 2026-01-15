@@ -1,11 +1,11 @@
 {
   "name": "qcombo",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "Quantum-Commutator of Many-Body Operators based on generalized Wick theorem",
   "author": "L.H.chen, Y.Li, Heiko Hergert, J.M.Yao",
   "license": "MIT",
   "home_page": "https://github.com/chenlh73/qcombo",
-  "download_filename": "qcombo-0.1.1.tar.gz",
-  "download_time": "2026-01-14T04:34:37.579564",
+  "download_filename": "qcombo-0.1.4.tar.gz",
+  "download_time": "2026-01-15T03:17:05.171374",
   "package_url": "https://pypi.org/project/qcombo/"
 }

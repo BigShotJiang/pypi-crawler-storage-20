@@ -1,0 +1,11 @@
+{
+  "name": "signal-cli-jsonrpc",
+  "version": "0.13.20.dev1",
+  "summary": "Strongly typed Python dataclass interface to signal-cli's RPC commands",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "signal_cli_jsonrpc-0.13.20.dev1.tar.gz",
+  "download_time": "2026-01-15T03:16:43.555852",
+  "package_url": "https://pypi.org/project/signal-cli-jsonrpc/"
+}

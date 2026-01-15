@@ -1,0 +1,11 @@
+{
+  "name": "git-pulsar",
+  "version": "0.2.0",
+  "summary": "Automated paranoid git backup for students",
+  "author": "Jackson Ferguson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "git_pulsar-0.2.0.tar.gz",
+  "download_time": "2026-01-15T03:16:58.784660",
+  "package_url": "https://pypi.org/project/git-pulsar/"
+}

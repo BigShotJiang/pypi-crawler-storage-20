@@ -1,0 +1,11 @@
+{
+  "name": "ISRSpectrum",
+  "version": "4.3",
+  "summary": "Creates ISR Spectrums",
+  "author": "John Swoboda",
+  "license": null,
+  "home_page": "https://github.com/jswoboda/ISRSpectrum",
+  "download_filename": "isrspectrum-4.3.tar.gz",
+  "download_time": "2026-01-15T03:17:07.792955",
+  "package_url": "https://pypi.org/project/ISRSpectrum/"
+}
