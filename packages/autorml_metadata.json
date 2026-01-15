@@ -1,0 +1,11 @@
+{
+  "name": "autorml",
+  "version": "0.1.4",
+  "summary": "AutoRML: A framework for automatic RML mapping generation using semantic table annotations",
+  "author": "Ioannis Dasoulas",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/dtai-kg/AutoRML",
+  "download_filename": "autorml-0.1.4.tar.gz",
+  "download_time": "2026-01-15T14:53:59.190727",
+  "package_url": "https://pypi.org/project/autorml/"
+}

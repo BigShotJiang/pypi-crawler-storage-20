@@ -1,0 +1,11 @@
+{
+  "name": "GPTRouter",
+  "version": "1.0.6",
+  "summary": "A Python package for working with GPTRouter APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptrouter-1.0.6.tar.gz",
+  "download_time": "2026-01-15T14:54:08.041655",
+  "package_url": "https://pypi.org/project/GPTRouter/"
+}

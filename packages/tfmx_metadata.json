@@ -1,11 +1,11 @@
 {
   "name": "tfmx",
-  "version": "0.6.2",
+  "version": "0.6.3",
   "summary": "Serve Transformers in one line",
   "author": "Hansimov",
   "license": null,
   "home_page": null,
-  "download_filename": "tfmx-0.6.2.tar.gz",
-  "download_time": "2026-01-14T19:35:01.057467",
+  "download_filename": "tfmx-0.6.3.tar.gz",
+  "download_time": "2026-01-15T14:54:05.456573",
   "package_url": "https://pypi.org/project/tfmx/"
 }

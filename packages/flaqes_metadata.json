@@ -1,0 +1,11 @@
+{
+  "name": "flaqes",
+  "version": "0.2.0",
+  "summary": "A schema critic for databases - analyze structure, surface trade-offs, propose alternatives",
+  "author": "Bruno Peixoto",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flaqes-0.2.0.tar.gz",
+  "download_time": "2026-01-15T14:54:03.404778",
+  "package_url": "https://pypi.org/project/flaqes/"
+}

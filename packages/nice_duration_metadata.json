@@ -1,0 +1,11 @@
+{
+  "name": "nice_duration",
+  "version": "1.0.7",
+  "summary": "Nice formatting of timedelta instances",
+  "author": "Tom Koelman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nice_duration-1.0.7.tar.gz",
+  "download_time": "2026-01-15T14:53:58.121545",
+  "package_url": "https://pypi.org/project/nice_duration/"
+}
