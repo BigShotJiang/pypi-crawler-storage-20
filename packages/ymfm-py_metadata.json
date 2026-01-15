@@ -1,11 +1,11 @@
 {
   "name": "ymfm-py",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python bindings for ymfm FM synthesis library",
   "author": "ymfm-py contributors",
   "license": "BSD-3-Clause",
   "home_page": null,
-  "download_filename": "ymfm_py-0.1.0.tar.gz",
-  "download_time": "2026-01-14T10:51:58.079501",
+  "download_filename": "ymfm_py-0.2.0.tar.gz",
+  "download_time": "2026-01-15T04:59:36.773457",
   "package_url": "https://pypi.org/project/ymfm-py/"
 }

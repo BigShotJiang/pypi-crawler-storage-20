@@ -1,0 +1,11 @@
+{
+  "name": "maid-runner",
+  "version": "0.11.0",
+  "summary": "Tool-agnostic validation framework for the Manifest-driven AI Development (MAID) methodology. Validates that code artifacts align with declarative manifests.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "maid_runner-0.11.0.tar.gz",
+  "download_time": "2026-01-15T04:59:51.079510",
+  "package_url": "https://pypi.org/project/maid-runner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "gtfs-station-stop",
+  "version": "0.11.3",
+  "summary": "Package for reading and organizing GTFS data for a given station stop.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gtfs_station_stop-0.11.3.tar.gz",
+  "download_time": "2026-01-15T04:59:46.310250",
+  "package_url": "https://pypi.org/project/gtfs-station-stop/"
+}

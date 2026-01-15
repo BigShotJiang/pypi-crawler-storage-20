@@ -1,0 +1,11 @@
+{
+  "name": "cce-agent",
+  "version": "0.1.1",
+  "summary": "Context-aware Code Evolution Agent - AI-powered code analysis and transformation",
+  "author": "jkbrooks",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cce_agent-0.1.1.tar.gz",
+  "download_time": "2026-01-15T04:59:50.013227",
+  "package_url": "https://pypi.org/project/cce-agent/"
+}
