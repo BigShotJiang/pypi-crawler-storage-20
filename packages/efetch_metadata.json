@@ -1,0 +1,11 @@
+{
+  "name": "efetch",
+  "version": "0.1.0",
+  "summary": "A BETTER LINUX FETCH - Forked from efetch, Upgraded to Py3!",
+  "author": "W0BBLEMASTER",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "efetch-0.1.0.tar.gz",
+  "download_time": "2026-01-15T21:54:18.961625",
+  "package_url": "https://pypi.org/project/efetch/"
+}

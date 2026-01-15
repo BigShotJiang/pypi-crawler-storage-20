@@ -1,0 +1,11 @@
+{
+  "name": "mlforge-sdk",
+  "version": "0.7.0",
+  "summary": "ML Platform for your local machine using cheap cloud services for scalable resources.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlforge_sdk-0.7.0-py3-none-any.whl",
+  "download_time": "2026-01-15T21:54:20.043008",
+  "package_url": "https://pypi.org/project/mlforge-sdk/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "py-netatmo-truetemp",
-  "version": "0.3.0",
-  "summary": "Python client for Netatmo API with truetemperature control - set room temperatures programmatically",
+  "version": "0.3.1",
+  "summary": "Netatmo's missing true temperature API - set real room temps programmatically",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "py_netatmo_truetemp-0.3.0.tar.gz",
-  "download_time": "2026-01-13T22:47:06.567395",
+  "download_filename": "py_netatmo_truetemp-0.3.1.tar.gz",
+  "download_time": "2026-01-15T21:54:18.424485",
   "package_url": "https://pypi.org/project/py-netatmo-truetemp/"
 }

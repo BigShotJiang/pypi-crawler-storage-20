@@ -1,0 +1,11 @@
+{
+  "name": "jupyter-editor-mcp",
+  "version": "0.2.2",
+  "summary": "Model Context Protocol server providing 29 specialized tools for programmatic Jupyter notebook editing with format preservation, batch operations, and no Jupyter server required",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jupyter_editor_mcp-0.2.2.tar.gz",
+  "download_time": "2026-01-15T21:54:17.309156",
+  "package_url": "https://pypi.org/project/jupyter-editor-mcp/"
+}
