@@ -1,0 +1,11 @@
+{
+  "name": "volumesh",
+  "version": "1.5.0",
+  "summary": "Utility for creating volumetric mesh container files in glTF format.",
+  "author": "Florian Bruggisser",
+  "license": "MIT License",
+  "home_page": "https://github.com/cansik/volumesh",
+  "download_filename": "volumesh-1.5.0-py3-none-any.whl",
+  "download_time": "2026-01-15T10:22:46.101457",
+  "package_url": "https://pypi.org/project/volumesh/"
+}

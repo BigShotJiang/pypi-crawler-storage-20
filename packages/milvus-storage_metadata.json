@@ -1,0 +1,11 @@
+{
+  "name": "milvus-storage",
+  "version": "0.1.0.dev1",
+  "summary": "Python bindings for milvus-storage - a high-performance storage engine using Apache Arrow Parquet",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "milvus_storage-0.1.0.dev1.tar.gz",
+  "download_time": "2026-01-15T10:22:39.361899",
+  "package_url": "https://pypi.org/project/milvus-storage/"
+}

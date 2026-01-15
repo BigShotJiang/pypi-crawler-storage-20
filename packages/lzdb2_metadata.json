@@ -1,0 +1,11 @@
+{
+  "name": "lzdb2",
+  "version": "1.2.0",
+  "summary": "Lazy Database",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lzdb2-1.2.0.tar.gz",
+  "download_time": "2026-01-15T10:22:26.906890",
+  "package_url": "https://pypi.org/project/lzdb2/"
+}

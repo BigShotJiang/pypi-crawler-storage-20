@@ -1,11 +1,11 @@
 {
   "name": "diskpack",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A high-performance vectorized circle packer with spatial hashing.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "diskpack-0.2.0.tar.gz",
-  "download_time": "2026-01-15T08:57:13.070559",
+  "download_filename": "diskpack-0.3.0.tar.gz",
+  "download_time": "2026-01-15T10:22:07.074699",
   "package_url": "https://pypi.org/project/diskpack/"
 }

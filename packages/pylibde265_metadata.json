@@ -1,0 +1,11 @@
+{
+  "name": "pylibde265",
+  "version": "0.1.0",
+  "summary": "Decode HEVC(H.265) video in python",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "pylibde265-0.1.0.tar.gz",
+  "download_time": "2026-01-15T10:22:35.735079",
+  "package_url": "https://pypi.org/project/pylibde265/"
+}

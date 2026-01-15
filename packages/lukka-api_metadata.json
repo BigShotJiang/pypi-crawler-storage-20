@@ -1,11 +1,11 @@
 {
   "name": "lukka-api",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "Python client for Lukka cryptocurrency data API",
   "author": "KENOT-IO",
   "license": "MIT",
   "home_page": "https://github.com/KENOT-IO/lukka-api",
-  "download_filename": "lukka_api-0.1.6.tar.gz",
-  "download_time": "2026-01-15T05:56:25.354216",
+  "download_filename": "lukka_api-0.1.7.tar.gz",
+  "download_time": "2026-01-15T10:22:37.284027",
   "package_url": "https://pypi.org/project/lukka-api/"
 }

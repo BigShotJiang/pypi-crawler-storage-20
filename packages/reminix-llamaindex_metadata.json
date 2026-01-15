@@ -1,11 +1,11 @@
 {
   "name": "reminix-llamaindex",
-  "version": "0.0.1",
-  "summary": "Reminix adapter for LlamaIndex",
+  "version": "0.0.2",
+  "summary": "Reminix adapter for LlamaIndex - serve agents as REST APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reminix_llamaindex-0.0.1.tar.gz",
-  "download_time": "2026-01-15T01:23:40.181046",
+  "download_filename": "reminix_llamaindex-0.0.2.tar.gz",
+  "download_time": "2026-01-15T10:22:41.437805",
   "package_url": "https://pypi.org/project/reminix-llamaindex/"
 }

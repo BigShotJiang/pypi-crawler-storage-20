@@ -1,0 +1,11 @@
+{
+  "name": "adm-boundary-manager",
+  "version": "0.3.0",
+  "summary": "Load, manage and visualize Administrative Boundaries Data in Wagtail",
+  "author": "Erick Otenyo",
+  "license": "MIT",
+  "home_page": "https://github.com/erick-otenyo/adm-boundary-manager",
+  "download_filename": "adm_boundary_manager-0.3.0.tar.gz",
+  "download_time": "2026-01-15T10:22:12.291170",
+  "package_url": "https://pypi.org/project/adm-boundary-manager/"
+}

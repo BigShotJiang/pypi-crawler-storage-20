@@ -1,0 +1,11 @@
+{
+  "name": "feffery-infographic",
+  "version": "0.1.3",
+  "summary": "Plotly Dash components based on AntV Infographic",
+  "author": "CNFeffery <fefferypzy@gmail.com>",
+  "license": "MIT",
+  "home_page": "https://github.com/HogaStack/feffery-infographic",
+  "download_filename": "feffery_infographic-0.1.3.tar.gz",
+  "download_time": "2026-01-15T10:22:19.093466",
+  "package_url": "https://pypi.org/project/feffery-infographic/"
+}

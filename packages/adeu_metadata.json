@@ -1,11 +1,11 @@
 {
   "name": "adeu",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "Automated DOCX Redlining Engine",
   "author": "Mikko Korpela",
   "license": null,
   "home_page": null,
-  "download_filename": "adeu-0.2.0.tar.gz",
-  "download_time": "2026-01-14T10:22:39.391678",
+  "download_filename": "adeu-0.3.0.tar.gz",
+  "download_time": "2026-01-15T10:22:42.474620",
   "package_url": "https://pypi.org/project/adeu/"
 }
