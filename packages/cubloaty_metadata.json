@@ -1,0 +1,11 @@
+{
+  "name": "cubloaty",
+  "version": "0.1.0b3",
+  "summary": "Analyze CUDA binary sizes in .so files - bloaty for CUDA kernels",
+  "author": "FlashInfer team",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "cubloaty-0.1.0b3.tar.gz",
+  "download_time": "2026-01-15T07:00:02.075872",
+  "package_url": "https://pypi.org/project/cubloaty/"
+}

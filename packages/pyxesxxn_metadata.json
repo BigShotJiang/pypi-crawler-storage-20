@@ -1,0 +1,11 @@
+{
+  "name": "pyxesxxn",
+  "version": "1.0.0",
+  "summary": "PyXESXXN - Python for eXtended Energy System Analysis - Independent multi-carrier energy system modeling and optimization library",
+  "author": "PyXESXXN Development Team",
+  "license": "Proprietary - Free for use, closed source",
+  "home_page": "https://github.com/pyxesxxn/pyxesxxn",
+  "download_filename": "pyxesxxn-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-15T07:00:13.022737",
+  "package_url": "https://pypi.org/project/pyxesxxn/"
+}

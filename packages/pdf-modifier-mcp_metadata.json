@@ -1,11 +1,11 @@
 {
   "name": "pdf-modifier-mcp",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "PDF modification tool with CLI and MCP interfaces for AI agents.",
   "author": "Manu",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pdf_modifier_mcp-1.0.0.tar.gz",
-  "download_time": "2026-01-15T06:30:35.928832",
+  "download_filename": "pdf_modifier_mcp-1.0.2.tar.gz",
+  "download_time": "2026-01-15T06:59:46.664671",
   "package_url": "https://pypi.org/project/pdf-modifier-mcp/"
 }

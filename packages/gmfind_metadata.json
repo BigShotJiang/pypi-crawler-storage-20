@@ -1,11 +1,11 @@
 {
   "name": "gmfind",
-  "version": "0.1.8",
+  "version": "0.1.10",
   "summary": "Steam automation CLI - find games, check deals, purchase, and manage your Steam library",
   "author": "gmfind contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "gmfind-0.1.8.tar.gz",
-  "download_time": "2026-01-14T06:32:28.830300",
+  "download_filename": "gmfind-0.1.10.tar.gz",
+  "download_time": "2026-01-15T07:00:11.956427",
   "package_url": "https://pypi.org/project/gmfind/"
 }

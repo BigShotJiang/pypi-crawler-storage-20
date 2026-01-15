@@ -1,0 +1,11 @@
+{
+  "name": "bosing",
+  "version": "2.7.0",
+  "summary": "Waveform generator for pulse sequences in quantum computing",
+  "author": "Jiahao Yuan <kahojyun@icloud.com>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bosing-2.7.0.tar.gz",
+  "download_time": "2026-01-15T06:59:55.388041",
+  "package_url": "https://pypi.org/project/bosing/"
+}
