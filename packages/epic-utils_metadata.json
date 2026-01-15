@@ -1,0 +1,11 @@
+{
+  "name": "epic-utils",
+  "version": "0.4.1",
+  "summary": "A simple package that I am creating overtime. It includes tools for pygame, mathematics, roblox or debuging. The package is being upgraded over time.",
+  "author": "Epic099",
+  "license": null,
+  "home_page": null,
+  "download_filename": "epic_utils-0.4.1.tar.gz",
+  "download_time": "2026-01-15T06:30:44.806908",
+  "package_url": "https://pypi.org/project/epic-utils/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_pab1it0_chess_mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for Chess.com API integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_pab1it0_chess_mcp-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-15T06:31:02.364372",
+  "package_url": "https://pypi.org/project/iflow-mcp_pab1it0_chess_mcp/"
+}

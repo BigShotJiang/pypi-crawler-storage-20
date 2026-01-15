@@ -1,0 +1,11 @@
+{
+  "name": "django-workos",
+  "version": "0.9.0",
+  "summary": "Enabling SSO, MFA and passwordless login for Django projects by using WorkOS.",
+  "author": null,
+  "license": "BSD 3-Clause License",
+  "home_page": null,
+  "download_filename": "django_workos-0.9.0.tar.gz",
+  "download_time": "2026-01-15T06:31:10.257037",
+  "package_url": "https://pypi.org/project/django-workos/"
+}

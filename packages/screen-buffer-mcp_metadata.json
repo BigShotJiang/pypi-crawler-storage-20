@@ -1,11 +1,11 @@
 {
   "name": "screen-buffer-mcp",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "summary": "MCP server for fast Android screenshots via scrcpy frame buffer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "screen_buffer_mcp-2.0.1.tar.gz",
-  "download_time": "2026-01-14T22:20:44.964006",
+  "download_filename": "screen_buffer_mcp-2.1.0.tar.gz",
+  "download_time": "2026-01-15T06:30:51.002058",
   "package_url": "https://pypi.org/project/screen-buffer-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "kubeflow-sdk-akash",
+  "version": "0.3.2",
+  "summary": "Kubeflow Python SDK to manage ML workloads and to interact with Kubeflow APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kubeflow_sdk_akash-0.3.2-py3-none-any.whl",
+  "download_time": "2026-01-15T06:30:46.348188",
+  "package_url": "https://pypi.org/project/kubeflow-sdk-akash/"
+}

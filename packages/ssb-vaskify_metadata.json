@@ -1,0 +1,11 @@
+{
+  "name": "ssb-vaskify",
+  "version": "0.0.5",
+  "summary": "Functions for control and editing of data in official statistics.",
+  "author": "Susie Jentoft",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ssb_vaskify-0.0.5.tar.gz",
+  "download_time": "2026-01-15T06:30:50.488688",
+  "package_url": "https://pypi.org/project/ssb-vaskify/"
+}

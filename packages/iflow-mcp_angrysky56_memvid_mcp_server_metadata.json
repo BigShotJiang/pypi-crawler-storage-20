@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_angrysky56_memvid_mcp_server",
+  "version": "0.2.1",
+  "summary": "An MCP server to expose Memvid functionalities to AI clients",
+  "author": "AI Workspace",
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_angrysky56_memvid_mcp_server-0.2.1.tar.gz",
+  "download_time": "2026-01-15T06:30:55.158273",
+  "package_url": "https://pypi.org/project/iflow-mcp_angrysky56_memvid_mcp_server/"
+}

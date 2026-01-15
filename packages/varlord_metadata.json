@@ -1,0 +1,11 @@
+{
+  "name": "varlord",
+  "version": "0.8.0",
+  "summary": "A powerful Python configuration management library with support for defaults, CLI args, environment variables, .env files, and optional etcd integration with dynamic updates",
+  "author": "Varlord Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "varlord-0.8.0.tar.gz",
+  "download_time": "2026-01-15T06:31:07.597318",
+  "package_url": "https://pypi.org/project/varlord/"
+}

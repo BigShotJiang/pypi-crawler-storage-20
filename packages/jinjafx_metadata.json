@@ -1,11 +1,11 @@
 {
   "name": "jinjafx",
-  "version": "1.27.2",
+  "version": "1.27.3",
   "summary": "JinjaFx - Jinja2 Templating Tool",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jinjafx-1.27.2.tar.gz",
-  "download_time": "2026-01-12T22:44:49.145089",
+  "download_filename": "jinjafx-1.27.3.tar.gz",
+  "download_time": "2026-01-15T06:30:46.883365",
   "package_url": "https://pypi.org/project/jinjafx/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "unstructured-document-viewer",
+  "version": "1.0.0",
+  "summary": "Unstructured Document Viewer",
+  "author": "Preprocess Team",
+  "license": null,
+  "home_page": "https://github.com/preprocess-co/unstructured-document-viewer",
+  "download_filename": "unstructured_document_viewer-1.0.0.tar.gz",
+  "download_time": "2026-01-15T06:30:36.956415",
+  "package_url": "https://pypi.org/project/unstructured-document-viewer/"
+}
