@@ -1,0 +1,11 @@
+{
+  "name": "ekaros-sdk",
+  "version": "0.1.2",
+  "summary": "Ekaros SDK for API performance monitoring, A/B testing, and experimentation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ekaros_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-15T05:56:22.562509",
+  "package_url": "https://pypi.org/project/ekaros-sdk/"
+}

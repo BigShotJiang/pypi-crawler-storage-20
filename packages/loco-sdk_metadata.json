@@ -1,0 +1,11 @@
+{
+  "name": "loco-sdk",
+  "version": "0.2.0",
+  "summary": "Loco SDK for building plugins and shared utilities",
+  "author": "Loco Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "loco_sdk-0.2.0.tar.gz",
+  "download_time": "2026-01-15T05:56:52.374735",
+  "package_url": "https://pypi.org/project/loco-sdk/"
+}

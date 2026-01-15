@@ -1,0 +1,11 @@
+{
+  "name": "codetether",
+  "version": "1.1.0",
+  "summary": "CodeTether: production-ready Agent-to-Agent (A2A) platform with MCP + OpenCode-compatible integration",
+  "author": "CodeTether Contributors",
+  "license": null,
+  "home_page": "https://github.com/rileyseaburg/codetether",
+  "download_filename": "codetether-1.1.0.tar.gz",
+  "download_time": "2026-01-15T05:56:56.340011",
+  "package_url": "https://pypi.org/project/codetether/"
+}

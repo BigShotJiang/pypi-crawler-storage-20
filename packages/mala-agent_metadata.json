@@ -1,11 +1,11 @@
 {
   "name": "mala-agent",
-  "version": "1.0.8",
+  "version": "1.0.11",
   "summary": "Agent SDK orchestrator for parallel issue processing",
   "author": "Charlie You",
   "license": null,
   "home_page": null,
-  "download_filename": "mala_agent-1.0.8.tar.gz",
-  "download_time": "2026-01-14T19:40:50.708217",
+  "download_filename": "mala_agent-1.0.11.tar.gz",
+  "download_time": "2026-01-15T05:56:49.589336",
   "package_url": "https://pypi.org/project/mala-agent/"
 }

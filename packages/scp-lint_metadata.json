@@ -1,0 +1,11 @@
+{
+  "name": "scp-lint",
+  "version": "0.1.0",
+  "summary": "A linter for AWS Service Control Policies (SCPs)",
+  "author": "OnticX",
+  "license": null,
+  "home_page": null,
+  "download_filename": "scp_lint-0.1.0.tar.gz",
+  "download_time": "2026-01-15T05:56:59.690852",
+  "package_url": "https://pypi.org/project/scp-lint/"
+}

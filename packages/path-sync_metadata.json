@@ -1,11 +1,11 @@
 {
   "name": "path-sync",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "summary": "Sync files from a source repo to multiple destination repos",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "path_sync-0.3.2.tar.gz",
-  "download_time": "2026-01-14T15:00:03.913035",
+  "download_filename": "path_sync-0.3.3.tar.gz",
+  "download_time": "2026-01-15T05:56:21.997853",
   "package_url": "https://pypi.org/project/path-sync/"
 }

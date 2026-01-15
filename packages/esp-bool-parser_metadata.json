@@ -1,11 +1,11 @@
 {
   "name": "esp-bool-parser",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Tools for building ESP-IDF related apps.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "esp_bool_parser-0.2.1.tar.gz",
-  "download_time": "2026-01-15T03:17:15.244300",
+  "download_filename": "esp_bool_parser-0.2.2.tar.gz",
+  "download_time": "2026-01-15T05:57:00.822894",
   "package_url": "https://pypi.org/project/esp-bool-parser/"
 }

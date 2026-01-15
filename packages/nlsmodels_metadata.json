@@ -1,0 +1,11 @@
+{
+  "name": "nlsmodels",
+  "version": "1.0.0",
+  "summary": "Nonlinear Least Squares regression models for Python",
+  "author": "Juan David Garcia",
+  "license": "MIT",
+  "home_page": "https://github.com/tuusuario/nlsmodels",
+  "download_filename": "nlsmodels-1.0.0.tar.gz",
+  "download_time": "2026-01-15T05:56:23.692583",
+  "package_url": "https://pypi.org/project/nlsmodels/"
+}
