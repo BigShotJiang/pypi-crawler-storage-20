@@ -1,0 +1,11 @@
+{
+  "name": "inmanta-module-config",
+  "version": "0.7.1",
+  "summary": null,
+  "author": "Inmanta",
+  "license": "Inmanta EULA",
+  "home_page": null,
+  "download_filename": "inmanta_module_config-0.7.1.tar.gz",
+  "download_time": "2026-01-15T08:10:28.654052",
+  "package_url": "https://pypi.org/project/inmanta-module-config/"
+}

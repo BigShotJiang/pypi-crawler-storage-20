@@ -1,0 +1,11 @@
+{
+  "name": "alibabacloud-openapi-util",
+  "version": "0.2.4",
+  "summary": "Aliyun Tea OpenApi Library for Python",
+  "author": "Alibaba Cloud",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/aliyun/darabonba-openapi-util",
+  "download_filename": "alibabacloud_openapi_util-0.2.4.tar.gz",
+  "download_time": "2026-01-15T08:10:19.942638",
+  "package_url": "https://pypi.org/project/alibabacloud-openapi-util/"
+}

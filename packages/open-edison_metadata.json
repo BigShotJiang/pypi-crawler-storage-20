@@ -1,0 +1,11 @@
+{
+  "name": "open-edison",
+  "version": "0.1.133",
+  "summary": "Open-source MCP security, aggregation, and monitoring. Single-user, self-hosted MCP proxy.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "open_edison-0.1.133.tar.gz",
+  "download_time": "2026-01-15T08:10:14.189840",
+  "package_url": "https://pypi.org/project/open-edison/"
+}

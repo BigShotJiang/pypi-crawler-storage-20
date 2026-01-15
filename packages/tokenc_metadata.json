@@ -1,0 +1,11 @@
+{
+  "name": "tokenc",
+  "version": "0.1.2",
+  "summary": "Python SDK for The Token Company API - Compress LLM inputs to reduce costs",
+  "author": "The Token Company",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/tokenc",
+  "download_filename": "tokenc-0.1.2.tar.gz",
+  "download_time": "2026-01-15T08:10:28.143134",
+  "package_url": "https://pypi.org/project/tokenc/"
+}

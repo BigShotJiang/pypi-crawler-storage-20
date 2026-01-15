@@ -1,11 +1,11 @@
 {
   "name": "median-sdk",
-  "version": "1.4.7",
+  "version": "1.6.1",
   "summary": "Python SDK for the Median blockchain",
   "author": "Median Team",
   "license": "Apache-2.0",
   "home_page": "https://github.com/your-org/median",
-  "download_filename": "median_sdk-1.4.7.tar.gz",
-  "download_time": "2026-01-15T07:00:16.691249",
+  "download_filename": "median_sdk-1.6.1.tar.gz",
+  "download_time": "2026-01-15T08:10:26.093845",
   "package_url": "https://pypi.org/project/median-sdk/"
 }

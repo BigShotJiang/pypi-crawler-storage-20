@@ -1,11 +1,11 @@
 {
   "name": "metaai-sdk",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "summary": "Feature-rich Python SDK for Meta AI - Chat, Image & Video Generation powered by Llama 3",
   "author": "Ashiq Hussain Mir",
   "license": null,
   "home_page": "https://github.com/mir-ashiq/metaai-api",
-  "download_filename": "metaai_sdk-2.0.1.tar.gz",
-  "download_time": "2026-01-15T06:30:34.373454",
+  "download_filename": "metaai_sdk-2.1.1.tar.gz",
+  "download_time": "2026-01-15T08:10:14.766940",
   "package_url": "https://pypi.org/project/metaai-sdk/"
 }

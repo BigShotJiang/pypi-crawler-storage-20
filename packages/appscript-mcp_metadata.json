@@ -1,11 +1,11 @@
 {
   "name": "appscript-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP server for Google Apps Script - create, manage, and execute Apps Script projects",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "appscript_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-15T07:45:29.310564",
+  "download_filename": "appscript_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-15T08:10:16.326974",
   "package_url": "https://pypi.org/project/appscript-mcp/"
 }
