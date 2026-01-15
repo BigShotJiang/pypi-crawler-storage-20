@@ -1,11 +1,11 @@
 {
   "name": "pragmatiks-cli",
-  "version": "0.9.2",
+  "version": "0.9.3",
   "summary": "Command-line interface for Pragmatiks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pragmatiks_cli-0.9.2.tar.gz",
-  "download_time": "2026-01-15T23:44:05.373957",
+  "download_filename": "pragmatiks_cli-0.9.3.tar.gz",
+  "download_time": "2026-01-15T23:53:41.479027",
   "package_url": "https://pypi.org/project/pragmatiks-cli/"
 }

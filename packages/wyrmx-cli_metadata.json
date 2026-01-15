@@ -1,11 +1,11 @@
 {
   "name": "wyrmx-cli",
-  "version": "1.0.114",
+  "version": "1.0.115",
   "summary": "Wyrmx CLI is the official command-line interface for Wyrmx — a blazing-fast, Cython-accelerated, AI-enhanced web framework built on FastAPI.",
   "author": "Yousri Aouledissa",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "wyrmx_cli-1.0.114.tar.gz",
-  "download_time": "2026-01-15T23:44:36.607948",
+  "download_filename": "wyrmx_cli-1.0.115.tar.gz",
+  "download_time": "2026-01-15T23:53:40.440096",
   "package_url": "https://pypi.org/project/wyrmx-cli/"
 }

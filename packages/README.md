@@ -1,15 +1,44 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-15T23:44:43.357557
-- **Total Packages**: 87
-- **Total Size**: 49.74 MB
+- **Download Time**: 2026-01-15T23:54:23.874925
+- **Total Packages**: 85
+- **Total Size**: 13.68 MB
 
 ## Packages List
+- tgzr.nice
+- atdataset
+- fx-bin
+- muban-cli
+- hypha
+- badgie
+- honeybee-energy
+- pyc-wheel
+- jsinfer
+- wyrmx-cli
+- pragmatiks-sdk
+- pragmatiks-cli
+- tentacletk
+- bioio-nd2
+- mayatk
+- uitk
+- nifc-wildfires
+- pythontk
+- jl-ecms-server
+- kde-bbs-client
+- jl-ecms-client
+- hfortix
+- mixinforge
+- macsdk
+- hfortix-fortios
+- iris-pgwire
+- aws-inventory-manager
+- hfortix-core
+- xmacis2py
+- sparecores-data
 - ara-cli
 - pydynox
 - imgfind
-- aws-inventory-manager
 - sequana-multitax
 - composure
 - ibm-watsonx-orchestrate-mcp-server
@@ -17,7 +46,6 @@
 - oasis-sdk
 - dao-ai
 - agent-cli
-- kde-bbs-client
 - safety-schemas
 - liger-kernel-nightly
 - tmux-trainsh
@@ -26,8 +54,6 @@
 - pomace
 - juriscraper
 - pdflinkcheck
-- pragmatiks-cli
-- pragmatiks-sdk
 - mockamorph
 - nv-ingest
 - ainotebookdev
@@ -62,34 +88,6 @@
 - scriptconfig
 - migrate-to-uv
 - cdxcore
-- hfortix
 - kvbm
 - france-travail-api
 - ai-dynamo
-- contexere-ai
-- cli-ih
-- hfortix-fortios
-- chalkpy
-- omni-cortex
-- cpz-ai
-- hfortix-core
-- clarifai-protocol
-- protein-lang
-- jleechanorg-orchestration
-- volttron-core
-- plato-sdk-v2
-- lucidscan
-- jleechanorg-pr-automation
-- wyrmx-cli
-- veritensor
-- jsinfer
-- csvpath
-- fhlmi
-- ldp
-- zhijiang
-- djelia-sdk
-- jolt-docker
-- xnlinkfinder
-- lfdocs-conf
-- immersivepoints
-- memprocfs

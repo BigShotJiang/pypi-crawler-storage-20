@@ -1,0 +1,11 @@
+{
+  "name": "sparecores-data",
+  "version": "0.3.4",
+  "summary": "Structured data on cloud servers collected by sparecores-crawler.",
+  "author": "Gergely Daroczi, Attila Nagy",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sparecores_data-0.3.4.tar.gz",
+  "download_time": "2026-01-15T23:53:51.542178",
+  "package_url": "https://pypi.org/project/sparecores-data/"
+}
