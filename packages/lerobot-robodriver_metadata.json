@@ -1,0 +1,11 @@
+{
+  "name": "lerobot-robodriver",
+  "version": "0.4.3",
+  "summary": "🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lerobot_robodriver-0.4.3-py3-none-any.whl",
+  "download_time": "2026-01-15T04:37:09.676997",
+  "package_url": "https://pypi.org/project/lerobot-robodriver/"
+}

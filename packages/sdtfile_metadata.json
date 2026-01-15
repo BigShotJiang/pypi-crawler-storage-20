@@ -1,0 +1,11 @@
+{
+  "name": "sdtfile",
+  "version": "2026.1.14",
+  "summary": "Read Becker & Hickl SDT files",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "sdtfile-2026.1.14.tar.gz",
+  "download_time": "2026-01-15T04:37:39.134715",
+  "package_url": "https://pypi.org/project/sdtfile/"
+}

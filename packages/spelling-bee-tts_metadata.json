@@ -1,0 +1,11 @@
+{
+  "name": "spelling-bee-tts",
+  "version": "0.2.0",
+  "summary": "GTK4 spelling quiz app with text-to-speech.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spelling_bee_tts-0.2.0.tar.gz",
+  "download_time": "2026-01-15T04:37:27.889537",
+  "package_url": "https://pypi.org/project/spelling-bee-tts/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "lsp-client",
+  "version": "0.3.2",
+  "summary": "Full-featured, well-typed, and easy-to-use LSP client",
+  "author": "observerw",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lsp_client-0.3.2.tar.gz",
+  "download_time": "2026-01-15T04:37:08.640819",
+  "package_url": "https://pypi.org/project/lsp-client/"
+}
