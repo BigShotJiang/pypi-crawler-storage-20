@@ -1,0 +1,11 @@
+{
+  "name": "bunnystats",
+  "version": "1.0",
+  "summary": "A Python library for obtaining usage statistics for the bunny.net CDN",
+  "author": "Michael Herrmann",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bunnystats-1.0.tar.gz",
+  "download_time": "2026-01-15T08:28:22.885914",
+  "package_url": "https://pypi.org/project/bunnystats/"
+}

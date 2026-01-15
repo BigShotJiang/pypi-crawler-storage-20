@@ -1,11 +1,24 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-15T08:10:53.429059
-- **Total Packages**: 81
-- **Total Size**: 28.07 MB
+- **Download Time**: 2026-01-15T08:29:05.815941
+- **Total Packages**: 76
+- **Total Size**: 7.0 MB
 
 ## Packages List
+- code-loader
+- autoglm-gui
+- bunnystats
+- pyglove
+- xhs-note-extractor
+- onex-sdk
+- tabulicious
+- seed-cli
+- vllm-sr
+- isage-kernel
+- claude-pilot
+- kinematic-tracker
+- uipath-core
 - garf-google-ads
 - garf-executors
 - garf-core
@@ -22,14 +35,12 @@
 - appscript-mcp
 - krxpy
 - django-cfg
-- transformer-hierarchical-layers
 - dodopayments
 - focomy
 - alibabacloud-openapi-util
 - hyperai
 - all-in-mcp
 - new-pykube
-- code-loader
 - tms-mcp
 - xync-schema
 - OLIV
@@ -67,23 +78,7 @@
 - databricks-sdk
 - datus-metricflow
 - scikit-gstat
-- seed-cli
 - comfy-aimdo
 - lybase
 - get_aws_details
-- xhs-note-extractor
 - datus-clickzetta
-- disseqt-ai-sdk
-- alibabacloud-websitebuild20250429
-- blenderforge
-- codingnow
-- rentcache
-- unifi-network-maps
-- worai
-- cocoindex
-- datus-postgresql
-- flowmark
-- cms_enhance
-- mobile-mcp-ai
-- recce-nightly
-- datus-starrocks
