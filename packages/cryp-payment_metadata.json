@@ -1,0 +1,11 @@
+{
+  "name": "cryp-payment",
+  "version": "0.1.0",
+  "summary": "A cryptocurrency payment processing system for BSC",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/cryp-payment",
+  "download_filename": "cryp_payment-0.1.0.tar.gz",
+  "download_time": "2026-01-15T21:44:30.193435",
+  "package_url": "https://pypi.org/project/cryp-payment/"
+}

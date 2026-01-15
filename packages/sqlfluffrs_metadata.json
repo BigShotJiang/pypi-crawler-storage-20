@@ -1,0 +1,11 @@
+{
+  "name": "sqlfluffrs",
+  "version": "4.0.0",
+  "summary": "The SQL Linter for Humans",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "sqlfluffrs-4.0.0.tar.gz",
+  "download_time": "2026-01-15T21:44:15.941865",
+  "package_url": "https://pypi.org/project/sqlfluffrs/"
+}

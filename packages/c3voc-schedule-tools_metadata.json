@@ -1,0 +1,11 @@
+{
+  "name": "c3voc-schedule-tools",
+  "version": "1.1.0",
+  "summary": "Library to generate, convert and validate [schedule files](https://c3voc.de/wiki/schedule) for events which use the [pretalx](https://github.com/pretalx/pretalx), [frab][frab-website] or every other system able to generate schedule.json or CSV files in the correct format.",
+  "author": "Andi Hubel",
+  "license": "EUPL-1.2",
+  "home_page": null,
+  "download_filename": "c3voc_schedule_tools-1.1.0.tar.gz",
+  "download_time": "2026-01-15T21:44:35.546994",
+  "package_url": "https://pypi.org/project/c3voc-schedule-tools/"
+}

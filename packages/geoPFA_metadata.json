@@ -1,11 +1,11 @@
 {
   "name": "geoPFA",
-  "version": "0.0.14",
+  "version": "0.0.17",
   "summary": "Geothermal Play Fairway Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "geopfa-0.0.14-py3-none-any.whl",
-  "download_time": "2026-01-14T19:40:29.775650",
+  "download_filename": "geopfa-0.0.17-py3-none-any.whl",
+  "download_time": "2026-01-15T21:44:06.415072",
   "package_url": "https://pypi.org/project/geoPFA/"
 }

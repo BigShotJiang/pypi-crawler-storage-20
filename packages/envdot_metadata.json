@@ -1,11 +1,11 @@
 {
   "name": "envdot",
-  "version": "1.0.26",
+  "version": "1.0.27",
   "summary": "Enhanced environment variable management with multi-format support (.env, JSON, YAML, INI, TOML)",
   "author": "Hadi Cahyadi",
   "license": null,
   "home_page": "https://github.com/cumulus13/envdot",
-  "download_filename": "envdot-1.0.26.tar.gz",
-  "download_time": "2026-01-13T19:00:51.887716",
+  "download_filename": "envdot-1.0.27.tar.gz",
+  "download_time": "2026-01-15T21:44:12.467350",
   "package_url": "https://pypi.org/project/envdot/"
 }
