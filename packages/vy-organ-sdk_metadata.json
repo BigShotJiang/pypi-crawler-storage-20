@@ -1,0 +1,11 @@
+{
+  "name": "vy-organ-sdk",
+  "version": "2.5.2",
+  "summary": "SDK for building VY-CNS organs",
+  "author": "VY-AGI Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vy_organ_sdk-2.5.2.tar.gz",
+  "download_time": "2026-01-15T21:21:02.848592",
+  "package_url": "https://pypi.org/project/vy-organ-sdk/"
+}

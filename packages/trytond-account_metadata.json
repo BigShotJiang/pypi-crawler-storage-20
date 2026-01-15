@@ -1,0 +1,11 @@
+{
+  "name": "trytond-account",
+  "version": "7.8.1",
+  "summary": "Tryton module for accounting",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_account-7.8.1.tar.gz",
+  "download_time": "2026-01-15T21:20:50.533814",
+  "package_url": "https://pypi.org/project/trytond-account/"
+}

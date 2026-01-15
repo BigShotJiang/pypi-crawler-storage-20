@@ -1,0 +1,11 @@
+{
+  "name": "trulens-connectors-snowflake",
+  "version": "2.5.3",
+  "summary": "Library to systematically track and evaluate LLM based applications.",
+  "author": "Snowflake Inc.",
+  "license": "MIT",
+  "home_page": "https://trulens.org/",
+  "download_filename": "trulens_connectors_snowflake-2.5.3.tar.gz",
+  "download_time": "2026-01-15T21:21:19.768821",
+  "package_url": "https://pypi.org/project/trulens-connectors-snowflake/"
+}

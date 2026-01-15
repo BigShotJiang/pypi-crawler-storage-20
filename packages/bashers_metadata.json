@@ -1,11 +1,11 @@
 {
   "name": "bashers",
-  "version": "0.4.6",
+  "version": "0.4.9",
   "summary": "Installable bash command helpers",
   "author": "Sung Kim",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bashers-0.4.6.tar.gz",
-  "download_time": "2026-01-13T18:35:53.755061",
+  "download_filename": "bashers-0.4.9.tar.gz",
+  "download_time": "2026-01-15T21:20:52.774441",
   "package_url": "https://pypi.org/project/bashers/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "trytond-edocument-peppol-peppyrus",
+  "version": "7.8.2",
+  "summary": "Tryton module to use Peppyrus as access point to Peppol",
+  "author": "Tryton",
+  "license": "GPL-3",
+  "home_page": "http://www.tryton.org/",
+  "download_filename": "trytond_edocument_peppol_peppyrus-7.8.2.tar.gz",
+  "download_time": "2026-01-15T21:21:07.351563",
+  "package_url": "https://pypi.org/project/trytond-edocument-peppol-peppyrus/"
+}

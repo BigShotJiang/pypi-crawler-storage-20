@@ -1,0 +1,11 @@
+{
+  "name": "plone.app.upgrade",
+  "version": "3.3.1",
+  "summary": "Upgrade machinery for Plone.",
+  "author": "Plone Foundation",
+  "license": "GPL version 2",
+  "home_page": "https://pypi.org/project/plone.app.upgrade/",
+  "download_filename": "plone_app_upgrade-3.3.1.tar.gz",
+  "download_time": "2026-01-15T21:21:28.255831",
+  "package_url": "https://pypi.org/project/plone.app.upgrade/"
+}

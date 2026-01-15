@@ -1,0 +1,11 @@
+{
+  "name": "feathersdk",
+  "version": "0.0.8",
+  "summary": "Feather Python SDK Library",
+  "author": "Feather Robotics Inc.",
+  "license": "\"MIT\"",
+  "home_page": null,
+  "download_filename": "feathersdk-0.0.8.tar.gz",
+  "download_time": "2026-01-15T21:21:30.943962",
+  "package_url": "https://pypi.org/project/feathersdk/"
+}
