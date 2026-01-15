@@ -1,0 +1,11 @@
+{
+  "name": "adafruit-circuitpython-seesaw",
+  "version": "1.18.0",
+  "summary": "CircuitPython library for controlling a SeeSaw helper chip.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adafruit_circuitpython_seesaw-1.18.0.tar.gz",
+  "download_time": "2026-01-15T15:55:44.059089",
+  "package_url": "https://pypi.org/project/adafruit-circuitpython-seesaw/"
+}

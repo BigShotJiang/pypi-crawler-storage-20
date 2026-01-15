@@ -1,0 +1,11 @@
+{
+  "name": "protgraph",
+  "version": "0.3.12",
+  "summary": "ProtGraph, a graph generator for proteins.",
+  "author": "Dominik Lux",
+  "license": "BSD",
+  "home_page": "https://github.com/mpc-bioinformatics/ProtGraph",
+  "download_filename": "protgraph-0.3.12.tar.gz",
+  "download_time": "2026-01-15T15:55:31.620824",
+  "package_url": "https://pypi.org/project/protgraph/"
+}

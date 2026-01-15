@@ -1,0 +1,11 @@
+{
+  "name": "transit-parser",
+  "version": "0.1.0",
+  "summary": "High-performance transit data parser with TXC to GTFS conversion",
+  "author": null,
+  "license": "MIT OR Apache-2.0",
+  "home_page": null,
+  "download_filename": "transit_parser-0.1.0.tar.gz",
+  "download_time": "2026-01-15T15:55:51.860779",
+  "package_url": "https://pypi.org/project/transit-parser/"
+}

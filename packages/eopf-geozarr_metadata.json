@@ -1,11 +1,11 @@
 {
   "name": "eopf-geozarr",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "summary": "GeoZarr compliant data model for EOPF datasets",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "eopf_geozarr-0.7.0.tar.gz",
-  "download_time": "2026-01-15T05:33:09.213463",
+  "download_filename": "eopf_geozarr-0.7.1.tar.gz",
+  "download_time": "2026-01-15T15:55:35.239342",
   "package_url": "https://pypi.org/project/eopf-geozarr/"
 }

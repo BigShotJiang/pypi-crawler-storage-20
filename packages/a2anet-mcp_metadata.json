@@ -1,11 +1,11 @@
 {
   "name": "a2anet-mcp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "An MCP server for the Agent2Agent (A2A) protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "a2anet_mcp-1.0.2.tar.gz",
-  "download_time": "2026-01-15T14:30:46.887969",
+  "download_filename": "a2anet_mcp-1.0.3.tar.gz",
+  "download_time": "2026-01-15T15:55:30.090210",
   "package_url": "https://pypi.org/project/a2anet-mcp/"
 }

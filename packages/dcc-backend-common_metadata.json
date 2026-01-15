@@ -1,0 +1,11 @@
+{
+  "name": "dcc-backend-common",
+  "version": "0.0.3",
+  "summary": "Common python code used in out backend services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dcc_backend_common-0.0.3.tar.gz",
+  "download_time": "2026-01-15T15:56:02.371662",
+  "package_url": "https://pypi.org/project/dcc-backend-common/"
+}

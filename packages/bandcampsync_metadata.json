@@ -1,0 +1,11 @@
+{
+  "name": "bandcampsync",
+  "version": "0.7.0",
+  "summary": "A Python module and script to synchronise media purchased on bandcamp.com with a local directory.",
+  "author": "https://github.com/meeb",
+  "license": null,
+  "home_page": "https://github.com/meeb/bandcampsync",
+  "download_filename": "bandcampsync-0.7.0.tar.gz",
+  "download_time": "2026-01-15T15:56:00.298883",
+  "package_url": "https://pypi.org/project/bandcampsync/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "envlock-kb",
+  "version": "0.1.0",
+  "summary": "Secure environment variable management - Encrypt and decrypt .env files with AES-256-GCM",
+  "author": "Kukil Bharadwaj",
+  "license": "MIT",
+  "home_page": "https://github.com/kukilbharadwaj/envlock",
+  "download_filename": "envlock_kb-0.1.0.tar.gz",
+  "download_time": "2026-01-15T15:55:59.787157",
+  "package_url": "https://pypi.org/project/envlock-kb/"
+}

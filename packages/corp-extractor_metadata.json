@@ -1,11 +1,11 @@
 {
   "name": "corp-extractor",
-  "version": "0.2.9",
+  "version": "0.2.11",
   "summary": "Extract structured statements from text using T5-Gemma 2 and Diverse Beam Search",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "corp_extractor-0.2.9.tar.gz",
-  "download_time": "2026-01-15T15:23:31.474372",
+  "download_filename": "corp_extractor-0.2.11.tar.gz",
+  "download_time": "2026-01-15T15:55:25.220512",
   "package_url": "https://pypi.org/project/corp-extractor/"
 }

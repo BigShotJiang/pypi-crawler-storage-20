@@ -1,0 +1,11 @@
+{
+  "name": "djangoldp-tems",
+  "version": "3.0.1",
+  "summary": "djangoldp package for TEMS",
+  "author": "Startin'blox",
+  "license": "MIT",
+  "home_page": "https://git.startinblox.com/djangoldp-packages/djangoldp-tems",
+  "download_filename": "djangoldp_tems-3.0.1.tar.gz",
+  "download_time": "2026-01-15T15:55:44.595702",
+  "package_url": "https://pypi.org/project/djangoldp-tems/"
+}

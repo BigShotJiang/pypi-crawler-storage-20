@@ -1,11 +1,11 @@
 {
   "name": "complexity-deep",
-  "version": "0.7.2",
+  "version": "0.8.0",
   "summary": "Multicouche robotics architecture with KQV + INL Dynamics + Token-Routed MLP",
   "author": "Pacific Prime",
   "license": null,
   "home_page": "https://github.com/Web3-League/complexity-deep",
-  "download_filename": "complexity_deep-0.7.2.tar.gz",
-  "download_time": "2026-01-12T18:57:40.430437",
+  "download_filename": "complexity_deep-0.8.0.tar.gz",
+  "download_time": "2026-01-15T15:55:57.707330",
   "package_url": "https://pypi.org/project/complexity-deep/"
 }
