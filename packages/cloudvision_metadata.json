@@ -1,0 +1,11 @@
+{
+  "name": "cloudvision",
+  "version": "1.27.0",
+  "summary": "A Python library for Arista's CloudVision APIs and Provisioning Action integrations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cloudvision-1.27.0.tar.gz",
+  "download_time": "2026-01-15T11:18:58.891521",
+  "package_url": "https://pypi.org/project/cloudvision/"
+}

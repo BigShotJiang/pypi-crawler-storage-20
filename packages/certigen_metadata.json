@@ -1,0 +1,11 @@
+{
+  "name": "certigen",
+  "version": "1.0.0",
+  "summary": "Automatic certificate generator with OCR-based placeholder detection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "certigen-1.0.0.tar.gz",
+  "download_time": "2026-01-15T11:19:28.196143",
+  "package_url": "https://pypi.org/project/certigen/"
+}

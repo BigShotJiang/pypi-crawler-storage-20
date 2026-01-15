@@ -1,0 +1,11 @@
+{
+  "name": "trading-backend",
+  "version": "1.2.43",
+  "summary": "Trading tools",
+  "author": "Drakkar-Software",
+  "license": "LGPL-3.0",
+  "home_page": "https://github.com/Drakkar-Software/trading-backend",
+  "download_filename": "trading_backend-1.2.43.tar.gz",
+  "download_time": "2026-01-15T11:19:25.587103",
+  "package_url": "https://pypi.org/project/trading-backend/"
+}

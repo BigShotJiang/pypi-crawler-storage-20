@@ -1,11 +1,11 @@
 {
   "name": "emic",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "summary": "Epsilon Machine Inference & Characterization - A framework for computational mechanics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "emic-0.0.1.tar.gz",
-  "download_time": "2026-01-14T13:29:39.019120",
+  "download_filename": "emic-0.1.0.tar.gz",
+  "download_time": "2026-01-15T11:18:58.367960",
   "package_url": "https://pypi.org/project/emic/"
 }

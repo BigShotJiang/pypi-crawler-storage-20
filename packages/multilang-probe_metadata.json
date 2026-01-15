@@ -1,11 +1,11 @@
 {
   "name": "multilang-probe",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "summary": "A Python package for analyzing multilingual text.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "multilang_probe-1.0.1.tar.gz",
-  "download_time": "2026-01-15T10:22:03.915886",
+  "download_filename": "multilang_probe-1.1.1.tar.gz",
+  "download_time": "2026-01-15T11:18:56.295632",
   "package_url": "https://pypi.org/project/multilang-probe/"
 }

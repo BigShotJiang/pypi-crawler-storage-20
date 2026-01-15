@@ -1,0 +1,11 @@
+{
+  "name": "quasardb",
+  "version": "3.14.2",
+  "summary": "Python API for quasardb",
+  "author": "quasardb SAS",
+  "license": "BSD",
+  "home_page": "https://quasar.ai/",
+  "download_filename": "quasardb-3.14.2-cp310-cp310-manylinux_2_26_aarch64.manylinux_2_28_aarch64.whl",
+  "download_time": "2026-01-15T11:19:20.901009",
+  "package_url": "https://pypi.org/project/quasardb/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Equimo",
+  "version": "0.4.7",
+  "summary": "Implementation of popular vision models in Jax",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "equimo-0.4.7.tar.gz",
+  "download_time": "2026-01-15T11:18:53.059224",
+  "package_url": "https://pypi.org/project/Equimo/"
+}

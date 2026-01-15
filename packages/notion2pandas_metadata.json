@@ -1,0 +1,11 @@
+{
+  "name": "notion2pandas",
+  "version": "1.6.3",
+  "summary": "Notion Client extension to import notion Database into pandas Dataframe",
+  "author": "Andrea Rosati",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/Jaeger87/notion2pandas",
+  "download_filename": "notion2pandas-1.6.3.tar.gz",
+  "download_time": "2026-01-15T11:18:56.813951",
+  "package_url": "https://pypi.org/project/notion2pandas/"
+}

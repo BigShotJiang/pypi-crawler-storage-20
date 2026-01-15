@@ -1,0 +1,11 @@
+{
+  "name": "spiki",
+  "version": "0.17.0",
+  "summary": "A Wiki for Speech.",
+  "author": "D E Haynes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "spiki-0.17.0.tar.gz",
+  "download_time": "2026-01-15T11:19:12.431762",
+  "package_url": "https://pypi.org/project/spiki/"
+}
