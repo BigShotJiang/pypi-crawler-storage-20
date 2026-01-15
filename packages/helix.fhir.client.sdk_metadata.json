@@ -1,11 +1,11 @@
 {
   "name": "helix.fhir.client.sdk",
-  "version": "4.2.1",
+  "version": "4.2.5",
   "summary": "helix.fhir.client.sdk",
   "author": "Imran Qureshi",
   "license": null,
   "home_page": "https://github.com/icanbwell/helix.fhir.client.sdk",
-  "download_filename": "helix_fhir_client_sdk-4.2.1.tar.gz",
-  "download_time": "2026-01-15T08:57:01.748002",
+  "download_filename": "helix_fhir_client_sdk-4.2.5.tar.gz",
+  "download_time": "2026-01-15T12:40:38.830997",
   "package_url": "https://pypi.org/project/helix.fhir.client.sdk/"
 }

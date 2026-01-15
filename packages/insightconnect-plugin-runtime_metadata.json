@@ -1,0 +1,11 @@
+{
+  "name": "insightconnect-plugin-runtime",
+  "version": "6.4.2",
+  "summary": "InsightConnect Plugin Runtime",
+  "author": "Rapid7 Integrations Alliance",
+  "license": null,
+  "home_page": "https://github.com/rapid7/komand-plugin-sdk-python",
+  "download_filename": "insightconnect_plugin_runtime-6.4.2.tar.gz",
+  "download_time": "2026-01-15T12:40:59.858569",
+  "package_url": "https://pypi.org/project/insightconnect-plugin-runtime/"
+}

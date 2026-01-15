@@ -1,0 +1,11 @@
+{
+  "name": "packaging-workshop-pmat",
+  "version": "0.1.0",
+  "summary": "Workshop package for practicing modern Python packaging.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "packaging_workshop_pmat-0.1.0.tar.gz",
+  "download_time": "2026-01-15T12:40:18.092820",
+  "package_url": "https://pypi.org/project/packaging-workshop-pmat/"
+}

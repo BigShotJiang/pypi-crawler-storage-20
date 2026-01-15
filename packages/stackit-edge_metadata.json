@@ -1,0 +1,11 @@
+{
+  "name": "stackit-edge",
+  "version": "0.1.0",
+  "summary": "STACKIT Edge Cloud API",
+  "author": "STACKIT Developer Tools",
+  "license": null,
+  "home_page": "https://github.com/stackitcloud/stackit-sdk-python",
+  "download_filename": "stackit_edge-0.1.0.tar.gz",
+  "download_time": "2026-01-15T12:40:35.739355",
+  "package_url": "https://pypi.org/project/stackit-edge/"
+}
