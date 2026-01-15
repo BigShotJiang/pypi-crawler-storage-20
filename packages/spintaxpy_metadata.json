@@ -1,0 +1,11 @@
+{
+  "name": "spintaxpy",
+  "version": "1.0.0",
+  "summary": "A combinatorial string generation library that creates all possible combinations from templates with variable elements",
+  "author": "alwahib",
+  "license": null,
+  "home_page": "https://github.com/alwahib/spintax-py",
+  "download_filename": "spintaxpy-1.0.0.tar.gz",
+  "download_time": "2026-01-15T22:21:33.546762",
+  "package_url": "https://pypi.org/project/spintaxpy/"
+}

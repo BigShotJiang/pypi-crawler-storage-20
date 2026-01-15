@@ -1,0 +1,11 @@
+{
+  "name": "ERPpeek",
+  "version": "1.7.2",
+  "summary": "Not maintained.  Use Odooly instead",
+  "author": "Florent Xicluna",
+  "license": "BSD",
+  "home_page": "http://erppeek.readthedocs.org/",
+  "download_filename": "erppeek-1.7.2.tar.gz",
+  "download_time": "2026-01-15T22:21:52.210546",
+  "package_url": "https://pypi.org/project/ERPpeek/"
+}

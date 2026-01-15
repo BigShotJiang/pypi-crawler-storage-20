@@ -1,11 +1,11 @@
 {
   "name": "assignment-codeval",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "summary": "CodEval for evaluating programming assignments",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "assignment_codeval-0.0.6.tar.gz",
-  "download_time": "2026-01-15T21:44:15.130963",
+  "download_filename": "assignment_codeval-0.0.7.tar.gz",
+  "download_time": "2026-01-15T22:21:24.630887",
   "package_url": "https://pypi.org/project/assignment-codeval/"
 }

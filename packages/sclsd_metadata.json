@@ -1,0 +1,11 @@
+{
+  "name": "sclsd",
+  "version": "0.2.0",
+  "summary": "Latent State Dynamics (LSD) for single-cell trajectory inference via neural ODE gradient flow",
+  "author": "LSD Development Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sclsd-0.2.0.tar.gz",
+  "download_time": "2026-01-15T22:21:56.255655",
+  "package_url": "https://pypi.org/project/sclsd/"
+}

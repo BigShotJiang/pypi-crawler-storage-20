@@ -1,11 +1,11 @@
 {
   "name": "stagehand",
-  "version": "3.4.6",
+  "version": "3.4.7",
   "summary": "The official Python library for the stagehand API",
   "author": "Stagehand",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stagehand-3.4.6.tar.gz",
-  "download_time": "2026-01-13T20:46:59.897750",
+  "download_filename": "stagehand-3.4.7.tar.gz",
+  "download_time": "2026-01-15T22:21:22.902350",
   "package_url": "https://pypi.org/project/stagehand/"
 }
