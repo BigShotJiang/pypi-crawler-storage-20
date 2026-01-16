@@ -1,0 +1,11 @@
+{
+  "name": "c7n-policystream",
+  "version": "0.4.48",
+  "summary": "Cloud Custodian - Git Commits as Logical Policy Changes",
+  "author": "Cloud Custodian Project",
+  "license": null,
+  "home_page": null,
+  "download_filename": "c7n_policystream-0.4.48-py3-none-any.whl",
+  "download_time": "2026-01-16T21:44:37.278481",
+  "package_url": "https://pypi.org/project/c7n-policystream/"
+}

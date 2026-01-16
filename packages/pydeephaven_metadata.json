@@ -1,0 +1,11 @@
+{
+  "name": "pydeephaven",
+  "version": "41.0",
+  "summary": "The Deephaven Python Client",
+  "author": "Deephaven Data Labs",
+  "license": "Deephaven Community License Agreement Version 1.0",
+  "home_page": "https://deephaven.io/",
+  "download_filename": "pydeephaven-41.0-py3-none-any.whl",
+  "download_time": "2026-01-16T21:44:45.745252",
+  "package_url": "https://pypi.org/project/pydeephaven/"
+}

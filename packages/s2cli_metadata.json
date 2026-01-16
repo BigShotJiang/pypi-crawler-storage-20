@@ -1,0 +1,11 @@
+{
+  "name": "s2cli",
+  "version": "0.1.1",
+  "summary": "A CLI for Semantic Scholar API - designed for humans and AI agents",
+  "author": "mrshu",
+  "license": null,
+  "home_page": null,
+  "download_filename": "s2cli-0.1.1.tar.gz",
+  "download_time": "2026-01-16T21:44:19.914624",
+  "package_url": "https://pypi.org/project/s2cli/"
+}

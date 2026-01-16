@@ -1,0 +1,11 @@
+{
+  "name": "flask-github-issues",
+  "version": "0.1.5",
+  "summary": "A Python package for tracking Flask errors via GitHub Issues.",
+  "author": "Pontem Innovations",
+  "license": null,
+  "home_page": "https://github.com/Pontem-Innovations/flask-github-issues",
+  "download_filename": "flask_github_issues-0.1.5.tar.gz",
+  "download_time": "2026-01-16T21:44:51.795811",
+  "package_url": "https://pypi.org/project/flask-github-issues/"
+}
