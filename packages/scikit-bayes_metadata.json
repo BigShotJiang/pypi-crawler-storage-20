@@ -1,0 +1,11 @@
+{
+  "name": "scikit-bayes",
+  "version": "0.1.2",
+  "summary": "A Python package for AnDE classifiers.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "scikit_bayes-0.1.2.tar.gz",
+  "download_time": "2026-01-16T09:25:52.543131",
+  "package_url": "https://pypi.org/project/scikit-bayes/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OCR-with-format",
+  "version": "0.14",
+  "summary": "Wrapper to pytesseract to preserve space and formatting",
+  "author": "thiswillbeyourgithub",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ocr_with_format-0.14.tar.gz",
+  "download_time": "2026-01-16T09:25:44.328861",
+  "package_url": "https://pypi.org/project/OCR-with-format/"
+}

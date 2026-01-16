@@ -1,0 +1,11 @@
+{
+  "name": "watchdock",
+  "version": "0.1.1",
+  "summary": "A local, self-hosted file monitoring and organization tool using AI",
+  "author": "WatchDock Team",
+  "license": null,
+  "home_page": "https://github.com/Z-MarkUs/watchdock",
+  "download_filename": "watchdock-0.1.1.tar.gz",
+  "download_time": "2026-01-16T09:26:10.564206",
+  "package_url": "https://pypi.org/project/watchdock/"
+}

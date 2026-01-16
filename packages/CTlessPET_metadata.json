@@ -1,0 +1,11 @@
+{
+  "name": "CTlessPET",
+  "version": "0.2.4",
+  "summary": "CTlessPET for synthetic CT from NAC PET data",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ctlesspet-0.2.4.tar.gz",
+  "download_time": "2026-01-16T09:26:11.587343",
+  "package_url": "https://pypi.org/project/CTlessPET/"
+}

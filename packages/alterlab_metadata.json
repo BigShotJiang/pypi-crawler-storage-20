@@ -1,0 +1,11 @@
+{
+  "name": "alterlab",
+  "version": "2.0.0",
+  "summary": "Official Python SDK for the AlterLab Web Scraping API - Extract data from any website with intelligent anti-bot bypass",
+  "author": "AlterLab",
+  "license": "MIT",
+  "home_page": "https://alterlab.io",
+  "download_filename": "alterlab-2.0.0.tar.gz",
+  "download_time": "2026-01-16T09:25:46.376995",
+  "package_url": "https://pypi.org/project/alterlab/"
+}

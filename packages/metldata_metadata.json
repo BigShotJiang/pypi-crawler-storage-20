@@ -1,0 +1,11 @@
+{
+  "name": "metldata",
+  "version": "5.0.1",
+  "summary": "metldata - A framework for handling metadata based on ETL, CQRS, and event sourcing.",
+  "author": null,
+  "license": "Apache 2.0",
+  "home_page": null,
+  "download_filename": "metldata-5.0.1.tar.gz",
+  "download_time": "2026-01-16T09:25:42.278218",
+  "package_url": "https://pypi.org/project/metldata/"
+}

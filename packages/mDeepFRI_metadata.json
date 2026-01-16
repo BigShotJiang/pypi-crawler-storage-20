@@ -1,0 +1,11 @@
+{
+  "name": "mDeepFRI",
+  "version": "1.1.10",
+  "summary": "Pipeline for searching and aligning contact maps for proteins, and function prediction with DeepFRI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mdeepfri-1.1.10.tar.gz",
+  "download_time": "2026-01-16T09:25:59.769428",
+  "package_url": "https://pypi.org/project/mDeepFRI/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vmx-aps",
+  "version": "2.7.0",
+  "summary": "APS command line wrapper",
+  "author": "Verimatrix Inc.",
+  "license": null,
+  "home_page": null,
+  "download_filename": "vmx_aps-2.7.0.tar.gz",
+  "download_time": "2026-01-16T09:26:26.603732",
+  "package_url": "https://pypi.org/project/vmx-aps/"
+}

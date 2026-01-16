@@ -1,0 +1,11 @@
+{
+  "name": "trinity-rft",
+  "version": "0.4.1",
+  "summary": "Trinity-RFT: A Framework for Training Large Language Models with Reinforcement Fine-Tuning",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trinity_rft-0.4.1.tar.gz",
+  "download_time": "2026-01-16T09:26:22.000769",
+  "package_url": "https://pypi.org/project/trinity-rft/"
+}

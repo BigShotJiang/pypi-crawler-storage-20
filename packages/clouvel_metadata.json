@@ -1,11 +1,11 @@
 {
   "name": "clouvel",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "바이브코딩 프로세스를 강제하는 MCP 서버",
   "author": "SINABRO",
   "license": null,
   "home_page": null,
-  "download_filename": "clouvel-0.3.2.tar.gz",
-  "download_time": "2026-01-15T18:41:19.295132",
+  "download_filename": "clouvel-0.3.4.tar.gz",
+  "download_time": "2026-01-16T09:25:43.815750",
   "package_url": "https://pypi.org/project/clouvel/"
 }

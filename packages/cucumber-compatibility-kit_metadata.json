@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-compatibility-kit",
+  "version": "27.0.0",
+  "summary": "Test data used to validate a Cucumber implementation",
+  "author": "Jason Allen",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cucumber_compatibility_kit-27.0.0.tar.gz",
+  "download_time": "2026-01-16T09:26:13.120295",
+  "package_url": "https://pypi.org/project/cucumber-compatibility-kit/"
+}

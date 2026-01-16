@@ -1,0 +1,11 @@
+{
+  "name": "OpenPyTEA",
+  "version": "1.2.0",
+  "summary": "OpenPyTEA: An open-source Python toolkit for techno-economic assessment of process plants with economic sensitivity and uncertainty evaluation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openpytea-1.2.0.tar.gz",
+  "download_time": "2026-01-16T09:25:47.398215",
+  "package_url": "https://pypi.org/project/OpenPyTEA/"
+}

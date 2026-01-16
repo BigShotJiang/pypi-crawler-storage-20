@@ -1,0 +1,11 @@
+{
+  "name": "spectre-fm",
+  "version": "0.1.1",
+  "summary": "SPECTRE: cross-modal self-supervised pretraining for CT representation extraction",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spectre_fm-0.1.1.tar.gz",
+  "download_time": "2026-01-16T09:26:07.499302",
+  "package_url": "https://pypi.org/project/spectre-fm/"
+}

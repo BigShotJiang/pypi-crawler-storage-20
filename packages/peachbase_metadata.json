@@ -1,0 +1,11 @@
+{
+  "name": "peachbase",
+  "version": "0.4.2",
+  "summary": "Lightweight vector database optimized for AWS Lambda with lexical, semantic, and hybrid search",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "peachbase-0.4.2.tar.gz",
+  "download_time": "2026-01-16T09:25:58.746048",
+  "package_url": "https://pypi.org/project/peachbase/"
+}

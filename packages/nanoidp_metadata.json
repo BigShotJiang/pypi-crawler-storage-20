@@ -1,11 +1,11 @@
 {
   "name": "nanoidp",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "A lightweight, configurable Identity Provider for development and testing",
   "author": "Christian Del Monte",
   "license": null,
   "home_page": null,
-  "download_filename": "nanoidp-1.2.0.tar.gz",
-  "download_time": "2026-01-14T16:58:06.679858",
+  "download_filename": "nanoidp-1.2.1.tar.gz",
+  "download_time": "2026-01-16T09:26:05.955673",
   "package_url": "https://pypi.org/project/nanoidp/"
 }

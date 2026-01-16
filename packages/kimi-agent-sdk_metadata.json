@@ -1,0 +1,11 @@
+{
+  "name": "kimi-agent-sdk",
+  "version": "0.0.1",
+  "summary": "A Python SDK for Kimi Agent (Kimi CLI).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kimi_agent_sdk-0.0.1.tar.gz",
+  "download_time": "2026-01-16T09:26:04.933802",
+  "package_url": "https://pypi.org/project/kimi-agent-sdk/"
+}
