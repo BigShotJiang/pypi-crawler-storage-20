@@ -1,0 +1,11 @@
+{
+  "name": "fw-file-rs",
+  "version": "0.5.2",
+  "summary": "Read, parse and de-identify DICOM files",
+  "author": null,
+  "license": null,
+  "home_page": "https://gitlab.com/flywheel-io/tools/lib/fw-file-rs",
+  "download_filename": "fw_file_rs-0.5.2.tar.gz",
+  "download_time": "2026-01-16T16:26:44.267956",
+  "package_url": "https://pypi.org/project/fw-file-rs/"
+}

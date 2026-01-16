@@ -1,0 +1,11 @@
+{
+  "name": "heat_helper",
+  "version": "0.1.0",
+  "summary": "A python library to help users of the Higher Education Access Tracker (HEAT) process their data.",
+  "author": "Hannah Merry",
+  "license": null,
+  "home_page": null,
+  "download_filename": "heat_helper-0.1.0.tar.gz",
+  "download_time": "2026-01-16T16:26:59.559825",
+  "package_url": "https://pypi.org/project/heat_helper/"
+}

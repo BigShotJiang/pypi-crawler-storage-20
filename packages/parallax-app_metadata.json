@@ -1,0 +1,11 @@
+{
+  "name": "parallax-app",
+  "version": "1.15.1",
+  "summary": "GUI software for photogrammetry-assisted probe targeting in electrophysiology",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "parallax_app-1.15.1-py3-none-any.whl",
+  "download_time": "2026-01-16T16:26:40.556421",
+  "package_url": "https://pypi.org/project/parallax-app/"
+}

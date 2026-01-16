@@ -1,11 +1,11 @@
 {
   "name": "myo-tools",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python package for the myo api.",
   "author": "myolab",
   "license": null,
   "home_page": null,
-  "download_filename": "myo_tools-0.1.0.tar.gz",
-  "download_time": "2026-01-15T19:56:16.131537",
+  "download_filename": "myo_tools-0.1.1.tar.gz",
+  "download_time": "2026-01-16T16:26:49.551390",
   "package_url": "https://pypi.org/project/myo-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "agent1c-metrics",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "summary": "Get metrics from 1C srvinfo-content",
   "author": "Sergio Repin",
   "license": "GPLv3+",
   "home_page": null,
-  "download_filename": "agent1c_metrics-0.4.6.tar.gz",
-  "download_time": "2026-01-16T12:41:06.816914",
+  "download_filename": "agent1c_metrics-0.4.7.tar.gz",
+  "download_time": "2026-01-16T16:26:43.226269",
   "package_url": "https://pypi.org/project/agent1c-metrics/"
 }
