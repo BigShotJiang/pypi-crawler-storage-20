@@ -1,11 +1,11 @@
 {
   "name": "adcp-recorder",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "NMEA telemetry recorder for Nortek ADCP instruments with DuckDB backend",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "adcp_recorder-0.1.6.tar.gz",
-  "download_time": "2026-01-16T01:26:28.642167",
+  "download_filename": "adcp_recorder-0.1.7.tar.gz",
+  "download_time": "2026-01-16T03:17:26.111404",
   "package_url": "https://pypi.org/project/adcp-recorder/"
 }

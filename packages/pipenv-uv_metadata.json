@@ -1,0 +1,11 @@
+{
+  "name": "pipenv-uv",
+  "version": "0.0.5",
+  "summary": "Patch pipenv to use uv for lock and sync operations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipenv_uv-0.0.5.tar.gz",
+  "download_time": "2026-01-16T03:17:16.111548",
+  "package_url": "https://pypi.org/project/pipenv-uv/"
+}

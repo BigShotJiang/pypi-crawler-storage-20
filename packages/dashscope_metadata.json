@@ -1,0 +1,11 @@
+{
+  "name": "dashscope",
+  "version": "1.25.8",
+  "summary": "dashscope client sdk library",
+  "author": "Alibaba Cloud",
+  "license": "Apache 2.0",
+  "home_page": "https://dashscope.aliyun.com/",
+  "download_filename": "dashscope-1.25.8-py3-none-any.whl",
+  "download_time": "2026-01-16T03:17:19.346412",
+  "package_url": "https://pypi.org/project/dashscope/"
+}

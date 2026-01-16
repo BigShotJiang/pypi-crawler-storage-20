@@ -1,0 +1,11 @@
+{
+  "name": "codeanim",
+  "version": "0.3.3",
+  "summary": "A tool that automates presentation of software demos.",
+  "author": "Shad Sharma",
+  "license": null,
+  "home_page": null,
+  "download_filename": "codeanim-0.3.3.tar.gz",
+  "download_time": "2026-01-16T03:17:02.942462",
+  "package_url": "https://pypi.org/project/codeanim/"
+}

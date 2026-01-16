@@ -1,0 +1,11 @@
+{
+  "name": "fabric-hydrate",
+  "version": "1.0.1",
+  "summary": "A CLI tool to hydrate Microsoft Fabric Lakehouse metadata from Delta Lake schemas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fabric_hydrate-1.0.1.tar.gz",
+  "download_time": "2026-01-16T03:17:04.038105",
+  "package_url": "https://pypi.org/project/fabric-hydrate/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "startouch-python-sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Precompiled Startouch robot SDK",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "startouch_python_sdk-0.1.0-cp310-cp310-manylinux_2_34_x86_64.whl",
-  "download_time": "2026-01-15T21:54:21.666531",
+  "download_filename": "startouch_python_sdk-0.1.1-cp38-cp38-manylinux_2_34_x86_64.whl",
+  "download_time": "2026-01-16T03:17:30.313945",
   "package_url": "https://pypi.org/project/startouch-python-sdk/"
 }

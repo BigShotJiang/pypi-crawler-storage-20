@@ -1,0 +1,11 @@
+{
+  "name": "embedding-eval",
+  "version": "0.1.0",
+  "summary": "Fair embedding model evaluation with independent parameter optimization",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "embedding_eval-0.1.0.tar.gz",
+  "download_time": "2026-01-16T03:17:03.457020",
+  "package_url": "https://pypi.org/project/embedding-eval/"
+}

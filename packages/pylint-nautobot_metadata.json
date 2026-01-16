@@ -1,0 +1,11 @@
+{
+  "name": "pylint-nautobot",
+  "version": "1.0.0",
+  "summary": "Custom Pylint Rules for Nautobot",
+  "author": "Cristian Sirbu",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "pylint_nautobot-1.0.0.tar.gz",
+  "download_time": "2026-01-16T03:17:28.255059",
+  "package_url": "https://pypi.org/project/pylint-nautobot/"
+}

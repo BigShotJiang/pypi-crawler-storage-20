@@ -1,0 +1,11 @@
+{
+  "name": "pypeline-cli",
+  "version": "0.8.1",
+  "summary": "A command-line tool that generates and maintains boilerplate code for data pipelines, allowing developers to focus on business logic while the CLI handles project structure, processor wiring, and orchestration.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pypeline_cli-0.8.1.tar.gz",
+  "download_time": "2026-01-16T03:17:04.551256",
+  "package_url": "https://pypi.org/project/pypeline-cli/"
+}
