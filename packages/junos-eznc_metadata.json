@@ -1,0 +1,11 @@
+{
+  "name": "junos-eznc",
+  "version": "2.7.6",
+  "summary": "Junos 'EZ' automation for non-programmers",
+  "author": "Jeremy Schulman, Nitin Kumar, Rick Sherman, Stacy Smith",
+  "license": "Apache 2.0",
+  "home_page": "http://www.github.com/Juniper/py-junos-eznc",
+  "download_filename": "junos_eznc-2.7.6.tar.gz",
+  "download_time": "2026-01-16T07:31:43.286185",
+  "package_url": "https://pypi.org/project/junos-eznc/"
+}

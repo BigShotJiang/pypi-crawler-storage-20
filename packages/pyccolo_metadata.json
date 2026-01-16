@@ -1,0 +1,11 @@
+{
+  "name": "pyccolo",
+  "version": "0.0.83",
+  "summary": "Declarative instrumentation for Python",
+  "author": "Stephen Macke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/smacke/pyccolo",
+  "download_filename": "pyccolo-0.0.83.tar.gz",
+  "download_time": "2026-01-16T07:31:51.385208",
+  "package_url": "https://pypi.org/project/pyccolo/"
+}

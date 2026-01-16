@@ -1,11 +1,11 @@
 {
   "name": "pyustc",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "summary": "A Python package that allows for quick use of USTC network services",
   "author": "XeF2",
   "license": null,
   "home_page": null,
-  "download_filename": "pyustc-1.0.0.tar.gz",
-  "download_time": "2026-01-15T05:56:55.211638",
+  "download_filename": "pyustc-1.1.0.tar.gz",
+  "download_time": "2026-01-16T07:31:43.797866",
   "package_url": "https://pypi.org/project/pyustc/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "rdk-performance-node",
+  "version": "1.0.0",
+  "summary": "Web-based hardware monitoring node for RDK devices",
+  "author": "D-Robotics",
+  "license": "Apache-2.0",
+  "home_page": "https://developer.d-robotics.cc/nodehubdetail/1887025046701215746",
+  "download_filename": "rdk_performance_node-1.0.0.tar.gz",
+  "download_time": "2026-01-16T07:31:15.853451",
+  "package_url": "https://pypi.org/project/rdk-performance-node/"
+}

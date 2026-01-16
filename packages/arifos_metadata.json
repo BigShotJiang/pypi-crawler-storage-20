@@ -1,11 +1,11 @@
 {
   "name": "arifos",
-  "version": "46.2.2",
+  "version": "47.0.0",
   "summary": "Constitutional AI governance with 12 immutable floors. Integrates Agent Zero exploration (000 VOID) with constitutional validation (111-999). Real async parallel execution. Works with ChatGPT, Claude, Gemini, and any LLM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arifos-46.2.2.tar.gz",
-  "download_time": "2026-01-15T01:23:44.384503",
+  "download_filename": "arifos-47.0.0.tar.gz",
+  "download_time": "2026-01-16T07:31:26.683116",
   "package_url": "https://pypi.org/project/arifos/"
 }
