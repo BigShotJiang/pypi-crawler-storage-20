@@ -1,0 +1,11 @@
+{
+  "name": "mutcli",
+  "version": "0.1.1",
+  "summary": "Mobile UI Testing CLI - Run YAML-based mobile tests anywhere",
+  "author": "Vladislav Karpman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mutcli-0.1.1.tar.gz",
+  "download_time": "2026-01-16T18:58:27.836906",
+  "package_url": "https://pypi.org/project/mutcli/"
+}

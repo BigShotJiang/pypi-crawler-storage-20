@@ -1,0 +1,11 @@
+{
+  "name": "nav-rewards",
+  "version": "0.1.2",
+  "summary": "Engine for sending Kudos and Rewards to users, built on top of aiohttp + navigator-api.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nav_rewards-0.1.2.tar.gz",
+  "download_time": "2026-01-16T18:59:05.464687",
+  "package_url": "https://pypi.org/project/nav-rewards/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "vantage-agent",
-  "version": "3.2.4",
+  "version": "3.3.2",
   "summary": "Vantage Agent",
-  "author": "Omnivector Solutions",
+  "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vantage_agent-3.2.4.tar.gz",
-  "download_time": "2026-01-12T21:18:12.822183",
+  "download_filename": "vantage_agent-3.3.2.tar.gz",
+  "download_time": "2026-01-16T18:58:36.827869",
   "package_url": "https://pypi.org/project/vantage-agent/"
 }

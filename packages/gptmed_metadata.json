@@ -1,0 +1,11 @@
+{
+  "name": "gptmed",
+  "version": "0.4.0",
+  "summary": "A lightweight GPT-based language model framework for training custom question-answering models on any domain",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gptmed-0.4.0.tar.gz",
+  "download_time": "2026-01-16T18:58:26.733561",
+  "package_url": "https://pypi.org/project/gptmed/"
+}

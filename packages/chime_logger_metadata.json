@@ -1,0 +1,11 @@
+{
+  "name": "chime_logger",
+  "version": "0.4.1",
+  "summary": "A python logger for CHIME/FRB with Loki support.",
+  "author": "Tarik Zegmott",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "chime_logger-0.4.1.tar.gz",
+  "download_time": "2026-01-16T18:58:51.839595",
+  "package_url": "https://pypi.org/project/chime_logger/"
+}

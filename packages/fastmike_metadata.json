@@ -1,11 +1,11 @@
 {
   "name": "fastmike",
-  "version": "0.0.0",
-  "summary": null,
+  "version": "0.1.2",
+  "summary": "FastAPI Enterprise Scaffolder by MIKECARDONA076",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastmike-0.0.0.tar.gz",
-  "download_time": "2026-01-16T18:31:44.823409",
+  "download_filename": "fastmike-0.1.2.tar.gz",
+  "download_time": "2026-01-16T18:58:28.906994",
   "package_url": "https://pypi.org/project/fastmike/"
 }

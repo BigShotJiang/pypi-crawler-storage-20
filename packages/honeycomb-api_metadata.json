@@ -1,0 +1,11 @@
+{
+  "name": "honeycomb-api",
+  "version": "0.7.3",
+  "summary": "Python client for the Honeycomb.io API",
+  "author": "Irving Popovetsky",
+  "license": null,
+  "home_page": "https://irvingpop.github.io/honeycomb-api-python/",
+  "download_filename": "honeycomb_api-0.7.3.tar.gz",
+  "download_time": "2026-01-16T18:59:09.187973",
+  "package_url": "https://pypi.org/project/honeycomb-api/"
+}

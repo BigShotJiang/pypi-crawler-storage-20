@@ -1,11 +1,11 @@
 {
   "name": "mlalib",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "summary": "For the love of exploring intelligence.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlalib-0.4.3.tar.gz",
-  "download_time": "2026-01-12T21:42:19.293469",
+  "download_filename": "mlalib-0.5.0.tar.gz",
+  "download_time": "2026-01-16T18:58:28.372812",
   "package_url": "https://pypi.org/project/mlalib/"
 }

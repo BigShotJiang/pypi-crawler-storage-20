@@ -1,0 +1,11 @@
+{
+  "name": "MorphologicalToolkitForImages",
+  "version": "0.2.0",
+  "summary": "Biblioteca para geração de árvores morfológicas, extração de atributos e aplicação de filtros em imagens.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "morphologicaltoolkitforimages-0.2.0-cp310-cp310-manylinux_2_27_x86_64.manylinux_2_28_x86_64.whl",
+  "download_time": "2026-01-16T18:59:04.417344",
+  "package_url": "https://pypi.org/project/MorphologicalToolkitForImages/"
+}

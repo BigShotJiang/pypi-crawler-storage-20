@@ -1,0 +1,11 @@
+{
+  "name": "chanda",
+  "version": "1.0.0",
+  "summary": "Sanskrit meter identification and analysis library",
+  "author": "Hrishikesh Terdalkar",
+  "license": "AGPL-3.0-or-later",
+  "home_page": "https://github.com/hrishikeshrt/chanda",
+  "download_filename": "chanda-1.0.0.tar.gz",
+  "download_time": "2026-01-16T18:59:13.333804",
+  "package_url": "https://pypi.org/project/chanda/"
+}
