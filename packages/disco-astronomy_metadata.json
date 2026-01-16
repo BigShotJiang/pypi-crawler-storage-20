@@ -1,11 +1,11 @@
 {
   "name": "disco-astronomy",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Herramienta de análisis de discos protoplanetarios",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "disco_astronomy-1.0.0.tar.gz",
-  "download_time": "2026-01-15T00:10:09.093022",
+  "download_filename": "disco_astronomy-1.0.2.tar.gz",
+  "download_time": "2026-01-16T04:55:12.131455",
   "package_url": "https://pypi.org/project/disco-astronomy/"
 }

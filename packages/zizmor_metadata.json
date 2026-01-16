@@ -1,0 +1,11 @@
+{
+  "name": "zizmor",
+  "version": "1.21.0",
+  "summary": "Static analysis for GitHub Actions",
+  "author": "William Woodruff <william@yossarian.net>",
+  "license": "MIT",
+  "home_page": "https://docs.zizmor.sh",
+  "download_filename": "zizmor-1.21.0.tar.gz",
+  "download_time": "2026-01-16T04:55:35.541260",
+  "package_url": "https://pypi.org/project/zizmor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "stache-ai",
+  "version": "0.1.7",
+  "summary": "Personal AI-powered knowledge base with RAG",
+  "author": "Stache Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stache_ai-0.1.7.tar.gz",
+  "download_time": "2026-01-16T04:55:32.500734",
+  "package_url": "https://pypi.org/project/stache-ai/"
+}

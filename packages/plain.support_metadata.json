@@ -1,11 +1,11 @@
 {
   "name": "plain.support",
-  "version": "0.29.0",
+  "version": "0.31.0",
   "summary": "Provides support forms for your application.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plain_support-0.29.0.tar.gz",
-  "download_time": "2026-01-14T03:22:58.833053",
+  "download_filename": "plain_support-0.31.0.tar.gz",
+  "download_time": "2026-01-16T04:55:37.227945",
   "package_url": "https://pypi.org/project/plain.support/"
 }

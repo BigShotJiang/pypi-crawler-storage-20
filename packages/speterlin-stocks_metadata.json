@@ -1,11 +1,11 @@
 {
   "name": "speterlin-stocks",
-  "version": "1.1.2.2",
+  "version": "1.1.2.3",
   "summary": "A Python package for a suite of quant-trading opportunities in stocks with API integration: Alpaca brokerage for storing USD assets and margin trading (2x) on exchanges NYSE & NASDAQ, Financial Modeling Prep (FMP) & Google Trends & Yahoo Finance & Google Finance & ExchangeRate & Slickcharts & CrunchBase for data collection, OpenAI & Google Gemini-Pro for AI analysis.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "speterlin_stocks-1.1.2.2.tar.gz",
-  "download_time": "2026-01-13T01:21:34.971769",
+  "download_filename": "speterlin_stocks-1.1.2.3.tar.gz",
+  "download_time": "2026-01-16T04:55:05.089748",
   "package_url": "https://pypi.org/project/speterlin-stocks/"
 }

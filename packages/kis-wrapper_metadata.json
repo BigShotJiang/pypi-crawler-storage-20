@@ -1,11 +1,11 @@
 {
   "name": "kis-wrapper",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "summary": "Korea Investment & Securities API wrapper for Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "kis_wrapper-0.1.0.tar.gz",
-  "download_time": "2026-01-16T03:16:45.358928",
+  "download_filename": "kis_wrapper-0.3.0.tar.gz",
+  "download_time": "2026-01-16T04:55:19.502378",
   "package_url": "https://pypi.org/project/kis-wrapper/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "edupsyadmin",
+  "version": "7.13.2",
+  "summary": "edupsyadmin provides tools to help school psychologists with their documentation",
+  "author": "Lukas Liebermann",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "edupsyadmin-7.13.2.tar.gz",
+  "download_time": "2026-01-16T04:55:06.279261",
+  "package_url": "https://pypi.org/project/edupsyadmin/"
+}

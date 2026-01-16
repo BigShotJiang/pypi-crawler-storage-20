@@ -1,11 +1,11 @@
 {
   "name": "ntermqt",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "Modern SSH terminal widget for PyQt6 with credential vault and jump host support",
   "author": "Scott Peterman",
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "ntermqt-0.1.6.tar.gz",
-  "download_time": "2026-01-14T13:29:56.807965",
+  "download_filename": "ntermqt-0.1.8.tar.gz",
+  "download_time": "2026-01-16T04:55:11.186012",
   "package_url": "https://pypi.org/project/ntermqt/"
 }

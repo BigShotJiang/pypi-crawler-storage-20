@@ -1,0 +1,11 @@
+{
+  "name": "stache-ai-ocr",
+  "version": "0.1.2",
+  "summary": "OCR support for Stache AI document loaders",
+  "author": "Stache Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stache_ai_ocr-0.1.2.tar.gz",
+  "download_time": "2026-01-16T04:55:30.700859",
+  "package_url": "https://pypi.org/project/stache-ai-ocr/"
+}
