@@ -1,11 +1,11 @@
 {
   "name": "airbyte-agent-gong",
-  "version": "0.19.52",
+  "version": "0.19.54",
   "summary": "Airbyte Gong Connector for AI platforms",
   "author": null,
   "license": "Elastic-2.0",
   "home_page": null,
-  "download_filename": "airbyte_agent_gong-0.19.52.tar.gz",
-  "download_time": "2026-01-16T18:58:47.718929",
+  "download_filename": "airbyte_agent_gong-0.19.54.tar.gz",
+  "download_time": "2026-01-16T23:43:16.973038",
   "package_url": "https://pypi.org/project/airbyte-agent-gong/"
 }

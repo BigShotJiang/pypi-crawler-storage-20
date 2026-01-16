@@ -1,11 +1,11 @@
 {
   "name": "fluidattacks_zoho_sdk",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "summary": "zoho SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fluidattacks_zoho_sdk-2.2.0.tar.gz",
-  "download_time": "2026-01-13T20:22:08.359811",
+  "download_filename": "fluidattacks_zoho_sdk-2.3.0.tar.gz",
+  "download_time": "2026-01-16T23:43:13.196981",
   "package_url": "https://pypi.org/project/fluidattacks_zoho_sdk/"
 }

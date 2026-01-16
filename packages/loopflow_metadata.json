@@ -1,11 +1,11 @@
 {
   "name": "loopflow",
-  "version": "0.6.0",
-  "summary": "Arrange LLMs to code in harmony",
+  "version": "0.6.3",
+  "summary": "Run LLM coding agents from reusable prompt files",
   "author": "Jack",
   "license": null,
   "home_page": null,
-  "download_filename": "loopflow-0.6.0.tar.gz",
-  "download_time": "2026-01-15T04:59:41.992480",
+  "download_filename": "loopflow-0.6.3.tar.gz",
+  "download_time": "2026-01-16T23:43:07.266727",
   "package_url": "https://pypi.org/project/loopflow/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "abs-hdf5",
+  "version": "0.2.3",
+  "summary": "A Python + C++ toolkit for reading CAD B-Rep data from HDF5, sampling surfaces/curves, and generating blue-noise point clouds.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "abs_hdf5-0.2.3-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-16T23:43:00.724610",
+  "package_url": "https://pypi.org/project/abs-hdf5/"
+}
