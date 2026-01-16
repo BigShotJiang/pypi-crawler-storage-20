@@ -1,11 +1,11 @@
 {
   "name": "larsql",
-  "version": "2.0.6",
+  "version": "2.1.0",
   "summary": "LARS: Declarative agent framework with first class SQL integration",
   "author": null,
   "license": "OSASSY",
   "home_page": null,
-  "download_filename": "larsql-2.0.6.tar.gz",
-  "download_time": "2026-01-16T22:57:50.253862",
+  "download_filename": "larsql-2.1.0.tar.gz",
+  "download_time": "2026-01-16T23:53:09.621933",
   "package_url": "https://pypi.org/project/larsql/"
 }

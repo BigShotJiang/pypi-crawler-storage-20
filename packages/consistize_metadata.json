@@ -1,0 +1,11 @@
+{
+  "name": "consistize",
+  "version": "0.1.0",
+  "summary": "Image consistency checks with OpenAI vision models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "consistize-0.1.0.tar.gz",
+  "download_time": "2026-01-16T23:53:05.310667",
+  "package_url": "https://pypi.org/project/consistize/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "pydantic-ai-backend",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "summary": "File storage and sandbox backends for AI agents",
   "author": "VStorm",
   "license": null,
   "home_page": null,
-  "download_filename": "pydantic_ai_backend-0.0.4.tar.gz",
-  "download_time": "2026-01-16T20:44:54.934817",
+  "download_filename": "pydantic_ai_backend-0.1.0.tar.gz",
+  "download_time": "2026-01-16T23:53:13.260613",
   "package_url": "https://pypi.org/project/pydantic-ai-backend/"
 }

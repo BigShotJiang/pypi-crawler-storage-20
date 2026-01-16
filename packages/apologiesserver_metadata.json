@@ -1,11 +1,11 @@
 {
   "name": "apologiesserver",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "Websocket server to interactively play the Apologies game",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apologiesserver-0.2.1.tar.gz",
-  "download_time": "2026-01-16T23:43:03.549868",
+  "download_filename": "apologiesserver-0.2.2.tar.gz",
+  "download_time": "2026-01-16T23:53:18.494449",
   "package_url": "https://pypi.org/project/apologiesserver/"
 }
