@@ -1,0 +1,11 @@
+{
+  "name": "eida-statistics-aggregator",
+  "version": "0.8.1",
+  "summary": "Aggregates and anonymize data distribution logs from seiscomp, ready to be sent to the central EIDA KPI service.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eida_statistics_aggregator-0.8.1.tar.gz",
+  "download_time": "2026-01-16T15:48:31.183654",
+  "package_url": "https://pypi.org/project/eida-statistics-aggregator/"
+}

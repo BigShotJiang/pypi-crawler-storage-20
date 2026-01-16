@@ -1,0 +1,11 @@
+{
+  "name": "caom2repo",
+  "version": "1.6.3",
+  "summary": "CAOM-2.4 repo access and tools",
+  "author": "Canadian Astronomy Data Centre",
+  "license": "AGPLv3",
+  "home_page": "http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/caom2",
+  "download_filename": "caom2repo-1.6.3.tar.gz",
+  "download_time": "2026-01-16T15:48:08.623399",
+  "package_url": "https://pypi.org/project/caom2repo/"
+}

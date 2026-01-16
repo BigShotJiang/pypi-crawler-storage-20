@@ -1,0 +1,11 @@
+{
+  "name": "sits",
+  "version": "0.7.3",
+  "summary": "Online processing of Satellite Image Time Series",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "sits-0.7.3-py3-none-any.whl",
+  "download_time": "2026-01-16T15:48:29.142659",
+  "package_url": "https://pypi.org/project/sits/"
+}

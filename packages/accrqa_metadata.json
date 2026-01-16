@@ -1,0 +1,11 @@
+{
+  "name": "accrqa",
+  "version": "1.0.2",
+  "summary": "AccRQA calculates recurrence quantification analysis (RQA)",
+  "author": "Karel Adamek, Jan Novotny, Radim Panis, Marwan Norbert",
+  "license": "MIT License",
+  "home_page": "https://github.com/KAdamek/AccRQA",
+  "download_filename": "accrqa-1.0.2.tar.gz",
+  "download_time": "2026-01-16T15:48:42.537447",
+  "package_url": "https://pypi.org/project/accrqa/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cxregions",
+  "version": "0.1.5",
+  "summary": "A Python interface to the ComplexRegions.jl Julia package",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cxregions-0.1.5.tar.gz",
+  "download_time": "2026-01-16T15:48:37.467111",
+  "package_url": "https://pypi.org/project/cxregions/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "runcmd-mcp",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Model Context Protocol (MCP) service for executing system commands asynchronously",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "runcmd_mcp-0.1.3.tar.gz",
-  "download_time": "2026-01-15T15:55:46.157198",
+  "download_filename": "runcmd_mcp-0.1.4.tar.gz",
+  "download_time": "2026-01-16T15:48:39.796139",
   "package_url": "https://pypi.org/project/runcmd-mcp/"
 }

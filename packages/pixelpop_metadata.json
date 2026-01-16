@@ -1,0 +1,11 @@
+{
+  "name": "pixelpop",
+  "version": "0.2.3",
+  "summary": "Powered by numpyro and jax, package for fitting the GW population with a nonparametric binning scheme, where bins are correlated with only their nearest neighbors. Meant for inferring the GW population distribution nonparametrically in higher dimensions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pixelpop-0.2.3-py3-none-any.whl",
+  "download_time": "2026-01-16T15:47:58.017876",
+  "package_url": "https://pypi.org/project/pixelpop/"
+}

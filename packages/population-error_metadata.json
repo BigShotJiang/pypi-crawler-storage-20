@@ -1,0 +1,11 @@
+{
+  "name": "population-error",
+  "version": "0.2.2",
+  "summary": "JAX-based package for estimating the information lost due to Monte Carlo approximations in GW population inference.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "population_error-0.2.2-py3-none-any.whl",
+  "download_time": "2026-01-16T15:48:19.355099",
+  "package_url": "https://pypi.org/project/population-error/"
+}
