@@ -1,0 +1,11 @@
+{
+  "name": "sleek-ytdner",
+  "version": "1.0",
+  "summary": "A sleek, theme-aware Youtube Downloader using Flask and yt-dlp",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sleek_ytdner-1.0.tar.gz",
+  "download_time": "2026-01-16T17:24:39.284959",
+  "package_url": "https://pypi.org/project/sleek-ytdner/"
+}

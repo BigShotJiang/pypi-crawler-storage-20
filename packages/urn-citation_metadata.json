@@ -1,11 +1,11 @@
 {
   "name": "urn-citation",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "summary": "A Python library for working with CITE architecture URNs for scholarly citation.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "urn_citation-0.4.1.tar.gz",
-  "download_time": "2026-01-15T19:38:31.640723",
+  "download_filename": "urn_citation-0.5.0.tar.gz",
+  "download_time": "2026-01-16T17:24:32.661178",
   "package_url": "https://pypi.org/project/urn-citation/"
 }

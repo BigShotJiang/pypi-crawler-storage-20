@@ -1,0 +1,11 @@
+{
+  "name": "soccerdata",
+  "version": "1.8.8",
+  "summary": "A collection of scrapers for soccer data from various websites / APIs.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "soccerdata-1.8.8-py3-none-any.whl",
+  "download_time": "2026-01-16T17:24:27.364166",
+  "package_url": "https://pypi.org/project/soccerdata/"
+}

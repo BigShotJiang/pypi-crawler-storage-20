@@ -1,0 +1,11 @@
+{
+  "name": "indico-client",
+  "version": "7.8.2",
+  "summary": "A Python Wrapper for indico app API.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "indico_client-7.8.2.tar.gz",
+  "download_time": "2026-01-16T17:24:13.852855",
+  "package_url": "https://pypi.org/project/indico-client/"
+}

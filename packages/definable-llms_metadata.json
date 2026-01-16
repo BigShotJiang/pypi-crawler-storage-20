@@ -1,0 +1,11 @@
+{
+  "name": "definable-llms",
+  "version": "0.1.10",
+  "summary": "Scalable multi-provider LLM library with unified interface for OpenAI, Gemini, Anthropic, Deepseek, Moonshot and xAI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "definable_llms-0.1.10.tar.gz",
+  "download_time": "2026-01-16T17:24:38.246300",
+  "package_url": "https://pypi.org/project/definable-llms/"
+}

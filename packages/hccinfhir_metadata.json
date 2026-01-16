@@ -1,11 +1,11 @@
 {
   "name": "hccinfhir",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "summary": "HCC Algorithm for FHIR Resources",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hccinfhir-0.2.6.tar.gz",
-  "download_time": "2026-01-16T16:55:40.926802",
+  "download_filename": "hccinfhir-0.2.7.tar.gz",
+  "download_time": "2026-01-16T17:24:14.435986",
   "package_url": "https://pypi.org/project/hccinfhir/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "Metage2Metabo",
+  "version": "1.6.2",
+  "summary": "Automatic reconstruction of draft metabolic networks with Pathway Tools and graph-based metabolic analysis",
+  "author": null,
+  "license": "LGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "metage2metabo-1.6.2.tar.gz",
+  "download_time": "2026-01-16T17:24:02.083066",
+  "package_url": "https://pypi.org/project/Metage2Metabo/"
+}

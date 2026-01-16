@@ -1,0 +1,11 @@
+{
+  "name": "tetsu",
+  "version": "1.2.8",
+  "summary": "A library of helper scripts for IBM DS&C",
+  "author": "Hassan Kenawi",
+  "license": null,
+  "home_page": "https://github.ibm.com/finance-dsc/tetsu",
+  "download_filename": "tetsu-1.2.8.tar.gz",
+  "download_time": "2026-01-16T17:24:15.685565",
+  "package_url": "https://pypi.org/project/tetsu/"
+}

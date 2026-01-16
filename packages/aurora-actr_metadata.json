@@ -1,11 +1,11 @@
 {
   "name": "aurora-actr",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "summary": "AURORA: Adaptive Unified Reasoning and Orchestration Architecture with MCP Integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "aurora_actr-0.8.0.tar.gz",
-  "download_time": "2026-01-15T07:45:50.883923",
+  "download_filename": "aurora_actr-0.9.0.tar.gz",
+  "download_time": "2026-01-16T17:23:49.803304",
   "package_url": "https://pypi.org/project/aurora-actr/"
 }

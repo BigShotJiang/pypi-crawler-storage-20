@@ -1,0 +1,11 @@
+{
+  "name": "otsutil",
+  "version": "1.2.3.312",
+  "summary": "A general-purpose utility package using Python 3.12+ features.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "otsutil-1.2.3.312.tar.gz",
+  "download_time": "2026-01-16T17:24:12.764002",
+  "package_url": "https://pypi.org/project/otsutil/"
+}

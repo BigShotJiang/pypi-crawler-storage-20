@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-anonymous-partner",
+  "version": "16.0.1.1.2",
+  "summary": "Manage anonymous partners with a cookie.",
+  "author": "ACSONE SA/NV",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_anonymous_partner-16.0.1.1.2-py3-none-any.whl",
+  "download_time": "2026-01-16T17:23:57.585786",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-anonymous-partner/"
+}

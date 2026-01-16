@@ -1,0 +1,11 @@
+{
+  "name": "orchestral-ai",
+  "version": "1.2.1",
+  "summary": "Production-ready AI framework for building LLM-powered applications with unified tool calling across multiple providers",
+  "author": null,
+  "license": "Proprietary - All Rights Reserved",
+  "home_page": null,
+  "download_filename": "orchestral_ai-1.2.1-py3-none-any.whl",
+  "download_time": "2026-01-16T17:24:36.581108",
+  "package_url": "https://pypi.org/project/orchestral-ai/"
+}

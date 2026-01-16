@@ -1,0 +1,11 @@
+{
+  "name": "dircap",
+  "version": "0.1.0",
+  "summary": "Set folder size caps and get warned when you exceed them.",
+  "author": "Varun Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dircap-0.1.0.tar.gz",
+  "download_time": "2026-01-16T17:24:08.301802",
+  "package_url": "https://pypi.org/project/dircap/"
+}
