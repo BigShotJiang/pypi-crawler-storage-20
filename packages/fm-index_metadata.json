@@ -1,11 +1,11 @@
 {
   "name": "fm-index",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "High-performance FM-index powered by Rust, enabling fast substring search and count/locate queries.",
   "author": "Koki Watanabe",
   "license": null,
   "home_page": null,
-  "download_filename": "fm_index-1.2.0.tar.gz",
-  "download_time": "2026-01-15T17:18:59.571825",
+  "download_filename": "fm_index-1.2.1-cp310-cp310-manylinux_2_17_aarch64.manylinux2014_aarch64.whl",
+  "download_time": "2026-01-16T20:55:59.456611",
   "package_url": "https://pypi.org/project/fm-index/"
 }
