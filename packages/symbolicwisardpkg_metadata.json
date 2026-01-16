@@ -1,0 +1,11 @@
+{
+  "name": "symbolicwisardpkg",
+  "version": "0.1.6",
+  "summary": "This project is an extension of the wisardpkg library and provides additional machine learning models based on the WiSARD architecture, including symbolic capabilities. It offers implementations of WiSARD-based models with high performance, easy installation, and a unified usage pattern.",
+  "author": "Yasmin Forestti Romeiro",
+  "license": null,
+  "home_page": "https://github.com/YasminForestti/wisardpkg-symbolic",
+  "download_filename": "symbolicwisardpkg-0.1.6.tar.gz",
+  "download_time": "2026-01-16T12:40:56.999799",
+  "package_url": "https://pypi.org/project/symbolicwisardpkg/"
+}

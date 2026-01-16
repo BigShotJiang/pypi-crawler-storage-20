@@ -1,0 +1,11 @@
+{
+  "name": "flakyzavr",
+  "version": "4.0.0",
+  "summary": "vedro.io plugin for reporting about flaky tests into jira (with plugin enabled in flaky check runs)",
+  "author": "Yuriy Sagitov",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ko10ok/flakyzavr",
+  "download_filename": "flakyzavr-4.0.0.tar.gz",
+  "download_time": "2026-01-16T12:40:39.310365",
+  "package_url": "https://pypi.org/project/flakyzavr/"
+}

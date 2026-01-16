@@ -1,11 +1,11 @@
 {
   "name": "geomind-ai",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "summary": "AI agent for geospatial analysis with Sentinel-2 satellite imagery",
   "author": "Harsh Shinde",
   "license": null,
   "home_page": null,
-  "download_filename": "geomind_ai-1.0.4.tar.gz",
-  "download_time": "2026-01-16T11:42:53.160169",
+  "download_filename": "geomind_ai-1.0.8.tar.gz",
+  "download_time": "2026-01-16T12:40:48.684510",
   "package_url": "https://pypi.org/project/geomind-ai/"
 }

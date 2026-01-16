@@ -1,11 +1,11 @@
 {
   "name": "agent-cli",
-  "version": "0.56.0",
+  "version": "0.58.0",
   "summary": "A suite of AI-powered command-line tools for text correction, audio transcription, and voice assistance.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "agent_cli-0.56.0.tar.gz",
-  "download_time": "2026-01-15T23:43:59.465997",
+  "download_filename": "agent_cli-0.58.0.tar.gz",
+  "download_time": "2026-01-16T12:41:01.703799",
   "package_url": "https://pypi.org/project/agent-cli/"
 }

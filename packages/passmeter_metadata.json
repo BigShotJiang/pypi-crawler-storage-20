@@ -1,0 +1,11 @@
+{
+  "name": "passmeter",
+  "version": "0.1.2",
+  "summary": "Ferramenta de análise de força de senhas",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "passmeter-0.1.2.tar.gz",
+  "download_time": "2026-01-16T12:40:50.215147",
+  "package_url": "https://pypi.org/project/passmeter/"
+}

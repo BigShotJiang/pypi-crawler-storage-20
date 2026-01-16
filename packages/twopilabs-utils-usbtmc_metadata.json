@@ -1,0 +1,11 @@
+{
+  "name": "twopilabs-utils-usbtmc",
+  "version": "0.1.7",
+  "summary": "Native generic USB Test and Measurement Class (USBTMC) implementation using PyUSB",
+  "author": "2pi-Labs GmbH",
+  "license": "LGPLv3",
+  "home_page": "https://www.2pi-labs.com",
+  "download_filename": "twopilabs_utils_usbtmc-0.1.7.tar.gz",
+  "download_time": "2026-01-16T12:40:59.573691",
+  "package_url": "https://pypi.org/project/twopilabs-utils-usbtmc/"
+}

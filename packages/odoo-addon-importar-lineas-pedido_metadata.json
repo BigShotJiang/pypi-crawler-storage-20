@@ -1,11 +1,11 @@
 {
   "name": "odoo-addon-importar-lineas-pedido",
-  "version": "17.0.1.1.2.1",
+  "version": "17.0.1.1.3",
   "summary": "=?utf-8?q?Importar_de_varias_maneras_l=C3=ADneas_de_venta_en_un_pedido=2E?=",
   "author": "Colectivo DEVCONTROL",
   "license": "AGPL-3",
   "home_page": "https://framagit.org/devcontrol",
-  "download_filename": "odoo_addon_importar_lineas_pedido-17.0.1.1.2.1.tar.gz",
-  "download_time": "2026-01-14T12:40:58.319925",
+  "download_filename": "odoo_addon_importar_lineas_pedido-17.0.1.1.3.tar.gz",
+  "download_time": "2026-01-16T12:40:46.570279",
   "package_url": "https://pypi.org/project/odoo-addon-importar-lineas-pedido/"
 }

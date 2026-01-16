@@ -1,11 +1,11 @@
 {
   "name": "mapminer",
-  "version": "0.1.79",
+  "version": "0.1.81",
   "summary": "An advanced geospatial data extraction and processing toolkit for Earth observation datasets.",
   "author": "Gajesh Ladhar",
   "license": "MIT",
   "home_page": "https://github.com/gajeshladhar/mapminer",
-  "download_filename": "mapminer-0.1.79.tar.gz",
-  "download_time": "2026-01-14T09:27:06.030391",
+  "download_filename": "mapminer-0.1.81.tar.gz",
+  "download_time": "2026-01-16T12:40:41.926754",
   "package_url": "https://pypi.org/project/mapminer/"
 }

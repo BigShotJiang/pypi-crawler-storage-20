@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-editorial-subscriptions",
+  "version": "17.0.1.0.2",
+  "summary": "Adds book related functionalities to subscriptions module.",
+  "author": "=?utf-8?b?U2ltYmnDs3RpY2EgdGVjIFMuQ29vcC5NYWQu?=",
+  "license": "AGPL-3",
+  "home_page": "https://simbiotica.coop/",
+  "download_filename": "odoo_addon_editorial_subscriptions-17.0.1.0.2.tar.gz",
+  "download_time": "2026-01-16T12:40:48.175414",
+  "package_url": "https://pypi.org/project/odoo-addon-editorial-subscriptions/"
+}

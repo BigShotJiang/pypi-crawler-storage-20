@@ -1,0 +1,11 @@
+{
+  "name": "django-filthyfields",
+  "version": "0.1.0a1",
+  "summary": "Tracking dirty fields on a Django model instance.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_filthyfields-0.1.0a1.tar.gz",
+  "download_time": "2026-01-16T12:40:32.617082",
+  "package_url": "https://pypi.org/project/django-filthyfields/"
+}

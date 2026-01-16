@@ -1,11 +1,11 @@
 {
   "name": "sendspy",
-  "version": "1.0.0",
-  "summary": "Simple Telegram message sending library",
+  "version": "1.0.2",
+  "summary": "مكتبة ارسال رسائل تليجرام بسيطة المطور جعفر  @hhvvm5",
   "author": "JA3FR",
   "license": null,
   "home_page": "https://github.com/HHVVM1/sendpy",
-  "download_filename": "sendspy-1.0.0.tar.gz",
-  "download_time": "2026-01-16T11:53:28.202809",
+  "download_filename": "sendspy-1.0.2.tar.gz",
+  "download_time": "2026-01-16T12:40:29.484517",
   "package_url": "https://pypi.org/project/sendspy/"
 }

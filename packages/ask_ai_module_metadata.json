@@ -1,0 +1,11 @@
+{
+  "name": "ask_ai_module",
+  "version": "1.0.0",
+  "summary": "This package uses groq to answer questions.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ask_ai_module-1.0.0.tar.gz",
+  "download_time": "2026-01-16T12:41:08.352546",
+  "package_url": "https://pypi.org/project/ask_ai_module/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "distributed",
-  "version": "2026.1.0",
+  "version": "2026.1.1",
   "summary": "Distributed scheduler for Dask",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "distributed-2026.1.0.tar.gz",
-  "download_time": "2026-01-16T11:53:31.507709",
+  "download_filename": "distributed-2026.1.1.tar.gz",
+  "download_time": "2026-01-16T12:40:35.206254",
   "package_url": "https://pypi.org/project/distributed/"
 }

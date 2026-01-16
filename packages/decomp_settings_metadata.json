@@ -1,0 +1,11 @@
+{
+  "name": "decomp_settings",
+  "version": "0.0.10",
+  "summary": "A library for reading the decomp.yaml settings file",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "decomp_settings-0.0.10.tar.gz",
+  "download_time": "2026-01-16T12:40:43.462156",
+  "package_url": "https://pypi.org/project/decomp_settings/"
+}
