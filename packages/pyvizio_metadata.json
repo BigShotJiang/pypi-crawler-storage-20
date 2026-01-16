@@ -1,0 +1,11 @@
+{
+  "name": "pyvizio",
+  "version": "0.1.64",
+  "summary": "Python library for interfacing with Vizio SmartCast TVs and Sound Bars (2016+ models)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyvizio-0.1.64.tar.gz",
+  "download_time": "2026-01-16T22:21:03.362546",
+  "package_url": "https://pypi.org/project/pyvizio/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "brainstat",
+  "version": "0.5.2",
+  "summary": "A toolbox for statistical analysis of neuroimaging data",
+  "author": "MNI-MICA Lab and MPI-CNG Lab",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/MICA-LAB/BrainStat",
+  "download_filename": "brainstat-0.5.2.tar.gz",
+  "download_time": "2026-01-16T22:21:13.850073",
+  "package_url": "https://pypi.org/project/brainstat/"
+}

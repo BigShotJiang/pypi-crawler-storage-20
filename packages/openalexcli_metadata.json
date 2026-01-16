@@ -1,11 +1,11 @@
 {
   "name": "openalexcli",
-  "version": "0.1.2",
-  "summary": "Command-line interface for the OpenAlex API",
+  "version": "0.1.5",
+  "summary": "A CLI for OpenAlex API - designed for humans and AI agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "openalexcli-0.1.2.tar.gz",
-  "download_time": "2026-01-16T21:44:18.051573",
+  "download_filename": "openalexcli-0.1.5.tar.gz",
+  "download_time": "2026-01-16T22:20:37.980202",
   "package_url": "https://pypi.org/project/openalexcli/"
 }

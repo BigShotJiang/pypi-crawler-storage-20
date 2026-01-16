@@ -1,0 +1,11 @@
+{
+  "name": "trueloc",
+  "version": "0.1.0",
+  "summary": "Count lines of code from GitHub pull requests",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "trueloc-0.1.0.tar.gz",
+  "download_time": "2026-01-16T22:20:38.491380",
+  "package_url": "https://pypi.org/project/trueloc/"
+}

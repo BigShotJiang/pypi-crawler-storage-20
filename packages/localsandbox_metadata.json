@@ -1,0 +1,11 @@
+{
+  "name": "localsandbox",
+  "version": "0.1.0",
+  "summary": "A python SDK for a agentfs + just-bash + pyodide agent sandbox.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "localsandbox-0.1.0.tar.gz",
+  "download_time": "2026-01-16T22:21:10.763042",
+  "package_url": "https://pypi.org/project/localsandbox/"
+}

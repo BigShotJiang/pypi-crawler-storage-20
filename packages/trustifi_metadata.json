@@ -1,0 +1,11 @@
+{
+  "name": "trustifi",
+  "version": "29",
+  "summary": "Python package for providing Google's CA Bundle.",
+  "author": "AYMENJD",
+  "license": "MIT",
+  "home_page": "https://github.com/AYMENJD/trustifi",
+  "download_filename": "trustifi-29.tar.gz",
+  "download_time": "2026-01-16T22:21:04.392004",
+  "package_url": "https://pypi.org/project/trustifi/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "biweeklybudget",
+  "version": "1.3.0",
+  "summary": "Responsive Flask/SQLAlchemy personal finance app, specifically for biweekly budgeting.",
+  "author": "Jason Antman",
+  "license": null,
+  "home_page": "https://github.com/jantman/biweeklybudget",
+  "download_filename": "biweeklybudget-1.3.0.tar.gz",
+  "download_time": "2026-01-16T22:20:37.469483",
+  "package_url": "https://pypi.org/project/biweeklybudget/"
+}

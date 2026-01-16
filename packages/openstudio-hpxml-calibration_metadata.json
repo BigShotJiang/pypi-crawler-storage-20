@@ -1,0 +1,11 @@
+{
+  "name": "openstudio-hpxml-calibration",
+  "version": "0.2.0",
+  "summary": "Calibrates a residential building energy model to utility bills.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openstudio_hpxml_calibration-0.2.0.tar.gz",
+  "download_time": "2026-01-16T22:20:46.823202",
+  "package_url": "https://pypi.org/project/openstudio-hpxml-calibration/"
+}
