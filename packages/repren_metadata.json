@@ -1,0 +1,11 @@
+{
+  "name": "repren",
+  "version": "2.0.0",
+  "summary": "Powerful CLI string replacement and file renaming for agents and humans",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "repren-2.0.0.tar.gz",
+  "download_time": "2026-01-16T18:07:18.402031",
+  "package_url": "https://pypi.org/project/repren/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "casq",
-  "version": "1.4.1",
+  "version": "1.4.3",
   "summary": "CaSQ: Celldesigner as Sbml-Qual",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "casq-1.4.1.tar.gz",
-  "download_time": "2026-01-16T17:23:59.081510",
+  "download_filename": "casq-1.4.3.tar.gz",
+  "download_time": "2026-01-16T18:07:21.388390",
   "package_url": "https://pypi.org/project/casq/"
 }

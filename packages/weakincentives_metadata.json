@@ -1,0 +1,11 @@
+{
+  "name": "weakincentives",
+  "version": "0.20.0",
+  "summary": "Tools for developing and optimizing side effect free background agents",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "weakincentives-0.20.0.tar.gz",
+  "download_time": "2026-01-16T18:07:09.315391",
+  "package_url": "https://pypi.org/project/weakincentives/"
+}

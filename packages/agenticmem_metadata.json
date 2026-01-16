@@ -1,11 +1,11 @@
 {
   "name": "agenticmem",
-  "version": "0.1.4.5",
+  "version": "0.1.4.6",
   "summary": "A Python client for the AgenticMem API",
   "author": "AgenticMem Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agenticmem-0.1.4.5.tar.gz",
-  "download_time": "2026-01-16T05:50:12.036848",
+  "download_filename": "agenticmem-0.1.4.6.tar.gz",
+  "download_time": "2026-01-16T18:07:29.273638",
   "package_url": "https://pypi.org/project/agenticmem/"
 }

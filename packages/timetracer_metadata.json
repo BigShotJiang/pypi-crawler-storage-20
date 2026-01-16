@@ -1,11 +1,11 @@
 {
   "name": "timetracer",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Time-travel debugging for FastAPI and Flask - record API cassettes, replay with mocked dependencies",
   "author": "Timetracer Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "timetracer-1.0.0.tar.gz",
-  "download_time": "2026-01-16T06:31:41.902619",
+  "download_filename": "timetracer-1.0.2.tar.gz",
+  "download_time": "2026-01-16T18:07:45.507157",
   "package_url": "https://pypi.org/project/timetracer/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "prelude-cli-beta",
-  "version": "1460",
+  "version": "1461",
   "summary": "For interacting with the Prelude SDK",
   "author": "Prelude Research",
   "license": null,
   "home_page": "https://github.com/preludeorg",
-  "download_filename": "prelude_cli_beta-1460.tar.gz",
-  "download_time": "2026-01-13T14:39:49.869145",
+  "download_filename": "prelude_cli_beta-1461.tar.gz",
+  "download_time": "2026-01-16T18:07:34.841805",
   "package_url": "https://pypi.org/project/prelude-cli-beta/"
 }

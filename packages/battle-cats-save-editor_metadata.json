@@ -1,0 +1,11 @@
+{
+  "name": "battle-cats-save-editor",
+  "version": "2.7.2.8",
+  "summary": "A battle cats save file editor",
+  "author": "fieryhenry",
+  "license": null,
+  "home_page": "https://github.com/fieryhenry/BCSFE-Python",
+  "download_filename": "battle_cats_save_editor-2.7.2.8.tar.gz",
+  "download_time": "2026-01-16T18:07:03.592719",
+  "package_url": "https://pypi.org/project/battle-cats-save-editor/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tutor-deck",
+  "version": "21.0.0",
+  "summary": "Awesome administration dashboard and plugin marketplace for Tutor",
+  "author": "Edly",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tutor_deck-21.0.0.tar.gz",
+  "download_time": "2026-01-16T18:07:31.112808",
+  "package_url": "https://pypi.org/project/tutor-deck/"
+}

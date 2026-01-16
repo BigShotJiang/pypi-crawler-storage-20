@@ -1,0 +1,11 @@
+{
+  "name": "dimcli",
+  "version": "1.6",
+  "summary": "Python REPL/API for accessing dimensions.ai.",
+  "author": "Michele Pasin @lambdaman",
+  "license": "MIT License",
+  "home_page": "https://github.com/digital-science/dimcli",
+  "download_filename": "dimcli-1.6.tar.gz",
+  "download_time": "2026-01-16T18:07:07.761118",
+  "package_url": "https://pypi.org/project/dimcli/"
+}
