@@ -1,0 +1,11 @@
+{
+  "name": "rail-engine-ingest",
+  "version": "0.1.2",
+  "summary": "Python SDK for Railtown AI Rail Engine - Ingestion",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rail_engine_ingest-0.1.2.tar.gz",
+  "download_time": "2026-01-16T01:26:28.124777",
+  "package_url": "https://pypi.org/project/rail-engine-ingest/"
+}

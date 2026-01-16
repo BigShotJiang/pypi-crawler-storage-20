@@ -1,0 +1,11 @@
+{
+  "name": "pokerkit",
+  "version": "0.7.3",
+  "summary": "An open-source Python library for poker game simulations, hand evaluations, and statistical analysis",
+  "author": "Universal, Open, Free, and Transparent Computer Poker Research Group",
+  "license": "MIT",
+  "home_page": "https://github.com/uoftcprg/pokerkit",
+  "download_filename": "pokerkit-0.7.3.tar.gz",
+  "download_time": "2026-01-16T01:26:47.561187",
+  "package_url": "https://pypi.org/project/pokerkit/"
+}

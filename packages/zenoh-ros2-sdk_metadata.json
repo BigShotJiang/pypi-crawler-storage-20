@@ -1,0 +1,11 @@
+{
+  "name": "zenoh-ros2-sdk",
+  "version": "0.1.2",
+  "summary": "Python SDK for ROS 2 communication via Zenoh - Use ROS 2 without ROS 2 environment",
+  "author": "Woojin Wie",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/robotis-git/zenoh_ros2_sdk",
+  "download_filename": "zenoh_ros2_sdk-0.1.2.tar.gz",
+  "download_time": "2026-01-16T01:26:34.667851",
+  "package_url": "https://pypi.org/project/zenoh-ros2-sdk/"
+}

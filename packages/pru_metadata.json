@@ -1,0 +1,11 @@
+{
+  "name": "pru",
+  "version": "0.0.4",
+  "summary": "Update and resolve requirements.txt based on the Python environment and pip used.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pru-0.0.4.tar.gz",
+  "download_time": "2026-01-16T01:26:46.023850",
+  "package_url": "https://pypi.org/project/pru/"
+}

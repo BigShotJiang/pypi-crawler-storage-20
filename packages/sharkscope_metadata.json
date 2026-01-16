@@ -1,0 +1,11 @@
+{
+  "name": "sharkscope",
+  "version": "0.1.0",
+  "summary": "Real-time network traffic visualization on a 2D map or 3D globe",
+  "author": "Raj Shekhar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "sharkscope-0.1.0.tar.gz",
+  "download_time": "2026-01-16T01:26:36.730219",
+  "package_url": "https://pypi.org/project/sharkscope/"
+}

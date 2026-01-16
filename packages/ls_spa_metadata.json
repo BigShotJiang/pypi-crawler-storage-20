@@ -1,0 +1,11 @@
+{
+  "name": "ls_spa",
+  "version": "2.0.0",
+  "summary": "A package for efficient Shapley performance attribution for least-squares problems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ls_spa-2.0.0.tar.gz",
+  "download_time": "2026-01-16T01:26:36.216611",
+  "package_url": "https://pypi.org/project/ls_spa/"
+}

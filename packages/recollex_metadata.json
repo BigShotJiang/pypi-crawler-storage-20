@@ -1,0 +1,11 @@
+{
+  "name": "recollex",
+  "version": "0.1.8",
+  "summary": "RAG indexer based on Sparse Neural Embeddings (CPU version).",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "recollex-0.1.8.tar.gz",
+  "download_time": "2026-01-16T01:26:47.047823",
+  "package_url": "https://pypi.org/project/recollex/"
+}

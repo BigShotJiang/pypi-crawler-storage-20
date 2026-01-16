@@ -1,0 +1,11 @@
+{
+  "name": "django-nanopages",
+  "version": "0.3.1",
+  "summary": "Generate Django pages from Markdown, HTML, and Django template files.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_nanopages-0.3.1.tar.gz",
+  "download_time": "2026-01-16T01:26:29.730928",
+  "package_url": "https://pypi.org/project/django-nanopages/"
+}
