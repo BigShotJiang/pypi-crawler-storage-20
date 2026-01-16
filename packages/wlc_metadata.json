@@ -1,11 +1,11 @@
 {
   "name": "wlc",
-  "version": "1.17.1",
+  "version": "1.17.2",
   "summary": "A command-line utility for Weblate, translation tool with tight version control integration",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "wlc-1.17.1.tar.gz",
-  "download_time": "2026-01-13T19:28:54.123242",
+  "download_filename": "wlc-1.17.2.tar.gz",
+  "download_time": "2026-01-16T09:49:35.945565",
   "package_url": "https://pypi.org/project/wlc/"
 }

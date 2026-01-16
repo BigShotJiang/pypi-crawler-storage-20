@@ -1,11 +1,11 @@
 {
   "name": "opinion-clob-sdk",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Opinion CLOB SDK (Tech Preview) - Python SDK for Opinion Prediction Market Central Limit Order Book API",
   "author": "Opinion Labs",
   "license": null,
   "home_page": "https://opinion.trade",
-  "download_filename": "opinion_clob_sdk-0.5.0.tar.gz",
-  "download_time": "2026-01-16T08:55:03.950835",
+  "download_filename": "opinion_clob_sdk-0.5.1.tar.gz",
+  "download_time": "2026-01-16T09:49:41.718423",
   "package_url": "https://pypi.org/project/opinion-clob-sdk/"
 }

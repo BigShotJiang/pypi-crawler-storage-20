@@ -1,0 +1,11 @@
+{
+  "name": "irontorch",
+  "version": "0.0.12",
+  "summary": "Developer-friendly Pytorch utility library",
+  "author": "Kim Eon",
+  "license": "MIT",
+  "home_page": "https://github.com/thisisiron/irontorch",
+  "download_filename": "irontorch-0.0.12.tar.gz",
+  "download_time": "2026-01-16T09:49:37.533921",
+  "package_url": "https://pypi.org/project/irontorch/"
+}

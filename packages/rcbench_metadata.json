@@ -1,0 +1,11 @@
+{
+  "name": "rcbench",
+  "version": "0.1.50",
+  "summary": "Reservoir computing benchmark toolkit",
+  "author": "Davide Pilati",
+  "license": "MIT",
+  "home_page": "https://github.com/nanotechdave/RCbench",
+  "download_filename": "rcbench-0.1.50.tar.gz",
+  "download_time": "2026-01-16T09:50:00.975725",
+  "package_url": "https://pypi.org/project/rcbench/"
+}

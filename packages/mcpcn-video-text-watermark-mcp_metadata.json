@@ -1,0 +1,11 @@
+{
+  "name": "mcpcn-video-text-watermark-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server for adding text watermarks and overlays to videos",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpcn_video_text_watermark_mcp-0.1.5.tar.gz",
+  "download_time": "2026-01-16T09:49:47.938434",
+  "package_url": "https://pypi.org/project/mcpcn-video-text-watermark-mcp/"
+}

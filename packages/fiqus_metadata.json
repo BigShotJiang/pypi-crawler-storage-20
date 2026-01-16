@@ -1,0 +1,11 @@
+{
+  "name": "fiqus",
+  "version": "2026.1.1",
+  "summary": "Source code for STEAM FiQuS tool",
+  "author": "STEAM Team",
+  "license": null,
+  "home_page": "https://gitlab.cern.ch/steam/fiqus",
+  "download_filename": "fiqus-2026.1.1.tar.gz",
+  "download_time": "2026-01-16T09:49:23.867546",
+  "package_url": "https://pypi.org/project/fiqus/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcpcn-video-silence-remover-mcp",
+  "version": "0.1.4",
+  "summary": "MCP server for removing silent segments from audio/video files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpcn_video_silence_remover_mcp-0.1.4.tar.gz",
+  "download_time": "2026-01-16T09:49:45.865693",
+  "package_url": "https://pypi.org/project/mcpcn-video-silence-remover-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mcpcn-video-aspect-ratio-mcp",
+  "version": "0.1.5",
+  "summary": "MCP server for adjusting video aspect ratio with padding or cropping",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcpcn_video_aspect_ratio_mcp-0.1.5.tar.gz",
+  "download_time": "2026-01-16T09:49:41.200789",
+  "package_url": "https://pypi.org/project/mcpcn-video-aspect-ratio-mcp/"
+}

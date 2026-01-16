@@ -1,0 +1,11 @@
+{
+  "name": "ningfastforge",
+  "version": "0.1.8.3",
+  "summary": "A modern FastAPI project scaffolding CLI tool",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ningfastforge-0.1.8.3.tar.gz",
+  "download_time": "2026-01-16T09:49:51.569583",
+  "package_url": "https://pypi.org/project/ningfastforge/"
+}

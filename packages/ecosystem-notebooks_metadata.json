@@ -1,0 +1,11 @@
+{
+  "name": "ecosystem-notebooks",
+  "version": "0.1.50",
+  "summary": "Ecosystem Notebooks is a wrapper for the Ecosystem API servers.",
+  "author": "EcosystemAi",
+  "license": "MIT",
+  "home_page": "https://github.com/ecosystemai/ecosystem-notebooks",
+  "download_filename": "ecosystem_notebooks-0.1.50.tar.gz",
+  "download_time": "2026-01-16T09:49:29.683622",
+  "package_url": "https://pypi.org/project/ecosystem-notebooks/"
+}

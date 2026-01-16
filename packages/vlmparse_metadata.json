@@ -1,11 +1,11 @@
 {
   "name": "vlmparse",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vlmparse-0.1.4.tar.gz",
-  "download_time": "2026-01-13T09:51:30.627804",
+  "download_filename": "vlmparse-0.1.5.tar.gz",
+  "download_time": "2026-01-16T09:49:46.902261",
   "package_url": "https://pypi.org/project/vlmparse/"
 }

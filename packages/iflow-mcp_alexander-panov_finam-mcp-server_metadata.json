@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_alexander-panov_finam-mcp-server",
+  "version": "0.1.5",
+  "summary": "Finam Trade API integration for Model Context Protocol (MCP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iflow_mcp_alexander_panov_finam_mcp_server-0.1.5.tar.gz",
+  "download_time": "2026-01-16T09:50:00.457714",
+  "package_url": "https://pypi.org/project/iflow-mcp_alexander-panov_finam-mcp-server/"
+}
