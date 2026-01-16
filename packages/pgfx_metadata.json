@@ -1,0 +1,11 @@
+{
+  "name": "pgfx",
+  "version": "0.1.0",
+  "summary": "Lightweight 2D game library for Python, inspired by Haaf's Game Engine",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pgfx-0.1.0-cp310-cp310-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-16T21:54:30.107599",
+  "package_url": "https://pypi.org/project/pgfx/"
+}

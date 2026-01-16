@@ -1,0 +1,11 @@
+{
+  "name": "emewscreator",
+  "version": "1.4.3",
+  "summary": "emewscreator simplifies the creation of emews workflows through the use of templates",
+  "author": "Nick Collier",
+  "license": "BSD 3-Clause License",
+  "home_page": "https://github.com/emews/emews-project-creator",
+  "download_filename": "emewscreator-1.4.3.tar.gz",
+  "download_time": "2026-01-16T21:54:38.804866",
+  "package_url": "https://pypi.org/project/emewscreator/"
+}
