@@ -1,11 +1,11 @@
 {
   "name": "hubify-dataset",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "Convert object detection datasets (COCO, YOLO, Pascal VOC, etc.) to HuggingFace format",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hubify_dataset-0.1.3.tar.gz",
-  "download_time": "2026-01-16T04:54:59.038755",
+  "download_filename": "hubify_dataset-0.1.4.tar.gz",
+  "download_time": "2026-01-16T05:24:36.504784",
   "package_url": "https://pypi.org/project/hubify-dataset/"
 }
