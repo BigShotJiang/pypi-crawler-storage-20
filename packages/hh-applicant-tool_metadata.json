@@ -1,11 +1,11 @@
 {
   "name": "hh-applicant-tool",
-  "version": "1.5.3",
+  "version": "1.5.4",
   "summary": "HH-Applicant-Tool: An automation utility for HeadHunter (hh.ru) designed to streamline the job search process by auto-applying to relevant vacancies and periodically refreshing resumes to stay at the top of recruiter searches.",
   "author": "Senior YAML Developer",
   "license": null,
   "home_page": "https://github.com/s3rgeym/hh-applicant-tool",
-  "download_filename": "hh_applicant_tool-1.5.3.tar.gz",
-  "download_time": "2026-01-16T04:55:21.432198",
+  "download_filename": "hh_applicant_tool-1.5.4.tar.gz",
+  "download_time": "2026-01-16T05:49:45.870717",
   "package_url": "https://pypi.org/project/hh-applicant-tool/"
 }

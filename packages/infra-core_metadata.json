@@ -1,0 +1,11 @@
+{
+  "name": "infra-core",
+  "version": "0.7.3",
+  "summary": "Shared HTTP, storage, and runtime helpers for automation services.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "infra_core-0.7.3.tar.gz",
+  "download_time": "2026-01-16T05:50:05.893413",
+  "package_url": "https://pypi.org/project/infra-core/"
+}

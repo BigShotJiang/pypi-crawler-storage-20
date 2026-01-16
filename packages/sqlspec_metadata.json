@@ -1,11 +1,11 @@
 {
   "name": "sqlspec",
-  "version": "0.36.3",
+  "version": "0.37.1",
   "summary": "SQL Experiments in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "sqlspec-0.36.3.tar.gz",
-  "download_time": "2026-01-15T23:20:00.779999",
+  "download_filename": "sqlspec-0.37.1.tar.gz",
+  "download_time": "2026-01-16T05:49:56.658257",
   "package_url": "https://pypi.org/project/sqlspec/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "context-nexus",
+  "version": "1.0.0",
+  "summary": "SDK for building agentic AI systems",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "context_nexus-1.0.0.tar.gz",
+  "download_time": "2026-01-16T05:50:27.986384",
+  "package_url": "https://pypi.org/project/context-nexus/"
+}

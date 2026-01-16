@@ -1,11 +1,11 @@
 {
   "name": "ccd2rdmol",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "summary": "Convert PDB Chemical Component Dictionary (CCD) files to RDKit molecules",
   "author": "N283T",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ccd2rdmol-0.1.0.tar.gz",
-  "download_time": "2026-01-14T16:57:58.915523",
+  "download_filename": "ccd2rdmol-0.2.1.tar.gz",
+  "download_time": "2026-01-16T05:50:26.437373",
   "package_url": "https://pypi.org/project/ccd2rdmol/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "bgg-pi",
+  "version": "0.1.1",
+  "summary": "A modern, async python client for BoardGameGeek.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bgg_pi-0.1.1.tar.gz",
+  "download_time": "2026-01-16T05:50:14.102903",
+  "package_url": "https://pypi.org/project/bgg-pi/"
+}

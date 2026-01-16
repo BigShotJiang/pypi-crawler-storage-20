@@ -1,11 +1,11 @@
 {
   "name": "moonlight-ai",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "Lightweight AI Agents SDK for building intelligent automation systems",
   "author": "ecstra",
   "license": "MIT",
   "home_page": "https://github.com/ecstra/moonlight",
-  "download_filename": "moonlight_ai-0.2.5.tar.gz",
-  "download_time": "2026-01-12T17:52:16.813016",
+  "download_filename": "moonlight_ai-0.2.6.tar.gz",
+  "download_time": "2026-01-16T05:49:57.682448",
   "package_url": "https://pypi.org/project/moonlight-ai/"
 }

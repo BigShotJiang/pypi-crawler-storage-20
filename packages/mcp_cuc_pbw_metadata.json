@@ -1,0 +1,11 @@
+{
+  "name": "mcp_cuc_pbw",
+  "version": "0.1.0",
+  "summary": "A simple MCP (Model Context Protocol) Server implementation",
+  "author": "PBW",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_cuc_pbw-0.1.0.tar.gz",
+  "download_time": "2026-01-16T05:50:10.506788",
+  "package_url": "https://pypi.org/project/mcp_cuc_pbw/"
+}
