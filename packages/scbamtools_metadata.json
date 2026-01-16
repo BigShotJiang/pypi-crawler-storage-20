@@ -1,0 +1,11 @@
+{
+  "name": "scbamtools",
+  "version": "0.8.6",
+  "summary": "High performance Cython + Python tools to process BAM files with tags as they arise in single-cell sequencing",
+  "author": "Marvin Jens",
+  "license": "MIT License",
+  "home_page": "https://github.com/marvin-jens/scbamtools",
+  "download_filename": "scbamtools-0.8.6.tar.gz",
+  "download_time": "2026-01-16T14:22:40.685308",
+  "package_url": "https://pypi.org/project/scbamtools/"
+}

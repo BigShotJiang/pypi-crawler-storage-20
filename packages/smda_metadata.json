@@ -1,11 +1,11 @@
 {
   "name": "smda",
-  "version": "2.5.0",
+  "version": "2.5.2",
   "summary": "A recursive disassmbler optimized for CFG recovery from memory dumps. Based on capstone.",
   "author": "Daniel Plohmann",
   "license": "BSD 2-Clause",
   "home_page": "https://github.com/danielplohmann/smda",
-  "download_filename": "smda-2.5.0.tar.gz",
-  "download_time": "2026-01-16T10:23:07.303485",
+  "download_filename": "smda-2.5.2.tar.gz",
+  "download_time": "2026-01-16T14:23:01.125332",
   "package_url": "https://pypi.org/project/smda/"
 }

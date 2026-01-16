@@ -1,0 +1,11 @@
+{
+  "name": "eltako14bus",
+  "version": "0.0.76",
+  "summary": "Library for participating in the Eltako Series 14 RS485 bus",
+  "author": "chrysn, grimmpp",
+  "license": null,
+  "home_page": "https://github.com/grimmpp/eltako14bus",
+  "download_filename": "eltako14bus-0.0.76.tar.gz",
+  "download_time": "2026-01-16T14:22:18.635769",
+  "package_url": "https://pypi.org/project/eltako14bus/"
+}

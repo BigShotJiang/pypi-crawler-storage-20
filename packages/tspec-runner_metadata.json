@@ -1,11 +1,11 @@
 {
   "name": "tspec-runner",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "TSpec runner: Markdown + tspec fenced blocks for test automation (spec-versioned)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tspec_runner-1.0.1.tar.gz",
-  "download_time": "2026-01-16T13:57:35.943857",
+  "download_filename": "tspec_runner-1.0.4.tar.gz",
+  "download_time": "2026-01-16T14:22:19.771318",
   "package_url": "https://pypi.org/project/tspec-runner/"
 }

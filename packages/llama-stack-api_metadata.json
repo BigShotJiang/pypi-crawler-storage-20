@@ -1,11 +1,11 @@
 {
   "name": "llama-stack-api",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "summary": "API and Provider specifications for Llama Stack - lightweight package with protocol definitions and provider specs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "llama_stack_api-0.4.1.tar.gz",
-  "download_time": "2026-01-13T16:38:42.669922",
+  "download_filename": "llama_stack_api-0.4.2.tar.gz",
+  "download_time": "2026-01-16T14:22:26.553446",
   "package_url": "https://pypi.org/project/llama-stack-api/"
 }

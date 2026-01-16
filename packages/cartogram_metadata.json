@@ -1,0 +1,11 @@
+{
+  "name": "cartogram",
+  "version": "1.0.2",
+  "summary": "Compute continous cartograms (anamorphic maps)",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "cartogram-1.0.2.tar.gz",
+  "download_time": "2026-01-16T14:22:56.459833",
+  "package_url": "https://pypi.org/project/cartogram/"
+}

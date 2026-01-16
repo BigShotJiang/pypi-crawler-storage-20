@@ -1,0 +1,11 @@
+{
+  "name": "dexter-controller",
+  "version": "0.1.2",
+  "summary": "Dexter Controller for the HARP Load Cells",
+  "author": "Hardware and Software Platform, Champalimaud Foundation",
+  "license": null,
+  "home_page": null,
+  "download_filename": "dexter_controller-0.1.2.tar.gz",
+  "download_time": "2026-01-16T14:22:41.717182",
+  "package_url": "https://pypi.org/project/dexter-controller/"
+}

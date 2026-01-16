@@ -1,0 +1,11 @@
+{
+  "name": "ChameleonIQ",
+  "version": "1.0.5",
+  "summary": "A tool for NEMA NU 2-2018 Image Quality analysis.",
+  "author": "Edwing Ulin-Briseno",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chameleoniq-1.0.5.tar.gz",
+  "download_time": "2026-01-16T14:22:48.100129",
+  "package_url": "https://pypi.org/project/ChameleonIQ/"
+}

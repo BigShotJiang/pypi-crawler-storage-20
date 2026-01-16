@@ -1,0 +1,11 @@
+{
+  "name": "pertdb",
+  "version": "2.0.0",
+  "summary": "Basic pertdb entities [`source <https://github.com/laminlabs/pertdb/blob/main/pertdb/models.py>`__].",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pertdb-2.0.0.tar.gz",
+  "download_time": "2026-01-16T14:23:01.637357",
+  "package_url": "https://pypi.org/project/pertdb/"
+}

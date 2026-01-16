@@ -1,11 +1,11 @@
 {
   "name": "trustcv",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Trustworthy Cross-Validation: Framework-agnostic CV with data leakage detection",
-  "author": "SMAILE Team, Karolinska Institutet",
+  "author": "SMAILE (Stockholm Medical AI and Learning Environments), Karolinska Institutet",
   "license": null,
   "home_page": "https://github.com/ki-smile/trustcv",
-  "download_filename": "trustcv-1.0.0.tar.gz",
-  "download_time": "2026-01-15T13:29:37.165779",
+  "download_filename": "trustcv-1.0.2.tar.gz",
+  "download_time": "2026-01-16T14:23:03.178680",
   "package_url": "https://pypi.org/project/trustcv/"
 }

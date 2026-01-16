@@ -1,11 +1,11 @@
 {
   "name": "condorgame",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "A package for participating in the Condor Game on CrunchDAO",
   "author": "Abdennour BOUTRIG, Alexis Gassmann",
   "license": null,
   "home_page": "https://github.com/crunchdao/condorgame",
-  "download_filename": "condorgame-0.5.0.tar.gz",
-  "download_time": "2026-01-14T08:27:08.603948",
+  "download_filename": "condorgame-0.5.1.tar.gz",
+  "download_time": "2026-01-16T14:23:03.691470",
   "package_url": "https://pypi.org/project/condorgame/"
 }

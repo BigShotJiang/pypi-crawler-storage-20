@@ -1,11 +1,11 @@
 {
   "name": "torchguard",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "summary": "Compile-time error handling for torch.compile() regions",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "torchguard-1.0.1.tar.gz",
-  "download_time": "2026-01-16T01:26:56.177160",
+  "download_filename": "torchguard-1.0.4.tar.gz",
+  "download_time": "2026-01-16T14:22:54.404921",
   "package_url": "https://pypi.org/project/torchguard/"
 }

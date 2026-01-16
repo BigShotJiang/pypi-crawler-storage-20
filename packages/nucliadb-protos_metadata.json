@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-protos",
-  "version": "6.10.0.post5758",
+  "version": "6.10.0.post5767",
   "summary": "Protobuf definitions for nucliadb",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb_protos-6.10.0.post5758-py3-none-any.whl",
-  "download_time": "2026-01-16T10:23:02.412815",
+  "download_filename": "nucliadb_protos-6.10.0.post5767-py3-none-any.whl",
+  "download_time": "2026-01-16T14:22:44.888175",
   "package_url": "https://pypi.org/project/nucliadb-protos/"
 }

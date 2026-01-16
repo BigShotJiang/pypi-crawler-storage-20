@@ -1,0 +1,11 @@
+{
+  "name": "limina-client",
+  "version": "0.0.1",
+  "summary": "A client for communicating with the Limina de-identication API.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "limina_client-0.0.1.tar.gz",
+  "download_time": "2026-01-16T14:23:05.749790",
+  "package_url": "https://pypi.org/project/limina-client/"
+}
