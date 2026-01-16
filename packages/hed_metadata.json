@@ -1,0 +1,11 @@
+{
+  "name": "hed",
+  "version": "1.1.0",
+  "summary": "Extract release notes from markdown changelog",
+  "author": "Thibaud Gambier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hed-1.1.0.tar.gz",
+  "download_time": "2026-01-16T21:20:47.450249",
+  "package_url": "https://pypi.org/project/hed/"
+}

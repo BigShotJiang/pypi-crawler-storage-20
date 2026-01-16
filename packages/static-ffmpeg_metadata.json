@@ -1,0 +1,11 @@
+{
+  "name": "static-ffmpeg",
+  "version": "3.0",
+  "summary": "Cross platform ffmpeg to work on various systems.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "static_ffmpeg-3.0-py3-none-any.whl",
+  "download_time": "2026-01-16T21:20:14.664612",
+  "package_url": "https://pypi.org/project/static-ffmpeg/"
+}

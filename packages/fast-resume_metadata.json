@@ -1,11 +1,11 @@
 {
   "name": "fast-resume",
-  "version": "1.12.6",
+  "version": "1.12.7",
   "summary": "Fuzzy finder for coding agent session history",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fast_resume-1.12.6.tar.gz",
-  "download_time": "2026-01-16T17:23:53.045188",
+  "download_filename": "fast_resume-1.12.7.tar.gz",
+  "download_time": "2026-01-16T21:20:45.378572",
   "package_url": "https://pypi.org/project/fast-resume/"
 }

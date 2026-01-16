@@ -1,0 +1,11 @@
+{
+  "name": "DataNova",
+  "version": "0.1.1",
+  "summary": "A friendly toolkit for quick exploratory data analysis (EDA)",
+  "author": "Riley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "datanova-0.1.1.tar.gz",
+  "download_time": "2026-01-16T21:20:13.638556",
+  "package_url": "https://pypi.org/project/DataNova/"
+}

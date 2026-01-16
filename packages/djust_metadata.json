@@ -1,0 +1,11 @@
+{
+  "name": "djust",
+  "version": "0.1.0",
+  "summary": "Blazing fast reactive server-side rendering for Django, powered by Rust",
+  "author": "djust contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "djust-0.1.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-16T21:20:29.768091",
+  "package_url": "https://pypi.org/project/djust/"
+}

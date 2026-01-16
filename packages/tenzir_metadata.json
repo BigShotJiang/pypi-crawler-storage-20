@@ -1,0 +1,11 @@
+{
+  "name": "tenzir",
+  "version": "5.24.0",
+  "summary": "Tenzir CLI bindings and binary launchers",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tenzir-5.24.0.tar.gz",
+  "download_time": "2026-01-16T21:20:22.993298",
+  "package_url": "https://pypi.org/project/tenzir/"
+}

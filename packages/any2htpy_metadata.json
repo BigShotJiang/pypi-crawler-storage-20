@@ -1,11 +1,11 @@
 {
   "name": "any2htpy",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "a HTML/SVG/MathML to htpy converter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "any2htpy-0.1.1.tar.gz",
-  "download_time": "2026-01-16T19:52:41.299175",
+  "download_filename": "any2htpy-0.1.2.tar.gz",
+  "download_time": "2026-01-16T21:20:14.152039",
   "package_url": "https://pypi.org/project/any2htpy/"
 }
