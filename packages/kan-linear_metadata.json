@@ -1,0 +1,11 @@
+{
+  "name": "kan-linear",
+  "version": "1.0.1",
+  "summary": "A KANLinear layer implementation using PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kan_linear-1.0.1.tar.gz",
+  "download_time": "2026-01-16T04:12:55.133889",
+  "package_url": "https://pypi.org/project/kan-linear/"
+}

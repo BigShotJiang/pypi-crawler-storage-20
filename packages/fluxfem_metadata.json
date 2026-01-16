@@ -1,0 +1,11 @@
+{
+  "name": "fluxfem",
+  "version": "0.1.7",
+  "summary": "FluxFEM: A weak-form-centric differentiable finite element framework in JAX",
+  "author": "Kohei Watanabe",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fluxfem-0.1.7.tar.gz",
+  "download_time": "2026-01-16T04:12:55.683924",
+  "package_url": "https://pypi.org/project/fluxfem/"
+}

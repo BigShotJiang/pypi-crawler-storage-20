@@ -1,0 +1,11 @@
+{
+  "name": "pyfastx",
+  "version": "2.3.0",
+  "summary": "pyfastx is a python module for fast random access to sequences from plain and gzipped FASTA/Q file",
+  "author": "Lianming Du",
+  "license": "MIT",
+  "home_page": "https://github.com/lmdu/pyfastx",
+  "download_filename": "pyfastx-2.3.0.tar.gz",
+  "download_time": "2026-01-16T04:13:32.617386",
+  "package_url": "https://pypi.org/project/pyfastx/"
+}

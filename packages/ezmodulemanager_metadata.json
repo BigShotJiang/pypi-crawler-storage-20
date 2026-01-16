@@ -1,0 +1,11 @@
+{
+  "name": "ezmodulemanager",
+  "version": "1.0.0",
+  "summary": "Lightweight Framework - Remove circular dependencies in an event-driven way by decoupling your imports from your class/function execution.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ezmodulemanager-1.0.0.tar.gz",
+  "download_time": "2026-01-16T04:13:27.184624",
+  "package_url": "https://pypi.org/project/ezmodulemanager/"
+}

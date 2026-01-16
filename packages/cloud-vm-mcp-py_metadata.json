@@ -1,0 +1,11 @@
+{
+  "name": "cloud-vm-mcp-py",
+  "version": "0.2.0",
+  "summary": "A Model Context Protocol for managing and viewing virtual machines across multiple cloud providers (AWS, Azure)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cloud_vm_mcp_py-0.2.0.tar.gz",
+  "download_time": "2026-01-16T04:13:28.903096",
+  "package_url": "https://pypi.org/project/cloud-vm-mcp-py/"
+}

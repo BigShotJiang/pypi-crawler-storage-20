@@ -1,0 +1,11 @@
+{
+  "name": "terminal-shop",
+  "version": "1.14.0",
+  "summary": "The official Python library for the terminal API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "terminal_shop-1.14.0.tar.gz",
+  "download_time": "2026-01-16T04:13:25.533132",
+  "package_url": "https://pypi.org/project/terminal-shop/"
+}

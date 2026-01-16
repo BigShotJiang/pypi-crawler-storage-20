@@ -1,0 +1,11 @@
+{
+  "name": "vallignus",
+  "version": "0.1.2",
+  "summary": "Infrastructure-grade firewall for AI agents",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "vallignus-0.1.2.tar.gz",
+  "download_time": "2026-01-16T04:13:26.637002",
+  "package_url": "https://pypi.org/project/vallignus/"
+}
