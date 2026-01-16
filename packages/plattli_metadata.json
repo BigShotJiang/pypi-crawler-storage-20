@@ -1,11 +1,11 @@
 {
   "name": "plattli",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Plättli is an opinionated dataformat for logging a series of metrics",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "plattli-0.3.0.tar.gz",
-  "download_time": "2026-01-16T20:45:21.617146",
+  "download_filename": "plattli-0.3.1.tar.gz",
+  "download_time": "2026-01-16T23:34:18.759624",
   "package_url": "https://pypi.org/project/plattli/"
 }

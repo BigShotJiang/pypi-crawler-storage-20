@@ -1,0 +1,11 @@
+{
+  "name": "classy-config",
+  "version": "0.7.1",
+  "summary": "ClassyConfig is a Python3 package aiming to remove the need for a config.py or settings.py file.",
+  "author": "GDWR",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "classy_config-0.7.1.tar.gz",
+  "download_time": "2026-01-16T23:34:09.943966",
+  "package_url": "https://pypi.org/project/classy-config/"
+}

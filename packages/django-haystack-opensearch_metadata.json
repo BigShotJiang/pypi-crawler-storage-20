@@ -1,0 +1,11 @@
+{
+  "name": "django-haystack-opensearch",
+  "version": "1.0.0",
+  "summary": "An opensearch-py based search backend for django-haystack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_haystack_opensearch-1.0.0.tar.gz",
+  "download_time": "2026-01-16T23:34:24.831364",
+  "package_url": "https://pypi.org/project/django-haystack-opensearch/"
+}
