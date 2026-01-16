@@ -1,0 +1,11 @@
+{
+  "name": "clinbin",
+  "version": "0.2.1",
+  "summary": "Use cut-off points from medical guidelines to classify clinical variables.",
+  "author": "H. C. Donker",
+  "license": null,
+  "home_page": "https://gitlab.com/hylkedonker/clinbin",
+  "download_filename": "clinbin-0.2.1.tar.gz",
+  "download_time": "2026-01-16T10:51:07.368469",
+  "package_url": "https://pypi.org/project/clinbin/"
+}

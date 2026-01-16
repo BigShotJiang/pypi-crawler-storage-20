@@ -1,0 +1,11 @@
+{
+  "name": "ndbioimage",
+  "version": "2026.1.0",
+  "summary": "Bio image reading, metadata and some affine registration.",
+  "author": "W. Pomp",
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "ndbioimage-2026.1.0.tar.gz",
+  "download_time": "2026-01-16T10:51:03.199152",
+  "package_url": "https://pypi.org/project/ndbioimage/"
+}

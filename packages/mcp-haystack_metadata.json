@@ -1,0 +1,11 @@
+{
+  "name": "mcp-haystack",
+  "version": "1.2.0",
+  "summary": "Haystack integration for Model Context Protocol (MCP)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_haystack-1.2.0.tar.gz",
+  "download_time": "2026-01-16T10:51:10.485452",
+  "package_url": "https://pypi.org/project/mcp-haystack/"
+}

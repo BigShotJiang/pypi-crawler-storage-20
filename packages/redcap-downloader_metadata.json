@@ -1,0 +1,11 @@
+{
+  "name": "redcap-downloader",
+  "version": "0.3.1",
+  "summary": "Download, clean-up and organise data from REDCap",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/chronopsychiatry/REDCap_downloader",
+  "download_filename": "redcap_downloader-0.3.1.tar.gz",
+  "download_time": "2026-01-16T10:50:31.158507",
+  "package_url": "https://pypi.org/project/redcap-downloader/"
+}

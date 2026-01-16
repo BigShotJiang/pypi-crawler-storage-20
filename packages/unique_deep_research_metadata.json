@@ -1,11 +1,11 @@
 {
   "name": "unique_deep_research",
-  "version": "3.0.24",
+  "version": "3.0.25",
   "summary": "Deep Research Tool for complex research tasks",
   "author": "Martin Fadler",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "unique_deep_research-3.0.24.tar.gz",
-  "download_time": "2026-01-16T08:55:45.221040",
+  "download_filename": "unique_deep_research-3.0.25.tar.gz",
+  "download_time": "2026-01-16T10:50:53.309753",
   "package_url": "https://pypi.org/project/unique_deep_research/"
 }

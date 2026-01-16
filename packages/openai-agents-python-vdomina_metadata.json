@@ -1,0 +1,11 @@
+{
+  "name": "openai-agents-python-vdomina",
+  "version": "0.6.6.1",
+  "summary": "OpenAI Agents SDK (fork with emit_event support)",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openai_agents_python_vdomina-0.6.6.1.tar.gz",
+  "download_time": "2026-01-16T10:50:30.118692",
+  "package_url": "https://pypi.org/project/openai-agents-python-vdomina/"
+}

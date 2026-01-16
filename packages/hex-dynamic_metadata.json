@@ -1,11 +1,11 @@
 {
   "name": "hex-dynamic",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A Python extension module written in Rust using PyO3",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hex_dynamic-0.1.0-cp38-abi3-manylinux_2_31_aarch64.whl",
-  "download_time": "2026-01-16T07:00:36.152171",
+  "download_filename": "hex_dynamic-0.1.1-cp38-abi3-manylinux_2_31_aarch64.whl",
+  "download_time": "2026-01-16T10:51:09.966396",
   "package_url": "https://pypi.org/project/hex-dynamic/"
 }
