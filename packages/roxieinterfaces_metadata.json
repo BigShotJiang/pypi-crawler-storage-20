@@ -1,0 +1,11 @@
+{
+  "name": "roxieinterfaces",
+  "version": "0.5.0",
+  "summary": "Interfaces implementation to roxie",
+  "author": "Matthias Bonora",
+  "license": null,
+  "home_page": "https://roxie.docs.cern.ch/",
+  "download_filename": "roxieinterfaces-0.5.0.tar.gz",
+  "download_time": "2026-01-16T16:55:21.631744",
+  "package_url": "https://pypi.org/project/roxieinterfaces/"
+}

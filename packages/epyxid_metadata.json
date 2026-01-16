@@ -1,0 +1,11 @@
+{
+  "name": "epyxid",
+  "version": "0.3.4",
+  "summary": "Python wrapper around Rust implementation of XID (Globally Unique ID Generator)",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/als/epyxid",
+  "download_filename": "epyxid-0.3.4.tar.gz",
+  "download_time": "2026-01-16T16:55:56.045864",
+  "package_url": "https://pypi.org/project/epyxid/"
+}

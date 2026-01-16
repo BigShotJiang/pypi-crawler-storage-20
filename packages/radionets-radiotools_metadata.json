@@ -1,0 +1,11 @@
+{
+  "name": "radionets-radiotools",
+  "version": "0.2.1",
+  "summary": "Tools for radio astronomy.",
+  "author": "radionets developers",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "radionets_radiotools-0.2.1.tar.gz",
+  "download_time": "2026-01-16T16:55:49.275627",
+  "package_url": "https://pypi.org/project/radionets-radiotools/"
+}

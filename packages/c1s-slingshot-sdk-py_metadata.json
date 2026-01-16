@@ -1,11 +1,11 @@
 {
   "name": "c1s-slingshot-sdk-py",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "summary": "Slingshot SDK",
   "author": "Capital One Software",
   "license": null,
   "home_page": null,
-  "download_filename": "c1s_slingshot_sdk_py-2.0.0.tar.gz",
-  "download_time": "2026-01-12T23:30:14.646949",
+  "download_filename": "c1s_slingshot_sdk_py-2.1.0.tar.gz",
+  "download_time": "2026-01-16T16:55:48.227418",
   "package_url": "https://pypi.org/project/c1s-slingshot-sdk-py/"
 }

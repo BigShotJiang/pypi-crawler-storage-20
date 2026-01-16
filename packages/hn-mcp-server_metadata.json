@@ -1,0 +1,11 @@
+{
+  "name": "hn-mcp-server",
+  "version": "1.1.0",
+  "summary": "Model Context Protocol server for HackerNews API",
+  "author": "Development Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hn_mcp_server-1.1.0.tar.gz",
+  "download_time": "2026-01-16T16:55:20.601374",
+  "package_url": "https://pypi.org/project/hn-mcp-server/"
+}
