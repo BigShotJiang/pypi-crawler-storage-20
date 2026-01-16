@@ -1,0 +1,11 @@
+{
+  "name": "pyiec101",
+  "version": "21.6.19",
+  "summary": "IEC 60870-5-101 protocol Server and Client Implementation - Python Wrapper for IEC 101 protocol",
+  "author": "FreyrSCADA",
+  "license": null,
+  "home_page": "https://www.freyrscada.com/iec-60870-5-101-python.php",
+  "download_filename": "pyiec101-21.6.19.tar.gz",
+  "download_time": "2026-01-16T07:48:33.101942",
+  "package_url": "https://pypi.org/project/pyiec101/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "knot-exporter",
+  "version": "3.5.3",
+  "summary": "Prometheus exporter for Knot DNS",
+  "author": "CZ.NIC, z.s.p.o.",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://gitlab.nic.cz/knot/knot-dns/-/tree/master/python/knot_exporter",
+  "download_filename": "knot_exporter-3.5.3.tar.gz",
+  "download_time": "2026-01-16T07:48:42.160183",
+  "package_url": "https://pypi.org/project/knot-exporter/"
+}

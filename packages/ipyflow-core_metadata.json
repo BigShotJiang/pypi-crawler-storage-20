@@ -1,0 +1,11 @@
+{
+  "name": "ipyflow-core",
+  "version": "0.0.227",
+  "summary": "Backend package for ipyflow's dataflow functionality",
+  "author": "Stephen Macke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/ipyflow/ipyflow",
+  "download_filename": "ipyflow_core-0.0.227.tar.gz",
+  "download_time": "2026-01-16T07:48:31.370150",
+  "package_url": "https://pypi.org/project/ipyflow-core/"
+}

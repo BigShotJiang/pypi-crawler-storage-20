@@ -1,0 +1,11 @@
+{
+  "name": "libknot",
+  "version": "3.5.3",
+  "summary": "Python bindings for libknot",
+  "author": "CZ.NIC, z.s.p.o.",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://gitlab.nic.cz/knot/knot-dns/-/tree/master/python/libknot",
+  "download_filename": "libknot-3.5.3.tar.gz",
+  "download_time": "2026-01-16T07:48:41.649647",
+  "package_url": "https://pypi.org/project/libknot/"
+}

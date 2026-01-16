@@ -1,0 +1,11 @@
+{
+  "name": "cppcheck-codequality",
+  "version": "1.6.0",
+  "summary": "Convert a CppCheck XML report to a GitLab-compatible Code Quality JSON report.",
+  "author": "Alex Hogen",
+  "license": "MIT",
+  "home_page": "https://gitlab.com/ahogen/cppcheck-codequality",
+  "download_filename": "cppcheck_codequality-1.6.0.tar.gz",
+  "download_time": "2026-01-16T07:48:28.050132",
+  "package_url": "https://pypi.org/project/cppcheck-codequality/"
+}

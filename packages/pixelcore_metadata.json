@@ -1,0 +1,11 @@
+{
+  "name": "pixelcore",
+  "version": "0.0.2",
+  "summary": "Core image and video processing primitives",
+  "author": "Rishabh Sethi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pixelcore-0.0.2.tar.gz",
+  "download_time": "2026-01-16T07:48:29.768015",
+  "package_url": "https://pypi.org/project/pixelcore/"
+}

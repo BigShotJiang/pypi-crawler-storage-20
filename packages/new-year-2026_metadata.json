@@ -1,11 +1,11 @@
 {
   "name": "new-year-2026",
-  "version": "1.1.24",
+  "version": "1.1.25",
   "summary": "TCP/TLS/HTTP/SSH learning scripts and demos.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "new_year_2026-1.1.24.tar.gz",
-  "download_time": "2026-01-16T07:31:51.895653",
+  "download_filename": "new_year_2026-1.1.25.tar.gz",
+  "download_time": "2026-01-16T07:48:36.469619",
   "package_url": "https://pypi.org/project/new-year-2026/"
 }
