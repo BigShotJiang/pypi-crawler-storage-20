@@ -1,0 +1,11 @@
+{
+  "name": "plp-antispam-rust",
+  "version": "1.0.2",
+  "summary": "Fast Rust-based anti-spam inference engine for email classification",
+  "author": "Paul Lucian Pinzariu",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "plp_antispam_rust-1.0.2-cp39-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-16T08:28:12.242891",
+  "package_url": "https://pypi.org/project/plp-antispam-rust/"
+}

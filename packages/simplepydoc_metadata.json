@@ -1,0 +1,11 @@
+{
+  "name": "simplepydoc",
+  "version": "0.1.2",
+  "summary": "Simple Python documentation generator - parse code, generate markdown",
+  "author": "Sodiq Muhammed",
+  "license": "MIT",
+  "home_page": "https://github.com/msodiq19/simplepydoc",
+  "download_filename": "simplepydoc-0.1.2.tar.gz",
+  "download_time": "2026-01-16T08:28:03.573339",
+  "package_url": "https://pypi.org/project/simplepydoc/"
+}

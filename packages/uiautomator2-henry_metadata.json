@@ -1,0 +1,11 @@
+{
+  "name": "uiautomator2-henry",
+  "version": "2.16.31",
+  "summary": "Python Wrapper for Google Android UiAutomator2 test tool",
+  "author": "codeskyblue,henry.deng",
+  "license": "MIT",
+  "home_page": "https://github.com/youweideng80/uiautomator2",
+  "download_filename": "uiautomator2_henry-2.16.31.tar.gz",
+  "download_time": "2026-01-16T08:27:54.925971",
+  "package_url": "https://pypi.org/project/uiautomator2-henry/"
+}

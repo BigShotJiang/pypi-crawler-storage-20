@@ -1,11 +1,11 @@
 {
   "name": "flask-dapr",
-  "version": "1.16.0",
+  "version": "1.16.1",
   "summary": "The official release of Dapr Python SDK Flask Extension.",
   "author": "Dapr Authors",
   "license": "Apache",
   "home_page": "https://dapr.io/",
-  "download_filename": "flask-dapr-1.16.0.tar.gz",
-  "download_time": "2026-01-14T10:22:40.435714",
+  "download_filename": "flask_dapr-1.16.1.tar.gz",
+  "download_time": "2026-01-16T08:27:49.488704",
   "package_url": "https://pypi.org/project/flask-dapr/"
 }

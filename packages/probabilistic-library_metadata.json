@@ -1,11 +1,11 @@
 {
   "name": "probabilistic-library",
-  "version": "26.1.1rc2",
+  "version": "26.1.1rc4",
   "summary": "Package which provides probabilistic methods",
   "author": "Deltares",
   "license": "LGPL-3.0",
   "home_page": null,
-  "download_filename": "probabilistic_library-26.1.1rc2.tar.gz",
-  "download_time": "2026-01-14T16:27:43.975284",
+  "download_filename": "probabilistic_library-26.1.1rc4.tar.gz",
+  "download_time": "2026-01-16T08:28:09.488562",
   "package_url": "https://pypi.org/project/probabilistic-library/"
 }

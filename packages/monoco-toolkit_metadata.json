@@ -1,11 +1,11 @@
 {
   "name": "monoco-toolkit",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "Agent Native Toolkit for Monoco - Task Management & Kanban for AI Agents",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "monoco_toolkit-0.2.3.tar.gz",
-  "download_time": "2026-01-16T07:48:34.827149",
+  "download_filename": "monoco_toolkit-0.2.4.tar.gz",
+  "download_time": "2026-01-16T08:27:57.694573",
   "package_url": "https://pypi.org/project/monoco-toolkit/"
 }
