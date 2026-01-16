@@ -1,11 +1,11 @@
 {
   "name": "acp-cli",
-  "version": "0.0.4",
+  "version": "0.0.803",
   "summary": "CLI interface for ACP",
   "author": "ACP Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "acp_cli-0.0.4.tar.gz",
-  "download_time": "2026-01-16T13:58:00.885755",
+  "download_filename": "acp_cli-0.0.803.tar.gz",
+  "download_time": "2026-01-16T14:51:21.410068",
   "package_url": "https://pypi.org/project/acp-cli/"
 }

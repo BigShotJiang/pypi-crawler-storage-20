@@ -1,11 +1,11 @@
 {
   "name": "Topsis-Haryiank-102303088",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "A Python package for TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution) analysis",
-  "author": "Haryiank",
+  "author": "Haryiank Kumra",
   "license": null,
-  "home_page": "https://github.com/yourusername/Topsis-Haryiank-102303088",
-  "download_filename": "topsis_haryiank_102303088-1.0.0.tar.gz",
-  "download_time": "2026-01-16T13:57:15.237668",
+  "home_page": "https://github.com/HaryiankKumra/TOPSIS",
+  "download_filename": "topsis_haryiank_102303088-1.0.2.tar.gz",
+  "download_time": "2026-01-16T14:50:33.681058",
   "package_url": "https://pypi.org/project/Topsis-Haryiank-102303088/"
 }
