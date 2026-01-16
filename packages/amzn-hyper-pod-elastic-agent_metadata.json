@@ -1,0 +1,11 @@
+{
+  "name": "amzn-hyper-pod-elastic-agent",
+  "version": "1.1.50",
+  "summary": "Experimental Python package for research and educational purposes.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "amzn_hyper_pod_elastic_agent-1.1.50.tar.gz",
+  "download_time": "2026-01-16T18:31:27.827642",
+  "package_url": "https://pypi.org/project/amzn-hyper-pod-elastic-agent/"
+}

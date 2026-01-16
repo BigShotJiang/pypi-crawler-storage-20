@@ -1,0 +1,11 @@
+{
+  "name": "memvid-sdk",
+  "version": "2.0.149",
+  "summary": "Single-file AI memory system for Python. Store, search, and query documents with built-in RAG.",
+  "author": "Memvid Inc.",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "memvid_sdk-2.0.149.tar.gz",
+  "download_time": "2026-01-16T18:31:25.258168",
+  "package_url": "https://pypi.org/project/memvid-sdk/"
+}

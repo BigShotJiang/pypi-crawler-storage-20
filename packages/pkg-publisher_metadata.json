@@ -1,11 +1,11 @@
 {
   "name": "pkg-publisher",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "summary": "A Model Context Protocol (MCP) service for building and publishing Python packages to PyPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pkg_publisher-0.1.3-py3-none-any.whl",
-  "download_time": "2026-01-16T18:07:08.368057",
+  "download_filename": "pkg_publisher-0.1.4-py3-none-any.whl",
+  "download_time": "2026-01-16T18:31:43.671124",
   "package_url": "https://pypi.org/project/pkg-publisher/"
 }

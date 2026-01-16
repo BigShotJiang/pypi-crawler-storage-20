@@ -1,0 +1,11 @@
+{
+  "name": "b2g-tools",
+  "version": "0.1.1",
+  "summary": "Adaptive batch grouping for single-cell RNA-seq data",
+  "author": "B2G Development Team",
+  "license": "MIT",
+  "home_page": "https://github.com/lyotvincent/b2g",
+  "download_filename": "b2g_tools-0.1.1.tar.gz",
+  "download_time": "2026-01-16T18:31:45.983218",
+  "package_url": "https://pypi.org/project/b2g-tools/"
+}

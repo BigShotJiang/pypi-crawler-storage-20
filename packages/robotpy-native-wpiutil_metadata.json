@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-native-wpiutil",
+  "version": "2026.2.1",
+  "summary": "WPILib Utility Library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_native_wpiutil-2026.2.1-py3-none-macosx_13_0_universal2.whl",
+  "download_time": "2026-01-16T18:31:06.460631",
+  "package_url": "https://pypi.org/project/robotpy-native-wpiutil/"
+}

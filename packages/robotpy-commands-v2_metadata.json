@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-commands-v2",
+  "version": "2026.2.1",
+  "summary": "WPILib command framework v2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_commands_v2-2026.2.1-py3-none-any.whl",
+  "download_time": "2026-01-16T18:31:01.688841",
+  "package_url": "https://pypi.org/project/robotpy-commands-v2/"
+}

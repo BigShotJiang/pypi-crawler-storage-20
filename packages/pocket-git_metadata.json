@@ -1,0 +1,11 @@
+{
+  "name": "pocket-git",
+  "version": "0.1.1",
+  "summary": "A minimal git implementation that fits in your pocket",
+  "author": "Jainil Dadhaniya",
+  "license": null,
+  "home_page": "https://github.com/vibey19/pocket-git",
+  "download_filename": "pocket_git-0.1.1.tar.gz",
+  "download_time": "2026-01-16T18:31:43.094358",
+  "package_url": "https://pypi.org/project/pocket-git/"
+}

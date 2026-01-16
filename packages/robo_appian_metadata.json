@@ -1,0 +1,11 @@
+{
+  "name": "robo_appian",
+  "version": "0.0.33",
+  "summary": "Automate your Appian code testing with Python. Boost quality, save time.",
+  "author": "Dinil Mithra",
+  "license": null,
+  "home_page": "https://github.com/dinilmithra/robo_appian",
+  "download_filename": "robo_appian-0.0.33.tar.gz",
+  "download_time": "2026-01-16T18:31:19.730467",
+  "package_url": "https://pypi.org/project/robo_appian/"
+}

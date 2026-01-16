@@ -1,0 +1,11 @@
+{
+  "name": "dbos-mcp",
+  "version": "0.1.0",
+  "summary": "MCP server for DBOS Conductor workflow introspection and management",
+  "author": "DBOS, Inc.",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbos_mcp-0.1.0.tar.gz",
+  "download_time": "2026-01-16T18:31:40.786877",
+  "package_url": "https://pypi.org/project/dbos-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "adamah",
+  "version": "3.0.0",
+  "summary": "GPU Memory & Math Library",
+  "author": "Samuele Scuglia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "adamah-3.0.0.tar.gz",
+  "download_time": "2026-01-16T18:31:26.282998",
+  "package_url": "https://pypi.org/project/adamah/"
+}

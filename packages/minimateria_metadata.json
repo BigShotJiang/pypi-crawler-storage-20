@@ -1,11 +1,11 @@
 {
   "name": "minimateria",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A factory automation game set in a very limited space",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "minimateria-0.1.0.tar.gz",
-  "download_time": "2026-01-16T14:23:02.665790",
+  "download_filename": "minimateria-0.1.1.tar.gz",
+  "download_time": "2026-01-16T18:31:17.150991",
   "package_url": "https://pypi.org/project/minimateria/"
 }

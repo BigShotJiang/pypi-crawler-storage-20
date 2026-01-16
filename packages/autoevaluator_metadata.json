@@ -1,0 +1,11 @@
+{
+  "name": "autoevaluator",
+  "version": "1.1.1",
+  "summary": "Fully automated LLM evaluator",
+  "author": "Darveen Vijayan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoevaluator-1.1.1.tar.gz",
+  "download_time": "2026-01-16T18:31:01.043356",
+  "package_url": "https://pypi.org/project/autoevaluator/"
+}

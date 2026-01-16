@@ -1,0 +1,11 @@
+{
+  "name": "mobileuitest",
+  "version": "0.1.0",
+  "summary": "Mobile UI Testing CLI - Run YAML-based mobile tests anywhere",
+  "author": "Vladislav Karpman",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mobileuitest-0.1.0.tar.gz",
+  "download_time": "2026-01-16T18:31:49.949900",
+  "package_url": "https://pypi.org/project/mobileuitest/"
+}
