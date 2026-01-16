@@ -1,11 +1,11 @@
 {
   "name": "purely",
-  "version": "1.0",
+  "version": "1.2",
   "summary": "Unobstrusive functional programming in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "purely-1.0.tar.gz",
-  "download_time": "2026-01-16T09:49:33.326233",
+  "download_filename": "purely-1.2.tar.gz",
+  "download_time": "2026-01-16T10:22:41.370230",
   "package_url": "https://pypi.org/project/purely/"
 }

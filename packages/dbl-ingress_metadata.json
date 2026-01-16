@@ -1,0 +1,11 @@
+{
+  "name": "dbl-ingress",
+  "version": "0.1.1",
+  "summary": "Admission and shaping layer for DBL gateway authority surfaces.",
+  "author": "Lukas Pfister",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbl_ingress-0.1.1.tar.gz",
+  "download_time": "2026-01-16T10:23:08.997937",
+  "package_url": "https://pypi.org/project/dbl-ingress/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "tessa",
+  "version": "0.10.0",
+  "summary": "Find financial assets and get their price history without worrying about different APIs or rate limiting.",
+  "author": "ymyke",
+  "license": "MIT",
+  "home_page": "https://github.com/ymyke/tessa",
+  "download_filename": "tessa-0.10.0.tar.gz",
+  "download_time": "2026-01-16T10:23:14.726456",
+  "package_url": "https://pypi.org/project/tessa/"
+}

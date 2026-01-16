@@ -1,0 +1,11 @@
+{
+  "name": "ewah",
+  "version": "0.9.20",
+  "summary": "An ELT with airflow helper module: Ewah",
+  "author": "Bijan Soltani",
+  "license": null,
+  "home_page": "https://gemmaanalytics.com/",
+  "download_filename": "ewah-0.9.20.tar.gz",
+  "download_time": "2026-01-16T10:22:36.140436",
+  "package_url": "https://pypi.org/project/ewah/"
+}

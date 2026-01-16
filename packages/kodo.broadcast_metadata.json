@@ -1,0 +1,11 @@
+{
+  "name": "kodo.broadcast",
+  "version": "0.2.0",
+  "summary": "Pythonic, asynchronous multi-endpoint object delivery",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kodo_broadcast-0.2.0.tar.gz",
+  "download_time": "2026-01-16T10:22:42.500048",
+  "package_url": "https://pypi.org/project/kodo.broadcast/"
+}

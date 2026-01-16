@@ -1,11 +1,11 @@
 {
   "name": "rpatoolkit",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "summary": "A Python toolkit for Robotic Process Automation (RPA) and ETL pipelines providing solutions to common automation challenges.",
   "author": "fnxL",
   "license": null,
   "home_page": null,
-  "download_filename": "rpatoolkit-0.2.5.tar.gz",
-  "download_time": "2026-01-16T06:31:38.785080",
+  "download_filename": "rpatoolkit-0.2.6.tar.gz",
+  "download_time": "2026-01-16T10:22:31.542168",
   "package_url": "https://pypi.org/project/rpatoolkit/"
 }

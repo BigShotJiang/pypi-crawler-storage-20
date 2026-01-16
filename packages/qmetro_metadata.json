@@ -1,0 +1,11 @@
+{
+  "name": "qmetro",
+  "version": "1.1.1",
+  "summary": "A package that provides a set of tools for identifying optimal estimation protocols that maximize quantum Fisher information (QFI).",
+  "author": "Piotr Dulian and Stanisław Kurdziałek",
+  "license": "GPLv3",
+  "home_page": "https://github.com/pdulian/qmetro",
+  "download_filename": "qmetro-1.1.1.tar.gz",
+  "download_time": "2026-01-16T10:22:38.469612",
+  "package_url": "https://pypi.org/project/qmetro/"
+}

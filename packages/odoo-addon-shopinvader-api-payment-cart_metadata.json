@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-api-payment-cart",
+  "version": "16.0.1.1.0",
+  "summary": "Adds logic to be able to pay current cart",
+  "author": "ACSONE SA/NV,Shopinvader",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader-payment",
+  "download_filename": "odoo_addon_shopinvader_api_payment_cart-16.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-16T10:22:56.005099",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-api-payment-cart/"
+}

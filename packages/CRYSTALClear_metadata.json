@@ -1,0 +1,11 @@
+{
+  "name": "CRYSTALClear",
+  "version": "0.2.14",
+  "summary": "Python framework for the CRYSTAL code.",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/crystaldevs/CRYSTALClear",
+  "download_filename": "crystalclear-0.2.14.tar.gz",
+  "download_time": "2026-01-16T10:22:43.683059",
+  "package_url": "https://pypi.org/project/CRYSTALClear/"
+}

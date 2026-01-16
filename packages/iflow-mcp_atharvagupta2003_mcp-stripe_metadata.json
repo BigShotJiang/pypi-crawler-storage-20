@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_atharvagupta2003_mcp-stripe",
+  "version": "0.1.5",
+  "summary": "MCP server for Stripe payments, customers, and refunds",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_atharvagupta2003_mcp_stripe-0.1.5.tar.gz",
+  "download_time": "2026-01-16T10:22:49.469730",
+  "package_url": "https://pypi.org/project/iflow-mcp_atharvagupta2003_mcp-stripe/"
+}

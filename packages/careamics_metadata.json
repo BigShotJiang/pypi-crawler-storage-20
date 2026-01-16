@@ -1,0 +1,11 @@
+{
+  "name": "careamics",
+  "version": "0.0.20",
+  "summary": "Toolbox for running N2V and friends.",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "careamics-0.0.20.tar.gz",
+  "download_time": "2026-01-16T10:22:48.925645",
+  "package_url": "https://pypi.org/project/careamics/"
+}

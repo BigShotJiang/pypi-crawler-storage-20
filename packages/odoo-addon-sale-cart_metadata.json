@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-cart",
+  "version": "16.0.1.1.0",
+  "summary": "Uee Sale Orders as cart.",
+  "author": "ACSONE SA/NV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_sale_cart-16.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-16T10:22:55.430851",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-cart/"
+}
