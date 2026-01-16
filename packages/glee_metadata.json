@@ -1,11 +1,11 @@
 {
   "name": "glee",
-  "version": "0.3.19",
+  "version": "0.3.21",
   "summary": "The Conductor for Your AI Orchestra",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "glee-0.3.19.tar.gz",
-  "download_time": "2026-01-15T23:20:01.324114",
+  "download_filename": "glee-0.3.21.tar.gz",
+  "download_time": "2026-01-16T22:46:58.730210",
   "package_url": "https://pypi.org/project/glee/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "fw-gear",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Flywheel Gear Development Toolkit",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fw_gear-0.3.4-py3-none-any.whl",
-  "download_time": "2026-01-14T23:17:33.408094",
+  "download_filename": "fw_gear-0.3.5-py3-none-any.whl",
+  "download_time": "2026-01-16T22:47:09.407775",
   "package_url": "https://pypi.org/project/fw-gear/"
 }

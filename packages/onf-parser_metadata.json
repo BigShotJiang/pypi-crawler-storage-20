@@ -1,0 +1,11 @@
+{
+  "name": "onf-parser",
+  "version": "0.2.3",
+  "summary": "OntoNotes Normal Form Parser",
+  "author": "Luke Gessler",
+  "license": "mit",
+  "home_page": "https://github.com/lgessler/onf-parser",
+  "download_filename": "onf_parser-0.2.3-py2.py3-none-any.whl",
+  "download_time": "2026-01-16T22:47:29.531812",
+  "package_url": "https://pypi.org/project/onf-parser/"
+}

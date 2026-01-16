@@ -1,11 +1,11 @@
 {
   "name": "singlejson",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Load and save json files as a global object ",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "singlejson-0.5.1.tar.gz",
-  "download_time": "2026-01-15T18:41:11.821903",
+  "download_filename": "singlejson-0.5.2.tar.gz",
+  "download_time": "2026-01-16T22:47:35.573881",
   "package_url": "https://pypi.org/project/singlejson/"
 }

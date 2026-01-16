@@ -1,0 +1,11 @@
+{
+  "name": "vivisect",
+  "version": "1.3.0",
+  "summary": "Pure python disassembler, debugger, emulator, and static analysis framework",
+  "author": null,
+  "license": "Apache License 2.0",
+  "home_page": null,
+  "download_filename": "vivisect-1.3.0.tar.gz",
+  "download_time": "2026-01-16T22:47:11.633420",
+  "package_url": "https://pypi.org/project/vivisect/"
+}
