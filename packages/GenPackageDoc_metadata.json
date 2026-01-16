@@ -1,0 +1,11 @@
+{
+  "name": "GenPackageDoc",
+  "version": "0.42.0",
+  "summary": "Documentation builder for Python packages",
+  "author": "Holger Queckenstedt",
+  "license": null,
+  "home_page": "https://github.com/test-fullautomation/python-genpackagedoc",
+  "download_filename": "genpackagedoc-0.42.0.tar.gz",
+  "download_time": "2026-01-16T13:57:53.512293",
+  "package_url": "https://pypi.org/project/GenPackageDoc/"
+}

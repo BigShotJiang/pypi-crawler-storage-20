@@ -1,0 +1,11 @@
+{
+  "name": "promql-parser",
+  "version": "0.7.0",
+  "summary": null,
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "promql_parser-0.7.0-cp310-cp310-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-16T13:57:21.578577",
+  "package_url": "https://pypi.org/project/promql-parser/"
+}

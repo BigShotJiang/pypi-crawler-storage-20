@@ -1,11 +1,11 @@
 {
   "name": "shortiepy",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "summary": "A local-only URL shortener (˶˘ ³˘)♡",
   "author": "ポテト ^. .^₎ฅ",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "shortiepy-0.2.3.tar.gz",
-  "download_time": "2026-01-16T05:49:48.943763",
+  "download_filename": "shortiepy-0.2.4.tar.gz",
+  "download_time": "2026-01-16T13:57:51.966888",
   "package_url": "https://pypi.org/project/shortiepy/"
 }

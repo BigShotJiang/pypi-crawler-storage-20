@@ -1,0 +1,11 @@
+{
+  "name": "amg-player",
+  "version": "2026.1.16.0",
+  "summary": "Browse & play embedded tracks from Angry Metal Guy music reviews",
+  "author": "desbma",
+  "license": null,
+  "home_page": "https://github.com/desbma/amg-player",
+  "download_filename": "amg_player-2026.1.16.0.tar.gz",
+  "download_time": "2026-01-16T13:57:32.028924",
+  "package_url": "https://pypi.org/project/amg-player/"
+}

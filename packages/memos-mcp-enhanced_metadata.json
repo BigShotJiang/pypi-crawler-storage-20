@@ -1,11 +1,11 @@
 {
   "name": "memos-mcp-enhanced",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Enhanced MCP server for Memos with complete CRUD and search capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "memos_mcp_enhanced-0.2.0.tar.gz",
-  "download_time": "2026-01-16T05:50:01.793082",
+  "download_filename": "memos_mcp_enhanced-0.2.2.tar.gz",
+  "download_time": "2026-01-16T13:57:44.216211",
   "package_url": "https://pypi.org/project/memos-mcp-enhanced/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "graph-of-marks",
+  "version": "0.1.0",
+  "summary": "Visual scene understanding pipeline with multi-model detection, segmentation, and scene graph generation",
+  "author": "DISI-UNIBO-NLP",
+  "license": null,
+  "home_page": "https://github.com/disi-unibo-nlp/graph-of-marks",
+  "download_filename": "graph_of_marks-0.1.0.tar.gz",
+  "download_time": "2026-01-16T13:57:13.191492",
+  "package_url": "https://pypi.org/project/graph-of-marks/"
+}

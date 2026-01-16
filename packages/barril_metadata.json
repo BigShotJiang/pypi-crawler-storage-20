@@ -1,0 +1,11 @@
+{
+  "name": "barril",
+  "version": "2.2.1",
+  "summary": "Python package to manage units for physical quantities",
+  "author": "ESSS",
+  "license": "MIT license",
+  "home_page": "https://github.com/ESSS/barril",
+  "download_filename": "barril-2.2.1.tar.gz",
+  "download_time": "2026-01-16T13:57:45.750889",
+  "package_url": "https://pypi.org/project/barril/"
+}

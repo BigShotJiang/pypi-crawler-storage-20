@@ -1,0 +1,11 @@
+{
+  "name": "Orange-Spectroscopy",
+  "version": "0.9.1",
+  "summary": "Extends Orange to handle spectral and hyperspectral analysis.",
+  "author": "Canadian Light Source, Biolab UL, Soleil, Elettra",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/Quasars/orange-spectroscopy",
+  "download_filename": "orange_spectroscopy-0.9.1.tar.gz",
+  "download_time": "2026-01-16T13:57:57.765799",
+  "package_url": "https://pypi.org/project/Orange-Spectroscopy/"
+}

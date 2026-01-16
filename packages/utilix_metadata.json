@@ -1,0 +1,11 @@
+{
+  "name": "utilix",
+  "version": "0.12.0",
+  "summary": "User-friendly interface to various utilities for XENON users",
+  "author": "utilix developers",
+  "license": null,
+  "home_page": "https://github.com/XENONnT/utilix",
+  "download_filename": "utilix-0.12.0.tar.gz",
+  "download_time": "2026-01-16T13:58:02.931141",
+  "package_url": "https://pypi.org/project/utilix/"
+}
