@@ -1,0 +1,11 @@
+{
+  "name": "pyphemeris",
+  "version": "0.2.3",
+  "summary": "a command line ephemeris and astrological calculation program. It is essentially documentation for how to use libaditya.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyphemeris-0.2.3.tar.gz",
+  "download_time": "2026-01-16T15:23:15.903913",
+  "package_url": "https://pypi.org/project/pyphemeris/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "reality-drift-reference",
+  "version": "0.1.0",
+  "summary": "Reference package providing structured terminology and conceptual schemas derived from the Reality Drift framework.",
+  "author": "A. Jacobs",
+  "license": "All rights reserved",
+  "home_page": null,
+  "download_filename": "reality_drift_reference-0.1.0.tar.gz",
+  "download_time": "2026-01-16T15:22:43.933577",
+  "package_url": "https://pypi.org/project/reality-drift-reference/"
+}

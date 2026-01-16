@@ -1,0 +1,11 @@
+{
+  "name": "ministatus",
+  "version": "1.0.3",
+  "summary": "A Discord bot for managing game server status embeds.",
+  "author": "thegamecracks",
+  "license": null,
+  "home_page": null,
+  "download_filename": "ministatus-1.0.3.tar.gz",
+  "download_time": "2026-01-16T15:23:16.536718",
+  "package_url": "https://pypi.org/project/ministatus/"
+}

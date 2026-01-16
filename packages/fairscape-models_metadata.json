@@ -1,11 +1,11 @@
 {
   "name": "fairscape-models",
-  "version": "1.0.21",
+  "version": "1.0.22",
   "summary": "Fairscape pydantic models",
   "author": "Justin Niestroy",
   "license": "MIT",
   "home_page": "https://github.com/fairscape/fairscape_models",
-  "download_filename": "fairscape_models-1.0.21.tar.gz",
-  "download_time": "2026-01-14T20:57:22.540893",
+  "download_filename": "fairscape_models-1.0.22.tar.gz",
+  "download_time": "2026-01-16T15:23:03.213289",
   "package_url": "https://pypi.org/project/fairscape-models/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "lit-wsl",
+  "version": "0.2.0",
+  "summary": "My personal library of reusable Lightning components",
+  "author": "twsl",
+  "license": "MIT",
+  "home_page": "https://twsl.github.io/lit-wsl/",
+  "download_filename": "lit_wsl-0.2.0.tar.gz",
+  "download_time": "2026-01-16T15:23:15.271306",
+  "package_url": "https://pypi.org/project/lit-wsl/"
+}

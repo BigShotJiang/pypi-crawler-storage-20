@@ -1,0 +1,11 @@
+{
+  "name": "pytest-embedded",
+  "version": "2.6.0",
+  "summary": "A pytest plugin that designed for embedded testing.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_embedded-2.6.0.tar.gz",
+  "download_time": "2026-01-16T15:23:29.082676",
+  "package_url": "https://pypi.org/project/pytest-embedded/"
+}

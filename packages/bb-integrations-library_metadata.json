@@ -1,11 +1,11 @@
 {
   "name": "bb-integrations-library",
-  "version": "3.0.21",
+  "version": "3.0.22",
   "summary": "Provides common logic for all types of integration jobs.",
   "author": "Alejandro Jordan, Ben Allen, Nicholas De Nova",
   "license": null,
   "home_page": null,
-  "download_filename": "bb_integrations_library-3.0.21.tar.gz",
-  "download_time": "2026-01-15T20:24:18.100896",
+  "download_filename": "bb_integrations_library-3.0.22.tar.gz",
+  "download_time": "2026-01-16T15:22:50.984964",
   "package_url": "https://pypi.org/project/bb-integrations-library/"
 }

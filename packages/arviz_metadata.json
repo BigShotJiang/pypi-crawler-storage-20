@@ -1,0 +1,11 @@
+{
+  "name": "arviz",
+  "version": "0.23.1",
+  "summary": "Exploratory analysis of Bayesian models",
+  "author": "ArviZ Developers",
+  "license": "Apache-2.0",
+  "home_page": "http://github.com/arviz-devs/arviz",
+  "download_filename": "arviz-0.23.1.tar.gz",
+  "download_time": "2026-01-16T15:23:14.627155",
+  "package_url": "https://pypi.org/project/arviz/"
+}

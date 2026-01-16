@@ -1,0 +1,11 @@
+{
+  "name": "django-torque",
+  "version": "0.8.3",
+  "summary": "django app for torque",
+  "author": "Open Tech Strategies, LLC",
+  "license": null,
+  "home_page": "https://code.librehq.com/ots/mediawiki/torque",
+  "download_filename": "django_torque-0.8.3.tar.gz",
+  "download_time": "2026-01-16T15:23:02.574664",
+  "package_url": "https://pypi.org/project/django-torque/"
+}

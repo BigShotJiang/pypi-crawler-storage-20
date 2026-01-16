@@ -1,0 +1,11 @@
+{
+  "name": "pytest-embedded-serial",
+  "version": "2.6.0",
+  "summary": "Make pytest-embedded plugin work with Serial.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pytest_embedded_serial-2.6.0.tar.gz",
+  "download_time": "2026-01-16T15:23:27.878163",
+  "package_url": "https://pypi.org/project/pytest-embedded-serial/"
+}

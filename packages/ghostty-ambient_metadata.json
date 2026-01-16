@@ -1,11 +1,11 @@
 {
   "name": "ghostty-ambient",
-  "version": "0.3.0",
+  "version": "0.7.0",
   "summary": "Ambient light-aware Ghostty theme selector with Bayesian preference learning",
   "author": "Gezim Basha",
   "license": null,
   "home_page": null,
-  "download_filename": "ghostty_ambient-0.3.0.tar.gz",
-  "download_time": "2026-01-16T14:22:58.534657",
+  "download_filename": "ghostty_ambient-0.7.0.tar.gz",
+  "download_time": "2026-01-16T15:22:55.127028",
   "package_url": "https://pypi.org/project/ghostty-ambient/"
 }

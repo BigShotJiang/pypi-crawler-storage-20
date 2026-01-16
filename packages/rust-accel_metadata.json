@@ -1,11 +1,11 @@
 {
   "name": "rust-accel",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Safe, fast Rust kernels exposed to Python via PyO3",
   "author": null,
   "license": "MIT",
-  "home_page": null,
-  "download_filename": "rust_accel-0.1.1.tar.gz",
-  "download_time": "2026-01-16T14:22:31.780039",
+  "home_page": "https://github.com/0rlych1kk4/rust_accel",
+  "download_filename": "rust_accel-0.1.5-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-16T15:22:36.666534",
   "package_url": "https://pypi.org/project/rust-accel/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "pyedahelper",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "summary": "An interactive cheat sheet, AI-powered guide for exploratory data analysis (EDA), and tools for data visualization, cleaning and feature engineering.",
   "author": "Chidiebere V. Christopher",
   "license": "MIT",
   "home_page": "https://pypi.org/project/pyedahelper/",
-  "download_filename": "pyedahelper-1.0.7.tar.gz",
-  "download_time": "2026-01-16T09:26:26.090737",
+  "download_filename": "pyedahelper-1.0.9.tar.gz",
+  "download_time": "2026-01-16T15:22:58.218589",
   "package_url": "https://pypi.org/project/pyedahelper/"
 }
