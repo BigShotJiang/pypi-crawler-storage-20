@@ -1,0 +1,11 @@
+{
+  "name": "agimus",
+  "version": "0.2.0",
+  "summary": "Python SDK for the Agimus Platform Object Store API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "agimus-0.2.0.tar.gz",
+  "download_time": "2026-01-16T11:32:04.504849",
+  "package_url": "https://pypi.org/project/agimus/"
+}

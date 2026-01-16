@@ -1,11 +1,11 @@
 {
   "name": "gegd",
-  "version": "0.3.5",
+  "version": "0.4.1",
   "summary": "Ensemble-based global search algorithm for freeform topology optimization.",
   "author": "Seokhwan Min",
   "license": null,
   "home_page": "https://github.com/apmd-lab/gaussian_ensemble_gradient_descent",
-  "download_filename": "gegd-0.3.5.tar.gz",
-  "download_time": "2026-01-15T07:45:11.538976",
+  "download_filename": "gegd-0.4.1.tar.gz",
+  "download_time": "2026-01-16T11:31:43.769178",
   "package_url": "https://pypi.org/project/gegd/"
 }

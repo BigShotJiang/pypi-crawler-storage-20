@@ -1,11 +1,11 @@
 {
   "name": "tyche-transforms",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "Transformation functions for Tyche market data pipelines",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tyche_transforms-0.1.2.tar.gz",
-  "download_time": "2026-01-15T14:31:05.186122",
+  "download_filename": "tyche_transforms-0.1.4.tar.gz",
+  "download_time": "2026-01-16T11:31:50.353052",
   "package_url": "https://pypi.org/project/tyche-transforms/"
 }

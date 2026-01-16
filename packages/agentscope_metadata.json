@@ -1,0 +1,11 @@
+{
+  "name": "agentscope",
+  "version": "1.0.12",
+  "summary": "AgentScope: A Flexible yet Robust Multi-Agent Platform.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "agentscope-1.0.12.tar.gz",
+  "download_time": "2026-01-16T11:31:32.675029",
+  "package_url": "https://pypi.org/project/agentscope/"
+}

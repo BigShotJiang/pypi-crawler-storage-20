@@ -1,0 +1,11 @@
+{
+  "name": "DefDAP",
+  "version": "1.1.2",
+  "summary": "A python library for correlating EBSD and HRDIC data.",
+  "author": "Rhys Thomas, João Quinta da Fonseca",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "defdap-1.1.2.tar.gz",
+  "download_time": "2026-01-16T11:32:06.737127",
+  "package_url": "https://pypi.org/project/DefDAP/"
+}
