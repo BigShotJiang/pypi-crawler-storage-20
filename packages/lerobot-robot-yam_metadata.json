@@ -1,11 +1,11 @@
 {
   "name": "lerobot-robot-yam",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "YAM follower robot plugin for LeRobot",
   "author": "Praveen Selvaraj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lerobot_robot_yam-0.1.0.tar.gz",
-  "download_time": "2026-01-16T11:53:27.119160",
+  "download_filename": "lerobot_robot_yam-0.1.1.tar.gz",
+  "download_time": "2026-01-16T13:27:50.450695",
   "package_url": "https://pypi.org/project/lerobot-robot-yam/"
 }

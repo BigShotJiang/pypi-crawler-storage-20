@@ -1,11 +1,11 @@
 {
   "name": "lerobot-teleoperator-yam-gello",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "YAM leader teleoperator plugin for LeRobot",
   "author": "Praveen Selvaraj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lerobot_teleoperator_yam_gello-0.1.0.tar.gz",
-  "download_time": "2026-01-16T11:53:26.573944",
+  "download_filename": "lerobot_teleoperator_yam_gello-0.1.1.tar.gz",
+  "download_time": "2026-01-16T13:27:48.801518",
   "package_url": "https://pypi.org/project/lerobot-teleoperator-yam-gello/"
 }

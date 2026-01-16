@@ -1,0 +1,11 @@
+{
+  "name": "tutor-notes",
+  "version": "21.0.0",
+  "summary": "A Tutor plugin for student notes",
+  "author": "Edly",
+  "license": "AGPL-3.0-only",
+  "home_page": null,
+  "download_filename": "tutor_notes-21.0.0.tar.gz",
+  "download_time": "2026-01-16T13:27:41.867138",
+  "package_url": "https://pypi.org/project/tutor-notes/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "cuipyd",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "A Python library for creating Terminal UIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cuipyd-0.0.4.tar.gz",
-  "download_time": "2026-01-15T20:49:16.934698",
+  "download_filename": "cuipyd-0.0.5.tar.gz",
+  "download_time": "2026-01-16T13:28:02.867371",
   "package_url": "https://pypi.org/project/cuipyd/"
 }

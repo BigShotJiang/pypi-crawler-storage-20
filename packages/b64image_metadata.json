@@ -1,0 +1,11 @@
+{
+  "name": "b64image",
+  "version": "0.1.0",
+  "summary": "Base64 image encoding/decoding with LLM API support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "b64image-0.1.0.tar.gz",
+  "download_time": "2026-01-16T13:27:38.223180",
+  "package_url": "https://pypi.org/project/b64image/"
+}

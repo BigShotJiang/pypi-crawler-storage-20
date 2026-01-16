@@ -1,11 +1,11 @@
 {
   "name": "pyllm-inference",
-  "version": "2.0.1",
+  "version": "2.0.3",
   "summary": "PyLLM: LLM Inference with Streaming Chat, OpenAI-compatible API, and TPU-INL acceleration",
   "author": "nano3",
   "license": null,
   "home_page": "https://github.com/Web3-League/pyllm",
-  "download_filename": "pyllm_inference-2.0.1.tar.gz",
-  "download_time": "2026-01-12T19:22:56.157441",
+  "download_filename": "pyllm_inference-2.0.3.tar.gz",
+  "download_time": "2026-01-16T13:28:01.282533",
   "package_url": "https://pypi.org/project/pyllm-inference/"
 }

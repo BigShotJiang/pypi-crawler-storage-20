@@ -1,11 +1,11 @@
 {
   "name": "yam-common",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Shared utilities for YAM arm LeRobot plugins",
   "author": "Praveen Selvaraj",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yam_common-0.1.0.tar.gz",
-  "download_time": "2026-01-16T11:53:27.661061",
+  "download_filename": "yam_common-0.1.1.tar.gz",
+  "download_time": "2026-01-16T13:27:52.064778",
   "package_url": "https://pypi.org/project/yam-common/"
 }

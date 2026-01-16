@@ -1,0 +1,11 @@
+{
+  "name": "pip-upgrade-tool",
+  "version": "1.0.2",
+  "summary": "An easy tool for upgrading all of your packages while not breaking dependencies",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pip_upgrade_tool-1.0.2.tar.gz",
+  "download_time": "2026-01-16T13:28:06.666711",
+  "package_url": "https://pypi.org/project/pip-upgrade-tool/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vss-tools",
+  "version": "6.0.0",
+  "summary": "COVESA Vehicle Signal Specification tooling.",
+  "author": null,
+  "license": "Mozilla Public License 2.0",
+  "home_page": null,
+  "download_filename": "vss_tools-6.0.0.tar.gz",
+  "download_time": "2026-01-16T13:28:24.498580",
+  "package_url": "https://pypi.org/project/vss-tools/"
+}

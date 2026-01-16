@@ -1,0 +1,11 @@
+{
+  "name": "pagexml-tools",
+  "version": "0.8.1",
+  "summary": "Utility functions for reading PageXML files",
+  "author": "Marijn Koolen",
+  "license": "MIT",
+  "home_page": "https://github.com/knaw-huc/pagexml",
+  "download_filename": "pagexml_tools-0.8.1.tar.gz",
+  "download_time": "2026-01-16T13:27:43.422391",
+  "package_url": "https://pypi.org/project/pagexml-tools/"
+}

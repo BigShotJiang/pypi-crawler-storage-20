@@ -1,11 +1,11 @@
 {
   "name": "django-permission-engine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Unified Permission Registry (UPR) for Django & DRF",
   "author": "Sarthak",
   "license": "MIT",
   "home_page": "https://github.com/sarthaksnh5/django_permission_engine",
-  "download_filename": "django_permission_engine-0.1.1.tar.gz",
-  "download_time": "2026-01-16T12:40:42.437393",
+  "download_filename": "django_permission_engine-0.1.2.tar.gz",
+  "download_time": "2026-01-16T13:28:05.626920",
   "package_url": "https://pypi.org/project/django-permission-engine/"
 }
