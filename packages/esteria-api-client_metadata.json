@@ -1,0 +1,11 @@
+{
+  "name": "esteria-api-client",
+  "version": "0.0.12",
+  "summary": "A Rust client library for Esteria API with Python bindings",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "esteria_api_client-0.0.12.tar.gz",
+  "download_time": "2026-01-16T20:21:54.700448",
+  "package_url": "https://pypi.org/project/esteria-api-client/"
+}

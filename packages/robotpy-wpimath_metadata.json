@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-wpimath",
+  "version": "2026.2.1",
+  "summary": "Binary wrapper for FRC WPIMath library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_wpimath-2026.2.1-cp310-cp310-macosx_13_0_arm64.whl",
+  "download_time": "2026-01-16T20:22:06.678399",
+  "package_url": "https://pypi.org/project/robotpy-wpimath/"
+}

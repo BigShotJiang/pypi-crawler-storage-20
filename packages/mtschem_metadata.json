@@ -1,0 +1,11 @@
+{
+  "name": "mtschem",
+  "version": "2.0.0",
+  "summary": "Python library to handle Minetest schematics",
+  "author": "roya willing",
+  "license": null,
+  "home_page": null,
+  "download_filename": "mtschem-2.0.0.tar.gz",
+  "download_time": "2026-01-16T20:22:10.318365",
+  "package_url": "https://pypi.org/project/mtschem/"
+}
