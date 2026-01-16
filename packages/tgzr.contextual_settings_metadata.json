@@ -1,11 +1,11 @@
 {
   "name": "tgzr.contextual_settings",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "summary": "Manage your configuration data by stacking grouped edits.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tgzr_contextual_settings-0.0.9.tar.gz",
-  "download_time": "2026-01-15T18:41:18.719874",
+  "download_filename": "tgzr_contextual_settings-0.0.11.tar.gz",
+  "download_time": "2026-01-16T19:21:57.585419",
   "package_url": "https://pypi.org/project/tgzr.contextual_settings/"
 }

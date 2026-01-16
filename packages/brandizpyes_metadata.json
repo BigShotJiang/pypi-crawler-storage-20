@@ -1,11 +1,11 @@
 {
   "name": "brandizpyes",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "summary": "Brandiz Pyes - Python Utilities",
   "author": "Marco Brandizi",
   "license": null,
   "home_page": "https://github.com/marco-brandizi/brandizpyes.git",
-  "download_filename": "brandizpyes-1.1.1.tar.gz",
-  "download_time": "2026-01-15T22:48:20.010618",
+  "download_filename": "brandizpyes-1.1.2.tar.gz",
+  "download_time": "2026-01-16T19:21:51.071153",
   "package_url": "https://pypi.org/project/brandizpyes/"
 }

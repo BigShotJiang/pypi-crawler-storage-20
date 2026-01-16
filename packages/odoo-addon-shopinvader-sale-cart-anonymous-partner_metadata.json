@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-sale-cart-anonymous-partner",
+  "version": "16.0.2.0.0",
+  "summary": "Glue module between shopinvader_sale_cart and shopinvader_anonymous_partner. This module solves cart conflicts when an anonymous user sign in.",
+  "author": "Akretion",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_sale_cart_anonymous_partner-16.0.2.0.0-py3-none-any.whl",
+  "download_time": "2026-01-16T19:21:48.938750",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-sale-cart-anonymous-partner/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dj-brevo",
+  "version": "0.1.0",
+  "summary": "Django + Brevo for transactional emails and customer journey automations.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dj_brevo-0.1.0.tar.gz",
+  "download_time": "2026-01-16T19:21:55.936905",
+  "package_url": "https://pypi.org/project/dj-brevo/"
+}

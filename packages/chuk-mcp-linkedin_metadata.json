@@ -1,0 +1,11 @@
+{
+  "name": "chuk-mcp-linkedin",
+  "version": "0.2.2",
+  "summary": "Design system MCP server for creating LinkedIn posts with shadcn-inspired components, variants, and themes",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "chuk_mcp_linkedin-0.2.2.tar.gz",
+  "download_time": "2026-01-16T19:21:43.971497",
+  "package_url": "https://pypi.org/project/chuk-mcp-linkedin/"
+}
