@@ -1,0 +1,11 @@
+{
+  "name": "graphrecon",
+  "version": "1.4.2",
+  "summary": "Fast async GraphQL endpoint scanner",
+  "author": "memirhan",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "graphrecon-1.4.2.tar.gz",
+  "download_time": "2026-01-16T06:31:25.772958",
+  "package_url": "https://pypi.org/project/graphrecon/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "videosdk",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "summary": "VideoSDK Python SDK",
   "author": "videosdk",
   "license": null,
   "home_page": null,
-  "download_filename": "videosdk-0.2.8.tar.gz",
-  "download_time": "2026-01-13T13:30:01.509395",
+  "download_filename": "videosdk-0.2.9.tar.gz",
+  "download_time": "2026-01-16T06:31:57.675176",
   "package_url": "https://pypi.org/project/videosdk/"
 }

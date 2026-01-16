@@ -1,11 +1,11 @@
 {
   "name": "pymsio",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "MS I/O readers with optional vendor bindings",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymsio-0.1.4.tar.gz",
-  "download_time": "2026-01-15T01:24:26.332762",
+  "download_filename": "pymsio-0.1.5.tar.gz",
+  "download_time": "2026-01-16T06:31:30.428557",
   "package_url": "https://pypi.org/project/pymsio/"
 }

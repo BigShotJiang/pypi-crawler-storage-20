@@ -1,11 +1,11 @@
 {
   "name": "raja",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "summary": "Add your description here",
   "author": "Dr. Ernie Prabhakar",
   "license": null,
   "home_page": null,
-  "download_filename": "raja-0.4.0.tar.gz",
-  "download_time": "2026-01-16T01:26:41.891539",
+  "download_filename": "raja-0.4.1.tar.gz",
+  "download_time": "2026-01-16T06:31:16.443640",
   "package_url": "https://pypi.org/project/raja/"
 }
