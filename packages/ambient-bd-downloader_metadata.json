@@ -1,0 +1,11 @@
+{
+  "name": "ambient-bd-downloader",
+  "version": "0.6.0",
+  "summary": "Download data from Somnofy devices",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/chronopsychiatry/AMBIENT-BD-Somnofy-Data-Download",
+  "download_filename": "ambient_bd_downloader-0.6.0.tar.gz",
+  "download_time": "2026-01-16T11:42:36.353369",
+  "package_url": "https://pypi.org/project/ambient-bd-downloader/"
+}

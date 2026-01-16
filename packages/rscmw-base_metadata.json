@@ -1,0 +1,11 @@
+{
+  "name": "rscmw-base",
+  "version": "4.0.250",
+  "summary": "CMW Base System Remote-control module",
+  "author": "Rohde & Schwarz GmbH & Co. KG",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rscmw_base-4.0.250.tar.gz",
+  "download_time": "2026-01-16T11:42:46.381683",
+  "package_url": "https://pypi.org/project/rscmw-base/"
+}

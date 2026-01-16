@@ -1,0 +1,11 @@
+{
+  "name": "sumo-logger",
+  "version": "1.2.1",
+  "summary": "A lightweight Python logging handler for sending logs to Sumo Logic HTTP Sources.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sumo_logger-1.2.1.tar.gz",
+  "download_time": "2026-01-16T11:42:45.341897",
+  "package_url": "https://pypi.org/project/sumo-logger/"
+}

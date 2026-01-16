@@ -1,0 +1,11 @@
+{
+  "name": "phone-gen",
+  "version": "3.0.24",
+  "summary": "International phone number generation",
+  "author": "tolstislon",
+  "license": "MIT License",
+  "home_page": "https://github.com/tolstislon/phone-gen",
+  "download_filename": "phone_gen-3.0.24.tar.gz",
+  "download_time": "2026-01-16T11:42:54.209726",
+  "package_url": "https://pypi.org/project/phone-gen/"
+}

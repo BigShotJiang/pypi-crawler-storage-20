@@ -1,0 +1,11 @@
+{
+  "name": "skycalc-ipy",
+  "version": "0.7.0",
+  "summary": "Get atmospheric spectral information from the ESO skycalc server.",
+  "author": "Kieran Leschinski",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/AstarVienna/skycalc_ipy",
+  "download_filename": "skycalc_ipy-0.7.0.tar.gz",
+  "download_time": "2026-01-16T11:42:52.119607",
+  "package_url": "https://pypi.org/project/skycalc-ipy/"
+}

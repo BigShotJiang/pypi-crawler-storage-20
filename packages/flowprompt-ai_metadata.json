@@ -1,0 +1,11 @@
+{
+  "name": "flowprompt-ai",
+  "version": "0.2.1",
+  "summary": "Type-safe prompt management with automatic optimization for LLMs",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flowprompt_ai-0.2.1.tar.gz",
+  "download_time": "2026-01-16T11:42:33.649772",
+  "package_url": "https://pypi.org/project/flowprompt-ai/"
+}

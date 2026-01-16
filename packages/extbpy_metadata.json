@@ -1,0 +1,11 @@
+{
+  "name": "extbpy",
+  "version": "0.2.0",
+  "summary": "A powerful CLI tool for building Blender extensions with Python dependencies",
+  "author": "Brady Johnston",
+  "license": null,
+  "home_page": null,
+  "download_filename": "extbpy-0.2.0.tar.gz",
+  "download_time": "2026-01-16T11:42:36.872077",
+  "package_url": "https://pypi.org/project/extbpy/"
+}
