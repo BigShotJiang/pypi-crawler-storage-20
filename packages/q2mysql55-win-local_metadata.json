@@ -1,0 +1,11 @@
+{
+  "name": "q2mysql55-win-local",
+  "version": "0.1.9",
+  "summary": "Embedded local MySQL 5.5 server for portable Windows applications",
+  "author": "Andrei Puchko",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "q2mysql55_win_local-0.1.9.tar.gz",
+  "download_time": "2026-01-16T20:44:53.772842",
+  "package_url": "https://pypi.org/project/q2mysql55-win-local/"
+}

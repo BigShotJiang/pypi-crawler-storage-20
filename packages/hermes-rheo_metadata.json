@@ -1,0 +1,11 @@
+{
+  "name": "hermes-rheo",
+  "version": "1.2.11",
+  "summary": "piblin transforms tailored for advanced rheological analysis",
+  "author": "Alessandro Perego <aperego@mmm.com>",
+  "license": null,
+  "home_page": null,
+  "download_filename": "hermes_rheo-1.2.11-py3-none-any.whl",
+  "download_time": "2026-01-16T20:44:50.984673",
+  "package_url": "https://pypi.org/project/hermes-rheo/"
+}

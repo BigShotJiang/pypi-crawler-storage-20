@@ -1,11 +1,11 @@
 {
   "name": "stkai",
-  "version": "0.3.2",
+  "version": "0.3.4",
   "summary": "Python SDK for StackSpot AI - Remote Quick Commands and more",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "stkai-0.3.2.tar.gz",
-  "download_time": "2026-01-16T18:31:25.771668",
+  "download_filename": "stkai-0.3.4.tar.gz",
+  "download_time": "2026-01-16T20:45:19.046007",
   "package_url": "https://pypi.org/project/stkai/"
 }

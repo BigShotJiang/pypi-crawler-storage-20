@@ -1,11 +1,11 @@
 {
   "name": "telegram-send",
-  "version": "0.39.1",
+  "version": "0.39.2",
   "summary": "Send messages and files over Telegram from the command-line.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "telegram_send-0.39.1.tar.gz",
-  "download_time": "2026-01-15T16:33:17.510835",
+  "download_filename": "telegram_send-0.39.2.tar.gz",
+  "download_time": "2026-01-16T20:45:25.204492",
   "package_url": "https://pypi.org/project/telegram-send/"
 }

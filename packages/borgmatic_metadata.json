@@ -1,0 +1,11 @@
+{
+  "name": "borgmatic",
+  "version": "2.1.0",
+  "summary": "Simple, configuration-driven backup software for servers and workstations",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "borgmatic-2.1.0.tar.gz",
+  "download_time": "2026-01-16T20:44:49.188457",
+  "package_url": "https://pypi.org/project/borgmatic/"
+}

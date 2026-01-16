@@ -1,11 +1,11 @@
 {
   "name": "guidellm",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Guidance platform for deploying and managing large language models.",
   "author": "Red Hat",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "guidellm-0.5.1.tar.gz",
-  "download_time": "2026-01-12T21:17:53.484008",
+  "download_filename": "guidellm-0.5.2.tar.gz",
+  "download_time": "2026-01-16T20:45:06.921126",
   "package_url": "https://pypi.org/project/guidellm/"
 }

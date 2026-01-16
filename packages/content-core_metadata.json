@@ -1,11 +1,11 @@
 {
   "name": "content-core",
-  "version": "1.9.0",
+  "version": "1.10.0",
   "summary": "Extract what matters from any media source. Available as Python Library, macOS Service, CLI and MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "content_core-1.9.0-py3-none-any.whl",
-  "download_time": "2026-01-15T16:33:10.536537",
+  "download_filename": "content_core-1.10.0-py3-none-any.whl",
+  "download_time": "2026-01-16T20:45:33.985615",
   "package_url": "https://pypi.org/project/content-core/"
 }

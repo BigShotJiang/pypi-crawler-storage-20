@@ -1,0 +1,11 @@
+{
+  "name": "highlight-video-maker",
+  "version": "0.2.3",
+  "summary": "A utility to take several video inputs, take the loudest points, and create a compilation of them with smooth transitions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "highlight_video_maker-0.2.3.tar.gz",
+  "download_time": "2026-01-16T20:45:01.175715",
+  "package_url": "https://pypi.org/project/highlight-video-maker/"
+}
