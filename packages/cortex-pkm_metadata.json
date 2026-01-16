@@ -1,0 +1,11 @@
+{
+  "name": "cortex-pkm",
+  "version": "0.1.4",
+  "summary": "Plain text knowledge management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cortex_pkm-0.1.4.tar.gz",
+  "download_time": "2026-01-16T07:00:21.093318",
+  "package_url": "https://pypi.org/project/cortex-pkm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flake8-pygobject",
+  "version": "0.1.2",
+  "summary": "Flake8 plugin for detecting common PyGObject mistakes",
+  "author": "Gnomify",
+  "license": "Proprietary",
+  "home_page": "https://gitlab.com/gnomify/flake8_pygobject",
+  "download_filename": "flake8_pygobject-0.1.2.tar.gz",
+  "download_time": "2026-01-16T07:00:18.212166",
+  "package_url": "https://pypi.org/project/flake8-pygobject/"
+}

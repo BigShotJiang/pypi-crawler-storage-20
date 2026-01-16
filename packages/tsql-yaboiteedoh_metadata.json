@@ -1,11 +1,11 @@
 {
   "name": "tsql-yaboiteedoh",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tsql_yaboiteedoh-0.1.1.tar.gz",
-  "download_time": "2026-01-16T06:32:04.042825",
+  "download_filename": "tsql_yaboiteedoh-0.1.5.tar.gz",
+  "download_time": "2026-01-16T07:00:29.822789",
   "package_url": "https://pypi.org/project/tsql-yaboiteedoh/"
 }
