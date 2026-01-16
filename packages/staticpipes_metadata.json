@@ -1,0 +1,11 @@
+{
+  "name": "staticpipes",
+  "version": "0.6.0",
+  "summary": "StaticPipes, the flexible and extendable static site website generator in Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "staticpipes-0.6.0.tar.gz",
+  "download_time": "2026-01-16T11:53:33.735833",
+  "package_url": "https://pypi.org/project/staticpipes/"
+}
