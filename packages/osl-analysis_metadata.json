@@ -1,11 +1,11 @@
 {
   "name": "osl-analysis",
-  "version": "0.1.13",
+  "version": "0.1.15",
   "summary": "program for the analysis of physical processes of OSL curves",
   "author": "EDWIN JOEL PILCO QUISPE",
   "license": null,
   "home_page": "https://pypi.org/project/OSL_ANALYSIS/",
-  "download_filename": "osl_analysis-0.1.13.tar.gz",
-  "download_time": "2026-01-16T19:39:29.450964",
+  "download_filename": "osl_analysis-0.1.15.tar.gz",
+  "download_time": "2026-01-16T19:52:36.691885",
   "package_url": "https://pypi.org/project/osl-analysis/"
 }
