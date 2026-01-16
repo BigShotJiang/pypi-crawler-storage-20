@@ -1,0 +1,11 @@
+{
+  "name": "psmqtt",
+  "version": "2.6.1",
+  "summary": "Utility reporting system health and status via MQTT",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "psmqtt-2.6.1.tar.gz",
+  "download_time": "2026-01-16T08:55:41.122585",
+  "package_url": "https://pypi.org/project/psmqtt/"
+}

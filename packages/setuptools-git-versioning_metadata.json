@@ -1,0 +1,11 @@
+{
+  "name": "setuptools-git-versioning",
+  "version": "3.0.1",
+  "summary": "Use git repo data for building a version number according to PEP-440",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "setuptools_git_versioning-3.0.1.tar.gz",
+  "download_time": "2026-01-16T08:55:12.916437",
+  "package_url": "https://pypi.org/project/setuptools-git-versioning/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pycharter",
+  "version": "0.0.16",
+  "summary": "A Python package for data contract management with five core services: contract parsing, metadata storage, Pydantic generation, JSON Schema conversion, and runtime validation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pycharter-0.0.16.tar.gz",
+  "download_time": "2026-01-16T08:55:14.975466",
+  "package_url": "https://pypi.org/project/pycharter/"
+}

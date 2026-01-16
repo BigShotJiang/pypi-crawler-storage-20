@@ -1,11 +1,11 @@
 {
   "name": "pykrieg",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "A Pythonic wargame engine for Guy Debord's Le Jeu de la Guerre",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "pykrieg-0.2.0.tar.gz",
-  "download_time": "2026-01-13T10:21:29.755215",
+  "download_filename": "pykrieg-0.2.1.tar.gz",
+  "download_time": "2026-01-16T08:55:14.463717",
   "package_url": "https://pypi.org/project/pykrieg/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "hadoku-fidelity",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Fidelity trading automation with FastAPI service for hadoku",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hadoku_fidelity-1.0.3.tar.gz",
-  "download_time": "2026-01-16T08:28:11.688789",
+  "download_filename": "hadoku_fidelity-1.0.4.tar.gz",
+  "download_time": "2026-01-16T08:55:27.713282",
   "package_url": "https://pypi.org/project/hadoku-fidelity/"
 }

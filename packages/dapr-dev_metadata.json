@@ -1,11 +1,11 @@
 {
   "name": "dapr-dev",
-  "version": "1.16.0.dev60",
+  "version": "1.17.0.dev62",
   "summary": "The developmental release for Dapr Python SDK.",
   "author": "Dapr Authors",
   "license": "Apache",
   "home_page": "https://dapr.io/",
-  "download_filename": "dapr_dev-1.16.0.dev60.tar.gz",
-  "download_time": "2026-01-14T09:52:25.144543",
+  "download_filename": "dapr_dev-1.17.0.dev62.tar.gz",
+  "download_time": "2026-01-16T08:55:10.859600",
   "package_url": "https://pypi.org/project/dapr-dev/"
 }

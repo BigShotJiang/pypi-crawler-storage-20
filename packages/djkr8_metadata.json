@@ -1,0 +1,11 @@
+{
+  "name": "djkr8",
+  "version": "1.4.0",
+  "summary": "DJ playlist optimizer using Google OR-Tools for harmonic mixing and BPM matching",
+  "author": "Sage Choi",
+  "license": null,
+  "home_page": null,
+  "download_filename": "djkr8-1.4.0.tar.gz",
+  "download_time": "2026-01-16T08:55:43.180153",
+  "package_url": "https://pypi.org/project/djkr8/"
+}

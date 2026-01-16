@@ -1,0 +1,11 @@
+{
+  "name": "pyseafuel",
+  "version": "0.1.3",
+  "summary": "Package to numerically model a methanol producing island.",
+  "author": "Doug Keller",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyseafuel-0.1.3.tar.gz",
+  "download_time": "2026-01-16T08:55:24.185598",
+  "package_url": "https://pypi.org/project/pyseafuel/"
+}
