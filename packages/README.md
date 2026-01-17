@@ -1,23 +1,43 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-17T17:42:40.292457
-- **Total Packages**: 87
-- **Total Size**: 30.49 MB
+- **Download Time**: 2026-01-17T17:52:09.717123
+- **Total Packages**: 82
+- **Total Size**: 16.54 MB
 
 ## Packages List
+- claude-co
+- MaaDebugger
+- umar-python-tools-2026
+- fairpredictor
+- isapilib
+- dc-securex
+- odoo-addon-shopinvader-search-engine-image
+- kroget
+- ado-git-repo-insights
+- figquilt
+- landing-cloner
+- policyengine-uk
+- hfortix
+- egui-states
+- hfortix-fortios
+- agentberlin
+- pygraph-sp
+- pydantic-settings-aws
+- chinese-name-detector
+- cua-agent
+- takopi-slack-plugin
+- sagemaker-unified-studio-mcp-code-rec
+- rsatoolbox
+- clouvel-pro
+- credigraph
 - csvnorm
 - hfortix-core
 - agent-skills-hub
-- policyengine-uk
-- cua-agent
-- claude-co
 - mcp-cost-optim-genai
 - degiro-portfolio
 - odoo-addon-shopinvader-api-sale-loyalty
 - odoo-addon-shopinvader-schema-sale
-- chinese-name-detector
-- clouvel-pro
 - hipython
 - sphinx-orange-book-theme
 - proton-mail-bridge-client
@@ -36,7 +56,6 @@
 - slidedeckai
 - pathsim
 - cmdop
-- credigraph
 - easy-gateway
 - elastro-client
 - obra
@@ -52,7 +71,6 @@
 - quickcall-supertrace
 - hashprep
 - crawlgate
-- figquilt
 - coinsignal
 - sandwitches
 - console-cowboy
@@ -68,28 +86,5 @@
 - py-123pan-client
 - iris-pgwire
 - alibabacloud-websitebuild20250429
-- pygraph-sp
 - moteus-gui
 - moteus
-- octobot-trading
-- mcp-mesh
-- pstree-tui
-- mcp-mesh-core
-- esentity
-- codepathfinder
-- create-agentverse-agent
-- mimic-video
-- dj-brevo
-- db2model
-- odoo-addon-l10n-es-aeat-mod390
-- escape-sdk
-- stmath
-- internet-computer-wallet
-- just-bash
-- market-analyzer
-- mictrack
-- root-mcp
-- lautpy
-- PyTmcStepper
-- django-filthyfields
-- aiohomematic-test-support

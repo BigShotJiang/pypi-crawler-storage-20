@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-shopinvader-search-engine-image",
+  "version": "16.0.1.0.4",
+  "summary": "Add the export of Image for Shopinvader",
+  "author": "Akretion, ACSONE SA/NV",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/shopinvader/odoo-shopinvader",
+  "download_filename": "odoo_addon_shopinvader_search_engine_image-16.0.1.0.4-py3-none-any.whl",
+  "download_time": "2026-01-17T17:51:28.706561",
+  "package_url": "https://pypi.org/project/odoo-addon-shopinvader-search-engine-image/"
+}

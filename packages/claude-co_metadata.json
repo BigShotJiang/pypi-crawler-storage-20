@@ -1,11 +1,11 @@
 {
   "name": "claude-co",
-  "version": "0.1.10",
+  "version": "0.1.14",
   "summary": "Multi-agent coordination for Claude Code - connect multiple AI agents working on the same codebase",
   "author": "Jude Hawrani",
   "license": null,
   "home_page": null,
-  "download_filename": "claude_co-0.1.10.tar.gz",
-  "download_time": "2026-01-17T17:41:56.257915",
+  "download_filename": "claude_co-0.1.14.tar.gz",
+  "download_time": "2026-01-17T17:51:24.942073",
   "package_url": "https://pypi.org/project/claude-co/"
 }
