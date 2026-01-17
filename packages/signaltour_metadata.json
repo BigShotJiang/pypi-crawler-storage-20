@@ -1,11 +1,11 @@
 {
   "name": "signaltour",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "summary": "Python package for the whole process of signal loading management, preprocessing, in-depth analysis and visualization of one-dimensional time series oscillation data",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "signaltour-1.0.1.tar.gz",
-  "download_time": "2026-01-13T06:59:45.972612",
+  "download_filename": "signaltour-1.1.0.tar.gz",
+  "download_time": "2026-01-17T13:20:24.547025",
   "package_url": "https://pypi.org/project/signaltour/"
 }

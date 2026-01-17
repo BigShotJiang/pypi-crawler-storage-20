@@ -1,0 +1,11 @@
+{
+  "name": "khater",
+  "version": "0.1.0",
+  "summary": "RAG based hate speech detector",
+  "author": "YourName",
+  "license": null,
+  "home_page": null,
+  "download_filename": "khater-0.1.0.tar.gz",
+  "download_time": "2026-01-17T13:20:28.735526",
+  "package_url": "https://pypi.org/project/khater/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "p8s",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "A batteries-included async Python framework combining Django's DX with FastAPI's performance",
   "author": "Giuseppe Lapietra",
   "license": null,
   "home_page": null,
-  "download_filename": "p8s-1.3.0.tar.gz",
-  "download_time": "2026-01-17T12:36:11.474003",
+  "download_filename": "p8s-1.4.0.tar.gz",
+  "download_time": "2026-01-17T13:20:13.444045",
   "package_url": "https://pypi.org/project/p8s/"
 }

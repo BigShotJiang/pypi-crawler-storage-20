@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-htmlkit",
+  "version": "0.1.0rc5",
+  "summary": "Lightweight HTML rendering plugin for NoneBot",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_htmlkit-0.1.0rc5.tar.gz",
+  "download_time": "2026-01-17T13:20:38.722945",
+  "package_url": "https://pypi.org/project/nonebot-plugin-htmlkit/"
+}

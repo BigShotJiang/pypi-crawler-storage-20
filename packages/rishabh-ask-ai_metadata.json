@@ -1,0 +1,11 @@
+{
+  "name": "rishabh-ask-ai",
+  "version": "1.0.0",
+  "summary": "This is a python package which can return outputs given by ChatGPT using groq",
+  "author": "Rishabh Birthalia",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rishabh_ask_ai-1.0.0.tar.gz",
+  "download_time": "2026-01-17T13:20:35.582134",
+  "package_url": "https://pypi.org/project/rishabh-ask-ai/"
+}

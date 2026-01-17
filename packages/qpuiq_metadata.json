@@ -1,11 +1,11 @@
 {
   "name": "qpuiq",
-  "version": "0.28",
+  "version": "0.29",
   "summary": "\"PUI\" Python Declarative UI Framework",
   "author": "Buganini Chiu",
   "license": null,
   "home_page": "https://github.com/buganini/PUI",
-  "download_filename": "qpuiq-0.28.tar.gz",
-  "download_time": "2026-01-17T07:19:18.526274",
+  "download_filename": "qpuiq-0.29.tar.gz",
+  "download_time": "2026-01-17T13:20:32.464378",
   "package_url": "https://pypi.org/project/qpuiq/"
 }

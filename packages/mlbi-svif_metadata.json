@@ -1,0 +1,11 @@
+{
+  "name": "mlbi-svif",
+  "version": "0.0.2",
+  "summary": "MLBI Lab SVIF",
+  "author": "Seokhyun Yoon",
+  "license": null,
+  "home_page": "https://github.com/combio-dku",
+  "download_filename": "mlbi_svif-0.0.2.tar.gz",
+  "download_time": "2026-01-17T13:20:34.543348",
+  "package_url": "https://pypi.org/project/mlbi-svif/"
+}
