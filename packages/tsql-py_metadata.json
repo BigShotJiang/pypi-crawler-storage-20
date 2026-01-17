@@ -1,0 +1,11 @@
+{
+  "name": "tsql-py",
+  "version": "0.0.0b1",
+  "summary": "Templated SQL (A templating engine for SQL)",
+  "author": "Arne K. (TRC-Loop)",
+  "license": "GPL-3.0",
+  "home_page": "https://go.gmrze.com/tsql",
+  "download_filename": "tsql_py-0.0.0b1.tar.gz",
+  "download_time": "2026-01-17T20:21:31.272321",
+  "package_url": "https://pypi.org/project/tsql-py/"
+}

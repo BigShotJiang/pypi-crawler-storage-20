@@ -1,11 +1,11 @@
 {
   "name": "yandex-tracker-mcp",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "summary": "Yandex Tracker MCP Server",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "yandex_tracker_mcp-0.6.0.tar.gz",
-  "download_time": "2026-01-17T19:52:15.843166",
+  "download_filename": "yandex_tracker_mcp-0.6.1.tar.gz",
+  "download_time": "2026-01-17T20:21:33.326108",
   "package_url": "https://pypi.org/project/yandex-tracker-mcp/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "arrow-bcp",
+  "version": "0.9.3",
+  "summary": "Transfer data between pyarrow and SQL Server using Microsoft's Bulk Copy Program",
+  "author": "Felix Graßl",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arrow_bcp-0.9.3.tar.gz",
+  "download_time": "2026-01-17T20:21:27.139399",
+  "package_url": "https://pypi.org/project/arrow-bcp/"
+}

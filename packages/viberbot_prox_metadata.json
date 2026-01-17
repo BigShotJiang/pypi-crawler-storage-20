@@ -1,0 +1,11 @@
+{
+  "name": "viberbot_prox",
+  "version": "1.0.12",
+  "summary": "forked from https://pypi.org/project/viberbot/ (https://github.com/Viber/viber-bot-python)",
+  "author": "serje ù",
+  "license": "MIT",
+  "home_page": "https://github.com/rdnve/viberbot-proxy",
+  "download_filename": "viberbot_prox-1.0.12.tar.gz",
+  "download_time": "2026-01-17T20:21:03.460085",
+  "package_url": "https://pypi.org/project/viberbot_prox/"
+}

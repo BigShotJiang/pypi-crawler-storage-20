@@ -1,11 +1,11 @@
 {
   "name": "vlt-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Enterprise-grade secure environment variable manager with AES-256 encryption",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vlt_cli-1.0.0.tar.gz",
-  "download_time": "2026-01-17T09:19:50.964991",
+  "download_filename": "vlt_cli-1.0.1.tar.gz",
+  "download_time": "2026-01-17T20:21:01.910389",
   "package_url": "https://pypi.org/project/vlt-cli/"
 }

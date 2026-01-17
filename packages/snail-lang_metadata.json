@@ -1,11 +1,11 @@
 {
   "name": "snail-lang",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Snail programming language interpreter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "snail_lang-0.5.1.tar.gz",
-  "download_time": "2026-01-17T19:16:34.880854",
+  "download_filename": "snail_lang-0.5.2.tar.gz",
+  "download_time": "2026-01-17T20:21:06.561074",
   "package_url": "https://pypi.org/project/snail-lang/"
 }

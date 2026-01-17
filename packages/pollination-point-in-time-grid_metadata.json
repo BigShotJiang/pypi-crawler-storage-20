@@ -1,0 +1,11 @@
+{
+  "name": "pollination-point-in-time-grid",
+  "version": "0.4.0",
+  "summary": "Point-in-time grid-based recipe for Pollination.",
+  "author": "ladybug-tools",
+  "license": "PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt",
+  "home_page": "https://github.com/pollination/point-in-time-grid",
+  "download_filename": "pollination_point_in_time_grid-0.4.0.tar.gz",
+  "download_time": "2026-01-17T20:21:32.301059",
+  "package_url": "https://pypi.org/project/pollination-point-in-time-grid/"
+}

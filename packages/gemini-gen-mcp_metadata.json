@@ -1,0 +1,11 @@
+{
+  "name": "gemini-gen-mcp",
+  "version": "0.0.2",
+  "summary": "MCP Server for Gemini Image and Audio generation",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gemini_gen_mcp-0.0.2.tar.gz",
+  "download_time": "2026-01-17T20:21:12.200657",
+  "package_url": "https://pypi.org/project/gemini-gen-mcp/"
+}

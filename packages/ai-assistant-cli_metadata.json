@@ -1,11 +1,11 @@
 {
   "name": "ai-assistant-cli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "AI-powered CLI assistant using Gemini API",
   "author": "Ruchira",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_assistant_cli-0.1.0.tar.gz",
-  "download_time": "2026-01-17T18:28:01.898830",
+  "download_filename": "ai_assistant_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-17T20:21:37.007709",
   "package_url": "https://pypi.org/project/ai-assistant-cli/"
 }

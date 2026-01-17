@@ -1,0 +1,11 @@
+{
+  "name": "pollination-point-in-time-view",
+  "version": "0.5.0",
+  "summary": "Point-in-time view-based recipe for Pollination.",
+  "author": "ladybug-tools",
+  "license": "PolyForm Shield License 1.0.0, https://polyformproject.org/wp-content/uploads/2020/06/PolyForm-Shield-1.0.0.txt",
+  "home_page": "https://github.com/pollination/point-in-time-view",
+  "download_filename": "pollination_point_in_time_view-0.5.0.tar.gz",
+  "download_time": "2026-01-17T20:21:21.951367",
+  "package_url": "https://pypi.org/project/pollination-point-in-time-view/"
+}

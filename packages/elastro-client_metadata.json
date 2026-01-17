@@ -1,11 +1,11 @@
 {
   "name": "elastro-client",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "summary": "A comprehensive Python library for Elasticsearch management with both programmatic and CLI interfaces",
   "author": "Austin Jorgensen",
   "license": null,
   "home_page": null,
-  "download_filename": "elastro_client-1.2.2.tar.gz",
-  "download_time": "2026-01-17T17:42:11.559412",
+  "download_filename": "elastro_client-1.2.3.tar.gz",
+  "download_time": "2026-01-17T20:21:02.946530",
   "package_url": "https://pypi.org/project/elastro-client/"
 }
