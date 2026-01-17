@@ -1,0 +1,11 @@
+{
+  "name": "rics",
+  "version": "6.1.1",
+  "summary": "My personal Python toolbox.",
+  "author": "Richard Sundqvist",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rics-6.1.1.tar.gz",
+  "download_time": "2026-01-17T19:41:24.199642",
+  "package_url": "https://pypi.org/project/rics/"
+}

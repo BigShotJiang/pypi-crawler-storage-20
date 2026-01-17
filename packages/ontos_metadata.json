@@ -1,0 +1,11 @@
+{
+  "name": "ontos",
+  "version": "3.0.0",
+  "summary": "Local-first documentation management for AI-assisted development",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ontos-3.0.0.tar.gz",
+  "download_time": "2026-01-17T19:41:24.762085",
+  "package_url": "https://pypi.org/project/ontos/"
+}

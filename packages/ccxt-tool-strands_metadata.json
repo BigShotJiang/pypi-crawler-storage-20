@@ -1,11 +1,11 @@
 {
   "name": "ccxt-tool-strands",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "CCXT / CCXT Pro tools for Strands Agents",
   "author": "macmert",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ccxt_tool_strands-0.1.7.tar.gz",
-  "download_time": "2026-01-17T19:31:41.319123",
+  "download_filename": "ccxt_tool_strands-0.1.8.tar.gz",
+  "download_time": "2026-01-17T19:41:37.605823",
   "package_url": "https://pypi.org/project/ccxt-tool-strands/"
 }
