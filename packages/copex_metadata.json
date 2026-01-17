@@ -1,0 +1,11 @@
+{
+  "name": "copex",
+  "version": "0.1.0",
+  "summary": "Copilot Extended - Resilient wrapper for GitHub Copilot SDK with auto-retry, Ralph Wiggum loops, and more",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "copex-0.1.0.tar.gz",
+  "download_time": "2026-01-17T18:53:32.659900",
+  "package_url": "https://pypi.org/project/copex/"
+}

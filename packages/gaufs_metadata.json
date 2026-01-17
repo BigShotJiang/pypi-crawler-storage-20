@@ -1,11 +1,11 @@
 {
   "name": "gaufs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Genetic Algorithm for Unsupervised Feature Selection for Clustering",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gaufs-1.1.0.tar.gz",
-  "download_time": "2026-01-17T18:27:45.422799",
+  "download_filename": "gaufs-1.1.1.tar.gz",
+  "download_time": "2026-01-17T18:53:29.013257",
   "package_url": "https://pypi.org/project/gaufs/"
 }

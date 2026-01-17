@@ -1,0 +1,11 @@
+{
+  "name": "onedrive-skill",
+  "version": "0.1.0",
+  "summary": "A Python skill for connecting to Microsoft OneDrive via Graph API",
+  "author": "lucapaone76",
+  "license": "MIT",
+  "home_page": "https://github.com/lucapaone76/onedrive-connect",
+  "download_filename": "onedrive_skill-0.1.0.tar.gz",
+  "download_time": "2026-01-17T18:53:17.510920",
+  "package_url": "https://pypi.org/project/onedrive-skill/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "ukraine",
-  "version": "0.3.9",
+  "version": "0.4.0",
   "summary": "Ukraine: A Data Science Toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ukraine-0.3.9.tar.gz",
-  "download_time": "2026-01-16T22:57:53.461111",
+  "download_filename": "ukraine-0.4.0.tar.gz",
+  "download_time": "2026-01-17T18:53:20.617751",
   "package_url": "https://pypi.org/project/ukraine/"
 }

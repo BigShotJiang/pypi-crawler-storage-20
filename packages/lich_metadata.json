@@ -1,11 +1,11 @@
 {
   "name": "lich",
-  "version": "1.12.8",
+  "version": "1.12.9",
   "summary": "AI-Ready Full-Stack Project Generator",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "lich-1.12.8.tar.gz",
-  "download_time": "2026-01-17T15:52:49.017388",
+  "download_filename": "lich-1.12.9.tar.gz",
+  "download_time": "2026-01-17T18:53:05.534904",
   "package_url": "https://pypi.org/project/lich/"
 }

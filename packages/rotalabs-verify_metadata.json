@@ -1,0 +1,11 @@
+{
+  "name": "rotalabs-verify",
+  "version": "0.0.1",
+  "summary": "Verified code synthesis with CE2P hypothesis - Confidence-Error-Effort-Progress signals",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rotalabs_verify-0.0.1.tar.gz",
+  "download_time": "2026-01-17T18:53:31.127042",
+  "package_url": "https://pypi.org/project/rotalabs-verify/"
+}

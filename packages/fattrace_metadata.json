@@ -1,0 +1,11 @@
+{
+  "name": "fattrace",
+  "version": "0.0.2",
+  "summary": "Informative Stacktrace that shows everything on the stack",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fattrace-0.0.2.tar.gz",
+  "download_time": "2026-01-17T18:53:02.635507",
+  "package_url": "https://pypi.org/project/fattrace/"
+}

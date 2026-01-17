@@ -1,0 +1,11 @@
+{
+  "name": "stream-topic",
+  "version": "0.3.0",
+  "summary": "A python package for expanded topic modeling and metrics",
+  "author": "Anton Thielmann",
+  "license": "MIT",
+  "home_page": "https://github.com/AnFreTh/STREAM",
+  "download_filename": "stream_topic-0.3.0.tar.gz",
+  "download_time": "2026-01-17T18:53:41.283165",
+  "package_url": "https://pypi.org/project/stream-topic/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "optiwindnet",
+  "version": "0.1.6",
+  "summary": "Tool for designing and optimizing the electrical cable network of offshore wind farms",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "optiwindnet-0.1.6.tar.gz",
+  "download_time": "2026-01-17T18:53:39.660066",
+  "package_url": "https://pypi.org/project/optiwindnet/"
+}
