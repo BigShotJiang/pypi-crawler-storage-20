@@ -1,0 +1,11 @@
+{
+  "name": "bsm-api-client",
+  "version": "1.4.0",
+  "summary": "A Python client library for the Bedrock Server Manager API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bsm_api_client-1.4.0.tar.gz",
+  "download_time": "2026-01-17T17:42:02.257885",
+  "package_url": "https://pypi.org/project/bsm-api-client/"
+}

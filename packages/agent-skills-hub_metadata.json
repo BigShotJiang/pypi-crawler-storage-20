@@ -1,11 +1,11 @@
 {
   "name": "agent-skills-hub",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "A package manager for Agent skills",
   "author": "youzaiAGI",
   "license": null,
   "home_page": null,
-  "download_filename": "agent_skills_hub-1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-17T16:22:34.950137",
+  "download_filename": "agent_skills_hub-1.0.2-py3-none-any.whl",
+  "download_time": "2026-01-17T17:41:54.535985",
   "package_url": "https://pypi.org/project/agent-skills-hub/"
 }

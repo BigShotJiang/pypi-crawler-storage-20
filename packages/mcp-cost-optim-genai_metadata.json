@@ -1,0 +1,11 @@
+{
+  "name": "mcp-cost-optim-genai",
+  "version": "0.1.0",
+  "summary": "MCP server package - Created by Poneglyph for security research",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mcp_cost_optim_genai-0.1.0.tar.gz",
+  "download_time": "2026-01-17T17:41:56.829451",
+  "package_url": "https://pypi.org/project/mcp-cost-optim-genai/"
+}

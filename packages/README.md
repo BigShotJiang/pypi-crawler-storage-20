@@ -1,17 +1,60 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-17T17:19:03.588621
-- **Total Packages**: 92
-- **Total Size**: 30.29 MB
+- **Download Time**: 2026-01-17T17:42:40.292457
+- **Total Packages**: 87
+- **Total Size**: 30.49 MB
 
 ## Packages List
+- csvnorm
+- hfortix-core
+- agent-skills-hub
+- policyengine-uk
+- cua-agent
+- claude-co
+- mcp-cost-optim-genai
+- degiro-portfolio
+- odoo-addon-shopinvader-api-sale-loyalty
+- odoo-addon-shopinvader-schema-sale
+- chinese-name-detector
+- clouvel-pro
+- hipython
+- sphinx-orange-book-theme
+- proton-mail-bridge-client
+- bsm-api-client
+- swap-env
+- sheaf-lang
+- ReverseBox
+- tidb-mcp-server
+- beancount-chile
+- snailz
+- ainotebookdev
+- waifuboard
+- midlearn
+- veeksha
+- timbal
+- slidedeckai
+- pathsim
+- cmdop
+- credigraph
+- easy-gateway
+- elastro-client
+- obra
+- memvid-sdk
+- python-package-downloader
+- smartflow-sdk
+- devlaunch
+- cost-katana
+- scrappy-ai
+- xgift
+- Topsis-Aishani-102303250
+- code-editor-pro
+- quickcall-supertrace
 - hashprep
 - crawlgate
 - figquilt
 - coinsignal
 - sandwitches
-- python-package-downloader
 - console-cowboy
 - pogo-migrate
 - cdklabs.deploy-time-build
@@ -23,10 +66,8 @@
 - vyas-group-scripts
 - cdek
 - py-123pan-client
-- xgift
 - iris-pgwire
 - alibabacloud-websitebuild20250429
-- csvnorm
 - pygraph-sp
 - moteus-gui
 - moteus
@@ -40,10 +81,8 @@
 - mimic-video
 - dj-brevo
 - db2model
-- chinese-name-detector
 - odoo-addon-l10n-es-aeat-mod390
 - escape-sdk
-- aiwaf
 - stmath
 - internet-computer-wallet
 - just-bash
@@ -51,50 +90,6 @@
 - mictrack
 - root-mcp
 - lautpy
-- devlaunch
 - PyTmcStepper
 - django-filthyfields
 - aiohomematic-test-support
-- aiohomematic
-- justhtml
-- num2words2
-- canvas-sak
-- frago-cli
-- openfisca-nouvelle-caledonie
-- django-enterprise-maintenance-suite
-- zrm
-- abses
-- takopi-slack-plugin
-- factpulse
-- webscout
-- dj-spinners
-- unitysvc-services
-- bbpylib
-- langgraph-viz
-- django-returns
-- update-version
-- chguard
-- pytrilogy
-- sentienceapi
-- spritepro
-- appdaemon
-- monoco-toolkit
-- claude-board
-- python-socketio-stubs
-- cfn2iam
-- rayforge
-- pogo-core
-- poly-position-watcher
-- fastmcp-transport-ble
-- runtime-guard
-- oldnews
-- taskmanager-exe
-- hbb2obb
-- dc-securex
-- survival
-- pydash
-- PraisonAI
-- kagglerun
-- gammarers.aws-cdk-errors
-- pythonic-xray
-- python-plot-mcp
