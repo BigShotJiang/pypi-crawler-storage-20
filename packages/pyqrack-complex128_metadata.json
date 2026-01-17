@@ -1,11 +1,11 @@
 {
   "name": "pyqrack-complex128",
-  "version": "1.81.0",
+  "version": "1.82.0",
   "summary": "pyqrack - Pure Python vm6502q/qrack Wrapper",
   "author": "Daniel Strano",
   "license": "MIT",
   "home_page": "https://github.com/vm6502q/pyqrack",
-  "download_filename": "pyqrack_complex128-1.81.0.tar.gz",
-  "download_time": "2026-01-14T18:30:43.919216",
+  "download_filename": "pyqrack_complex128-1.82.0.tar.gz",
+  "download_time": "2026-01-17T16:48:25.942092",
   "package_url": "https://pypi.org/project/pyqrack-complex128/"
 }

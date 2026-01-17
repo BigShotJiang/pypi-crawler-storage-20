@@ -1,0 +1,11 @@
+{
+  "name": "runtime-guard",
+  "version": "0.5",
+  "summary": "A ressource monitor without any dependencies.",
+  "author": "Tobia Ippolito",
+  "license": "MIT",
+  "home_page": "https://github.com/M-106/Runtime-Guard",
+  "download_filename": "runtime_guard-0.5.tar.gz",
+  "download_time": "2026-01-17T16:47:57.407213",
+  "package_url": "https://pypi.org/project/runtime-guard/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "mac_appgen",
+  "version": "1.0.0",
+  "summary": "macOS app generator",
+  "author": "William",
+  "license": "MIT",
+  "home_page": "https://github.com/Wdboyes13/mac_appgen",
+  "download_filename": "mac_appgen-1.0.0.tar.gz",
+  "download_time": "2026-01-17T16:48:07.383924",
+  "package_url": "https://pypi.org/project/mac_appgen/"
+}

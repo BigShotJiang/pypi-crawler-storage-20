@@ -1,11 +1,11 @@
 {
   "name": "factpulse",
-  "version": "3.0.35",
+  "version": "3.0.36",
   "summary": "FactPulse REST API",
   "author": "FactPulse",
   "license": "Proprietary",
   "home_page": "https://github.com/factpulse/sdk-python",
-  "download_filename": "factpulse-3.0.35.tar.gz",
-  "download_time": "2026-01-17T16:22:07.617395",
+  "download_filename": "factpulse-3.0.36.tar.gz",
+  "download_time": "2026-01-17T16:48:10.756529",
   "package_url": "https://pypi.org/project/factpulse/"
 }

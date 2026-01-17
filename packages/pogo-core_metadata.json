@@ -1,0 +1,11 @@
+{
+  "name": "pogo-core",
+  "version": "0.1.1",
+  "summary": "Database migration tool for asyncpg",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pogo_core-0.1.1.tar.gz",
+  "download_time": "2026-01-17T16:47:55.796814",
+  "package_url": "https://pypi.org/project/pogo-core/"
+}

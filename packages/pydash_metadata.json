@@ -1,0 +1,11 @@
+{
+  "name": "pydash",
+  "version": "8.0.6",
+  "summary": "The kitchen sink of Python utility libraries for doing \"stuff\" in a functional way. Based on the Lo-Dash Javascript library.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pydash-8.0.6.tar.gz",
+  "download_time": "2026-01-17T16:48:00.503010",
+  "package_url": "https://pypi.org/project/pydash/"
+}
