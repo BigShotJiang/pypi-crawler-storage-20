@@ -1,11 +1,11 @@
 {
   "name": "droidrun",
-  "version": "0.4.21",
+  "version": "0.4.22",
   "summary": "A framework for controlling Android devices through LLM agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "droidrun-0.4.21.tar.gz",
-  "download_time": "2026-01-13T15:59:04.688271",
+  "download_filename": "droidrun-0.4.22.tar.gz",
+  "download_time": "2026-01-17T10:20:12.804999",
   "package_url": "https://pypi.org/project/droidrun/"
 }

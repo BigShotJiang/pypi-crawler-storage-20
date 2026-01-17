@@ -1,0 +1,11 @@
+{
+  "name": "tablesqlite",
+  "version": "0.1.9",
+  "summary": "Declarative SQLite table builder and schema manager with integration support for recordsQL.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tablesqlite-0.1.9.tar.gz",
+  "download_time": "2026-01-17T10:20:19.628326",
+  "package_url": "https://pypi.org/project/tablesqlite/"
+}

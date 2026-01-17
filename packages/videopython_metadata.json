@@ -1,11 +1,11 @@
 {
   "name": "videopython",
-  "version": "0.8.3",
+  "version": "0.11.0",
   "summary": "Minimal video generation and processing library.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "videopython-0.8.3.tar.gz",
-  "download_time": "2026-01-13T21:19:19.121046",
+  "download_filename": "videopython-0.11.0.tar.gz",
+  "download_time": "2026-01-17T10:20:11.764020",
   "package_url": "https://pypi.org/project/videopython/"
 }

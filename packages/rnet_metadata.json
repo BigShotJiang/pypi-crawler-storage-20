@@ -1,0 +1,11 @@
+{
+  "name": "rnet",
+  "version": "2.4.2",
+  "summary": "A blazing-fast Python HTTP client with TLS fingerprint",
+  "author": null,
+  "license": "GPL-3.0",
+  "home_page": null,
+  "download_filename": "rnet-2.4.2.tar.gz",
+  "download_time": "2026-01-17T10:20:19.109022",
+  "package_url": "https://pypi.org/project/rnet/"
+}
