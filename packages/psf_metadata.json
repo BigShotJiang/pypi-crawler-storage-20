@@ -1,0 +1,11 @@
+{
+  "name": "psf",
+  "version": "2026.1.18",
+  "summary": "Point Spread Function calculations for fluorescence microscopy",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "psf-2026.1.18.tar.gz",
+  "download_time": "2026-01-17T22:20:54.821248",
+  "package_url": "https://pypi.org/project/psf/"
+}

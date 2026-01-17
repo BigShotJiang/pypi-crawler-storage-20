@@ -1,0 +1,11 @@
+{
+  "name": "t-level",
+  "version": "1.0.0",
+  "summary": "Command line utility for calculating the t-level achieved by running a given number of ECM curves.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "t_level-1.0.0.tar.gz",
+  "download_time": "2026-01-17T22:20:52.491837",
+  "package_url": "https://pypi.org/project/t-level/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "oomllama",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "summary": "Efficient LLM inference with .oom format - 2x smaller than GGUF. Dual GPU support, RoPE, KV-Cache & Flash Attention! pip install oomllama[cuda]",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "oomllama-0.3.6.tar.gz",
-  "download_time": "2026-01-17T21:40:46.969264",
+  "download_filename": "oomllama-0.3.7.tar.gz",
+  "download_time": "2026-01-17T22:20:47.240926",
   "package_url": "https://pypi.org/project/oomllama/"
 }

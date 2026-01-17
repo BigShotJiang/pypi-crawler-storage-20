@@ -1,11 +1,11 @@
 {
   "name": "ai-atlasforge",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Autonomous AI research and development platform powered by Claude",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ai_atlasforge-1.2.0.tar.gz",
-  "download_time": "2026-01-16T04:55:16.195180",
+  "download_filename": "ai_atlasforge-1.2.1.tar.gz",
+  "download_time": "2026-01-17T22:20:49.001344",
   "package_url": "https://pypi.org/project/ai-atlasforge/"
 }

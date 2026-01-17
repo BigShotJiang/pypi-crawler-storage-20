@@ -1,11 +1,11 @@
 {
   "name": "easy-px4-utils",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "summary": "Utility functions for easy-px4",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easy_px4_utils-0.1.4.tar.gz",
-  "download_time": "2026-01-17T19:16:38.497656",
+  "download_filename": "easy_px4_utils-0.1.5.tar.gz",
+  "download_time": "2026-01-17T22:20:49.577100",
   "package_url": "https://pypi.org/project/easy-px4-utils/"
 }

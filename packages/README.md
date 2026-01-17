@@ -1,18 +1,54 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-17T21:52:56.538848
-- **Total Packages**: 81
-- **Total Size**: 20.61 MB
+- **Download Time**: 2026-01-17T22:21:20.065342
+- **Total Packages**: 79
+- **Total Size**: 12.6 MB
 
 ## Packages List
+- gepa-adk
+- qsharp-widgets
+- qsharp-jupyterlab
+- pn5180-tagomatic
+- qsharp
+- qdk
+- sudosu
+- cat-llm
+- neuropipeline
+- ai-act-check
+- jps-slurm-utils
+- victron-vrm
+- edgygraph
+- compit-inext-api-beta
+- fid-ffmpeg
+- rtfunicode
+- JenkinsfileGenerator
+- mindustry-settings
+- geoparquet-io
+- dermalytics
+- indistinguishable-from-magic
+- detllm
+- txt2ebook
+- PraisonAI
+- ytp-dl
+- oomllama
+- fastmcp-extensions
+- quickcall-supertrace
+- ai-atlasforge
+- easy-px4-utils
+- topolib
+- lyra-geometry
+- montaigne
+- t-level
+- django-safe-migrations
+- thunderlab
+- safepass-cli
+- psf
 - bbpylib
 - mqtt-mcp
 - foundry-mcp
-- dermalytics
 - ras-commander
 - sqliter-py
-- rtfunicode
 - chronos-lab
 - data-designer
 - mixinforge
@@ -27,7 +63,6 @@
 - mcp-simple-timeserver
 - streamlink
 - userverse-python-client
-- compit-inext-api-beta
 - tamp
 - holmes-rs
 - mcp-vultr
@@ -37,7 +72,6 @@
 - mlserve-sdk
 - ksmyvoteinfo
 - zuspec
-- ytp-dl
 - checkdmarc
 - exec-sandbox
 - vaapi
@@ -49,41 +83,5 @@
 - mcp-memory-service
 - worldcluster
 - audioio
-- oomllama
 - botapi-py
 - kivy-chess-board
-- fid-ffmpeg
-- holodeck-ai
-- beancount-chile
-- bamnado
-- lyra-geometry
-- stario
-- opyra
-- BobBuildTool
-- neuropipeline
-- victron-vrm
-- confluence-assistant-skills-plugin
-- quickcall-integrations
-- flatagents
-- code-puppy
-- fbuild
-- quasarr
-- mcp-baselib
-- academic-refchecker
-- aa-fleetcomp
-- iris-devtester
-- jl-ecms-server
-- jl-ecms-client
-- montaigne
-- ucapi-framework
-- graph-generator-assistant
-- checkpaste
-- opendma-remote
-- codegraph
-- pg-sui
-- NeuralEngine
-- scs-architecture-handlers
-- dorkbot
-- agentmake
-- NeuralNetworks
-- aiinbx
