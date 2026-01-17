@@ -1,0 +1,11 @@
+{
+  "name": "pymelos",
+  "version": "0.1.3",
+  "summary": "Python monorepo manager",
+  "author": "Ye Lin Aung",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pymelos-0.1.3.tar.gz",
+  "download_time": "2026-01-17T11:32:54.426141",
+  "package_url": "https://pypi.org/project/pymelos/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kagglerun",
-  "version": "0.1.1",
-  "summary": "Execute Python on Kaggle's FREE H100 GPUs from your terminal. Perfect for AI agents.",
+  "version": "0.2.1",
+  "summary": "Execute Python on Kaggle's FREE GPUs (T4/P100/H100) from your terminal. Perfect for AI agents.",
   "author": "KaggleRun Contributors",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kagglerun-0.1.1.tar.gz",
-  "download_time": "2026-01-17T06:55:18.260396",
+  "download_filename": "kagglerun-0.2.1.tar.gz",
+  "download_time": "2026-01-17T11:33:12.254357",
   "package_url": "https://pypi.org/project/kagglerun/"
 }

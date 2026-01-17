@@ -1,11 +1,11 @@
 {
   "name": "vacsol-ml",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "VacSol-ML (ESKAPE): ML-driven vaccine target discovery targeting ESKAPE pathogens",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vacsol_ml-1.0.4.tar.gz",
-  "download_time": "2026-01-17T03:10:31.724003",
+  "download_filename": "vacsol_ml-1.0.5.tar.gz",
+  "download_time": "2026-01-17T11:33:20.224360",
   "package_url": "https://pypi.org/project/vacsol-ml/"
 }
