@@ -1,11 +1,11 @@
 {
   "name": "solvemail",
-  "version": "0.1.6",
+  "version": "0.1.8",
   "summary": "A fastai-style Gmail API client with convenient read/write support",
   "author": "Answer.AI",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "solvemail-0.1.6.tar.gz",
-  "download_time": "2026-01-17T10:20:18.580028",
+  "download_filename": "solvemail-0.1.8.tar.gz",
+  "download_time": "2026-01-17T19:52:21.075258",
   "package_url": "https://pypi.org/project/solvemail/"
 }

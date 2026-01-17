@@ -1,0 +1,11 @@
+{
+  "name": "cicconf",
+  "version": "0.1.9",
+  "summary": "Configuration and Revision tool",
+  "author": "Carsten Wulff",
+  "license": "MIT",
+  "home_page": "https://github.com/wulffern/cicconf",
+  "download_filename": "cicconf-0.1.9.tar.gz",
+  "download_time": "2026-01-17T19:52:17.378414",
+  "package_url": "https://pypi.org/project/cicconf/"
+}

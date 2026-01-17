@@ -1,11 +1,11 @@
 {
   "name": "ai-act-check",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "summary": "Static scanner and Annex IV drafter for EU AI Act compliance (prototype)",
   "author": "AnnexFour",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/svel26/ai-act-check",
-  "download_filename": "ai_act_check-1.0.5.tar.gz",
-  "download_time": "2026-01-17T19:41:34.630981",
+  "download_filename": "ai_act_check-1.0.6.tar.gz",
+  "download_time": "2026-01-17T19:52:07.969299",
   "package_url": "https://pypi.org/project/ai-act-check/"
 }
