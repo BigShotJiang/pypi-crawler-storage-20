@@ -1,0 +1,11 @@
+{
+  "name": "routio",
+  "version": "1.0.0",
+  "summary": "Python package for routio IPC library",
+  "author": "Luka Cehovin Zajc",
+  "license": null,
+  "home_page": "https://github.com/lukacu/routio",
+  "download_filename": "routio-1.0.0.tar.gz",
+  "download_time": "2026-01-17T21:18:49.352571",
+  "package_url": "https://pypi.org/project/routio/"
+}

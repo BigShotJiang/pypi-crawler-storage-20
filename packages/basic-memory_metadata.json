@@ -1,0 +1,11 @@
+{
+  "name": "basic-memory",
+  "version": "0.17.6",
+  "summary": "Local-first knowledge management combining Zettelkasten with knowledge graphs",
+  "author": null,
+  "license": "AGPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "basic_memory-0.17.6.tar.gz",
+  "download_time": "2026-01-17T21:18:19.417595",
+  "package_url": "https://pypi.org/project/basic-memory/"
+}

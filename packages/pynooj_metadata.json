@@ -1,11 +1,11 @@
 {
   "name": "pynooj",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Python librairy for parsing NooJ's dictionary files",
   "author": "Morgane Bona-Pellissier",
   "license": null,
   "home_page": null,
-  "download_filename": "pynooj-0.1.0.tar.gz",
-  "download_time": "2026-01-17T20:44:58.931523",
+  "download_filename": "pynooj-0.1.1.tar.gz",
+  "download_time": "2026-01-17T21:18:20.995679",
   "package_url": "https://pypi.org/project/pynooj/"
 }

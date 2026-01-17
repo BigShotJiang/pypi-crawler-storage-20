@@ -1,0 +1,11 @@
+{
+  "name": "slackfm",
+  "version": "0.1.0",
+  "summary": "Slack integration with Spotify that shows the currently playing song in the user's status",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "slackfm-0.1.0-py3-none-any.whl",
+  "download_time": "2026-01-17T21:18:18.878347",
+  "package_url": "https://pypi.org/project/slackfm/"
+}

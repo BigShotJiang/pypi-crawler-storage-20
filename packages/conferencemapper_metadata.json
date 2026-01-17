@@ -1,0 +1,11 @@
+{
+  "name": "conferencemapper",
+  "version": "1.0.1",
+  "summary": "Jigasi ConferenceMapper with Redis, Flask and Gunicorn",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "conferencemapper-1.0.1.tar.gz",
+  "download_time": "2026-01-17T21:18:21.519050",
+  "package_url": "https://pypi.org/project/conferencemapper/"
+}
