@@ -1,11 +1,11 @@
 {
   "name": "xlwings-server",
-  "version": "1.0.0a6",
+  "version": "1.0.0a7",
   "summary": "Modern Excel add-ins with Python, running on your self-hosted server.",
   "author": null,
   "license": "xlwings PRO License OR PolyForm Noncommercial License 1.0.0",
   "home_page": null,
-  "download_filename": "xlwings_server-1.0.0a6.tar.gz",
-  "download_time": "2026-01-17T13:20:49.598875",
+  "download_filename": "xlwings_server-1.0.0a7.tar.gz",
+  "download_time": "2026-01-17T16:22:12.370643",
   "package_url": "https://pypi.org/project/xlwings-server/"
 }

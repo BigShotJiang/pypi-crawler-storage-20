@@ -1,0 +1,11 @@
+{
+  "name": "maestria",
+  "version": "0.9.0",
+  "summary": "A Maven-inspired Python project management tool - bringing Java's build tool mastery to Python",
+  "author": "Maestria Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "maestria-0.9.0.tar.gz",
+  "download_time": "2026-01-17T16:22:27.104671",
+  "package_url": "https://pypi.org/project/maestria/"
+}

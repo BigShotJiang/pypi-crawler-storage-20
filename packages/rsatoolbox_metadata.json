@@ -1,0 +1,11 @@
+{
+  "name": "rsatoolbox",
+  "version": "0.3.1",
+  "summary": "Representational Similarity Analysis (RSA) in Python",
+  "author": "rsatoolbox authors",
+  "license": null,
+  "home_page": null,
+  "download_filename": "rsatoolbox-0.3.1.tar.gz",
+  "download_time": "2026-01-17T16:22:10.203871",
+  "package_url": "https://pypi.org/project/rsatoolbox/"
+}

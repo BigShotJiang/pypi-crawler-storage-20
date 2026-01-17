@@ -1,0 +1,11 @@
+{
+  "name": "probayes",
+  "version": "0.0.8",
+  "summary": "Probability package supporting multiple Bayesian methods including MCMC",
+  "author": "Bhumbra",
+  "license": null,
+  "home_page": "https://github.com/Bhumbra/probayes",
+  "download_filename": "probayes-0.0.8.tar.gz",
+  "download_time": "2026-01-17T16:22:18.636496",
+  "package_url": "https://pypi.org/project/probayes/"
+}

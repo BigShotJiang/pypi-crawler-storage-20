@@ -1,0 +1,11 @@
+{
+  "name": "tror-yong-lm",
+  "version": "0.0.3",
+  "summary": "Small Language Model with RoPE",
+  "author": "KHUN Kimang",
+  "license": null,
+  "home_page": "https://github.com/kimang18/KrorngAI",
+  "download_filename": "tror_yong_lm-0.0.3.tar.gz",
+  "download_time": "2026-01-17T16:22:11.789414",
+  "package_url": "https://pypi.org/project/tror-yong-lm/"
+}
