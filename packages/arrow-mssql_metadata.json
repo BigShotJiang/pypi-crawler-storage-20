@@ -1,0 +1,11 @@
+{
+  "name": "arrow-mssql",
+  "version": "0.0.89",
+  "summary": "Arrow-mssql exporta tabela ou consulta para .parquet ou .csv, e também faz a leitura de .parquet ou .csv para tabela do sql server",
+  "author": "Marcus Holanda",
+  "license": null,
+  "home_page": null,
+  "download_filename": "arrow_mssql-0.0.89.tar.gz",
+  "download_time": "2026-01-17T18:27:42.281154",
+  "package_url": "https://pypi.org/project/arrow-mssql/"
+}

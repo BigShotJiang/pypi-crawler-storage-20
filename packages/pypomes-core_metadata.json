@@ -1,11 +1,11 @@
 {
   "name": "pypomes-core",
-  "version": "3.0.4",
+  "version": "3.0.6",
   "summary": "A collection of Python pomes, penyeach (core modules)",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pypomes_core-3.0.4.tar.gz",
-  "download_time": "2026-01-17T01:23:20.993901",
+  "download_filename": "pypomes_core-3.0.6.tar.gz",
+  "download_time": "2026-01-17T18:27:51.055323",
   "package_url": "https://pypi.org/project/pypomes-core/"
 }

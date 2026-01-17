@@ -1,11 +1,11 @@
 {
   "name": "llmteam-ai",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "summary": "Enterprise AI Workflow Runtime - Multi-agent LLM pipelines with security, orchestration, and workflow capabilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "llmteam_ai-2.0.2.tar.gz",
-  "download_time": "2026-01-17T15:43:06.519400",
+  "download_filename": "llmteam_ai-2.1.0.tar.gz",
+  "download_time": "2026-01-17T18:28:07.602401",
   "package_url": "https://pypi.org/project/llmteam-ai/"
 }

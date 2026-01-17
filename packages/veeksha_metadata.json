@@ -1,11 +1,11 @@
 {
   "name": "veeksha",
-  "version": "0.0.post1",
+  "version": "0.1.0",
   "summary": "A framework for holistic evaluation of LLM Inference Systems",
   "author": "Vajra Team",
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "veeksha-0.0.post1.tar.gz",
-  "download_time": "2026-01-17T17:42:07.700097",
+  "download_filename": "veeksha-0.1.0.tar.gz",
+  "download_time": "2026-01-17T18:27:59.339780",
   "package_url": "https://pypi.org/project/veeksha/"
 }

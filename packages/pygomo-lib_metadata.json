@@ -1,0 +1,11 @@
+{
+  "name": "pygomo-lib",
+  "version": "0.1.1",
+  "summary": "A clean, extensible Python library for communicating with Gomoku engines via the Gomocup protocol.",
+  "author": "PyGomo Contributors",
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "pygomo_lib-0.1.1.tar.gz",
+  "download_time": "2026-01-17T18:28:12.769502",
+  "package_url": "https://pypi.org/project/pygomo-lib/"
+}

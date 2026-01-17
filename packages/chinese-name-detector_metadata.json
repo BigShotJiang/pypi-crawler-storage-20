@@ -1,11 +1,11 @@
 {
   "name": "chinese-name-detector",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A lightweight tool to detect Chinese characters and surnames.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chinese_name_detector-0.1.6.tar.gz",
-  "download_time": "2026-01-17T17:51:36.409612",
+  "download_filename": "chinese_name_detector-0.1.7.tar.gz",
+  "download_time": "2026-01-17T18:28:20.058335",
   "package_url": "https://pypi.org/project/chinese-name-detector/"
 }

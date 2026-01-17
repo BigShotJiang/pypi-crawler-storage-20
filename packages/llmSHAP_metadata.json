@@ -1,11 +1,11 @@
 {
   "name": "llmSHAP",
-  "version": "1.0.0",
+  "version": "1.5.0",
   "summary": "Multi-threaded Shapley explainability for LLMs: words, sentences, documents, and tools.",
   "author": "Filip Naudot",
   "license": null,
   "home_page": null,
-  "download_filename": "llmshap-1.0.0.tar.gz",
-  "download_time": "2026-01-14T16:27:23.296794",
+  "download_filename": "llmshap-1.5.0.tar.gz",
+  "download_time": "2026-01-17T18:28:03.432325",
   "package_url": "https://pypi.org/project/llmSHAP/"
 }

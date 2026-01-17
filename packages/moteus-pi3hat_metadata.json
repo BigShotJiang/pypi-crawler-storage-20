@@ -1,0 +1,11 @@
+{
+  "name": "moteus-pi3hat",
+  "version": "0.3.33",
+  "summary": "moteus brushless controller library and tools",
+  "author": "mjbots Robotic Systems",
+  "license": null,
+  "home_page": "https://github.com/mjbots/pi3hat",
+  "download_filename": "moteus_pi3hat-0.3.33-cp310-cp310-manylinux_2_17_aarch64.whl",
+  "download_time": "2026-01-17T18:27:58.825769",
+  "package_url": "https://pypi.org/project/moteus-pi3hat/"
+}

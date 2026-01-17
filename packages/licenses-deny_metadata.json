@@ -1,0 +1,11 @@
+{
+  "name": "licenses-deny",
+  "version": "0.1.0",
+  "summary": "A Python package that audits package licenses and provenance against user-defined allow/deny policies.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "licenses_deny-0.1.0.tar.gz",
+  "download_time": "2026-01-17T18:27:54.644572",
+  "package_url": "https://pypi.org/project/licenses-deny/"
+}
