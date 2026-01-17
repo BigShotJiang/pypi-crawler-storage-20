@@ -1,0 +1,11 @@
+{
+  "name": "ChatterBot",
+  "version": "1.2.11",
+  "summary": "ChatterBot is a machine learning, conversational dialog engine",
+  "author": "Gunther Cox",
+  "license": null,
+  "home_page": null,
+  "download_filename": "chatterbot-1.2.11.tar.gz",
+  "download_time": "2026-01-17T13:47:35.513859",
+  "package_url": "https://pypi.org/project/ChatterBot/"
+}

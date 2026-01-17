@@ -1,11 +1,11 @@
 {
   "name": "instaui",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "summary": "insta-ui is a Python-based UI library for rapidly building user interfaces.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "instaui-0.8.2.tar.gz",
-  "download_time": "2026-01-16T22:47:08.893733",
+  "download_filename": "instaui-0.8.3.tar.gz",
+  "download_time": "2026-01-17T13:47:38.142400",
   "package_url": "https://pypi.org/project/instaui/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "wiggum",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Ralph Wiggum loop for agents",
   "author": "YY Ahn",
   "license": null,
   "home_page": null,
-  "download_filename": "wiggum-0.2.0.tar.gz",
-  "download_time": "2026-01-15T14:53:54.909167",
+  "download_filename": "wiggum-0.2.1.tar.gz",
+  "download_time": "2026-01-17T13:47:34.931394",
   "package_url": "https://pypi.org/project/wiggum/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "grad-free-optim",
+  "version": "0.0.4",
+  "summary": "Gradient-free optimization of neural network parameters.",
+  "author": "Ricky Ding",
+  "license": "MIT",
+  "home_page": "https://github.com/NeuroAI-Research/grad-free-optim",
+  "download_filename": "grad_free_optim-0.0.4.tar.gz",
+  "download_time": "2026-01-17T13:47:34.359179",
+  "package_url": "https://pypi.org/project/grad-free-optim/"
+}

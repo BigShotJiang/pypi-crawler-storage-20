@@ -1,0 +1,11 @@
+{
+  "name": "myPyllant",
+  "version": "0.9.9",
+  "summary": "A Python library to interact with the API behind the myVAILLANT app",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mypyllant-0.9.9.tar.gz",
+  "download_time": "2026-01-17T13:47:42.753386",
+  "package_url": "https://pypi.org/project/myPyllant/"
+}
