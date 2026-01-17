@@ -1,0 +1,11 @@
+{
+  "name": "bluerobotics-ping",
+  "version": "0.2.4",
+  "summary": "A python module for the Blue Robotics ping-protocol and products",
+  "author": "Blue Robotics",
+  "license": null,
+  "home_page": "https://www.bluerobotics.com",
+  "download_filename": "bluerobotics_ping-0.2.4.tar.gz",
+  "download_time": "2026-01-17T11:54:15.886089",
+  "package_url": "https://pypi.org/project/bluerobotics-ping/"
+}

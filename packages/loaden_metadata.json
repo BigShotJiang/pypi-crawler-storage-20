@@ -1,0 +1,11 @@
+{
+  "name": "loaden",
+  "version": "0.1.0",
+  "summary": "YAML config loader with file includes, ${VAR} substitution, .env support, and deep merging",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "loaden-0.1.0.tar.gz",
+  "download_time": "2026-01-17T11:54:13.281261",
+  "package_url": "https://pypi.org/project/loaden/"
+}

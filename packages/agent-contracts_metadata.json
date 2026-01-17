@@ -1,11 +1,11 @@
 {
   "name": "agent-contracts",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "Modular node architecture for LangGraph agents",
   "author": "Shinya Iwasaki",
   "license": "MPL-2.0",
   "home_page": null,
-  "download_filename": "agent_contracts-0.5.0.tar.gz",
-  "download_time": "2026-01-17T11:17:05.329747",
+  "download_filename": "agent_contracts-0.5.1.tar.gz",
+  "download_time": "2026-01-17T11:54:11.743137",
   "package_url": "https://pypi.org/project/agent-contracts/"
 }
