@@ -1,11 +1,11 @@
 {
   "name": "cisv",
-  "version": "0.0.69",
+  "version": "0.0.74",
   "summary": "High-performance CSV parser with SIMD optimizations (AVX-512/AVX2)",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "cisv-0.0.69.tar.gz",
-  "download_time": "2026-01-16T21:20:27.700613",
+  "download_filename": "cisv-0.0.74.tar.gz",
+  "download_time": "2026-01-17T07:19:04.700506",
   "package_url": "https://pypi.org/project/cisv/"
 }

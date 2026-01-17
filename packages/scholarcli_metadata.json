@@ -1,11 +1,11 @@
 {
   "name": "scholarcli",
-  "version": "1.6",
+  "version": "1.7",
   "summary": "A tool for structured literature searches across bibliographic databases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "scholarcli-1.6.tar.gz",
-  "download_time": "2026-01-15T21:43:59.406846",
+  "download_filename": "scholarcli-1.7.tar.gz",
+  "download_time": "2026-01-17T07:19:15.403154",
   "package_url": "https://pypi.org/project/scholarcli/"
 }
