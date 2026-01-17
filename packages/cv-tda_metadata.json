@@ -1,11 +1,11 @@
 {
   "name": "cv-tda",
-  "version": "0.1.1",
+  "version": "0.1.4",
   "summary": "A Library to Solve Various Computer Vision Problems Using Topological Data Analysis",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cv_tda-0.1.1.tar.gz",
-  "download_time": "2026-01-17T14:44:51.695578",
+  "download_filename": "cv_tda-0.1.4.tar.gz",
+  "download_time": "2026-01-17T15:19:17.971380",
   "package_url": "https://pypi.org/project/cv-tda/"
 }

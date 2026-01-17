@@ -1,11 +1,11 @@
 {
   "name": "sqlit-tui",
-  "version": "1.2.8",
+  "version": "1.2.10",
   "summary": "A terminal UI for SQL Server, PostgreSQL, MySQL, SQLite, Oracle, and more",
   "author": "Peter",
   "license": null,
   "home_page": null,
-  "download_filename": "sqlit_tui-1.2.8.tar.gz",
-  "download_time": "2026-01-17T10:20:00.195833",
+  "download_filename": "sqlit_tui-1.2.10.tar.gz",
+  "download_time": "2026-01-17T15:19:19.131481",
   "package_url": "https://pypi.org/project/sqlit-tui/"
 }

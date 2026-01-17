@@ -1,0 +1,11 @@
+{
+  "name": "python-logo",
+  "version": "1.0.0",
+  "summary": "A Python ASCII art logo package",
+  "author": "Hollson",
+  "license": "MIT",
+  "home_page": "https://github.com/hollson/python-logo",
+  "download_filename": "python_logo-1.0.0.tar.gz",
+  "download_time": "2026-01-17T15:19:34.401986",
+  "package_url": "https://pypi.org/project/python-logo/"
+}

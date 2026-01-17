@@ -1,0 +1,11 @@
+{
+  "name": "eb-contracts",
+  "version": "0.2.0",
+  "summary": "Electric Barometer data contracts and validation utilities.",
+  "author": "Electric Barometer",
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "eb_contracts-0.2.0.tar.gz",
+  "download_time": "2026-01-17T15:19:37.979497",
+  "package_url": "https://pypi.org/project/eb-contracts/"
+}

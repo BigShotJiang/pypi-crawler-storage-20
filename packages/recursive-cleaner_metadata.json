@@ -1,11 +1,11 @@
 {
   "name": "recursive-cleaner",
-  "version": "0.6.1",
+  "version": "0.7.1",
   "summary": "LLM-powered incremental data cleaning pipeline that processes massive datasets in chunks and generates Python cleaning functions",
   "author": "Gary Tran",
   "license": null,
   "home_page": null,
-  "download_filename": "recursive_cleaner-0.6.1.tar.gz",
-  "download_time": "2026-01-17T07:19:10.500541",
+  "download_filename": "recursive_cleaner-0.7.1.tar.gz",
+  "download_time": "2026-01-17T15:19:27.038020",
   "package_url": "https://pypi.org/project/recursive-cleaner/"
 }
