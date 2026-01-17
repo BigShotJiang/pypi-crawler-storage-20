@@ -1,11 +1,11 @@
 {
   "name": "qe-connector",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "summary": "This is a lightweight library that works as a connector to Quantum Execute public API.",
   "author": "Quantum-Execute",
   "license": "MIT",
   "home_page": "https://github.com/Quantum-Execute/qe-connector-python",
-  "download_filename": "qe_connector-1.0.22.tar.gz",
-  "download_time": "2026-01-16T17:23:59.658825",
+  "download_filename": "qe_connector-1.0.23.tar.gz",
+  "download_time": "2026-01-17T14:44:44.345696",
   "package_url": "https://pypi.org/project/qe-connector/"
 }

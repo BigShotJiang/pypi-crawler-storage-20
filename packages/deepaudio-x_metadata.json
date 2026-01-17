@@ -1,11 +1,11 @@
 {
   "name": "deepaudio-x",
-  "version": "0.1.1",
+  "version": "0.1.5",
   "summary": "DeepAudio-X: Self-supervised audio toolkit for audio classification and beyond.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "deepaudio_x-0.1.1.tar.gz",
-  "download_time": "2026-01-16T17:24:34.247657",
+  "download_filename": "deepaudio_x-0.1.5.tar.gz",
+  "download_time": "2026-01-17T14:44:32.510968",
   "package_url": "https://pypi.org/project/deepaudio-x/"
 }

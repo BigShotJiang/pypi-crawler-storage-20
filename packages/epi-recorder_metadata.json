@@ -1,0 +1,11 @@
+{
+  "name": "epi-recorder",
+  "version": "2.1.2",
+  "summary": "Evidence Packaged Infrastructure (.epi) for AI Evidence - Record, Verify, and Replay AI runs with automatic PATH setup",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "epi_recorder-2.1.2.tar.gz",
+  "download_time": "2026-01-17T14:44:37.845226",
+  "package_url": "https://pypi.org/project/epi-recorder/"
+}

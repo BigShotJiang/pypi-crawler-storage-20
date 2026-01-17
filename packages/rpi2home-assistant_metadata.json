@@ -1,0 +1,11 @@
+{
+  "name": "rpi2home-assistant",
+  "version": "2.3.1",
+  "summary": "Raspberry PI to Home Assistant bridge through MQTT for wired sensors/actuators",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "rpi2home_assistant-2.3.1.tar.gz",
+  "download_time": "2026-01-17T14:44:46.826613",
+  "package_url": "https://pypi.org/project/rpi2home-assistant/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "hdfury",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Asynchronous Python client for HDFury devices",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "hdfury-1.4.0.tar.gz",
-  "download_time": "2026-01-17T13:47:37.565299",
+  "download_filename": "hdfury-1.4.1.tar.gz",
+  "download_time": "2026-01-17T14:44:40.090710",
   "package_url": "https://pypi.org/project/hdfury/"
 }

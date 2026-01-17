@@ -1,11 +1,11 @@
 {
   "name": "python-package-downloader",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "summary": "A CLI application for easily downloading Python packages",
   "author": "Маг Ильяс DOMA (MagIlyasDOMA)",
   "license": null,
   "home_page": "https://github.com/MagIlyasDOMA/python-package-downloader",
-  "download_filename": "python_package_downloader-1.0.0.tar.gz",
-  "download_time": "2026-01-17T11:16:56.591914",
+  "download_filename": "python_package_downloader-1.1.2.tar.gz",
+  "download_time": "2026-01-17T14:44:20.920005",
   "package_url": "https://pypi.org/project/python-package-downloader/"
 }
