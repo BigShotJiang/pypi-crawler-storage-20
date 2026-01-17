@@ -1,0 +1,11 @@
+{
+  "name": "cebra",
+  "version": "0.6.0",
+  "summary": "Consistent Embeddings of high-dimensional Recordings using Auxiliary variables",
+  "author": "file: AUTHORS.md",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/AdaptiveMotorControlLab/CEBRA",
+  "download_filename": "cebra-0.6.0.tar.gz",
+  "download_time": "2026-01-17T22:55:00.694348",
+  "package_url": "https://pypi.org/project/cebra/"
+}

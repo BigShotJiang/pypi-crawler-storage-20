@@ -1,0 +1,11 @@
+{
+  "name": "MiLoMerge",
+  "version": "1.0.0",
+  "summary": "A package to take a given distribution and retrieve the best binning to maximize separation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "milomerge-1.0.0.tar.gz",
+  "download_time": "2026-01-17T22:55:01.723051",
+  "package_url": "https://pypi.org/project/MiLoMerge/"
+}

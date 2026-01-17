@@ -1,11 +1,11 @@
 {
   "name": "gtg",
-  "version": "0.7.2",
+  "version": "0.7.3",
   "summary": "Deterministic PR readiness detection for AI coding agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "gtg-0.7.2.tar.gz",
-  "download_time": "2026-01-17T20:21:22.989934",
+  "download_filename": "gtg-0.7.3.tar.gz",
+  "download_time": "2026-01-17T22:55:06.033594",
   "package_url": "https://pypi.org/project/gtg/"
 }
