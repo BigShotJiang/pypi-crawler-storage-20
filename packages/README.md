@@ -1,11 +1,14 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-17T10:20:27.289953
+- **Download Time**: 2026-01-17T10:46:06.490568
 - **Total Packages**: 79
-- **Total Size**: 57.48 MB
+- **Total Size**: 3.98 MB
 
 ## Packages List
+- abilian-devtools
+- rose-bag
+- xgrammar
 - rapidchart-mcp
 - dc-overview
 - acp-gh
@@ -82,6 +85,3 @@
 - aws-inventory-manager
 - maque
 - jpylib-jyrgenn
-- cmeel-spirv-tools
-- gtg
-- NeoBase
