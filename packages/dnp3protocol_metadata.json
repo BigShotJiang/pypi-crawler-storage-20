@@ -1,0 +1,11 @@
+{
+  "name": "dnp3protocol",
+  "version": "21.6.19",
+  "summary": "Distributed Network Protocol 3 (DNP3) protocol Server and Client Implementation - Python Wrapper ",
+  "author": "FreyrSCADA",
+  "license": null,
+  "home_page": "https://www.freyrscada.com/dnp3-python.php",
+  "download_filename": "dnp3protocol-21.6.19.tar.gz",
+  "download_time": "2026-01-17T05:31:30.313970",
+  "package_url": "https://pypi.org/project/dnp3protocol/"
+}

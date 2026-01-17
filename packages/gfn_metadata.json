@@ -1,0 +1,11 @@
+{
+  "name": "gfn",
+  "version": "2.0.0",
+  "summary": "Manifold: Geometric Intelligence via Symplectic Geodesic Flows | GFN: Geometric Flow Networks",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "gfn-2.0.0.tar.gz",
+  "download_time": "2026-01-17T05:31:25.585138",
+  "package_url": "https://pypi.org/project/gfn/"
+}

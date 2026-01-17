@@ -1,0 +1,11 @@
+{
+  "name": "dc-pandadoc-cli",
+  "version": "0.2.0",
+  "summary": "CLI for PandaDoc document management with Copper CRM integration",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "dc_pandadoc_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-17T05:31:28.220947",
+  "package_url": "https://pypi.org/project/dc-pandadoc-cli/"
+}

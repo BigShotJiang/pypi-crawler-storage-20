@@ -1,0 +1,11 @@
+{
+  "name": "InterestPrint",
+  "version": "0.4.9",
+  "summary": "支持各种趣味打印的 Python 工具库",
+  "author": "袁窦涵",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "interestprint-0.4.9.tar.gz",
+  "download_time": "2026-01-17T05:31:29.244343",
+  "package_url": "https://pypi.org/project/InterestPrint/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cryptlock",
+  "version": "1.1.1",
+  "summary": "Secure file & directory encryption CLI",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cryptlock-1.1.1.tar.gz",
+  "download_time": "2026-01-17T05:31:23.506295",
+  "package_url": "https://pypi.org/project/cryptlock/"
+}

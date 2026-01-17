@@ -1,0 +1,11 @@
+{
+  "name": "monai-deploy-app-sdk",
+  "version": "3.5.0",
+  "summary": "A framework and associated tools to design, verify and analyze performance of MONAI apps",
+  "author": "MONAI Consortium",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Project-MONAI/",
+  "download_filename": "monai_deploy_app_sdk-3.5.0-py3-none-any.whl",
+  "download_time": "2026-01-17T05:31:26.610345",
+  "package_url": "https://pypi.org/project/monai-deploy-app-sdk/"
+}

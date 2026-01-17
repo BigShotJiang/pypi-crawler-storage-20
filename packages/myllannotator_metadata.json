@@ -1,11 +1,11 @@
 {
   "name": "myllannotator",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "summary": "User-friendly tool for automated annotation of metadata with open-source LLM",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "myllannotator-0.1.5.tar.gz",
-  "download_time": "2026-01-17T04:05:10.852184",
+  "download_filename": "myllannotator-0.1.6.tar.gz",
+  "download_time": "2026-01-17T05:31:20.921836",
   "package_url": "https://pypi.org/project/myllannotator/"
 }

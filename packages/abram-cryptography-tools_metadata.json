@@ -1,0 +1,11 @@
+{
+  "name": "abram-cryptography-tools",
+  "version": "1.0.1",
+  "summary": "A custom cryptography library that turns your text into a secret code",
+  "author": "Abram Jindal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "abram_cryptography_tools-1.0.1.tar.gz",
+  "download_time": "2026-01-17T05:31:19.326705",
+  "package_url": "https://pypi.org/project/abram-cryptography-tools/"
+}
