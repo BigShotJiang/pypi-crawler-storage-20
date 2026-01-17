@@ -1,11 +1,11 @@
 {
   "name": "drcheck",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "Dynamic Range Analyzer - Fight the Loudness War",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "drcheck-1.1.0.tar.gz",
-  "download_time": "2026-01-16T21:20:44.816313",
+  "download_filename": "drcheck-1.1.1.tar.gz",
+  "download_time": "2026-01-17T23:42:10.889398",
   "package_url": "https://pypi.org/project/drcheck/"
 }

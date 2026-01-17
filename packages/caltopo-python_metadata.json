@@ -1,0 +1,11 @@
+{
+  "name": "caltopo-python",
+  "version": "2.0.0",
+  "summary": "Python interface to unofficial CalTopo API",
+  "author": "Tom Grundy",
+  "license": null,
+  "home_page": "https://github.com/ncssar/caltopo_python",
+  "download_filename": "caltopo_python-2.0.0.tar.gz",
+  "download_time": "2026-01-17T23:42:05.881005",
+  "package_url": "https://pypi.org/project/caltopo-python/"
+}
