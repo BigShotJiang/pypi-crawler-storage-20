@@ -1,11 +1,11 @@
 {
   "name": "genome-cli",
-  "version": "0.1.0",
-  "summary": "CLI tool to analyze dbt manifest.json files",
+  "version": "0.2.1",
+  "summary": "CLI tool to analyze dbt manifest.json files - install via cargo",
   "author": "Stijn Zanders",
   "license": "Copyright (c) 2026 Stijn Zanders. All rights reserved.\n        \n        This software is proprietary and confidential. Unauthorized copying, \n        distribution, or use of this software, via any medium, is strictly prohibited.",
   "home_page": null,
-  "download_filename": "genome_cli-0.1.0.tar.gz",
-  "download_time": "2026-01-17T07:19:16.447568",
+  "download_filename": "genome_cli-0.2.1.tar.gz",
+  "download_time": "2026-01-17T07:52:01.556505",
   "package_url": "https://pypi.org/project/genome-cli/"
 }

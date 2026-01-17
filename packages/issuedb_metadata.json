@@ -1,0 +1,11 @@
+{
+  "name": "issuedb",
+  "version": "2.8.2",
+  "summary": "A command-line issue tracking system for software development projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "issuedb-2.8.2.tar.gz",
+  "download_time": "2026-01-17T07:52:10.853312",
+  "package_url": "https://pypi.org/project/issuedb/"
+}
