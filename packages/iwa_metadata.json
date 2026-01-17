@@ -1,11 +1,11 @@
 {
   "name": "iwa",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "summary": "A secure, modular, and plugin-based framework for crypto agents and ops",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "iwa-0.0.18.tar.gz",
-  "download_time": "2026-01-16T23:53:10.649123",
+  "download_filename": "iwa-0.0.19.tar.gz",
+  "download_time": "2026-01-17T08:24:30.288217",
   "package_url": "https://pypi.org/project/iwa/"
 }

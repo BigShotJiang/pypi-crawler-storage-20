@@ -1,11 +1,11 @@
 {
   "name": "hyperxdb",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "summary": "Python SDK for HyperX - the knowledge layer for AI",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hyperxdb-0.1.1.tar.gz",
-  "download_time": "2026-01-16T17:24:26.790596",
+  "download_filename": "hyperxdb-0.2.0.tar.gz",
+  "download_time": "2026-01-17T08:24:11.679277",
   "package_url": "https://pypi.org/project/hyperxdb/"
 }

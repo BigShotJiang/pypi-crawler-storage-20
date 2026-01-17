@@ -1,0 +1,11 @@
+{
+  "name": "semantic-routing-memory",
+  "version": "1.0.1",
+  "summary": "A lightweight, sustainable long-term memory layer for agentic AI systems using vector quantization",
+  "author": "Ahmet Yiğit Sertel",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "semantic_routing_memory-1.0.1.tar.gz",
+  "download_time": "2026-01-17T08:24:20.245787",
+  "package_url": "https://pypi.org/project/semantic-routing-memory/"
+}
