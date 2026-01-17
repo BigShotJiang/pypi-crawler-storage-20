@@ -1,0 +1,11 @@
+{
+  "name": "npc-sync",
+  "version": "0.1.26",
+  "summary": "Repackaging of AllenSDK.SyncDataset with extra functionality, compatible with data in the cloud.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "npc_sync-0.1.26.tar.gz",
+  "download_time": "2026-01-17T01:23:26.110013",
+  "package_url": "https://pypi.org/project/npc-sync/"
+}

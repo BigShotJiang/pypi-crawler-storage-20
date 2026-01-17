@@ -1,11 +1,11 @@
 {
   "name": "litestar-start",
-  "version": "0.1.0a11",
+  "version": "0.1.0a12",
   "summary": "Interactive CLI to scaffold fullstack projects with modular choices",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "litestar_start-0.1.0a11.tar.gz",
-  "download_time": "2026-01-16T04:13:03.529543",
+  "download_filename": "litestar_start-0.1.0a12.tar.gz",
+  "download_time": "2026-01-17T01:23:26.644471",
   "package_url": "https://pypi.org/project/litestar-start/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "1.7.11",
+  "version": "1.7.17",
   "summary": "Simplified API for Data Science Agent Automation",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "dslighting-1.7.11-py3-none-any.whl",
-  "download_time": "2026-01-16T23:53:07.980593",
+  "download_filename": "dslighting-1.7.17-py3-none-any.whl",
+  "download_time": "2026-01-17T01:22:47.352459",
   "package_url": "https://pypi.org/project/dslighting/"
 }

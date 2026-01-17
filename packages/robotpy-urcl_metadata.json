@@ -1,0 +1,11 @@
+{
+  "name": "robotpy-urcl",
+  "version": "2026.0.0.1",
+  "summary": "Python wrapper for FRC Team 6328's URCL library",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "robotpy_urcl-2026.0.0.1.tar.gz",
+  "download_time": "2026-01-17T01:22:49.537916",
+  "package_url": "https://pypi.org/project/robotpy-urcl/"
+}
