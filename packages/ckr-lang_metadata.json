@@ -1,11 +1,11 @@
 {
   "name": "ckr-lang",
-  "version": "0.1.2",
+  "version": "0.1.4",
   "summary": "A Fan-made Python interpreter for the ChoiKangRok Esolang",
   "author": "Vibe Coding Team",
   "license": null,
   "home_page": null,
-  "download_filename": "ckr_lang-0.1.2.tar.gz",
-  "download_time": "2026-01-17T04:04:42.245388",
+  "download_filename": "ckr_lang-0.1.4.tar.gz",
+  "download_time": "2026-01-17T04:46:56.074594",
   "package_url": "https://pypi.org/project/ckr-lang/"
 }

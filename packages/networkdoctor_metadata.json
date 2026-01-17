@@ -1,11 +1,11 @@
 {
   "name": "networkdoctor",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "summary": "Ultimate AI-Powered Network Diagnostic Tool",
   "author": "frankvena25",
   "license": "MIT",
   "home_page": "https://github.com/frankvena25/NetworkDoctor",
-  "download_filename": "networkdoctor-2.1.0.tar.gz",
-  "download_time": "2026-01-17T04:04:35.021494",
+  "download_filename": "networkdoctor-2.1.1.tar.gz",
+  "download_time": "2026-01-17T04:46:51.204356",
   "package_url": "https://pypi.org/project/networkdoctor/"
 }

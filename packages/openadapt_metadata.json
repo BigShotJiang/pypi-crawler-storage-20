@@ -1,0 +1,11 @@
+{
+  "name": "openadapt",
+  "version": "1.0.0",
+  "summary": "GUI automation with ML - record, train, deploy, evaluate",
+  "author": "MLDSAI Inc.",
+  "license": null,
+  "home_page": "https://openadapt.ai",
+  "download_filename": "openadapt-1.0.0.tar.gz",
+  "download_time": "2026-01-17T04:46:42.287708",
+  "package_url": "https://pypi.org/project/openadapt/"
+}
