@@ -1,0 +1,11 @@
+{
+  "name": "pytem1d",
+  "version": "0.1.2",
+  "summary": "Python interface to TEM1D Fortran code for 1D transient electromagnetic forward modeling",
+  "author": "TEM1D Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pytem1d-0.1.2.tar.gz",
+  "download_time": "2026-01-17T23:19:35.723031",
+  "package_url": "https://pypi.org/project/pytem1d/"
+}

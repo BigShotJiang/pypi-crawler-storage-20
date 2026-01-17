@@ -1,0 +1,11 @@
+{
+  "name": "vortex-oct",
+  "version": "0.5.1",
+  "summary": "A library for building real-time OCT engines in C++ or Python.",
+  "author": "Mark Draelos",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.vortex-oct.dev/",
+  "download_filename": "vortex_oct-0.5.1.tar.gz",
+  "download_time": "2026-01-17T23:19:22.604911",
+  "package_url": "https://pypi.org/project/vortex-oct/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "rata",
+  "version": "1.0.0",
+  "summary": "A CLI task time tracker with JSON storage",
+  "author": "belugame",
+  "license": null,
+  "home_page": "https://github.com/belugame/rata",
+  "download_filename": "rata-1.0.0.tar.gz",
+  "download_time": "2026-01-17T23:19:16.266238",
+  "package_url": "https://pypi.org/project/rata/"
+}

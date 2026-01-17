@@ -1,0 +1,11 @@
+{
+  "name": "eb-examples",
+  "version": "0.2.0",
+  "summary": "Electric Barometer: runnable examples, demo datasets, and end-to-end golden-path pipelines.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eb_examples-0.2.0.tar.gz",
+  "download_time": "2026-01-17T23:19:13.494520",
+  "package_url": "https://pypi.org/project/eb-examples/"
+}

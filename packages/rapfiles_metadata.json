@@ -1,11 +1,11 @@
 {
   "name": "rapfiles",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "True async filesystem I/O — no fake async, no GIL stalls.",
   "author": "RAP Project",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "rapfiles-0.1.1.tar.gz",
-  "download_time": "2026-01-16T21:54:33.748052",
+  "download_filename": "rapfiles-0.1.2.tar.gz",
+  "download_time": "2026-01-17T23:19:14.149400",
   "package_url": "https://pypi.org/project/rapfiles/"
 }
