@@ -1,0 +1,11 @@
+{
+  "name": "polars-statistics",
+  "version": "0.4.0",
+  "summary": "Statistical tests, regression, and machine learning for Polars - t-tests, ANOVA, chi-square, correlation, OLS, GLM, quantile regression, and more",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "polars_statistics-0.4.0.tar.gz",
+  "download_time": "2026-01-17T20:45:04.074108",
+  "package_url": "https://pypi.org/project/polars-statistics/"
+}

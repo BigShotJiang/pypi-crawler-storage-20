@@ -1,11 +1,11 @@
 {
   "name": "reminix-langchain",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Reminix adapter for LangChain - serve agents as REST APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reminix_langchain-0.0.4.tar.gz",
-  "download_time": "2026-01-17T20:21:18.860996",
+  "download_filename": "reminix_langchain-0.0.5.tar.gz",
+  "download_time": "2026-01-17T20:44:53.669360",
   "package_url": "https://pypi.org/project/reminix-langchain/"
 }
