@@ -1,0 +1,11 @@
+{
+  "name": "pydantic-settings-manager",
+  "version": "2.5.1",
+  "summary": "A library for managing Pydantic settings objects",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pydantic_settings_manager-2.5.1.tar.gz",
+  "download_time": "2026-01-17T21:52:16.625729",
+  "package_url": "https://pypi.org/project/pydantic-settings-manager/"
+}

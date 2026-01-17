@@ -1,11 +1,11 @@
 {
   "name": "mcp-simple-timeserver",
-  "version": "1.3.0",
+  "version": "3.0.0",
   "summary": "A simple MCP server that provides current time - either local or from an NTP server.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_simple_timeserver-1.3.0.tar.gz",
-  "download_time": "2026-01-17T21:40:46.456215",
+  "download_filename": "mcp_simple_timeserver-3.0.0.tar.gz",
+  "download_time": "2026-01-17T21:52:22.137576",
   "package_url": "https://pypi.org/project/mcp-simple-timeserver/"
 }

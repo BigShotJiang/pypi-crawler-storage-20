@@ -1,0 +1,11 @@
+{
+  "name": "dermalytics",
+  "version": "0.1.0",
+  "summary": "Python SDK for the Dermalytics API - Skincare Ingredient Analysis",
+  "author": "Dermalytics",
+  "license": "MIT",
+  "home_page": "https://github.com/dermalytics-dev/dermalytics-python",
+  "download_filename": "dermalytics-0.1.0.tar.gz",
+  "download_time": "2026-01-17T21:52:12.945304",
+  "package_url": "https://pypi.org/project/dermalytics/"
+}

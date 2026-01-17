@@ -1,11 +1,11 @@
 {
   "name": "chronos-lab",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Time series research laboratory",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "chronos_lab-0.1.1.tar.gz",
-  "download_time": "2026-01-17T16:22:12.885799",
+  "download_filename": "chronos_lab-0.1.2.tar.gz",
+  "download_time": "2026-01-17T21:52:15.031015",
   "package_url": "https://pypi.org/project/chronos-lab/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "question-score",
+  "version": "0.0.8",
+  "summary": "library for question evaluation including KDA, Knowledge Dependent Answerability introduced in EMNLP 2022 work.",
+  "author": "Riiid NLP team",
+  "license": "Creative Commons Attribution-NonCommercial-ShareAlike 4.0. https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "home_page": "https://github.com/riiid/question-score",
+  "download_filename": "question_score-0.0.8.tar.gz",
+  "download_time": "2026-01-17T21:52:19.998617",
+  "package_url": "https://pypi.org/project/question-score/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "agentic-cortex",
-  "version": "0.2.4",
+  "version": "0.3.1",
   "summary": "Local-first agentic memory architecture for coding agents",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "agentic_cortex-0.2.4.tar.gz",
-  "download_time": "2026-01-17T21:18:32.125122",
+  "download_filename": "agentic_cortex-0.3.1.tar.gz",
+  "download_time": "2026-01-17T21:52:25.845056",
   "package_url": "https://pypi.org/project/agentic-cortex/"
 }
