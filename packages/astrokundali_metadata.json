@@ -1,0 +1,11 @@
+{
+  "name": "astrokundali",
+  "version": "0.3.0",
+  "summary": "Generate and plot North-Indian Lagna Kundali charts using pyswisseph. Flexible astrokundali package with Different house calculation methods and interpretation JSONs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "astrokundali-0.3.0.tar.gz",
+  "download_time": "2026-01-17T19:31:26.562705",
+  "package_url": "https://pypi.org/project/astrokundali/"
+}

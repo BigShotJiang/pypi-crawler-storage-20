@@ -1,11 +1,11 @@
 {
   "name": "assay-it",
-  "version": "2.1.20",
+  "version": "2.1.21",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "assay_it-2.1.20-cp312-cp312-macosx_10_12_x86_64.whl",
-  "download_time": "2026-01-17T19:16:29.604231",
+  "download_filename": "assay_it-2.1.21-cp312-cp312-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-17T19:31:33.341332",
   "package_url": "https://pypi.org/project/assay-it/"
 }

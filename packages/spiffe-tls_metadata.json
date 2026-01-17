@@ -1,0 +1,11 @@
+{
+  "name": "spiffe-tls",
+  "version": "0.2.2",
+  "summary": "TLS Support using SPIFFE",
+  "author": "Max Lambrecht",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/HewlettPackard/py-spiffe",
+  "download_filename": "spiffe_tls-0.2.2.tar.gz",
+  "download_time": "2026-01-17T19:31:30.276294",
+  "package_url": "https://pypi.org/project/spiffe-tls/"
+}
