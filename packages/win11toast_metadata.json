@@ -1,0 +1,11 @@
+{
+  "name": "win11toast",
+  "version": "0.36.3",
+  "summary": "Toast notifications for Windows 10 and 11",
+  "author": "Tomofumi Inoue",
+  "license": "MIT",
+  "home_page": "https://github.com/GitHub30/win11toast",
+  "download_filename": "win11toast-0.36.3.tar.gz",
+  "download_time": "2026-01-17T22:45:20.874566",
+  "package_url": "https://pypi.org/project/win11toast/"
+}

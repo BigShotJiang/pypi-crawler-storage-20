@@ -1,0 +1,11 @@
+{
+  "name": "smashconfig",
+  "version": "1.0.0",
+  "summary": "Creates config file for configparser module to use within the user's home config dir",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "smashconfig-1.0.0.tar.gz",
+  "download_time": "2026-01-17T22:45:28.877587",
+  "package_url": "https://pypi.org/project/smashconfig/"
+}

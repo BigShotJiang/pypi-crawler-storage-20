@@ -1,0 +1,11 @@
+{
+  "name": "IntelliSense-xnei",
+  "version": "1.0.0",
+  "summary": "IntelliSense-xnei is a Python package that provides a large code input window",
+  "author": "Hamza Al",
+  "license": null,
+  "home_page": "https://github.com/yourusername/IntelliSense-xnei",
+  "download_filename": "intellisense_xnei-1.0.0.tar.gz",
+  "download_time": "2026-01-17T22:45:31.786614",
+  "package_url": "https://pypi.org/project/IntelliSense-xnei/"
+}

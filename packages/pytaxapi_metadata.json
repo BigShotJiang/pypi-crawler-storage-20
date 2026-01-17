@@ -1,11 +1,11 @@
 {
   "name": "pytaxapi",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Асинхронная библиотека Python для отправки чеков в приложении Мой Налог",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pytaxapi-0.1.1.tar.gz",
-  "download_time": "2026-01-17T18:28:01.386124",
+  "download_filename": "pytaxapi-0.1.2.tar.gz",
+  "download_time": "2026-01-17T22:45:23.124207",
   "package_url": "https://pypi.org/project/pytaxapi/"
 }

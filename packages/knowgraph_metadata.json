@@ -1,11 +1,11 @@
 {
   "name": "knowgraph",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "summary": "Knowledge Graph-Powered RAG system with enterprise resilience patterns",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "knowgraph-0.9.0.tar.gz",
-  "download_time": "2026-01-17T19:52:15.306188",
+  "download_filename": "knowgraph-1.0.0.tar.gz",
+  "download_time": "2026-01-17T22:45:23.678566",
   "package_url": "https://pypi.org/project/knowgraph/"
 }

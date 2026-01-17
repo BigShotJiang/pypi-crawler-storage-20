@@ -1,0 +1,11 @@
+{
+  "name": "encodingscorepy",
+  "version": "1.1.0",
+  "summary": "A library for scoring encoded text against a provided regex.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "encodingscorepy-1.1.0.tar.gz",
+  "download_time": "2026-01-17T22:45:21.426186",
+  "package_url": "https://pypi.org/project/encodingscorepy/"
+}

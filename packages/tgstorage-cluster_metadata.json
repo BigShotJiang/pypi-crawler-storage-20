@@ -1,0 +1,11 @@
+{
+  "name": "tgstorage-cluster",
+  "version": "1.0.0",
+  "summary": "A lightweight, high-performance file storage API using Telegram as a backend.",
+  "author": "DraxonV1",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tgstorage_cluster-1.0.0.tar.gz",
+  "download_time": "2026-01-17T22:45:34.618661",
+  "package_url": "https://pypi.org/project/tgstorage-cluster/"
+}
