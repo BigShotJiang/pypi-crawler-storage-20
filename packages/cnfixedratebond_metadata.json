@@ -1,0 +1,11 @@
+{
+  "name": "cnfixedratebond",
+  "version": "0.3.0",
+  "summary": "Fixed rate bond in ib, sse and szse",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cnfixedratebond-0.3.0-py3-none-any.whl",
+  "download_time": "2026-01-17T05:47:37.939890",
+  "package_url": "https://pypi.org/project/cnfixedratebond/"
+}

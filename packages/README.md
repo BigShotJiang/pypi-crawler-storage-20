@@ -1,14 +1,25 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-17T05:31:45.185214
-- **Total Packages**: 67
-- **Total Size**: 43.56 MB
+- **Download Time**: 2026-01-17T05:48:09.809712
+- **Total Packages**: 68
+- **Total Size**: 10.9 MB
 
 ## Packages List
+- focomy
+- speechlight
+- aethergraph
+- oomllama
 - hfortix
-- negmas-llm
+- hfortix-fortios
 - hfortix-core
+- agentu
+- safeeyes
+- ragit
+- unstdlibpy
+- ringtheory
+- cnfixedratebond
+- negmas-llm
 - math3d-py
 - loopflow
 - xitzin
@@ -17,7 +28,6 @@
 - glee
 - FourCIPP
 - negmas-negolog
-- ringtheory
 - dmsc
 - negmas-genius-agents
 - pit-proto
@@ -64,12 +74,3 @@
 - pythagoras
 - saboteur
 - revidx
-- stabilize
-- ccpulse
-- meshcore-proxy
-- baolib
-- policyengine-uk
-- paintress-cli
-- pai-agent-sdk
-- esphome
-- openadapt
