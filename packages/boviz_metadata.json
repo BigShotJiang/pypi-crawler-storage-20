@@ -1,0 +1,11 @@
+{
+  "name": "boviz",
+  "version": "0.3.0",
+  "summary": "An advanced and flexible scientific plotting toolkit.",
+  "author": "Bo Qian",
+  "license": "GNU General Public License v3 (GPLv3)",
+  "home_page": "https://github.com/bo-qian/boviz",
+  "download_filename": "boviz-0.3.0.tar.gz",
+  "download_time": "2026-01-17T09:52:55.209262",
+  "package_url": "https://pypi.org/project/boviz/"
+}
