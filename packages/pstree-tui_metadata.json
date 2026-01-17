@@ -1,11 +1,11 @@
 {
   "name": "pstree-tui",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "summary": "Interactive collapsible process tree viewer",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pstree_tui-1.3.0.tar.gz",
-  "download_time": "2026-01-17T16:48:06.287047",
+  "download_filename": "pstree_tui-1.4.0.tar.gz",
+  "download_time": "2026-01-17T17:18:29.813315",
   "package_url": "https://pypi.org/project/pstree-tui/"
 }

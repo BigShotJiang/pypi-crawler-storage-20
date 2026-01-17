@@ -1,11 +1,11 @@
 {
   "name": "octobot-trading",
-  "version": "2.4.242",
+  "version": "2.4.243",
   "summary": "OctoBot project trading package",
   "author": "Drakkar-Software",
   "license": "LGPL-3.0",
   "home_page": "https://github.com/Drakkar-Software/OctoBot-Trading",
-  "download_filename": "octobot_trading-2.4.242.tar.gz",
-  "download_time": "2026-01-15T13:29:27.404229",
+  "download_filename": "octobot_trading-2.4.243.tar.gz",
+  "download_time": "2026-01-17T17:18:28.785595",
   "package_url": "https://pypi.org/project/octobot-trading/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cdek",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "CDEK Python SDK упрощает интеграцию с API СДЭК версии 2.0",
   "author": "CDEK Python SDK",
   "license": null,
   "home_page": "https://github.com/xxp-odoo-erp/cdek",
-  "download_filename": "cdek-1.1.6.tar.gz",
-  "download_time": "2026-01-17T16:22:32.851775",
+  "download_filename": "cdek-1.1.7.tar.gz",
+  "download_time": "2026-01-17T17:18:24.163309",
   "package_url": "https://pypi.org/project/cdek/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "moteus-gui",
+  "version": "0.3.98",
+  "summary": "moteus brushless controller graphical user interfaces",
+  "author": "mjbots Robotic Systems",
+  "license": null,
+  "home_page": "https://github.com/mjbots/moteus",
+  "download_filename": "moteus_gui-0.3.98.tar.gz",
+  "download_time": "2026-01-17T17:18:27.752207",
+  "package_url": "https://pypi.org/project/moteus-gui/"
+}

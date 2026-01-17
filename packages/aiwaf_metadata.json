@@ -1,11 +1,11 @@
 {
   "name": "aiwaf",
-  "version": "0.1.9.3.5",
+  "version": "0.1.9.3.6",
   "summary": "AI-powered Web Application Firewall",
   "author": "Aayush Gauba",
   "license": "MIT",
   "home_page": "https://github.com/aayushgauba/aiwaf",
-  "download_filename": "aiwaf-0.1.9.3.5.tar.gz",
-  "download_time": "2026-01-17T16:22:08.652546",
+  "download_filename": "aiwaf-0.1.9.3.6.tar.gz",
+  "download_time": "2026-01-17T17:18:35.505695",
   "package_url": "https://pypi.org/project/aiwaf/"
 }

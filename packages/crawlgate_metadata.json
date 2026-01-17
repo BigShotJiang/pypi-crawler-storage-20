@@ -1,0 +1,11 @@
+{
+  "name": "crawlgate",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for CrawlGate Search Engine API",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crawlgate-1.0.0.tar.gz",
+  "download_time": "2026-01-17T17:18:16.862039",
+  "package_url": "https://pypi.org/project/crawlgate/"
+}
