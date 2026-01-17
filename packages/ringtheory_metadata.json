@@ -1,11 +1,11 @@
 {
   "name": "ringtheory",
-  "version": "1.0.98",
+  "version": "1.0.99",
   "summary": "Energy-efficient GPU/CPU computing using quantum-inspired ring patterns",
   "author": "RingTheory AI",
   "license": "Proprietary",
   "home_page": "https://arkhipsoft.ru/Article/ID?num=89",
-  "download_filename": "ringtheory-1.0.98.tar.gz",
-  "download_time": "2026-01-17T08:49:58.124185",
+  "download_filename": "ringtheory-1.0.99.tar.gz",
+  "download_time": "2026-01-17T09:20:06.129911",
   "package_url": "https://pypi.org/project/ringtheory/"
 }

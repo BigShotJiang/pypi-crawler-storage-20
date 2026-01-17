@@ -1,11 +1,11 @@
 {
   "name": "music-playlists",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "summary": "Generates streaming music playlists from various song charts.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "music_playlists-0.3.0.tar.gz",
-  "download_time": "2026-01-17T07:51:55.354329",
+  "download_filename": "music_playlists-0.3.1.tar.gz",
+  "download_time": "2026-01-17T09:19:53.575056",
   "package_url": "https://pypi.org/project/music-playlists/"
 }

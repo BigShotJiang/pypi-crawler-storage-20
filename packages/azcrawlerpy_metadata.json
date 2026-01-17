@@ -1,11 +1,11 @@
 {
   "name": "azcrawlerpy",
-  "version": "0.2.5",
+  "version": "0.2.7",
   "summary": "Agentic Crawler Discovery Framework.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "azcrawlerpy-0.2.5.tar.gz",
-  "download_time": "2026-01-17T07:19:08.927337",
+  "download_filename": "azcrawlerpy-0.2.7.tar.gz",
+  "download_time": "2026-01-17T09:20:10.293300",
   "package_url": "https://pypi.org/project/azcrawlerpy/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "notion-dev",
+  "version": "2.0.12",
+  "summary": "Integration tool for Notion, Asana and Git workflows with MCP server support",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/notion-dev",
+  "download_filename": "notion_dev-2.0.12.tar.gz",
+  "download_time": "2026-01-17T09:20:05.616853",
+  "package_url": "https://pypi.org/project/notion-dev/"
+}

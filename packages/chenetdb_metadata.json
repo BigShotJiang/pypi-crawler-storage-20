@@ -1,11 +1,11 @@
 {
   "name": "chenetdb",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "summary": "Add your description here",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "chenetdb-0.1.0.tar.gz",
-  "download_time": "2026-01-17T08:50:10.867916",
+  "download_filename": "chenetdb-0.0.1.tar.gz",
+  "download_time": "2026-01-17T09:20:09.778983",
   "package_url": "https://pypi.org/project/chenetdb/"
 }
