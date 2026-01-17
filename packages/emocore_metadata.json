@@ -1,11 +1,11 @@
 {
   "name": "emocore",
-  "version": "0.5.0",
+  "version": "0.5.2",
   "summary": "A runtime governance layer that enforces hard behavioral bounds in autonomous agents.",
   "author": "Sarthaksahu777",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "emocore-0.5.0.tar.gz",
-  "download_time": "2026-01-17T15:19:31.842237",
+  "download_filename": "emocore-0.5.2.tar.gz",
+  "download_time": "2026-01-17T15:42:54.415031",
   "package_url": "https://pypi.org/project/emocore/"
 }

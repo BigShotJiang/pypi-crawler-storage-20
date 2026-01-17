@@ -1,11 +1,11 @@
 {
   "name": "prompt-fence",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Python SDK for Prompt Fence - cryptographic security boundaries for LLM prompts",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "prompt_fence-0.1.0.tar.gz",
-  "download_time": "2026-01-15T22:48:22.320316",
+  "download_filename": "prompt_fence-0.2.0.tar.gz",
+  "download_time": "2026-01-17T15:43:01.380482",
   "package_url": "https://pypi.org/project/prompt-fence/"
 }

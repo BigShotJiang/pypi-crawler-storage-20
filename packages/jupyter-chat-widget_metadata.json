@@ -1,11 +1,11 @@
 {
   "name": "jupyter-chat-widget",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "summary": "A simple chat UI widget for Jupyter notebooks",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "jupyter_chat_widget-0.2.0.tar.gz",
-  "download_time": "2026-01-16T01:27:01.969718",
+  "download_filename": "jupyter_chat_widget-0.3.0.tar.gz",
+  "download_time": "2026-01-17T15:42:57.771515",
   "package_url": "https://pypi.org/project/jupyter-chat-widget/"
 }

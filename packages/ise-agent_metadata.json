@@ -1,0 +1,11 @@
+{
+  "name": "ise-agent",
+  "version": "0.1.0",
+  "summary": "ISE3309 AI 智能助教系统 - 基于级联式 RAG 架构的课程助教",
+  "author": "ISE3309 Team",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ise_agent-0.1.0.tar.gz",
+  "download_time": "2026-01-17T15:43:06.008536",
+  "package_url": "https://pypi.org/project/ise-agent/"
+}

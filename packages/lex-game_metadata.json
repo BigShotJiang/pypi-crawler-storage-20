@@ -1,11 +1,11 @@
 {
   "name": "lex-game",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "LEX is Martin Gardner's Hexapawn where matchboxes are Excel files",
   "author": null,
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "lex_game-0.1.10.tar.gz",
-  "download_time": "2026-01-17T15:19:21.711617",
+  "download_filename": "lex_game-0.1.11.tar.gz",
+  "download_time": "2026-01-17T15:42:56.231123",
   "package_url": "https://pypi.org/project/lex-game/"
 }

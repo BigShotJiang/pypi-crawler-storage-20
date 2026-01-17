@@ -1,0 +1,11 @@
+{
+  "name": "cmeel-libomp",
+  "version": "21.1.8",
+  "summary": "cmeel distribution for libomp",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/cmeel-libomp",
+  "download_filename": "cmeel_libomp-21.1.8.tar.gz",
+  "download_time": "2026-01-17T15:42:47.432680",
+  "package_url": "https://pypi.org/project/cmeel-libomp/"
+}

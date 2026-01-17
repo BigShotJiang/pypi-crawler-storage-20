@@ -1,11 +1,11 @@
 {
   "name": "recko-ai-sdk",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "summary": "Reckomate Python SDK",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "recko_ai_sdk-1.0.9.tar.gz",
-  "download_time": "2026-01-17T15:19:29.708405",
+  "download_filename": "recko_ai_sdk-1.1.0.tar.gz",
+  "download_time": "2026-01-17T15:43:07.543182",
   "package_url": "https://pypi.org/project/recko-ai-sdk/"
 }

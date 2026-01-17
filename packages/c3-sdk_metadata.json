@@ -1,0 +1,11 @@
+{
+  "name": "c3-sdk",
+  "version": "0.4.2",
+  "summary": "Python SDK for Compute3 - GPU orchestration and LLM API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "c3_sdk-0.4.2.tar.gz",
+  "download_time": "2026-01-17T15:43:03.951784",
+  "package_url": "https://pypi.org/project/c3-sdk/"
+}
