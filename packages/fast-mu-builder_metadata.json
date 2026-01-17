@@ -1,0 +1,11 @@
+{
+  "name": "fast-mu-builder",
+  "version": "0.1.0.12",
+  "summary": "FastAPI Builder with Tortoise ORM support for MU",
+  "author": "Japhary Juma Hamisi",
+  "license": "Other License",
+  "home_page": "https://bitbucket.org/external-dev-mzumbe/fast-mu-builder",
+  "download_filename": "fast_mu_builder-0.1.0.12.tar.gz",
+  "download_time": "2026-01-17T11:17:10.035438",
+  "package_url": "https://pypi.org/project/fast-mu-builder/"
+}

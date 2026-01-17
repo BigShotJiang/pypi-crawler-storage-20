@@ -1,11 +1,11 @@
 {
   "name": "agentos-ai",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "summary": "Production-Ready AI Agent Runtime - Automate everything with LLM-powered agents",
   "author": "AgentOS Team",
   "license": null,
   "home_page": "https://agentos.sodeom.com/",
-  "download_filename": "agentos_ai-1.1.6.tar.gz",
-  "download_time": "2026-01-17T09:19:55.125950",
+  "download_filename": "agentos_ai-1.1.7.tar.gz",
+  "download_time": "2026-01-17T11:17:04.299194",
   "package_url": "https://pypi.org/project/agentos-ai/"
 }

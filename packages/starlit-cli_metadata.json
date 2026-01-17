@@ -1,11 +1,11 @@
 {
   "name": "starlit-cli",
-  "version": "0.2.4",
+  "version": "0.3.0",
   "summary": "A minimal, cute and customizable weather cli",
   "author": "ashuhlee",
   "license": null,
   "home_page": "https://github.com/ashuhlee/starlit",
-  "download_filename": "starlit_cli-0.2.4.tar.gz",
-  "download_time": "2026-01-14T16:58:14.444505",
+  "download_filename": "starlit_cli-0.3.0.tar.gz",
+  "download_time": "2026-01-17T11:16:53.512996",
   "package_url": "https://pypi.org/project/starlit-cli/"
 }

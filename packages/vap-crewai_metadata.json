@@ -1,11 +1,11 @@
 {
   "name": "vap-crewai",
-  "version": "0.1.0",
-  "summary": "CrewAI tools for VAP - Video/Audio Production for AI Agent Crews",
+  "version": "0.2.1",
+  "summary": "VAP CrewAI integration - Execution control for crews calling paid APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vap_crewai-0.1.0.tar.gz",
-  "download_time": "2026-01-13T19:51:39.905635",
+  "download_filename": "vap_crewai-0.2.1.tar.gz",
+  "download_time": "2026-01-17T11:17:12.101290",
   "package_url": "https://pypi.org/project/vap-crewai/"
 }

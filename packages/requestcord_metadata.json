@@ -1,0 +1,11 @@
+{
+  "name": "requestcord",
+  "version": "2.0.2",
+  "summary": "Advanced Discord API wrapper with modern features",
+  "author": "Zkamo & VatosV2",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "requestcord-2.0.2.tar.gz",
+  "download_time": "2026-01-17T11:17:16.323632",
+  "package_url": "https://pypi.org/project/requestcord/"
+}

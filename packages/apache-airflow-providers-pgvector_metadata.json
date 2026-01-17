@@ -1,11 +1,11 @@
 {
   "name": "apache-airflow-providers-pgvector",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "Provider package apache-airflow-providers-pgvector for Apache Airflow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "apache_airflow_providers_pgvector-1.6.0.tar.gz",
-  "download_time": "2026-01-13T23:40:04.798888",
+  "download_filename": "apache_airflow_providers_pgvector-1.6.1.tar.gz",
+  "download_time": "2026-01-17T11:17:32.794485",
   "package_url": "https://pypi.org/project/apache-airflow-providers-pgvector/"
 }

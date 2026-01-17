@@ -1,11 +1,11 @@
 {
   "name": "vap-sdk",
-  "version": "0.1.0",
-  "summary": "VAP - Visual Audio Production SDK: Give your Agent a Studio",
+  "version": "0.2.1",
+  "summary": "VAP SDK - Execution control layer for AI agents calling paid APIs",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "vap_sdk-0.1.0.tar.gz",
-  "download_time": "2026-01-13T09:27:08.791594",
+  "download_filename": "vap_sdk-0.2.1.tar.gz",
+  "download_time": "2026-01-17T11:17:13.158241",
   "package_url": "https://pypi.org/project/vap-sdk/"
 }

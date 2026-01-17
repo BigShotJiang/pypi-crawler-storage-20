@@ -1,0 +1,11 @@
+{
+  "name": "pyrime",
+  "version": "0.2.2",
+  "summary": "rime for python, attached to prompt-toolkit keybindings for some prompt-toolkit applications such as ptpython",
+  "author": null,
+  "license": "GPL v3",
+  "home_page": null,
+  "download_filename": "pyrime-0.2.2.tar.gz",
+  "download_time": "2026-01-17T11:17:08.987256",
+  "package_url": "https://pypi.org/project/pyrime/"
+}

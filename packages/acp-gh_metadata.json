@@ -1,11 +1,11 @@
 {
   "name": "acp-gh",
-  "version": "0.7.3",
+  "version": "0.8.0",
   "summary": "Automatic Commit Pusher (acp)- CLI utility for automating pull request creation",
   "author": null,
   "license": "GPLv2",
   "home_page": null,
-  "download_filename": "acp_gh-0.7.3.tar.gz",
-  "download_time": "2026-01-17T10:19:46.322242",
+  "download_filename": "acp_gh-0.8.0.tar.gz",
+  "download_time": "2026-01-17T11:17:03.274468",
   "package_url": "https://pypi.org/project/acp-gh/"
 }
