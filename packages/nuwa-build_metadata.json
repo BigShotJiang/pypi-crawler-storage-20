@@ -1,11 +1,11 @@
 {
   "name": "nuwa-build",
-  "version": "0.2.2",
+  "version": "0.2.5",
   "summary": "Build and publish Nim extensions for Python with zero configuration.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nuwa_build-0.2.2.tar.gz",
-  "download_time": "2026-01-17T11:45:00.176044",
+  "download_filename": "nuwa_build-0.2.5.tar.gz",
+  "download_time": "2026-01-17T12:36:07.142255",
   "package_url": "https://pypi.org/project/nuwa-build/"
 }

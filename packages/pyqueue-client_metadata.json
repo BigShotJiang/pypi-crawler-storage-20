@@ -1,11 +1,11 @@
 {
   "name": "pyqueue-client",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Python client library for adding messages to PyQueue with local and remote support",
   "author": "Mauro Giulivi",
   "license": null,
   "home_page": "https://github.com/downlevel/pyqueue-client",
-  "download_filename": "pyqueue_client-1.2.0.tar.gz",
-  "download_time": "2026-01-17T11:54:18.455736",
+  "download_filename": "pyqueue_client-1.2.1.tar.gz",
+  "download_time": "2026-01-17T12:36:17.109218",
   "package_url": "https://pypi.org/project/pyqueue-client/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "weaviate-orm",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "summary": "A lightweight ORM-style layer for Weaviate",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "weaviate_orm-0.1.11.tar.gz",
-  "download_time": "2026-01-17T08:24:16.601861",
+  "download_filename": "weaviate_orm-0.1.12.tar.gz",
+  "download_time": "2026-01-17T12:36:02.868916",
   "package_url": "https://pypi.org/project/weaviate-orm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "gradscope",
+  "version": "0.1.0",
+  "summary": "Gradient and training anomaly monitoring for PyTorch and TensorFlow",
+  "author": "Prabhnoor Singh",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "gradscope-0.1.0.tar.gz",
+  "download_time": "2026-01-17T12:36:29.510990",
+  "package_url": "https://pypi.org/project/gradscope/"
+}

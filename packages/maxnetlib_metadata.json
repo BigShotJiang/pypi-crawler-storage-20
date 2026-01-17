@@ -1,0 +1,11 @@
+{
+  "name": "maxnetlib",
+  "version": "0.1.0",
+  "summary": "A simple Python library to implement MaxNet neural network for finding the winning neuron",
+  "author": "Daniel Tayade",
+  "license": null,
+  "home_page": "https://github.com/dandan-077/maxnetlib",
+  "download_filename": "maxnetlib-0.1.0.tar.gz",
+  "download_time": "2026-01-17T12:36:26.063596",
+  "package_url": "https://pypi.org/project/maxnetlib/"
+}

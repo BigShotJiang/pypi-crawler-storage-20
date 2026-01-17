@@ -1,0 +1,11 @@
+{
+  "name": "custom-python-logger",
+  "version": "2.0.11",
+  "summary": "A custom logger with color support and additional features.",
+  "author": "Avi Zaguri",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "custom_python_logger-2.0.11.tar.gz",
+  "download_time": "2026-01-17T12:36:08.220254",
+  "package_url": "https://pypi.org/project/custom-python-logger/"
+}
