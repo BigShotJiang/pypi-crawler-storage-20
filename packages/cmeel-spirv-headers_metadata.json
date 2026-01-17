@@ -1,0 +1,11 @@
+{
+  "name": "cmeel-spirv-headers",
+  "version": "1.4.335.0",
+  "summary": "cmeel distribution for spirv-headers",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/cmeel-spirv-headers",
+  "download_filename": "cmeel_spirv_headers-1.4.335.0.tar.gz",
+  "download_time": "2026-01-17T10:55:54.879010",
+  "package_url": "https://pypi.org/project/cmeel-spirv-headers/"
+}
