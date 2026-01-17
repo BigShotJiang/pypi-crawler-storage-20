@@ -1,11 +1,11 @@
 {
   "name": "levicanvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "一个功能强大的图片处理工具箱",
   "author": "a木木",
   "license": null,
   "home_page": null,
-  "download_filename": "levicanvas-1.0.0.tar.gz",
-  "download_time": "2026-01-17T04:47:09.810900",
+  "download_filename": "levicanvas-1.0.1.tar.gz",
+  "download_time": "2026-01-17T11:45:07.366064",
   "package_url": "https://pypi.org/project/levicanvas/"
 }

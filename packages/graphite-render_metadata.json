@@ -1,0 +1,11 @@
+{
+  "name": "graphite-render",
+  "version": "1.1.5",
+  "summary": "based on graphite-api, which is based graphite-web, but maintained for python3.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "graphite_render-1.1.5.tar.gz",
+  "download_time": "2026-01-17T11:44:58.117079",
+  "package_url": "https://pypi.org/project/graphite-render/"
+}

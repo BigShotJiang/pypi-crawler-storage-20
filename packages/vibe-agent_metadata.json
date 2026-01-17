@@ -1,11 +1,11 @@
 {
   "name": "vibe-agent",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "A Vibe Coding flavored AI Agent SDK based on OpenAI.",
-  "author": null,
-  "license": "MIT",
+  "author": "ShiXuhao",
+  "license": null,
   "home_page": null,
-  "download_filename": "vibe_agent-0.0.2.tar.gz",
-  "download_time": "2026-01-17T11:16:59.183411",
+  "download_filename": "vibe_agent-0.0.3.tar.gz",
+  "download_time": "2026-01-17T11:45:05.314820",
   "package_url": "https://pypi.org/project/vibe-agent/"
 }

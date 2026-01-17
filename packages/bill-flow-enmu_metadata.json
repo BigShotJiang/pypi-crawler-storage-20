@@ -1,11 +1,11 @@
 {
   "name": "bill-flow-enmu",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "bill-generater",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "bill_flow_enmu-1.0.3.tar.gz",
-  "download_time": "2026-01-17T11:33:08.848942",
+  "download_filename": "bill_flow_enmu-1.0.4.tar.gz",
+  "download_time": "2026-01-17T11:44:54.991570",
   "package_url": "https://pypi.org/project/bill-flow-enmu/"
 }

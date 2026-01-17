@@ -1,0 +1,11 @@
+{
+  "name": "emojirades",
+  "version": "1.12.0",
+  "summary": "Slack bot that understands the Emojirades game!",
+  "author": "The Emojirades Team",
+  "license": null,
+  "home_page": "https://github.com/emojirades/emojirades",
+  "download_filename": "emojirades-1.12.0.tar.gz",
+  "download_time": "2026-01-17T11:45:01.205102",
+  "package_url": "https://pypi.org/project/emojirades/"
+}

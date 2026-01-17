@@ -1,0 +1,11 @@
+{
+  "name": "simple-print",
+  "version": "2.2.7",
+  "summary": "Local development tool for logs printing.",
+  "author": "Sobolev Andrey",
+  "license": null,
+  "home_page": "https://github.com/Sobolev5/simple-print/",
+  "download_filename": "simple_print-2.2.7-py3-none-any.whl",
+  "download_time": "2026-01-17T11:44:52.424001",
+  "package_url": "https://pypi.org/project/simple-print/"
+}

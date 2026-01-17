@@ -1,0 +1,11 @@
+{
+  "name": "wisetimer",
+  "version": "1.0.0",
+  "summary": "Smart timer whith limits, code comparison and analysis",
+  "author": "Andrey Egupov (11-year-old-developer)",
+  "license": "MIT",
+  "home_page": "https://github.com/AndreyProgramMaker/wisetimer",
+  "download_filename": "wisetimer-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-17T11:45:02.755536",
+  "package_url": "https://pypi.org/project/wisetimer/"
+}
