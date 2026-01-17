@@ -1,11 +1,11 @@
 {
   "name": "canvas-sak",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "summary": "Command‑line Swiss Army Knife for Canvas LMS",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "canvas_sak-1.0.8.tar.gz",
-  "download_time": "2026-01-17T04:46:46.666882",
+  "download_filename": "canvas_sak-1.0.9.tar.gz",
+  "download_time": "2026-01-17T06:29:05.511562",
   "package_url": "https://pypi.org/project/canvas-sak/"
 }

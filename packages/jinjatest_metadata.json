@@ -1,0 +1,11 @@
+{
+  "name": "jinjatest",
+  "version": "0.1.0",
+  "summary": "A type-safe, structured testing library for Jinja templates",
+  "author": "Kevin Castro <hola@kev.pe>",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jinjatest-0.1.0.tar.gz",
+  "download_time": "2026-01-17T06:29:23.587440",
+  "package_url": "https://pypi.org/project/jinjatest/"
+}

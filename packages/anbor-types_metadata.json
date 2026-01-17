@@ -1,11 +1,11 @@
 {
   "name": "anbor-types",
-  "version": "0.0.21",
+  "version": "0.0.23",
   "summary": "Anbor typing lib",
   "author": "Joniibek",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "anbor_types-0.0.21.tar.gz",
-  "download_time": "2026-01-16T10:22:54.299407",
+  "download_filename": "anbor_types-0.0.23.tar.gz",
+  "download_time": "2026-01-17T06:29:17.609162",
   "package_url": "https://pypi.org/project/anbor-types/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "oligopool",
-  "version": "2026.1.16",
+  "version": "2026.1.17",
   "summary": "Oligopool Calculator - Automated design and analysis of oligopool libraries",
   "author": "Ayaan Hossain and Howard Salis",
   "license": null,
   "home_page": "https://github.com/ayaanhossain/oligopool",
-  "download_filename": "oligopool-2026.1.16.tar.gz",
-  "download_time": "2026-01-16T07:31:52.933321",
+  "download_filename": "oligopool-2026.1.17.tar.gz",
+  "download_time": "2026-01-17T06:29:12.705131",
   "package_url": "https://pypi.org/project/oligopool/"
 }

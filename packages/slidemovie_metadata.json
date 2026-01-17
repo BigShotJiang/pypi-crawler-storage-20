@@ -1,11 +1,11 @@
 {
   "name": "slidemovie",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "Markdown and PowerPoint to narration video generator",
   "author": "Katsutoshi Seki",
   "license": null,
   "home_page": null,
-  "download_filename": "slidemovie-0.2.0.tar.gz",
-  "download_time": "2026-01-16T18:07:30.499815",
+  "download_filename": "slidemovie-0.2.2.tar.gz",
+  "download_time": "2026-01-17T06:29:14.958618",
   "package_url": "https://pypi.org/project/slidemovie/"
 }

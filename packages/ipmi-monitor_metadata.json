@@ -1,0 +1,11 @@
+{
+  "name": "ipmi-monitor",
+  "version": "1.0.3",
+  "summary": "IPMI/BMC Server Monitoring with AI-Powered Insights",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ipmi_monitor-1.0.3.tar.gz",
+  "download_time": "2026-01-17T06:29:13.232539",
+  "package_url": "https://pypi.org/project/ipmi-monitor/"
+}

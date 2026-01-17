@@ -1,11 +1,11 @@
 {
   "name": "jdata",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "summary": "JSON/binary JSON formats for exchanging Python and Numpy data",
   "author": "Qianqian Fang",
   "license": "Apache license 2.0",
   "home_page": "https://github.com/NeuroJSON/pyjdata",
-  "download_filename": "jdata-0.9.1.tar.gz",
-  "download_time": "2026-01-16T23:53:05.857181",
+  "download_filename": "jdata-0.9.2.tar.gz",
+  "download_time": "2026-01-17T06:29:16.554410",
   "package_url": "https://pypi.org/project/jdata/"
 }

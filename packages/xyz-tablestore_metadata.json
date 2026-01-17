@@ -1,11 +1,11 @@
 {
   "name": "xyz-tablestore",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "summary": "tablestore utils",
   "author": "szuprefix",
   "license": "MIT",
   "home_page": "https://github.com/szuprefix/py-xyz-tablestore",
-  "download_filename": "xyz_tablestore-0.0.7-py3-none-any.whl",
-  "download_time": "2026-01-16T09:49:22.271072",
+  "download_filename": "xyz_tablestore-0.0.9-py3-none-any.whl",
+  "download_time": "2026-01-17T06:28:51.247823",
   "package_url": "https://pypi.org/project/xyz-tablestore/"
 }

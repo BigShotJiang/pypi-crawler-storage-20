@@ -1,11 +1,11 @@
 {
   "name": "castella",
-  "version": "0.13.10",
+  "version": "0.13.11",
   "summary": "Castella is a pure Python cross-platform UI framework",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "castella-0.13.10.tar.gz",
-  "download_time": "2026-01-16T15:48:06.579537",
+  "download_filename": "castella-0.13.11.tar.gz",
+  "download_time": "2026-01-17T06:29:20.337217",
   "package_url": "https://pypi.org/project/castella/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "afterthoughts",
+  "version": "0.0.1",
+  "summary": "Late chunking for transformer embeddings - chunk after the model, not before.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "afterthoughts-0.0.1.tar.gz",
+  "download_time": "2026-01-17T06:29:03.626855",
+  "package_url": "https://pypi.org/project/afterthoughts/"
+}
