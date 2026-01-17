@@ -1,11 +1,11 @@
 {
   "name": "agent-android",
-  "version": "1.1.2",
+  "version": "1.4.0",
   "summary": "Android ADB automation CLI tool - Designed for AI Agents",
   "author": "Fast2x",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Fast2x/agent-android",
-  "download_filename": "agent_android-1.1.2.tar.gz",
-  "download_time": "2026-01-17T13:47:48.842759",
+  "download_filename": "agent_android-1.4.0.tar.gz",
+  "download_time": "2026-01-17T13:57:25.727240",
   "package_url": "https://pypi.org/project/agent-android/"
 }

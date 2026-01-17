@@ -1,11 +1,11 @@
 {
   "name": "takopi-discord",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Discord transport plugin for takopi",
   "author": "ayvee",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "takopi_discord-0.1.0.tar.gz",
-  "download_time": "2026-01-14T06:32:25.194433",
+  "download_filename": "takopi_discord-0.2.0.tar.gz",
+  "download_time": "2026-01-17T13:57:26.304411",
   "package_url": "https://pypi.org/project/takopi-discord/"
 }

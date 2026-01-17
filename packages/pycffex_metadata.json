@@ -1,11 +1,11 @@
 {
   "name": "pycffex",
-  "version": "0.2.0",
+  "version": "0.3.2",
   "summary": "cffex with python: gb futures, index futures, and options",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pycffex-0.2.0-py3-none-any.whl",
-  "download_time": "2026-01-17T06:29:10.503915",
+  "download_filename": "pycffex-0.3.2-py3-none-any.whl",
+  "download_time": "2026-01-17T13:57:28.458627",
   "package_url": "https://pypi.org/project/pycffex/"
 }

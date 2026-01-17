@@ -1,11 +1,11 @@
 {
   "name": "proteo-suite-json9112",
-  "version": "0.1.15",
+  "version": "0.1.16",
   "summary": "Advanced Proteomics Analysis Suite for Medical Outcomes Prediction",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proteo_suite_json9112-0.1.15.tar.gz",
-  "download_time": "2026-01-16T09:49:31.245283",
+  "download_filename": "proteo_suite_json9112-0.1.16.tar.gz",
+  "download_time": "2026-01-17T13:57:26.874404",
   "package_url": "https://pypi.org/project/proteo-suite-json9112/"
 }

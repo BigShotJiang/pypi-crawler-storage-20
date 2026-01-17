@@ -1,0 +1,11 @@
+{
+  "name": "CCParser",
+  "version": "1.0.0",
+  "summary": "A powerful library for credit card parsing, validation, and formatting",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ccparser-1.0.0.tar.gz",
+  "download_time": "2026-01-17T13:57:24.559942",
+  "package_url": "https://pypi.org/project/CCParser/"
+}
