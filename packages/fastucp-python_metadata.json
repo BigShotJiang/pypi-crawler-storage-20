@@ -1,11 +1,11 @@
 {
   "name": "fastucp-python",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "FastAPI based implementation of Universal Commerce Protocol",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fastucp_python-0.1.1.tar.gz",
-  "download_time": "2026-01-14T10:51:49.902524",
+  "download_filename": "fastucp_python-0.1.2.tar.gz",
+  "download_time": "2026-01-17T09:42:57.926458",
   "package_url": "https://pypi.org/project/fastucp-python/"
 }

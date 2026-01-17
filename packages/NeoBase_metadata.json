@@ -1,0 +1,11 @@
+{
+  "name": "NeoBase",
+  "version": "0.34.19",
+  "summary": "Python library to manipulate Open Travel Data",
+  "author": "Alex Prengère",
+  "license": null,
+  "home_page": "https://github.com/alexprengere/neobase",
+  "download_filename": "neobase-0.34.19.tar.gz",
+  "download_time": "2026-01-17T09:42:55.347286",
+  "package_url": "https://pypi.org/project/NeoBase/"
+}
