@@ -1,0 +1,11 @@
+{
+  "name": "mapfile_parser",
+  "version": "2.12.1",
+  "summary": "Map file parser library focusing decompilation projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mapfile_parser-2.12.1.tar.gz",
+  "download_time": "2026-01-17T14:18:41.865719",
+  "package_url": "https://pypi.org/project/mapfile_parser/"
+}

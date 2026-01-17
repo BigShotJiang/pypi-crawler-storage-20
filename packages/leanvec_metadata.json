@@ -1,11 +1,11 @@
 {
   "name": "leanvec",
-  "version": "1.0.8",
+  "version": "1.1.1",
   "summary": "Testing",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "leanvec-1.0.8-cp38-abi3-macosx_10_12_x86_64.whl",
-  "download_time": "2026-01-13T19:01:04.639956",
+  "download_filename": "leanvec-1.1.1-cp38-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-17T14:18:37.504443",
   "package_url": "https://pypi.org/project/leanvec/"
 }

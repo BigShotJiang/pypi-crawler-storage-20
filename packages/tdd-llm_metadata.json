@@ -1,11 +1,11 @@
 {
   "name": "tdd-llm",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "summary": "Deploy TDD workflow templates for Claude and Gemini AI assistants",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "tdd_llm-0.5.0.tar.gz",
-  "download_time": "2026-01-12T20:48:31.670503",
+  "download_filename": "tdd_llm-0.6.0.tar.gz",
+  "download_time": "2026-01-17T14:18:57.437633",
   "package_url": "https://pypi.org/project/tdd-llm/"
 }

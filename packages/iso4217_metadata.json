@@ -1,0 +1,11 @@
+{
+  "name": "iso4217",
+  "version": "1.15.20260101",
+  "summary": "ISO 4217 currency data package for Python",
+  "author": "Hong Minhee",
+  "license": "Public Domain",
+  "home_page": "https://github.com/dahlia/iso4217",
+  "download_filename": "iso4217-1.15.20260101.tar.gz",
+  "download_time": "2026-01-17T14:18:34.816515",
+  "package_url": "https://pypi.org/project/iso4217/"
+}

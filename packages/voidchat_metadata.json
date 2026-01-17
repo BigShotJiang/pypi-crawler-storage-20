@@ -1,0 +1,11 @@
+{
+  "name": "voidchat",
+  "version": "0.1.0",
+  "summary": "MCP + Skills enabled CLI/REPL chat agent",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "voidchat-0.1.0.tar.gz",
+  "download_time": "2026-01-17T14:18:48.869399",
+  "package_url": "https://pypi.org/project/voidchat/"
+}
