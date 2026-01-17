@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-crm-lead-to-task",
+  "version": "18.0.1.1.0.3",
+  "summary": "Create Tasks from Leads/Opportunities",
+  "author": "Odoo S.A., Odoo Community Association (OCA), Tecnativa",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/crm",
+  "download_filename": "odoo_addon_crm_lead_to_task-18.0.1.1.0.3-py3-none-any.whl",
+  "download_time": "2026-01-17T03:10:12.003208",
+  "package_url": "https://pypi.org/project/odoo-addon-crm-lead-to-task/"
+}

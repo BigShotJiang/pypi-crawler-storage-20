@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addons-shopinvader-odoo-shopinvader-payment",
+  "version": "16.0.20240603.0",
+  "summary": "Meta package for shopinvader-odoo-shopinvader-payment Odoo addons",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "odoo_addons_shopinvader_odoo_shopinvader_payment-16.0.20240603.0-py3-none-any.whl",
+  "download_time": "2026-01-17T03:10:22.990200",
+  "package_url": "https://pypi.org/project/odoo-addons-shopinvader-odoo-shopinvader-payment/"
+}

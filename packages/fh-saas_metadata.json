@@ -1,0 +1,11 @@
+{
+  "name": "fh-saas",
+  "version": "0.9",
+  "summary": "saas tempplate using fast html components with material skin (fh-material)",
+  "author": "abhishek sreesaila",
+  "license": "Apache Software License 2.0",
+  "home_page": "https://github.com/abhisheksreesaila/fh-saas",
+  "download_filename": "fh_saas-0.9.tar.gz",
+  "download_time": "2026-01-17T03:10:21.229577",
+  "package_url": "https://pypi.org/project/fh-saas/"
+}
