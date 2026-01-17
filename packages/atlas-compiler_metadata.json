@@ -1,0 +1,11 @@
+{
+  "name": "atlas-compiler",
+  "version": "0.1.0",
+  "summary": "Verifiable Neural JIT Compiler - AI-optimized Python with formal verification using GPT + Z3",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "atlas_compiler-0.1.0.tar.gz",
+  "download_time": "2026-01-17T06:55:00.502838",
+  "package_url": "https://pypi.org/project/atlas-compiler/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "focomy",
-  "version": "0.1.115",
+  "version": "0.1.116",
   "summary": "The Most Beautiful CMS - A metadata-driven, zero-duplicate-code content management system",
   "author": "Focomy Team",
   "license": null,
   "home_page": null,
-  "download_filename": "focomy-0.1.115.tar.gz",
-  "download_time": "2026-01-17T05:47:30.995127",
+  "download_filename": "focomy-0.1.116.tar.gz",
+  "download_time": "2026-01-17T06:55:19.853198",
   "package_url": "https://pypi.org/project/focomy/"
 }

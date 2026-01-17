@@ -1,0 +1,11 @@
+{
+  "name": "razc-nester",
+  "version": "1.0.0",
+  "summary": "A simple printer of nested lists",
+  "author": "hfpython",
+  "license": null,
+  "home_page": "http://www.headfirstlabs.com",
+  "download_filename": "razc_nester-1.0.0.tar.gz",
+  "download_time": "2026-01-17T06:55:09.871129",
+  "package_url": "https://pypi.org/project/razc-nester/"
+}

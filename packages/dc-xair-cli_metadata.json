@@ -1,0 +1,11 @@
+{
+  "name": "dc-xair-cli",
+  "version": "2.4.3",
+  "summary": "CLI to control Behringer X-Air | Midas MR mixers through OSC",
+  "author": "Dallas Crilley",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dc_xair_cli-2.4.3.tar.gz",
+  "download_time": "2026-01-17T06:55:14.572264",
+  "package_url": "https://pypi.org/project/dc-xair-cli/"
+}
