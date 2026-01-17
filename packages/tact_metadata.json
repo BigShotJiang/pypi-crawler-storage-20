@@ -1,0 +1,11 @@
+{
+  "name": "tact",
+  "version": "0.8.0",
+  "summary": "Taxonomic addition for complete trees: Adds tips to a backbone phylogeny using taxonomy simulated with birth-death models",
+  "author": "Jonathan Chang",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tact-0.8.0.tar.gz",
+  "download_time": "2026-01-17T08:50:00.898817",
+  "package_url": "https://pypi.org/project/tact/"
+}

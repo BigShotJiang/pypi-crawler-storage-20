@@ -1,0 +1,11 @@
+{
+  "name": "tursu",
+  "version": "1.0.2",
+  "summary": "🎬 A pytest plugin that transpiles Gherkin feature files to Python using AST, enforcing typing for ease of use and debugging.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tursu-1.0.2.tar.gz",
+  "download_time": "2026-01-17T08:50:20.693470",
+  "package_url": "https://pypi.org/project/tursu/"
+}

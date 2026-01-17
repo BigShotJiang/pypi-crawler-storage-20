@@ -1,11 +1,11 @@
 {
   "name": "usfmtc",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "USFM reference parser",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "usfmtc-0.4.2.tar.gz",
-  "download_time": "2026-01-15T09:26:38.469278",
+  "download_filename": "usfmtc-0.4.3.tar.gz",
+  "download_time": "2026-01-17T08:50:22.771889",
   "package_url": "https://pypi.org/project/usfmtc/"
 }
