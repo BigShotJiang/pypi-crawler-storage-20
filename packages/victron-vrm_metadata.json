@@ -1,11 +1,11 @@
 {
   "name": "victron-vrm",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "summary": "Async Python client for the Victron Energy VRM API and MQTT client for VRM",
   "author": "AndyTempel",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "victron_vrm-0.1.9.tar.gz",
-  "download_time": "2026-01-17T20:21:19.890314",
+  "download_filename": "victron_vrm-0.1.10.tar.gz",
+  "download_time": "2026-01-17T21:40:54.187154",
   "package_url": "https://pypi.org/project/victron-vrm/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "BobBuildTool",
+  "version": "1.2.0",
+  "summary": "Functional cross platform build-automation tool",
+  "author": "Jan Klötzke",
+  "license": "GPLv3+",
+  "home_page": "https://bobbuildtool.github.io/",
+  "download_filename": "bobbuildtool-1.2.0.tar.gz",
+  "download_time": "2026-01-17T21:40:53.161766",
+  "package_url": "https://pypi.org/project/BobBuildTool/"
+}

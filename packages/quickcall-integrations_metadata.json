@@ -1,11 +1,11 @@
 {
   "name": "quickcall-integrations",
-  "version": "0.3.7",
+  "version": "0.3.8",
   "summary": "MCP server with developer integrations for Claude Code and Cursor",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quickcall_integrations-0.3.7.tar.gz",
-  "download_time": "2026-01-17T21:18:34.737274",
+  "download_filename": "quickcall_integrations-0.3.8.tar.gz",
+  "download_time": "2026-01-17T21:40:55.732975",
   "package_url": "https://pypi.org/project/quickcall-integrations/"
 }

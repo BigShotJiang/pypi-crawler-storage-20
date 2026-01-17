@@ -1,0 +1,11 @@
+{
+  "name": "spci",
+  "version": "1.1.5",
+  "summary": "SPCI: structural and physicochemical interpretation of QSAR models",
+  "author": "Pavel Polishchuk",
+  "license": null,
+  "home_page": "https://github.com/DrrDom/spci",
+  "download_filename": "spci-1.1.5.tar.gz",
+  "download_time": "2026-01-17T21:40:43.833243",
+  "package_url": "https://pypi.org/project/spci/"
+}
