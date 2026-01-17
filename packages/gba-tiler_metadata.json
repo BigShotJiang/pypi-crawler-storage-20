@@ -1,11 +1,11 @@
 {
   "name": "gba-tiler",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "summary": "High-performance tool for downloading and tiling GlobalBuildingAtlas data",
   "author": "Clemens Drüe",
   "license": "EUPL-1.2",
   "home_page": "https://gitlab.rlp.net/druee/gba-tiler",
-  "download_filename": "gba_tiler-1.6.0.tar.gz",
-  "download_time": "2026-01-17T15:42:53.333120",
+  "download_filename": "gba_tiler-1.6.1.tar.gz",
+  "download_time": "2026-01-17T15:52:45.798141",
   "package_url": "https://pypi.org/project/gba-tiler/"
 }

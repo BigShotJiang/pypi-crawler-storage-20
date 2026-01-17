@@ -1,0 +1,11 @@
+{
+  "name": "mkepub",
+  "version": "1.2.2",
+  "summary": "Simple minimalistic library for creating EPUB3 files",
+  "author": "anqxyr",
+  "license": null,
+  "home_page": "https://github.com/anqxyr/mkepub/",
+  "download_filename": "mkepub-1.2.2.tar.gz",
+  "download_time": "2026-01-17T15:52:46.317407",
+  "package_url": "https://pypi.org/project/mkepub/"
+}

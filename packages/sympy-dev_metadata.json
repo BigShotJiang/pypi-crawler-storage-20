@@ -1,11 +1,11 @@
 {
   "name": "sympy-dev",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "summary": "Sympy development version",
   "author": "SymPy development team",
   "license": "MIT",
   "home_page": "https://sympy.org",
-  "download_filename": "sympy_dev-1.2.5.tar.gz",
-  "download_time": "2026-01-17T13:20:20.322019",
+  "download_filename": "sympy_dev-1.2.6.tar.gz",
+  "download_time": "2026-01-17T15:52:50.187494",
   "package_url": "https://pypi.org/project/sympy-dev/"
 }
