@@ -1,0 +1,11 @@
+{
+  "name": "calabi",
+  "version": "1.0.0",
+  "summary": "A novel approach to LLM compression using Calabi-Yau manifolds",
+  "author": "Roshan Raghavander",
+  "license": "MIT",
+  "home_page": "https://github.com/RoshanRaghavander/Calabi",
+  "download_filename": "calabi-1.0.0.tar.gz",
+  "download_time": "2026-01-17T19:16:22.105254",
+  "package_url": "https://pypi.org/project/calabi/"
+}

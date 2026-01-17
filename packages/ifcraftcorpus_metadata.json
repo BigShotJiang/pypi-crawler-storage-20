@@ -1,11 +1,11 @@
 {
   "name": "ifcraftcorpus",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Interactive fiction craft corpus with search library and MCP server",
   "author": "pvliesdonk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ifcraftcorpus-1.4.0.tar.gz",
-  "download_time": "2026-01-17T08:50:18.611688",
+  "download_filename": "ifcraftcorpus-1.5.0.tar.gz",
+  "download_time": "2026-01-17T19:16:36.417364",
   "package_url": "https://pypi.org/project/ifcraftcorpus/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "projectdavid-common",
-  "version": "0.19.1",
+  "version": "0.20.0",
   "summary": "Common shared custom packages",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "projectdavid_common-0.19.1.tar.gz",
-  "download_time": "2026-01-17T04:47:01.327375",
+  "download_filename": "projectdavid_common-0.20.0.tar.gz",
+  "download_time": "2026-01-17T19:16:07.224866",
   "package_url": "https://pypi.org/project/projectdavid-common/"
 }

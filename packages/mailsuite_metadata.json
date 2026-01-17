@@ -1,0 +1,11 @@
+{
+  "name": "mailsuite",
+  "version": "1.11.2",
+  "summary": "A Python package for retrieving, parsing, and sending emails",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mailsuite-1.11.2.tar.gz",
+  "download_time": "2026-01-17T19:16:26.415876",
+  "package_url": "https://pypi.org/project/mailsuite/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vidsrc",
+  "version": "2026.1.18",
+  "summary": "Video Frameserver for Numpy",
+  "author": "Christoph Gohlke",
+  "license": "BSD-3-Clause",
+  "home_page": "https://www.cgohlke.com",
+  "download_filename": "vidsrc-2026.1.18.tar.gz",
+  "download_time": "2026-01-17T19:16:32.298333",
+  "package_url": "https://pypi.org/project/vidsrc/"
+}

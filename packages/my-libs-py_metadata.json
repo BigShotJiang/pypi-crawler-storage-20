@@ -1,11 +1,11 @@
 {
   "name": "my-libs-py",
-  "version": "0.0.12",
+  "version": "0.0.14",
   "summary": "Commons utilitários para projetos Spark",
   "author": "Felipe Pegoraro",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "my_libs_py-0.0.12.tar.gz",
-  "download_time": "2026-01-17T18:53:19.055498",
+  "download_filename": "my_libs_py-0.0.14.tar.gz",
+  "download_time": "2026-01-17T19:16:31.785738",
   "package_url": "https://pypi.org/project/my-libs-py/"
 }
