@@ -1,0 +1,11 @@
+{
+  "name": "koruspy",
+  "version": "0.9.7",
+  "summary": "Uma biblioteca inspirada em Rust e Kotlin para lidar com Option, println colorido e utilitários.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "koruspy-0.9.7.tar.gz",
+  "download_time": "2026-01-17T04:05:04.832133",
+  "package_url": "https://pypi.org/project/koruspy/"
+}

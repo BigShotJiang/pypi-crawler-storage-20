@@ -1,11 +1,11 @@
 {
   "name": "fh-saas",
-  "version": "0.9",
-  "summary": "saas tempplate using fast html components with material skin (fh-material)",
+  "version": "0.9.1",
+  "summary": "Production-ready multi-tenant SaaS toolkit for FastHTML applications with authentication, billing, and integrations",
   "author": "abhishek sreesaila",
   "license": "Apache Software License 2.0",
   "home_page": "https://github.com/abhisheksreesaila/fh-saas",
-  "download_filename": "fh_saas-0.9.tar.gz",
-  "download_time": "2026-01-17T03:10:21.229577",
+  "download_filename": "fh_saas-0.9.1.tar.gz",
+  "download_time": "2026-01-17T04:05:00.935290",
   "package_url": "https://pypi.org/project/fh-saas/"
 }

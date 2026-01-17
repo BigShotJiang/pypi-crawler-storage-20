@@ -1,0 +1,11 @@
+{
+  "name": "lcore-sdk",
+  "version": "0.1.0",
+  "summary": "Python SDK for L{CORE} - Privacy-preserving IoT attestation layer",
+  "author": "Modern Society Labs",
+  "license": null,
+  "home_page": null,
+  "download_filename": "lcore_sdk-0.1.0.tar.gz",
+  "download_time": "2026-01-17T04:05:13.096214",
+  "package_url": "https://pypi.org/project/lcore-sdk/"
+}

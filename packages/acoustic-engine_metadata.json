@@ -1,0 +1,11 @@
+{
+  "name": "acoustic-engine",
+  "version": "1.0.0",
+  "summary": "Real-time acoustic alarm pattern detection engine",
+  "author": null,
+  "license": "CC BY-NC 4.0",
+  "home_page": null,
+  "download_filename": "acoustic_engine-1.0.0.tar.gz",
+  "download_time": "2026-01-17T04:05:05.380274",
+  "package_url": "https://pypi.org/project/acoustic-engine/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "moptipy",
-  "version": "0.9.164",
+  "version": "0.9.165",
   "summary": "A package for metaheuristic optimization in Python.",
   "author": "Thomas Weise",
   "license": "GPL 3.0",
   "home_page": "https://thomasweise.github.io/moptipy",
-  "download_filename": "moptipy-0.9.164.tar.gz",
-  "download_time": "2026-01-14T09:52:35.803796",
+  "download_filename": "moptipy-0.9.165.tar.gz",
+  "download_time": "2026-01-17T04:05:12.012840",
   "package_url": "https://pypi.org/project/moptipy/"
 }

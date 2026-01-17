@@ -1,0 +1,11 @@
+{
+  "name": "torch-l1-snr",
+  "version": "0.0.3",
+  "summary": "L1-SNR loss functions for audio source separation in PyTorch",
+  "author": "Christopher Landscaping",
+  "license": "MIT",
+  "home_page": "https://github.com/crlandsc/torch-l1-snr",
+  "download_filename": "torch_l1_snr-0.0.3.tar.gz",
+  "download_time": "2026-01-17T04:04:41.146005",
+  "package_url": "https://pypi.org/project/torch-l1-snr/"
+}

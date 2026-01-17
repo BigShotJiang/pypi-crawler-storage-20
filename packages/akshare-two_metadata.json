@@ -1,0 +1,11 @@
+{
+  "name": "akshare-two",
+  "version": "1.0.0",
+  "summary": "Standardized interface for Chinese financial market data, built on AKShare with unified data formats and simplified APIs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "akshare_two-1.0.0.tar.gz",
+  "download_time": "2026-01-17T04:04:51.614820",
+  "package_url": "https://pypi.org/project/akshare-two/"
+}
