@@ -1,11 +1,11 @@
 {
   "name": "pypi-miner",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Mine and extract complete package lists from PyPI registry",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pypi_miner-1.0.1.tar.gz",
-  "download_time": "2026-01-18T19:16:30.950409",
+  "download_filename": "pypi_miner-1.0.2.tar.gz",
+  "download_time": "2026-01-18T19:43:20.507280",
   "package_url": "https://pypi.org/project/pypi-miner/"
 }
