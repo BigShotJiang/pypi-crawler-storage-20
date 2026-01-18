@@ -1,11 +1,11 @@
 {
   "name": "xync-client",
-  "version": "0.0.183",
+  "version": "0.0.185",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xync_client-0.0.183.tar.gz",
-  "download_time": "2026-01-18T07:20:22.784400",
+  "download_filename": "xync_client-0.0.185.tar.gz",
+  "download_time": "2026-01-18T08:25:57.962402",
   "package_url": "https://pypi.org/project/xync-client/"
 }

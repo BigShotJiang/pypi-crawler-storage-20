@@ -1,11 +1,11 @@
 {
   "name": "psh2bat",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "将 PowerShell 脚本嵌入 Bat 脚本的工具。",
   "author": "licyk",
   "license": null,
   "home_page": null,
-  "download_filename": "psh2bat-0.0.2.tar.gz",
-  "download_time": "2026-01-18T04:31:14.690908",
+  "download_filename": "psh2bat-0.0.3.tar.gz",
+  "download_time": "2026-01-18T08:26:15.167034",
   "package_url": "https://pypi.org/project/psh2bat/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "text-package",
+  "version": "0.1.0",
+  "summary": "A basic text utilities package",
+  "author": "Ashutosh Raj",
+  "license": null,
+  "home_page": "https://github.com/asahu10m/python_package",
+  "download_filename": "text_package-0.1.0.tar.gz",
+  "download_time": "2026-01-18T08:26:07.249080",
+  "package_url": "https://pypi.org/project/text-package/"
+}
