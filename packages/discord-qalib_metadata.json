@@ -1,0 +1,11 @@
+{
+  "name": "discord-qalib",
+  "version": "2.5.14",
+  "summary": "Discord library built on discord.py to simplify source code by rendering templates of embeds and menus",
+  "author": "Yousef Zaher",
+  "license": "MIT",
+  "home_page": "https://github.com/YousefEZ/discord-qalib",
+  "download_filename": "discord_qalib-2.5.14.tar.gz",
+  "download_time": "2026-01-18T17:36:55.337270",
+  "package_url": "https://pypi.org/project/discord-qalib/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "ExcelCSVParseHelper",
+  "version": "1.2.2",
+  "summary": "Lightweight helper library for parsing and manipulating Excel and CSV files easily.",
+  "author": "Marcin Kowalczyk",
+  "license": null,
+  "home_page": null,
+  "download_filename": "excelcsvparsehelper-1.2.2.tar.gz",
+  "download_time": "2026-01-18T17:37:13.579550",
+  "package_url": "https://pypi.org/project/ExcelCSVParseHelper/"
+}

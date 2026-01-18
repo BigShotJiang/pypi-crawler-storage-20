@@ -1,11 +1,11 @@
 {
   "name": "tradedangerous",
-  "version": "12.8.2",
+  "version": "12.8.3",
   "summary": "Trade-Dangerous is a set of powerful trading tools for Elite Dangerous, organized around one of the most powerful trade run optimizers available.",
   "author": "eyeonus",
   "license": "MPL",
   "home_page": "https://github.com/eyeonus/Trade-Dangerous",
-  "download_filename": "tradedangerous-12.8.2.tar.gz",
-  "download_time": "2026-01-13T22:19:35.865531",
+  "download_filename": "tradedangerous-12.8.3.tar.gz",
+  "download_time": "2026-01-18T17:37:12.046652",
   "package_url": "https://pypi.org/project/tradedangerous/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "st-zig",
+  "version": "0.1.1",
+  "summary": "A setuptools extension for compiling native extensions with Zig.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "st_zig-0.1.1.tar.gz",
+  "download_time": "2026-01-18T17:36:59.108922",
+  "package_url": "https://pypi.org/project/st-zig/"
+}
