@@ -1,0 +1,11 @@
+{
+  "name": "patchelf",
+  "version": "0.17.2.4",
+  "summary": "A small utility to modify the dynamic linker and RPATH of ELF executables.",
+  "author": null,
+  "license": "GPL-3.0-or-later",
+  "home_page": null,
+  "download_filename": "patchelf-0.17.2.4.tar.gz",
+  "download_time": "2026-01-18T07:20:11.211463",
+  "package_url": "https://pypi.org/project/patchelf/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "fontek",
-  "version": "1.0.0",
-  "summary": "Festival-style multi-purpose terminal toolkit",
+  "version": "1.1.0",
+  "summary": "A powerful fonting library for better experience in the field of terminal fonting. It has Rich at it's backend.",
   "author": "Swastik",
   "license": null,
   "home_page": null,
-  "download_filename": "fontek-1.0.0.tar.gz",
-  "download_time": "2026-01-17T10:19:49.059018",
+  "download_filename": "fontek-1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-18T07:20:23.821659",
   "package_url": "https://pypi.org/project/fontek/"
 }

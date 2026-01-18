@@ -1,11 +1,11 @@
 {
   "name": "envis",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "Secure, simple, and powerful secret management.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "envis-0.0.1.tar.gz",
-  "download_time": "2026-01-18T04:31:56.299599",
+  "download_filename": "envis-0.0.2.tar.gz",
+  "download_time": "2026-01-18T07:20:20.694209",
   "package_url": "https://pypi.org/project/envis/"
 }

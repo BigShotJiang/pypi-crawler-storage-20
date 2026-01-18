@@ -1,0 +1,11 @@
+{
+  "name": "nepal-geo-data",
+  "version": "0.1.0",
+  "summary": "A Python package providing geographical data (GeoJSON) for Nepal's districts and provinces.",
+  "author": "Your Name",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/nepal-geo-data",
+  "download_filename": "nepal_geo_data-0.1.0.tar.gz",
+  "download_time": "2026-01-18T07:20:09.642302",
+  "package_url": "https://pypi.org/project/nepal-geo-data/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "attribution-lib",
+  "version": "0.4.0",
+  "summary": "A library for constructing citable prompts and attributing contributions of context sources in RAG systems",
+  "author": "Siddhant Rai",
+  "license": null,
+  "home_page": "https://github.com/siddhant230/Attribution_package",
+  "download_filename": "attribution_lib-0.4.0.tar.gz",
+  "download_time": "2026-01-18T07:20:17.463023",
+  "package_url": "https://pypi.org/project/attribution-lib/"
+}

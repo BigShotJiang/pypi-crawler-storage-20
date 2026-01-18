@@ -1,0 +1,11 @@
+{
+  "name": "allianceauth-invoices",
+  "version": "0.1.8",
+  "summary": "Invoice module for AllianceAuth with simplicity and extendability in mind.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "allianceauth_invoices-0.1.8.tar.gz",
+  "download_time": "2026-01-18T07:20:24.863285",
+  "package_url": "https://pypi.org/project/allianceauth-invoices/"
+}
