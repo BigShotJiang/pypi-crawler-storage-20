@@ -1,11 +1,11 @@
 {
   "name": "django-forms-workflows",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "summary": "Enterprise-grade, database-driven form builder with approval workflows and external data integration",
   "author": "Matt Davis",
   "license": "LGPL-3.0-only",
   "home_page": null,
-  "download_filename": "django_forms_workflows-0.5.12.tar.gz",
-  "download_time": "2026-01-18T19:31:06.148676",
+  "download_filename": "django_forms_workflows-0.5.13.tar.gz",
+  "download_time": "2026-01-18T20:22:54.475188",
   "package_url": "https://pypi.org/project/django-forms-workflows/"
 }

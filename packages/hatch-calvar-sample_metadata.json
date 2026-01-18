@@ -1,11 +1,11 @@
 {
   "name": "hatch-calvar-sample",
-  "version": "2026.1.18.6",
+  "version": "2026.1.18.7",
   "summary": "Sample project demonstrating CalVer (YYYY.MM.DD.MICRO) with hatch",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hatch_calvar_sample-2026.1.18.6.tar.gz",
-  "download_time": "2026-01-18T19:52:26.361270",
+  "download_filename": "hatch_calvar_sample-2026.1.18.7.tar.gz",
+  "download_time": "2026-01-18T20:22:56.587176",
   "package_url": "https://pypi.org/project/hatch-calvar-sample/"
 }

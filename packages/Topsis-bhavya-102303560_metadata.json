@@ -1,11 +1,11 @@
 {
   "name": "Topsis-bhavya-102303560",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "TOPSIS implementation using Python",
   "author": "Bhavya",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_bhavya_102303560-1.0.2.tar.gz",
-  "download_time": "2026-01-18T19:31:09.816588",
+  "download_filename": "topsis_bhavya_102303560-1.0.3.tar.gz",
+  "download_time": "2026-01-18T20:22:50.784787",
   "package_url": "https://pypi.org/project/Topsis-bhavya-102303560/"
 }

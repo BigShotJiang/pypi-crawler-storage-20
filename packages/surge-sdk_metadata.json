@@ -1,11 +1,11 @@
 {
   "name": "surge-sdk",
-  "version": "0.7.0",
+  "version": "0.8.0",
   "summary": "The official Python library for the surge API",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "surge_sdk-0.7.0.tar.gz",
-  "download_time": "2026-01-18T19:52:47.446500",
+  "download_filename": "surge_sdk-0.8.0.tar.gz",
+  "download_time": "2026-01-18T20:22:38.679652",
   "package_url": "https://pypi.org/project/surge-sdk/"
 }

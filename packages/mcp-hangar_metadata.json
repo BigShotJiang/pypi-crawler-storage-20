@@ -1,11 +1,11 @@
 {
   "name": "mcp-hangar",
-  "version": "0.1.4",
-  "summary": "Production-grade hot-load registry for MCP providers",
-  "author": "MCP Registry Contributors",
-  "license": null,
+  "version": "0.2.1",
+  "summary": "Production-grade infrastructure for Model Context Protocol",
+  "author": null,
+  "license": "MIT",
   "home_page": null,
-  "download_filename": "mcp_hangar-0.1.4.tar.gz",
-  "download_time": "2026-01-16T12:40:51.310024",
+  "download_filename": "mcp_hangar-0.2.1.tar.gz",
+  "download_time": "2026-01-18T20:22:36.582307",
   "package_url": "https://pypi.org/project/mcp-hangar/"
 }
