@@ -1,0 +1,11 @@
+{
+  "name": "etsi-etna",
+  "version": "0.1.0",
+  "summary": "High-performance neural network framework with a Rust core",
+  "author": null,
+  "license": "BSD-2-Clause",
+  "home_page": "https://github.com/etsi-ai/etna",
+  "download_filename": "etsi_etna-0.1.0-cp314-cp314-win_amd64.whl",
+  "download_time": "2026-01-18T10:46:39.942853",
+  "package_url": "https://pypi.org/project/etsi-etna/"
+}

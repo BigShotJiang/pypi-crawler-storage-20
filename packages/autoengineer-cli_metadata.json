@@ -1,0 +1,11 @@
+{
+  "name": "autoengineer-cli",
+  "version": "0.1.0",
+  "summary": "Autonomous Software Engineering Multi-Agent System using AI agents to analyze, implement, test, and review code",
+  "author": "AutoEngineer Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "autoengineer_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-18T10:46:58.015913",
+  "package_url": "https://pypi.org/project/autoengineer-cli/"
+}

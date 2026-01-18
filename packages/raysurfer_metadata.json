@@ -1,11 +1,11 @@
 {
   "name": "raysurfer",
-  "version": "0.3.2",
+  "version": "0.4.0",
   "summary": "Drop-in replacement for Claude Agent SDK with automatic code caching - just swap your import",
   "author": "Raymond Xu",
   "license": null,
   "home_page": null,
-  "download_filename": "raysurfer-0.3.2.tar.gz",
-  "download_time": "2026-01-18T05:00:54.263330",
+  "download_filename": "raysurfer-0.4.0.tar.gz",
+  "download_time": "2026-01-18T10:46:50.056993",
   "package_url": "https://pypi.org/project/raysurfer/"
 }

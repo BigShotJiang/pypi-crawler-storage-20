@@ -1,11 +1,11 @@
 {
   "name": "clouvel-pro",
-  "version": "1.4.2",
-  "summary": "Clouvel Pro - Shovel 워크플로우 + 프리미엄 기능 + Team 협업",
+  "version": "2.0.0",
+  "summary": "[DEPRECATED] Use 'clouvel' instead. All Pro features are now included in clouvel v1.0.0+",
   "author": "Whitening-Sinabro",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "clouvel_pro-1.4.2.tar.gz",
-  "download_time": "2026-01-17T18:28:02.921397",
+  "download_filename": "clouvel_pro-2.0.0.tar.gz",
+  "download_time": "2026-01-18T10:46:44.687444",
   "package_url": "https://pypi.org/project/clouvel-pro/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "dimeai",
+  "version": "0.1.0",
+  "summary": "DIMEFIL Analyst CLI - AI-powered geopolitical event analysis using temporal graph networks",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dimeai-0.1.0.tar.gz",
+  "download_time": "2026-01-18T10:47:11.136740",
+  "package_url": "https://pypi.org/project/dimeai/"
+}
