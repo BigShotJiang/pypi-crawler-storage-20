@@ -1,0 +1,11 @@
+{
+  "name": "browser7",
+  "version": "0.1.0a1",
+  "summary": "Official Python SDK for Browser7 - Geo-targeted web scraping with automatic CAPTCHA solving and wait actions [ALPHA - API launching Q2 2026]",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "browser7-0.1.0a1.tar.gz",
+  "download_time": "2026-01-18T10:21:21.446184",
+  "package_url": "https://pypi.org/project/browser7/"
+}

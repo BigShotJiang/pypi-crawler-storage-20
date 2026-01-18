@@ -1,0 +1,11 @@
+{
+  "name": "shellforgepy",
+  "version": "3.3.0",
+  "summary": "Python tooling for backend-agnostic 3D modeling and fabrication",
+  "author": "Markus Emmenegger",
+  "license": "MIT",
+  "home_page": "https://github.com/m-emm/shellforgepy",
+  "download_filename": "shellforgepy-3.3.0.tar.gz",
+  "download_time": "2026-01-18T10:20:59.598439",
+  "package_url": "https://pypi.org/project/shellforgepy/"
+}

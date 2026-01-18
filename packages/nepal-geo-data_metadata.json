@@ -1,11 +1,11 @@
 {
   "name": "nepal-geo-data",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Comprehensive Python package offering Nepal's geographical data including GeoJSON for all 77 districts and 7 provinces. Ideal for GIS, mapping, and data visualization projects for Nepal.",
   "author": "Bedbyas Pokhrel",
   "license": "MIT",
   "home_page": "https://github.com/bedbyaspokhrel/nepal-geo-data",
-  "download_filename": "nepal_geo_data-0.2.2.tar.gz",
-  "download_time": "2026-01-18T09:53:43.933475",
+  "download_filename": "nepal_geo_data-0.3.0.tar.gz",
+  "download_time": "2026-01-18T10:20:56.812360",
   "package_url": "https://pypi.org/project/nepal-geo-data/"
 }

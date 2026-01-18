@@ -1,0 +1,11 @@
+{
+  "name": "pogema",
+  "version": "1.4.0",
+  "summary": "Partially Observable Grid Environment for Multiple Agents",
+  "author": "Alexey Skrynnik",
+  "license": "MIT",
+  "home_page": "https://github.com/Cognitive-AI-Systems/pogema",
+  "download_filename": "pogema-1.4.0.tar.gz",
+  "download_time": "2026-01-18T10:21:14.024909",
+  "package_url": "https://pypi.org/project/pogema/"
+}
