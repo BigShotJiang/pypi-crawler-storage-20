@@ -1,0 +1,11 @@
+{
+  "name": "zimran-config",
+  "version": "1.2.0",
+  "summary": "Pydantic based configuration for FastAPI services",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "zimran_config-1.2.0.tar.gz",
+  "download_time": "2026-01-18T09:44:20.449327",
+  "package_url": "https://pypi.org/project/zimran-config/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "satnogs-decoders",
+  "version": "1.113.0",
+  "summary": "SatNOGS Decoders",
+  "author": "SatNOGS project",
+  "license": "AGPLv3",
+  "home_page": "https://gitlab.com/librespacefoundation/satnogs/satnogs-decoders",
+  "download_filename": "satnogs_decoders-1.113.0.tar.gz",
+  "download_time": "2026-01-18T09:44:20.970642",
+  "package_url": "https://pypi.org/project/satnogs-decoders/"
+}

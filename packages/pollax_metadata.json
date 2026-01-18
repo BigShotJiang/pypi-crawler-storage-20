@@ -1,0 +1,11 @@
+{
+  "name": "pollax",
+  "version": "1.0.0",
+  "summary": "Official Python SDK for the Pollax AI Voice Platform",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "pollax-1.0.0.tar.gz",
+  "download_time": "2026-01-18T09:44:09.997296",
+  "package_url": "https://pypi.org/project/pollax/"
+}
