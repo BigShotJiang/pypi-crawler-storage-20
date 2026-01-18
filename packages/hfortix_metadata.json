@@ -1,11 +1,11 @@
 {
   "name": "hfortix",
-  "version": "0.5.108",
+  "version": "0.5.109",
   "summary": "Python SDK for Fortinet products (FortiOS, FortiManager, FortiAnalyzer)",
   "author": null,
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "hfortix-0.5.108.tar.gz",
-  "download_time": "2026-01-18T20:45:45.848362",
+  "download_filename": "hfortix-0.5.109.tar.gz",
+  "download_time": "2026-01-18T20:56:27.642462",
   "package_url": "https://pypi.org/project/hfortix/"
 }

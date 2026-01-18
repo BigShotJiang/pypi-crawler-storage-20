@@ -1,0 +1,11 @@
+{
+  "name": "venvipy",
+  "version": "0.4.0",
+  "summary": "A GUI for managing Python virtual environments.",
+  "author": "Youssef Serestou",
+  "license": null,
+  "home_page": "https://github.com/sinusphi/venvipy",
+  "download_filename": "venvipy-0.4.0.tar.gz",
+  "download_time": "2026-01-18T20:56:31.488642",
+  "package_url": "https://pypi.org/project/venvipy/"
+}
