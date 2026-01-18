@@ -1,11 +1,11 @@
 {
   "name": "nearorder",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Utilities for working with near-ordered sequences under bounded disorder.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nearorder-0.1.0.tar.gz",
-  "download_time": "2026-01-18T09:44:17.858008",
+  "download_filename": "nearorder-0.1.1.tar.gz",
+  "download_time": "2026-01-18T09:53:39.528409",
   "package_url": "https://pypi.org/project/nearorder/"
 }

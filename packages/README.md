@@ -1,19 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-18T09:44:48.760070
-- **Total Packages**: 82
-- **Total Size**: 34.19 MB
+- **Download Time**: 2026-01-18T09:54:22.515814
+- **Total Packages**: 76
+- **Total Size**: 15.13 MB
 
 ## Packages List
+- power-grid-model
+- mapminer
+- nearorder
+- sturmer
+- flowgym
+- mcp-gemini-search
+- mannks
+- gwc-pybundle
+- beancount-chile
+- nepal-geo-data
+- HCDSIM
+- discord-orchestrator-sdk
+- compit-inext-api-beta
+- turboRocket
+- petal-leafsdk
+- paradigm_garlic
+- plotter-core
+- code-loader
+- tailjlogs
 - ticktick-sdk
 - tfp-nightly
 - dc-securex
 - eero-api
 - diffxl
 - pnslab-ai-sdk
-- nepal-geo-data
-- sturmer
 - mutcli
 - pptagent
 - clouvel
@@ -24,7 +41,6 @@
 - leaf-pymavlink
 - mudra-sdk
 - pysfi
-- compit-inext-api-beta
 - VertexEngine
 - pygraphkit
 - resume-as-code-ng
@@ -34,7 +50,6 @@
 - keywordsai-tracing
 - genetics-viz
 - whatsapp-toolkit
-- nearorder
 - django-content-studio
 - keywordsai-sdk
 - zimran-config
@@ -58,7 +73,6 @@
 - plutoniium
 - pychord
 - mineai
-- HCDSIM
 - togo
 - lazysdk
 - emdash-ai
@@ -68,23 +82,3 @@
 - wisent
 - janusx
 - sayou-connector
-- autogluon
-- autogluon.timeseries
-- autogluon.multimodal
-- autogluon.tabular
-- autogluon.features
-- autogluon.core
-- autogluon.common
-- wesamoyo
-- nipyapi
-- llama-cpp-py-sync
-- h5rdmtoolbox
-- fastmssql
-- zbWidgetLib
-- loopwn
-- psycopg2-client
-- dtlpymcp
-- plato-sdk-v2
-- nshogi
-- spritepro
-- gqlitedb
