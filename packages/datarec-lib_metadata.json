@@ -1,11 +1,11 @@
 {
   "name": "datarec-lib",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "summary": "Standardized & reproducible data management for recommender systems.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "datarec_lib-1.4.0.tar.gz",
-  "download_time": "2026-01-17T10:56:07.787441",
+  "download_filename": "datarec_lib-1.5.0.tar.gz",
+  "download_time": "2026-01-18T21:19:03.090684",
   "package_url": "https://pypi.org/project/datarec-lib/"
 }

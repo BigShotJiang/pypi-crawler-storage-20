@@ -1,0 +1,11 @@
+{
+  "name": "stache-ai-enrichment",
+  "version": "0.1.0",
+  "summary": "AI-powered metadata enrichment for Stache (standard features)",
+  "author": "Stache Contributors",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "stache_ai_enrichment-0.1.0.tar.gz",
+  "download_time": "2026-01-18T21:18:39.744102",
+  "package_url": "https://pypi.org/project/stache-ai-enrichment/"
+}

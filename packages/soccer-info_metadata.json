@@ -1,11 +1,11 @@
 {
   "name": "soccer-info",
-  "version": "0.1.1",
+  "version": "0.2.1",
   "summary": "Python SDK for Soccer Football Info API via RapidAPI",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "soccer_info-0.1.1.tar.gz",
-  "download_time": "2026-01-12T22:45:16.432534",
+  "download_filename": "soccer_info-0.2.1.tar.gz",
+  "download_time": "2026-01-18T21:18:34.567614",
   "package_url": "https://pypi.org/project/soccer-info/"
 }

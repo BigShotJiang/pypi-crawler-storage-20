@@ -1,0 +1,11 @@
+{
+  "name": "rocm-sdk-libraries-gfx110x-dgpu",
+  "version": "0.0.2",
+  "summary": "rocm-sdk-libraries-gfx110x-dgpu PyPI uploads",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rocm_sdk_libraries_gfx110x_dgpu-0.0.2.tar.gz",
+  "download_time": "2026-01-18T21:19:13.212224",
+  "package_url": "https://pypi.org/project/rocm-sdk-libraries-gfx110x-dgpu/"
+}

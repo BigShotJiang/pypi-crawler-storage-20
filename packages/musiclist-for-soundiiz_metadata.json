@@ -1,0 +1,11 @@
+{
+  "name": "musiclist-for-soundiiz",
+  "version": "1.0.8",
+  "summary": "Extract music file metadata for Soundiiz import",
+  "author": "Luc Muss",
+  "license": "MIT",
+  "home_page": "https://github.com/lucmuss/musiclist-for-soundiiz",
+  "download_filename": "musiclist_for_soundiiz-1.0.8.tar.gz",
+  "download_time": "2026-01-18T21:19:13.755704",
+  "package_url": "https://pypi.org/project/musiclist-for-soundiiz/"
+}
