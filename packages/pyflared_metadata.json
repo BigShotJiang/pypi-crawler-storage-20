@@ -1,11 +1,11 @@
 {
   "name": "pyflared",
-  "version": "0.0.1b6",
+  "version": "0.0.1b7",
   "summary": "A Python CLI tool for effortless Cloudflare Tunnel management",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyflared-0.0.1b6.tar.gz",
-  "download_time": "2026-01-18T19:31:16.232547",
+  "download_filename": "pyflared-0.0.1b7.tar.gz",
+  "download_time": "2026-01-18T22:20:18.503354",
   "package_url": "https://pypi.org/project/pyflared/"
 }

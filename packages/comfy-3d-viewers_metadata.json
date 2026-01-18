@@ -1,11 +1,11 @@
 {
   "name": "comfy-3d-viewers",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "Reusable 3D viewer infrastructure for ComfyUI nodes",
   "author": "ComfyUI-GeometryPack Contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "comfy_3d_viewers-0.1.10.tar.gz",
-  "download_time": "2026-01-18T17:37:09.488138",
+  "download_filename": "comfy_3d_viewers-0.1.11.tar.gz",
+  "download_time": "2026-01-18T22:20:15.890965",
   "package_url": "https://pypi.org/project/comfy-3d-viewers/"
 }

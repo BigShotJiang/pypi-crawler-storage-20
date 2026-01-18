@@ -1,11 +1,11 @@
 {
   "name": "cremalink",
-  "version": "0.1.0b9",
+  "version": "0.1.0b10",
   "summary": "Python library and local API server for monitoring and controlling IoT coffee machines.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "cremalink-0.1.0b9.tar.gz",
-  "download_time": "2026-01-18T19:52:44.307476",
+  "download_filename": "cremalink-0.1.0b10.tar.gz",
+  "download_time": "2026-01-18T22:20:12.762820",
   "package_url": "https://pypi.org/project/cremalink/"
 }

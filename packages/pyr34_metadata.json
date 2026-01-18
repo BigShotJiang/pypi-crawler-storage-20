@@ -1,0 +1,11 @@
+{
+  "name": "pyr34",
+  "version": "0.2.1",
+  "summary": "Wrapper around the JSON/XML rule34.xxx API.",
+  "author": "Connor Tippets",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pyr34-0.2.1.tar.gz",
+  "download_time": "2026-01-18T22:20:35.390670",
+  "package_url": "https://pypi.org/project/pyr34/"
+}

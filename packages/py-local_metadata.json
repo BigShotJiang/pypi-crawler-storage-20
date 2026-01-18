@@ -1,0 +1,11 @@
+{
+  "name": "py-local",
+  "version": "0.5.3",
+  "summary": "Local Network Module for Python",
+  "author": "Lao",
+  "license": "MIT",
+  "home_page": "https://github.com/codelao/py-local",
+  "download_filename": "py_local-0.5.3.tar.gz",
+  "download_time": "2026-01-18T22:20:14.844306",
+  "package_url": "https://pypi.org/project/py-local/"
+}

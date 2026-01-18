@@ -1,0 +1,11 @@
+{
+  "name": "solvice-vrp-solver",
+  "version": "0.1.0a5",
+  "summary": "The official Python library for the solvice-vrp-solver API",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "solvice_vrp_solver-0.1.0a5.tar.gz",
+  "download_time": "2026-01-18T22:20:46.412585",
+  "package_url": "https://pypi.org/project/solvice-vrp-solver/"
+}
