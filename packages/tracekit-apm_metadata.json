@@ -1,0 +1,11 @@
+{
+  "name": "tracekit-apm",
+  "version": "1.1.1",
+  "summary": "TraceKit APM for Python - Zero-config distributed tracing and code monitoring for Flask, FastAPI, and Django",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tracekit_apm-1.1.1.tar.gz",
+  "download_time": "2026-01-18T11:44:43.348105",
+  "package_url": "https://pypi.org/project/tracekit-apm/"
+}

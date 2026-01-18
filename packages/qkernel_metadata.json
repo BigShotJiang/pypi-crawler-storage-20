@@ -1,11 +1,11 @@
 {
   "name": "qkernel",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "CLI tool for executing Quarto cells through a Jupyter kernel",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "qkernel-0.1.0.tar.gz",
-  "download_time": "2026-01-18T11:32:38.608608",
+  "download_filename": "qkernel-0.1.1.tar.gz",
+  "download_time": "2026-01-18T11:44:49.001568",
   "package_url": "https://pypi.org/project/qkernel/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fast-robotstxt",
+  "version": "1.1.0",
+  "summary": "Python bindings for Google's robots.txt parser library",
+  "author": "Google LLC",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "fast_robotstxt-1.1.0-cp310-cp310-macosx_10_15_x86_64.whl",
+  "download_time": "2026-01-18T11:44:38.720232",
+  "package_url": "https://pypi.org/project/fast-robotstxt/"
+}

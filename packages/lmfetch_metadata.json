@@ -1,0 +1,11 @@
+{
+  "name": "lmfetch",
+  "version": "0.2.0",
+  "summary": "Build intelligent context from codebases and URLs for LLMs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lmfetch-0.2.0.tar.gz",
+  "download_time": "2026-01-18T11:44:42.319461",
+  "package_url": "https://pypi.org/project/lmfetch/"
+}

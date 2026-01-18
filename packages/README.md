@@ -1,14 +1,48 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-18T11:33:14.952827
-- **Total Packages**: 81
-- **Total Size**: 10.77 MB
+- **Download Time**: 2026-01-18T11:45:11.853835
+- **Total Packages**: 79
+- **Total Size**: 10.65 MB
 
 ## Packages List
+- goblin-ai
+- jewei-mcp-nacos
+- adamixture
 - minecode-mcp
-- topsis-garima-102303542
+- arpakitlib
+- code-loader
+- majoplot
+- octodns-desec
+- easycoder
 - eaheog
+- torch-batteries
+- ogcore
+- topicminer-louati
+- sqlacodegen
+- outerbounds
+- fast-robotstxt
+- quasarr
+- pactown
+- ob-metaflow-stubs
+- nice_duration
+- tailjlogs
+- wriftai
+- lmfetch
+- skill-seekers
+- tracekit-apm
+- ob-metaflow-extensions
+- amati
+- meetliveinfo
+- xlwings-utils
+- mcp-context-server
+- instaui-shiki
+- lrcgen
+- nonebot-plugin-railwaytools
+- mchart
+- qkernel
+- shasta
+- topsis-garima-102303542
 - gitlint-rai
 - chaosmath
 - dramatiq
@@ -17,14 +51,9 @@
 - zobar
 - dslighting
 - dmfg16
-- qkernel
-- pactown
 - torchft-nightly
 - apds9960
 - Topsis-102303752
-- jewei-mcp-nacos
-- quasarr
-- topicminer-louati
 - ticktick-sdk
 - cremalink
 - canon-keeper-mcp
@@ -39,7 +68,6 @@
 - tf-keras-nightly
 - spotoptim
 - kladml
-- meetliveinfo
 - psh2bat
 - ksapi
 - tzafon
@@ -52,38 +80,8 @@
 - odoo-addon-mgmtsystem
 - pygraphkit
 - chess-env-rl
-- lrcgen
 - helper-streamlit-utils
 - avantis-trader-sdk
 - pydmf
 - sd-webui-all-in-one
-- goblin-ai
 - kita
-- jarvis-ai-assistant
-- YouTubeMusic
-- ts-stat-tests
-- contextinator
-- django-model-map
-- mima-engine
-- railway-framework
-- whatsapp-toolkit
-- dublib
-- html2docxconverter
-- project-llm-trainer
-- srp6
-- gwc-pybundle
-- snoogle13-vault-secrets
-- maque
-- bokeh
-- article-cli
-- cmdop
-- db2model
-- mcbridge
-- Topsis-VishwasKhattar-102303170
-- lsp-types
-- lingxingapi
-- ani2xcur
-- scikit-lego
-- patterpunk
-- context-compressor-llm
-- fraiseql

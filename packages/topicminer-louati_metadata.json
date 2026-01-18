@@ -1,11 +1,11 @@
 {
   "name": "topicminer-louati",
-  "version": "0.1.0",
-  "summary": "An advanced topic modeling library with email authentication, tabulated metrics, and plotly visualizations.",
+  "version": "0.1.1",
+  "summary": "Advanced topic modeling for Pandas with email auth, metrics, and Plotly visualizations.",
   "author": "Louati Mahdi",
   "license": null,
-  "home_page": "https://github.com/yourusername/topicminer",
-  "download_filename": "topicminer_louati-0.1.0.tar.gz",
-  "download_time": "2026-01-18T11:32:42.253151",
+  "home_page": "https://github.com/louatimahdi/topicminer",
+  "download_filename": "topicminer_louati-0.1.1.tar.gz",
+  "download_time": "2026-01-18T11:44:37.176508",
   "package_url": "https://pypi.org/project/topicminer-louati/"
 }
