@@ -1,11 +1,11 @@
 {
   "name": "getfactormodels",
-  "version": "0.0.15",
+  "version": "0.0.17",
   "summary": "Download datasets for various multifactor asset pricing models.",
   "author": "S. Martin",
   "license": null,
   "home_page": "https://github.com/x512/getfactormodels",
-  "download_filename": "getfactormodels-0.0.15.tar.gz",
-  "download_time": "2026-01-15T01:24:25.019134",
+  "download_filename": "getfactormodels-0.0.17.tar.gz",
+  "download_time": "2026-01-18T05:50:24.788240",
   "package_url": "https://pypi.org/project/getfactormodels/"
 }
