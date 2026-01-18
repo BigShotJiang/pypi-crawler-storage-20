@@ -1,11 +1,11 @@
 {
   "name": "composure",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "A terminal tool to audit, optimize, and visualize Docker-Compose stacks in real-time",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "composure-0.1.7.tar.gz",
-  "download_time": "2026-01-15T23:43:56.133986",
+  "download_filename": "composure-0.1.9.tar.gz",
+  "download_time": "2026-01-18T17:17:45.759672",
   "package_url": "https://pypi.org/project/composure/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "eeslib",
+  "version": "0.0.4",
+  "summary": "A Python library for heat transfer and thermodynamics calculations, derived from EES",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "eeslib-0.0.4.tar.gz",
+  "download_time": "2026-01-18T17:18:06.712778",
+  "package_url": "https://pypi.org/project/eeslib/"
+}

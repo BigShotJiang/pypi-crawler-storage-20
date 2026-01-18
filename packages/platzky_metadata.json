@@ -1,11 +1,11 @@
 {
   "name": "platzky",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "summary": "Not only blog engine",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "platzky-1.2.1.tar.gz",
-  "download_time": "2026-01-15T20:24:35.514959",
+  "download_filename": "platzky-1.2.2.tar.gz",
+  "download_time": "2026-01-18T17:18:03.593316",
   "package_url": "https://pypi.org/project/platzky/"
 }

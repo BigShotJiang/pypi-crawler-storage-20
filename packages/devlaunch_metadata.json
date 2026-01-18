@@ -1,11 +1,11 @@
 {
   "name": "devlaunch",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "DevLaunch - A streamlined CLI for devpod workspaces",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "devlaunch-0.0.4.tar.gz",
-  "download_time": "2026-01-18T16:24:05.286189",
+  "download_filename": "devlaunch-0.0.5.tar.gz",
+  "download_time": "2026-01-18T17:17:55.566015",
   "package_url": "https://pypi.org/project/devlaunch/"
 }

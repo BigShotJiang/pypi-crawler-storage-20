@@ -1,0 +1,11 @@
+{
+  "name": "joblet-sdk-python",
+  "version": "2.5.1",
+  "summary": "Python SDK for Joblet - A distributed task execution system",
+  "author": "Jay Ehsaniara",
+  "license": null,
+  "home_page": null,
+  "download_filename": "joblet_sdk_python-2.5.1.tar.gz",
+  "download_time": "2026-01-18T17:18:01.382428",
+  "package_url": "https://pypi.org/project/joblet-sdk-python/"
+}

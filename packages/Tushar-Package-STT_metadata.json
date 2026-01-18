@@ -1,11 +1,11 @@
 {
   "name": "Tushar-Package-STT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A package for Speech-to-Text conversion using Selenium and a web-based STT helper, created by Tushar Varshney.",
   "author": "Tushar Varshney",
   "license": null,
   "home_page": null,
-  "download_filename": "tushar_package_stt-1.0.0.tar.gz",
-  "download_time": "2026-01-18T07:42:20.177913",
+  "download_filename": "tushar_package_stt-1.0.1.tar.gz",
+  "download_time": "2026-01-18T17:18:00.337006",
   "package_url": "https://pypi.org/project/Tushar-Package-STT/"
 }
