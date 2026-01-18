@@ -1,11 +1,11 @@
 {
   "name": "prek",
-  "version": "0.2.29",
+  "version": "0.2.30",
   "summary": "Better `pre-commit`, re-engineered in Rust",
   "author": null,
   "license": null,
   "home_page": "https://prek.j178.dev/",
-  "download_filename": "prek-0.2.29.tar.gz",
-  "download_time": "2026-01-16T11:42:37.938002",
+  "download_filename": "prek-0.2.30.tar.gz",
+  "download_time": "2026-01-18T13:50:03.814832",
   "package_url": "https://pypi.org/project/prek/"
 }

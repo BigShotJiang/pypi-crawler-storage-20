@@ -1,11 +1,11 @@
 {
   "name": "boring-aicoding",
-  "version": "14.0.0",
+  "version": "15.0.0",
   "summary": "Boring: An AI-powered development support tool for autonomous reasoning, planning, and verification. Optimized for uv and agentic workflows.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "boring_aicoding-14.0.0.tar.gz",
-  "download_time": "2026-01-16T18:58:26.199547",
+  "download_filename": "boring_aicoding-15.0.0.tar.gz",
+  "download_time": "2026-01-18T13:49:37.094875",
   "package_url": "https://pypi.org/project/boring-aicoding/"
 }

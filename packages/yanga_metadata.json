@@ -1,11 +1,11 @@
 {
   "name": "yanga",
-  "version": "2.27.0",
+  "version": "2.27.1",
   "summary": "Yet another ninja generator to build C/CPP projects.",
   "author": "cuinixam",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "yanga-2.27.0.tar.gz",
-  "download_time": "2026-01-17T11:45:06.853939",
+  "download_filename": "yanga-2.27.1.tar.gz",
+  "download_time": "2026-01-18T13:49:32.854848",
   "package_url": "https://pypi.org/project/yanga/"
 }

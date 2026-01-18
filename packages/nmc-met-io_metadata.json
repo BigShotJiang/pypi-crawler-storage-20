@@ -1,11 +1,11 @@
 {
   "name": "nmc-met-io",
-  "version": "0.1.15.0",
+  "version": "0.1.16.0",
   "summary": "Collection of tools for I/O or accessing meteorological data.",
   "author": "The R & D Center for Weather Forecasting Technology in NMC, CMA",
   "license": "GPL3",
   "home_page": "https://github.com/nmcdev/nmc_met_io",
-  "download_filename": "nmc_met_io-0.1.15.0-py3-none-any.whl",
-  "download_time": "2026-01-13T13:29:28.641388",
+  "download_filename": "nmc_met_io-0.1.16.0-py3-none-any.whl",
+  "download_time": "2026-01-18T13:49:57.594357",
   "package_url": "https://pypi.org/project/nmc-met-io/"
 }
