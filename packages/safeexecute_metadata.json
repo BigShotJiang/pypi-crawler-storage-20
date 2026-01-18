@@ -1,11 +1,11 @@
 {
   "name": "safeexecute",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "summary": "Safe way to execute Python code with containerization.",
   "author": "Josh XT",
   "license": null,
   "home_page": null,
-  "download_filename": "safeexecute-0.0.20.tar.gz",
-  "download_time": "2026-01-16T03:16:59.787033",
+  "download_filename": "safeexecute-0.0.21.tar.gz",
+  "download_time": "2026-01-18T21:53:35.195806",
   "package_url": "https://pypi.org/project/safeexecute/"
 }

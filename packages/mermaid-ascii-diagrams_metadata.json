@@ -1,0 +1,11 @@
+{
+  "name": "mermaid-ascii-diagrams",
+  "version": "0.1.1",
+  "summary": "Render Mermaid diagrams to ASCII/Unicode art",
+  "author": "Th3S3cr3tAg3nt",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mermaid_ascii_diagrams-0.1.1.tar.gz",
+  "download_time": "2026-01-18T21:53:27.342918",
+  "package_url": "https://pypi.org/project/mermaid-ascii-diagrams/"
+}
