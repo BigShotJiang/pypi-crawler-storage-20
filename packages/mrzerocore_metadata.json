@@ -1,11 +1,11 @@
 {
   "name": "mrzerocore",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "summary": "Core functionality of MRzero",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mrzerocore-0.4.2-cp37-abi3-macosx_11_0_arm64.whl",
-  "download_time": "2026-01-16T17:24:30.028127",
+  "download_filename": "mrzerocore-0.4.3-cp37-abi3-macosx_10_12_x86_64.whl",
+  "download_time": "2026-01-18T18:27:16.572041",
   "package_url": "https://pypi.org/project/mrzerocore/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "openrouter-mcp-bridge",
+  "version": "1.0.0",
+  "summary": "Lightweight MCP server bridging Claude Code to OpenRouter API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "openrouter_mcp_bridge-1.0.0.tar.gz",
+  "download_time": "2026-01-18T18:27:40.221687",
+  "package_url": "https://pypi.org/project/openrouter-mcp-bridge/"
+}

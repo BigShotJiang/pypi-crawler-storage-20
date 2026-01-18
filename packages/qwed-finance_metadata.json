@@ -1,11 +1,11 @@
 {
   "name": "qwed-finance",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "summary": "Deterministic verification middleware for banking and financial AI",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "qwed_finance-1.1.1.tar.gz",
-  "download_time": "2026-01-18T17:37:00.658073",
+  "download_filename": "qwed_finance-1.1.4.tar.gz",
+  "download_time": "2026-01-18T18:27:46.056552",
   "package_url": "https://pypi.org/project/qwed-finance/"
 }

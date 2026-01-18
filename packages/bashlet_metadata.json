@@ -1,11 +1,11 @@
 {
   "name": "bashlet",
-  "version": "0.1.0a1",
+  "version": "0.3.0",
   "summary": "Python SDK for bashlet sandboxed bash execution - provide bashlet as a tool for AI agents",
   "author": "Bashlet Authors",
   "license": null,
   "home_page": null,
-  "download_filename": "bashlet-0.1.0a1.tar.gz",
-  "download_time": "2026-01-12T18:57:13.785682",
+  "download_filename": "bashlet-0.3.0.tar.gz",
+  "download_time": "2026-01-18T18:27:54.267491",
   "package_url": "https://pypi.org/project/bashlet/"
 }

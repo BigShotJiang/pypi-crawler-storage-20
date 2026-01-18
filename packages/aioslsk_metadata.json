@@ -1,0 +1,11 @@
+{
+  "name": "aioslsk",
+  "version": "1.6.3",
+  "summary": "Asyncio based SoulSeek client",
+  "author": "JurgenR",
+  "license": "GPL-3.0-or-later",
+  "home_page": "https://github.com/JurgenR/aioslsk/",
+  "download_filename": "aioslsk-1.6.3.tar.gz",
+  "download_time": "2026-01-18T18:27:53.244003",
+  "package_url": "https://pypi.org/project/aioslsk/"
+}

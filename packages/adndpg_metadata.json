@@ -1,11 +1,11 @@
 {
   "name": "adndpg",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "summary": "Bibliothèque graphique extrêmement simplifliée en français à des fins éducative, basée sur pyray",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "adndpg-0.2.2.tar.gz",
-  "download_time": "2026-01-18T16:49:28.929639",
+  "download_filename": "adndpg-0.3.0.tar.gz",
+  "download_time": "2026-01-18T18:27:21.436890",
   "package_url": "https://pypi.org/project/adndpg/"
 }
