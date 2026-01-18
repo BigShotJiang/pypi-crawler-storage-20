@@ -1,0 +1,11 @@
+{
+  "name": "glnova",
+  "version": "0.0.1",
+  "summary": "A Python package for interacting with the GitLab API, offering a simple interface to access repositories, users, groups, issues, and more for automation and data management.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "glnova-0.0.1.tar.gz",
+  "download_time": "2026-01-18T18:52:09.157054",
+  "package_url": "https://pypi.org/project/glnova/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fix-busted-json",
+  "version": "0.0.19",
+  "summary": "Fixes broken JSON string objects",
+  "author": "Tim Buckland",
+  "license": null,
+  "home_page": null,
+  "download_filename": "fix_busted_json-0.0.19.tar.gz",
+  "download_time": "2026-01-18T18:52:13.386013",
+  "package_url": "https://pypi.org/project/fix-busted-json/"
+}

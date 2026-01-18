@@ -1,11 +1,11 @@
 {
   "name": "zero-3rdparty",
-  "version": "0.101.0",
+  "version": "0.101.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "zero_3rdparty-0.101.0.tar.gz",
-  "download_time": "2026-01-13T21:54:40.312862",
+  "download_filename": "zero_3rdparty-0.101.2.tar.gz",
+  "download_time": "2026-01-18T18:52:33.842896",
   "package_url": "https://pypi.org/project/zero-3rdparty/"
 }

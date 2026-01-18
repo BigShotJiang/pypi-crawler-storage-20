@@ -1,0 +1,11 @@
+{
+  "name": "novah-patronus",
+  "version": "0.2.0",
+  "summary": "Production-ready, provider-agnostic authentication library for Django REST Framework applications in the Novah Care ecosystem",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "novah_patronus-0.2.0.tar.gz",
+  "download_time": "2026-01-18T18:52:30.770998",
+  "package_url": "https://pypi.org/project/novah-patronus/"
+}

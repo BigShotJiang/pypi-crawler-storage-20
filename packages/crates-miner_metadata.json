@@ -1,0 +1,11 @@
+{
+  "name": "crates-miner",
+  "version": "1.0.0",
+  "summary": "Mine and extract complete package lists from crates.io registry",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "crates_miner-1.0.0.tar.gz",
+  "download_time": "2026-01-18T18:52:12.872237",
+  "package_url": "https://pypi.org/project/crates-miner/"
+}
