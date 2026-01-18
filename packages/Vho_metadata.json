@@ -1,11 +1,11 @@
 {
   "name": "Vho",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "summary": "Vho: İşlevsel ve kolaylaştırılmış görsel oluşturma kütüphanesi",
   "author": "Bedirhan",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "vho-0.1.4.tar.gz",
-  "download_time": "2026-01-18T20:22:41.297498",
+  "download_filename": "vho-0.1.8.tar.gz",
+  "download_time": "2026-01-18T20:45:41.581324",
   "package_url": "https://pypi.org/project/Vho/"
 }

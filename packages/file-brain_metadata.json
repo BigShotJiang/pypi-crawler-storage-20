@@ -1,11 +1,11 @@
 {
   "name": "file-brain",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Advanced file search engine powered by AI",
   "author": "Hamza Abbad",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "file_brain-0.1.7.tar.gz",
-  "download_time": "2026-01-18T20:22:43.424331",
+  "download_filename": "file_brain-0.1.8.tar.gz",
+  "download_time": "2026-01-18T20:46:12.117707",
   "package_url": "https://pypi.org/project/file-brain/"
 }

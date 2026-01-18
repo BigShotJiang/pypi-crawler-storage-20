@@ -1,0 +1,11 @@
+{
+  "name": "sqlatypemodel",
+  "version": "0.8.4",
+  "summary": "Typed JSON fields for SQLAlchemy with automatic mutation tracking",
+  "author": "grehban",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sqlatypemodel-0.8.4.tar.gz",
+  "download_time": "2026-01-18T20:45:42.106361",
+  "package_url": "https://pypi.org/project/sqlatypemodel/"
+}

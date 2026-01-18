@@ -1,11 +1,11 @@
 {
   "name": "pyhabitat",
-  "version": "1.1.21",
+  "version": "1.1.22",
   "summary": "A lightweight library for detecting system environment, GUI, and build properties.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyhabitat-1.1.21.tar.gz",
-  "download_time": "2026-01-18T05:30:57.510442",
+  "download_filename": "pyhabitat-1.1.22.tar.gz",
+  "download_time": "2026-01-18T20:45:48.507295",
   "package_url": "https://pypi.org/project/pyhabitat/"
 }
