@@ -1,0 +1,11 @@
+{
+  "name": "helper-streamlit-utils",
+  "version": "0.1.0",
+  "summary": "Streamlit 유틸리티 모음 라이브러리: 스타일링, 레이아웃, 커스텀 컴포넌트",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "helper_streamlit_utils-0.1.0.tar.gz",
+  "download_time": "2026-01-18T11:17:25.674160",
+  "package_url": "https://pypi.org/project/helper-streamlit-utils/"
+}

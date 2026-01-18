@@ -1,0 +1,11 @@
+{
+  "name": "html2docxconverter",
+  "version": "0.1.8",
+  "summary": "Конвертирует HTML в DOCX с сохранением стилей: списков, таблиц, шрифтов, цветов и т.д.",
+  "author": "pew",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "html2docxconverter-0.1.8.tar.gz",
+  "download_time": "2026-01-18T11:17:34.146712",
+  "package_url": "https://pypi.org/project/html2docxconverter/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "kladml",
-  "version": "0.2.0",
+  "version": "0.4.0",
   "summary": "KladML SDK - Enterprise-grade MLOps toolkit",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "kladml-0.2.0.tar.gz",
-  "download_time": "2026-01-16T12:40:49.194734",
+  "download_filename": "kladml-0.4.0.tar.gz",
+  "download_time": "2026-01-18T11:17:16.853537",
   "package_url": "https://pypi.org/project/kladml/"
 }

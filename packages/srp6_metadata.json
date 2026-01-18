@@ -1,0 +1,11 @@
+{
+  "name": "srp6",
+  "version": "0.1.1",
+  "summary": "Pure Python SRP-6a client implementation with GSA mode support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "srp6-0.1.1.tar.gz",
+  "download_time": "2026-01-18T11:17:35.187489",
+  "package_url": "https://pypi.org/project/srp6/"
+}
