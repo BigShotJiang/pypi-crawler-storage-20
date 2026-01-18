@@ -1,11 +1,11 @@
 {
   "name": "hpyhex",
-  "version": "0.2.0",
+  "version": "0.2.0.1",
   "summary": "Simplified implementations of the HappyHex game components and hexagonal system in Python.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "hpyhex-0.2.0.tar.gz",
-  "download_time": "2026-01-16T05:49:47.918275",
+  "download_filename": "hpyhex-0.2.0.1.tar.gz",
+  "download_time": "2026-01-18T07:52:25.676813",
   "package_url": "https://pypi.org/project/hpyhex/"
 }

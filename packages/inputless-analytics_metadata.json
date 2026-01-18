@@ -1,0 +1,11 @@
+{
+  "name": "inputless-analytics",
+  "version": "1.0.2",
+  "summary": "Analytics engine, insights generation, and recommendation system",
+  "author": "Inputless Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inputless_analytics-1.0.2.tar.gz",
+  "download_time": "2026-01-18T07:52:29.078029",
+  "package_url": "https://pypi.org/project/inputless-analytics/"
+}

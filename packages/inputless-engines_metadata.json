@@ -1,0 +1,11 @@
+{
+  "name": "inputless-engines",
+  "version": "1.0.2",
+  "summary": "AI/ML engines with genetic algorithms, metamorphic code, and reasoning engines",
+  "author": "Inputless Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inputless_engines-1.0.2.tar.gz",
+  "download_time": "2026-01-18T07:52:28.512415",
+  "package_url": "https://pypi.org/project/inputless-engines/"
+}

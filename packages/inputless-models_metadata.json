@@ -1,0 +1,11 @@
+{
+  "name": "inputless-models",
+  "version": "1.0.2",
+  "summary": "ML models for pattern recognition, predictive analytics, anomaly detection, and behavioral DNA profiling",
+  "author": "Inputless Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inputless_models-1.0.2.tar.gz",
+  "download_time": "2026-01-18T07:52:26.809997",
+  "package_url": "https://pypi.org/project/inputless-models/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "inputless-ingestion",
+  "version": "1.0.2",
+  "summary": "Document processing and knowledge extraction for Inputless Analytics SDK",
+  "author": "Inputless Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "inputless_ingestion-1.0.2.tar.gz",
+  "download_time": "2026-01-18T07:52:27.376326",
+  "package_url": "https://pypi.org/project/inputless-ingestion/"
+}
