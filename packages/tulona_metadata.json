@@ -1,0 +1,11 @@
+{
+  "name": "tulona",
+  "version": "0.12.0",
+  "summary": "A tool to compare data from different sources.",
+  "author": "Mrinal Kanti Sardar",
+  "license": null,
+  "home_page": null,
+  "download_filename": "tulona-0.12.0.tar.gz",
+  "download_time": "2026-01-18T05:00:47.851658",
+  "package_url": "https://pypi.org/project/tulona/"
+}

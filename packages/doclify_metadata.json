@@ -1,11 +1,11 @@
 {
   "name": "doclify",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "AI-powered documentation generator for Python projects",
   "author": null,
   "license": "GNU AFFERO GENERAL PUBLIC LICENSE",
   "home_page": null,
-  "download_filename": "doclify-0.1.0.tar.gz",
-  "download_time": "2026-01-14T07:02:32.256213",
+  "download_filename": "doclify-0.2.0.tar.gz",
+  "download_time": "2026-01-18T05:01:10.061820",
   "package_url": "https://pypi.org/project/doclify/"
 }

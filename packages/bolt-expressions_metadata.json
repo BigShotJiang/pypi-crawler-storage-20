@@ -1,11 +1,11 @@
 {
   "name": "bolt-expressions",
-  "version": "0.19.1",
+  "version": "0.19.2",
   "summary": "Provides pandas-like expressions capabilities to the bolt extension of mecha",
   "author": "rx97, TheWii",
   "license": null,
   "home_page": null,
-  "download_filename": "bolt_expressions-0.19.1.tar.gz",
-  "download_time": "2026-01-18T03:30:03.434980",
+  "download_filename": "bolt_expressions-0.19.2.tar.gz",
+  "download_time": "2026-01-18T05:00:57.995305",
   "package_url": "https://pypi.org/project/bolt-expressions/"
 }
