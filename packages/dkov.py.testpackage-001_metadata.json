@@ -1,11 +1,11 @@
 {
   "name": "dkov.py.testpackage-001",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "Test Package",
   "author": null,
   "license": "WTFPL",
   "home_page": null,
-  "download_filename": "dkov_py_testpackage_001-0.0.4.tar.gz",
-  "download_time": "2026-01-17T20:21:34.921469",
+  "download_filename": "dkov_py_testpackage_001-0.0.5.tar.gz",
+  "download_time": "2026-01-18T06:56:46.980759",
   "package_url": "https://pypi.org/project/dkov.py.testpackage-001/"
 }

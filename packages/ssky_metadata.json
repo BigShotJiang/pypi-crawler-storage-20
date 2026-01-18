@@ -1,0 +1,11 @@
+{
+  "name": "ssky",
+  "version": "0.2.9",
+  "summary": "Simple bluesky client",
+  "author": "SimpleSkyClient Project",
+  "license": "LICENSE",
+  "home_page": "https://github.com/simpleskyclient/ssky",
+  "download_filename": "ssky-0.2.9.tar.gz",
+  "download_time": "2026-01-18T06:56:39.934216",
+  "package_url": "https://pypi.org/project/ssky/"
+}

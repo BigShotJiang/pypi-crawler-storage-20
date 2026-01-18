@@ -1,11 +1,11 @@
 {
   "name": "gatun",
-  "version": "0.2.0",
-  "summary": "High-performance Python-to-Java bridge using shared memory (experimental)",
+  "version": "0.2.1",
+  "summary": "High-performance Python-to-Java bridge using shared memory and Apache Arrow",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "gatun-0.2.0.tar.gz",
-  "download_time": "2026-01-17T19:41:35.973791",
+  "download_filename": "gatun-0.2.1.tar.gz",
+  "download_time": "2026-01-18T06:56:38.339451",
   "package_url": "https://pypi.org/project/gatun/"
 }

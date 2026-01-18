@@ -1,11 +1,11 @@
 {
   "name": "distoptica",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "summary": "Python library for modelling optical distortions.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "distoptica-0.4.3.tar.gz",
-  "download_time": "2026-01-18T05:50:18.327559",
+  "download_filename": "distoptica-0.4.4.tar.gz",
+  "download_time": "2026-01-18T06:56:50.215977",
   "package_url": "https://pypi.org/project/distoptica/"
 }
