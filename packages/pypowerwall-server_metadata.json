@@ -1,11 +1,11 @@
 {
   "name": "pypowerwall-server",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "summary": "A high-performance FastAPI-based server for monitoring and managing Tesla Powerwall systems",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pypowerwall_server-0.1.6.tar.gz",
-  "download_time": "2026-01-18T07:20:19.054549",
+  "download_filename": "pypowerwall_server-0.1.7.tar.gz",
+  "download_time": "2026-01-18T17:55:51.389624",
   "package_url": "https://pypi.org/project/pypowerwall-server/"
 }

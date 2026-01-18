@@ -1,0 +1,11 @@
+{
+  "name": "ksef-client",
+  "version": "0.3.1",
+  "summary": "Client SDK for KSeF API v2",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ksef_client-0.3.1.tar.gz",
+  "download_time": "2026-01-18T17:55:48.741737",
+  "package_url": "https://pypi.org/project/ksef-client/"
+}

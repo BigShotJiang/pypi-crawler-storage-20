@@ -1,11 +1,11 @@
 {
   "name": "canon-keeper",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "summary": "Copilot memory persistence - just an installer, no dependencies",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "canon_keeper-0.2.1.tar.gz",
-  "download_time": "2026-01-18T16:49:36.644700",
+  "download_filename": "canon_keeper-0.3.0.tar.gz",
+  "download_time": "2026-01-18T17:56:00.714647",
   "package_url": "https://pypi.org/project/canon-keeper/"
 }

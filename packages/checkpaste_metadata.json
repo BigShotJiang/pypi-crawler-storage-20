@@ -1,11 +1,11 @@
 {
   "name": "checkpaste",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "summary": "A cross-platform tool to sync text and files between devices on the same local network.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "checkpaste-0.1.10-py3-none-any.whl",
-  "download_time": "2026-01-18T17:37:17.714338",
+  "download_filename": "checkpaste-0.1.11.tar.gz",
+  "download_time": "2026-01-18T17:55:42.635878",
   "package_url": "https://pypi.org/project/checkpaste/"
 }

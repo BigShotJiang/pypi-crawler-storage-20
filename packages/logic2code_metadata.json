@@ -1,11 +1,11 @@
 {
   "name": "logic2code",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "Generate source code from Code2Logic output files",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "logic2code-0.1.8.tar.gz",
-  "download_time": "2026-01-18T17:37:06.920011",
+  "download_filename": "logic2code-0.1.9.tar.gz",
+  "download_time": "2026-01-18T17:55:54.537653",
   "package_url": "https://pypi.org/project/logic2code/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "markdown-to-confluence",
+  "version": "0.5.4",
+  "summary": "Publish Markdown files to Confluence wiki",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "markdown_to_confluence-0.5.4.tar.gz",
+  "download_time": "2026-01-18T17:55:48.168210",
+  "package_url": "https://pypi.org/project/markdown-to-confluence/"
+}

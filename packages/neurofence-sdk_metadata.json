@@ -1,0 +1,11 @@
+{
+  "name": "neurofence-sdk",
+  "version": "1.0.1",
+  "summary": "NeuroFence SDK - framework-agnostic interception wrapper and API client",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "neurofence_sdk-1.0.1.tar.gz",
+  "download_time": "2026-01-18T17:56:06.451896",
+  "package_url": "https://pypi.org/project/neurofence-sdk/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "asalytic",
+  "version": "1.0.0",
+  "summary": "A Python library for tracking NFT sales and listings on the Algorand blockchain",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "asalytic-1.0.0.tar.gz",
+  "download_time": "2026-01-18T17:55:41.101161",
+  "package_url": "https://pypi.org/project/asalytic/"
+}

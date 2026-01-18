@@ -1,0 +1,11 @@
+{
+  "name": "git-count",
+  "version": "0.2.0",
+  "summary": "A Git commit activity visualization tool with detailed repository insights",
+  "author": "Uday Mungalpara",
+  "license": null,
+  "home_page": "https://github.com/techUdayMungalpara/git_count",
+  "download_filename": "git_count-0.2.0.tar.gz",
+  "download_time": "2026-01-18T17:55:44.268519",
+  "package_url": "https://pypi.org/project/git-count/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yt-search-python",
+  "version": "2.0.0",
+  "summary": "Search YouTube contents without YouTube Data API v3. Professionally maintained fork with modern Python support. Sync & async support.",
+  "author": "Prakhar",
+  "license": "MIT",
+  "home_page": "https://github.com/BillaSpace/yt-search-python",
+  "download_filename": "yt_search_python-2.0.0.tar.gz",
+  "download_time": "2026-01-18T17:55:42.123042",
+  "package_url": "https://pypi.org/project/yt-search-python/"
+}
