@@ -1,11 +1,11 @@
 {
   "name": "beautyspot",
-  "version": "1.3.1.1",
+  "version": "2.0.0",
   "summary": "Make your functions beautiful with beauty spots.",
   "author": "Neel Bauman",
   "license": null,
   "home_page": null,
-  "download_filename": "beautyspot-1.3.1.1.tar.gz",
-  "download_time": "2026-01-16T08:55:42.668585",
+  "download_filename": "beautyspot-2.0.0.tar.gz",
+  "download_time": "2026-01-18T05:31:00.912658",
   "package_url": "https://pypi.org/project/beautyspot/"
 }

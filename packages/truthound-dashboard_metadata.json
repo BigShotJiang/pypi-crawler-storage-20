@@ -1,11 +1,11 @@
 {
   "name": "truthound-dashboard",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "summary": "Open-source data quality dashboard - GX Cloud alternative",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "truthound_dashboard-1.4.0.tar.gz",
-  "download_time": "2026-01-18T04:31:38.148419",
+  "download_filename": "truthound_dashboard-1.4.1.tar.gz",
+  "download_time": "2026-01-18T05:31:05.647806",
   "package_url": "https://pypi.org/project/truthound-dashboard/"
 }

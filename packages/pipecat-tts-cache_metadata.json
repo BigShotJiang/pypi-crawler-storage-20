@@ -1,11 +1,11 @@
 {
   "name": "pipecat-tts-cache",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "summary": "TTS caching integration for Pipecat to reduce API costs on repeated phrases",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pipecat_tts_cache-0.0.2.tar.gz",
-  "download_time": "2026-01-17T11:32:55.056487",
+  "download_filename": "pipecat_tts_cache-0.0.3.tar.gz",
+  "download_time": "2026-01-18T05:31:03.571666",
   "package_url": "https://pypi.org/project/pipecat-tts-cache/"
 }

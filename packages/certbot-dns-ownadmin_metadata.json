@@ -1,0 +1,11 @@
+{
+  "name": "certbot-dns-ownadmin",
+  "version": "1.0.5",
+  "summary": "OwnAdmin Authenticator plugin for Certbot",
+  "author": "Chudeusz",
+  "license": "Apache License 2.0",
+  "home_page": "https://github.com/Chudeusz/certbot-dns-powerdns-ownadmin",
+  "download_filename": "certbot_dns_ownadmin-1.0.5.tar.gz",
+  "download_time": "2026-01-18T05:30:53.172867",
+  "package_url": "https://pypi.org/project/certbot-dns-ownadmin/"
+}

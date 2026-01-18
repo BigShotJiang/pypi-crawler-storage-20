@@ -1,11 +1,11 @@
 {
   "name": "piviz-3d",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "Modern GPU-accelerated 3D visualization framework for scientific computing",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "piviz_3d-1.0.0.tar.gz",
-  "download_time": "2026-01-15T19:07:42.500899",
+  "download_filename": "piviz_3d-1.0.1.tar.gz",
+  "download_time": "2026-01-18T05:31:07.250752",
   "package_url": "https://pypi.org/project/piviz-3d/"
 }

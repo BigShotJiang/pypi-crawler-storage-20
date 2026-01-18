@@ -1,11 +1,11 @@
 {
   "name": "commity",
-  "version": "0.1.18",
+  "version": "0.1.19",
   "summary": "Generate intelligent Git commit messages with AI. Supports Conventional Commits, emoji, and multiple LLM providers like OpenAI, Ollama, and Gemini.",
   "author": "freboe, skyci",
   "license": null,
   "home_page": null,
-  "download_filename": "commity-0.1.18.tar.gz",
-  "download_time": "2026-01-18T04:31:28.181696",
+  "download_filename": "commity-0.1.19.tar.gz",
+  "download_time": "2026-01-18T05:30:54.332807",
   "package_url": "https://pypi.org/project/commity/"
 }
