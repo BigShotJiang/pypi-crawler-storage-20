@@ -1,20 +1,11 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-18T10:47:25.318159
-- **Total Packages**: 90
-- **Total Size**: 30.56 MB
+- **Download Time**: 2026-01-18T10:57:11.542086
+- **Total Packages**: 89
+- **Total Size**: 0.21 MB
 
 ## Packages List
-- trainy-policy-nightly
-- firefly-cash-converter
-- spiderx
-- matrice-streaming
-- lattifai
-- etsi-etna
-- goblin-ai
-- mcp-gemini-search
-- topsis-shivank-102303655
 - letta-nightly
 - whatsapp-toolkit
 - parcellate
@@ -22,6 +13,7 @@
 - clouvel-pro
 - printrgb
 - Topsis-VishwasKhattar-102303170
+- mcp-gemini-search
 - cmdop
 - ml-dash
 - sebi-main-parser
@@ -96,3 +88,10 @@
 - supero
 - aiqtoolkit-weave
 - pyquery-polars
+- aiqtoolkit-mem0ai
+- aiqtoolkit-langchain
+- frslint
+- pygraphkit
+- shellforgepy
+- xync-bot
+- tbp-nightly

@@ -1,17 +1,8 @@
 {
-  "download_time": "2026-01-18T10:47:25.318159",
-  "total_packages_downloaded": 90,
-  "total_size_mb": 30.56,
+  "download_time": "2026-01-18T10:57:11.542086",
+  "total_packages_downloaded": 89,
+  "total_size_mb": 0.21,
   "packages": [
-    "trainy-policy-nightly",
-    "firefly-cash-converter",
-    "spiderx",
-    "matrice-streaming",
-    "lattifai",
-    "etsi-etna",
-    "goblin-ai",
-    "mcp-gemini-search",
-    "topsis-shivank-102303655",
     "letta-nightly",
     "whatsapp-toolkit",
     "parcellate",
@@ -19,6 +10,7 @@
     "clouvel-pro",
     "printrgb",
     "Topsis-VishwasKhattar-102303170",
+    "mcp-gemini-search",
     "cmdop",
     "ml-dash",
     "sebi-main-parser",
@@ -92,6 +84,13 @@
     "aribot-cli",
     "supero",
     "aiqtoolkit-weave",
-    "pyquery-polars"
+    "pyquery-polars",
+    "aiqtoolkit-mem0ai",
+    "aiqtoolkit-langchain",
+    "frslint",
+    "pygraphkit",
+    "shellforgepy",
+    "xync-bot",
+    "tbp-nightly"
   ]
 }
