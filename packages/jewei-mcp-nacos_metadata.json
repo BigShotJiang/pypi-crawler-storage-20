@@ -1,11 +1,11 @@
 {
   "name": "jewei-mcp-nacos",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "MCP Server for Nacos configuration management",
   "author": "Jeweis",
   "license": null,
   "home_page": null,
-  "download_filename": "jewei_mcp_nacos-0.1.5.tar.gz",
-  "download_time": "2026-01-18T14:19:21.263951",
+  "download_filename": "jewei_mcp_nacos-0.1.7.tar.gz",
+  "download_time": "2026-01-18T14:43:36.724246",
   "package_url": "https://pypi.org/project/jewei-mcp-nacos/"
 }

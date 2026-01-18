@@ -1,11 +1,11 @@
 {
   "name": "topsis-manya-102317119",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "summary": "Python package for TOPSIS method",
   "author": "Manya Singh",
   "license": null,
   "home_page": null,
-  "download_filename": "topsis_manya_102317119-1.0.1-py3-none-any.whl",
-  "download_time": "2026-01-18T14:18:58.974379",
+  "download_filename": "topsis_manya_102317119-1.0.2.tar.gz",
+  "download_time": "2026-01-18T14:43:48.728854",
   "package_url": "https://pypi.org/project/topsis-manya-102317119/"
 }

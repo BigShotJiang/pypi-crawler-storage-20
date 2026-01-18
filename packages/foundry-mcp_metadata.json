@@ -1,11 +1,11 @@
 {
   "name": "foundry-mcp",
-  "version": "0.8.24",
-  "summary": "MCP server for SDD toolkit spec management",
+  "version": "0.8.25",
+  "summary": "MCP server for spec-driven development management",
   "author": "Tyler Burleigh",
   "license": null,
   "home_page": null,
-  "download_filename": "foundry_mcp-0.8.24.tar.gz",
-  "download_time": "2026-01-17T21:52:12.386624",
+  "download_filename": "foundry_mcp-0.8.25.tar.gz",
+  "download_time": "2026-01-18T14:43:46.653641",
   "package_url": "https://pypi.org/project/foundry-mcp/"
 }

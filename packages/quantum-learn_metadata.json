@@ -1,0 +1,11 @@
+{
+  "name": "quantum-learn",
+  "version": "1.0.0",
+  "summary": "quantum-learn: quantum machine learning in Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "quantum_learn-1.0.0.tar.gz",
+  "download_time": "2026-01-18T14:43:31.519864",
+  "package_url": "https://pypi.org/project/quantum-learn/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "starlette-authlib",
+  "version": "0.3.15",
+  "summary": "A drop-in replacement for Starlette session middleware, using authlib's jwt",
+  "author": "Alessandro Ogier",
+  "license": null,
+  "home_page": null,
+  "download_filename": "starlette_authlib-0.3.15.tar.gz",
+  "download_time": "2026-01-18T14:43:47.173328",
+  "package_url": "https://pypi.org/project/starlette-authlib/"
+}

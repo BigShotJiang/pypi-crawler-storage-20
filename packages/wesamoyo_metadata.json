@@ -1,11 +1,11 @@
 {
   "name": "wesamoyo",
-  "version": "1.0.4",
-  "summary": "Wesamoyo AI SDK for transformer architectures",
+  "version": "1.0.5",
+  "summary": "Official SDK for Wesamoyo-293M-MoE: 293M parameter Mixture-of-Experts transformer",
   "author": "Houndtid Labs",
   "license": null,
-  "home_page": "https://github.com/houndtid/wesamoyo",
-  "download_filename": "wesamoyo-1.0.4.tar.gz",
-  "download_time": "2026-01-18T09:21:10.261236",
+  "home_page": "https://github.com/houndtidlabs",
+  "download_filename": "wesamoyo-1.0.5.tar.gz",
+  "download_time": "2026-01-18T14:43:39.857902",
   "package_url": "https://pypi.org/project/wesamoyo/"
 }
