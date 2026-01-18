@@ -1,0 +1,11 @@
+{
+  "name": "pymdtools",
+  "version": "1.0.21",
+  "summary": "Markdown Tools developed for Guichet Entreprises",
+  "author": "Florent Tournois",
+  "license": "License :: OSI Approved :: MIT License",
+  "home_page": "https://github.com/IIXIXII/pymdtools",
+  "download_filename": "pymdtools-1.0.21.tar.gz",
+  "download_time": "2026-01-18T21:41:55.831996",
+  "package_url": "https://pypi.org/project/pymdtools/"
+}

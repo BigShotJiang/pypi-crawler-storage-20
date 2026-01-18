@@ -1,0 +1,11 @@
+{
+  "name": "tinystructlog",
+  "version": "0.1.1",
+  "summary": "Minimalistic context-aware structured logging for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "tinystructlog-0.1.1.tar.gz",
+  "download_time": "2026-01-18T21:42:13.564638",
+  "package_url": "https://pypi.org/project/tinystructlog/"
+}

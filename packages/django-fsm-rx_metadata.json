@@ -1,11 +1,11 @@
 {
   "name": "django-fsm-rx",
-  "version": "5.1.2",
+  "version": "5.1.4",
   "summary": "Django friendly finite state machine support. RX = Remanufactured.",
   "author": "specialorange",
   "license": null,
   "home_page": null,
-  "download_filename": "django_fsm_rx-5.1.2.tar.gz",
-  "download_time": "2026-01-18T20:45:51.644466",
+  "download_filename": "django_fsm_rx-5.1.4.tar.gz",
+  "download_time": "2026-01-18T21:42:12.978164",
   "package_url": "https://pypi.org/project/django-fsm-rx/"
 }
