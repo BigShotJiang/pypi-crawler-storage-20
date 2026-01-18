@@ -1,0 +1,11 @@
+{
+  "name": "django-smart-ratelimit",
+  "version": "1.0.3",
+  "summary": "A flexible and efficient rate limiting library for Django applications",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "django_smart_ratelimit-1.0.3.tar.gz",
+  "download_time": "2026-01-18T14:54:02.280437",
+  "package_url": "https://pypi.org/project/django-smart-ratelimit/"
+}

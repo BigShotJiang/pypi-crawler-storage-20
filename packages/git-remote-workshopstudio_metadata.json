@@ -1,0 +1,11 @@
+{
+  "name": "git-remote-workshopstudio",
+  "version": "0.1.0",
+  "summary": "MCP server package - Created by Poneglyph for security research",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "git_remote_workshopstudio-0.1.0.tar.gz",
+  "download_time": "2026-01-18T14:54:01.192680",
+  "package_url": "https://pypi.org/project/git-remote-workshopstudio/"
+}

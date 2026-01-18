@@ -1,0 +1,11 @@
+{
+  "name": "meson",
+  "version": "1.10.1",
+  "summary": "A high performance build system",
+  "author": "Jussi Pakkanen",
+  "license": "Apache License, Version 2.0",
+  "home_page": "https://mesonbuild.com",
+  "download_filename": "meson-1.10.1.tar.gz",
+  "download_time": "2026-01-18T14:54:03.339480",
+  "package_url": "https://pypi.org/project/meson/"
+}
