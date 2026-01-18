@@ -1,0 +1,11 @@
+{
+  "name": "odoo14-addon-ssi-fixed-asset-disposal-work-log",
+  "version": "14.0.1.1.0",
+  "summary": "Fixed Asset Disposal - Work Log Integration",
+  "author": "OpenSynergy Indonesia, PT. Simetri Sinergi Indonesia",
+  "license": "AGPL-3",
+  "home_page": "https://simetri-sinergi.id",
+  "download_filename": "odoo14_addon_ssi_fixed_asset_disposal_work_log-14.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-18T06:30:24.372936",
+  "package_url": "https://pypi.org/project/odoo14-addon-ssi-fixed-asset-disposal-work-log/"
+}

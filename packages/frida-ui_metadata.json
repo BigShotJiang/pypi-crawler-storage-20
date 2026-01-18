@@ -1,0 +1,11 @@
+{
+  "name": "frida-ui",
+  "version": "1.1.0",
+  "summary": "Interact with Frida devices, processes, and scripts directly from your browser.",
+  "author": "adityatelange",
+  "license": "MIT",
+  "home_page": "https://github.com/adityatelange/frida-ui",
+  "download_filename": "frida_ui-1.1.0.tar.gz",
+  "download_time": "2026-01-18T06:30:13.223524",
+  "package_url": "https://pypi.org/project/frida-ui/"
+}

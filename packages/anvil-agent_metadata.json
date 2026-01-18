@@ -1,0 +1,11 @@
+{
+  "name": "anvil-agent",
+  "version": "0.1.0",
+  "summary": "JIT Infrastructure & Self-Healing SDK for AI Agents - Generate tools on the fly with BYO API keys",
+  "author": "Anvil Team",
+  "license": null,
+  "home_page": null,
+  "download_filename": "anvil_agent-0.1.0.tar.gz",
+  "download_time": "2026-01-18T06:30:34.345399",
+  "package_url": "https://pypi.org/project/anvil-agent/"
+}

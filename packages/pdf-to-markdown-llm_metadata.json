@@ -1,0 +1,11 @@
+{
+  "name": "pdf-to-markdown-llm",
+  "version": "0.1.13",
+  "summary": "This project contains a command line tool to convert PDF to markdown. It uses image conversion and a LLM to convert the images to markdown.",
+  "author": "Gil Fernandes",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdf_to_markdown_llm-0.1.13.tar.gz",
+  "download_time": "2026-01-18T06:30:29.636756",
+  "package_url": "https://pypi.org/project/pdf-to-markdown-llm/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "jcestruct2",
+  "version": "1.0.0",
+  "summary": "基于 Pydantic v2 的现代化 JCE (Tars) 协议 Python 实现",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jcestruct2-1.0.0.tar.gz",
+  "download_time": "2026-01-18T06:30:07.478608",
+  "package_url": "https://pypi.org/project/jcestruct2/"
+}

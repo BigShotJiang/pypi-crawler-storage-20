@@ -1,0 +1,11 @@
+{
+  "name": "deeppoker",
+  "version": "0.1.1",
+  "summary": "DeepPoker R1 - A Texas Hold'em poker game engine with FastAPI WebSocket server and AI agent framework",
+  "author": "Ziyi",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "deeppoker-0.1.1.tar.gz",
+  "download_time": "2026-01-18T06:30:14.794761",
+  "package_url": "https://pypi.org/project/deeppoker/"
+}
