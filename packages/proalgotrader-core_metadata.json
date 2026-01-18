@@ -1,11 +1,11 @@
 {
   "name": "proalgotrader-core",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "summary": "ProAlgoTrader Core",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "proalgotrader_core-0.5.0.tar.gz",
-  "download_time": "2026-01-17T08:24:27.677444",
+  "download_filename": "proalgotrader_core-0.5.1.tar.gz",
+  "download_time": "2026-01-18T04:31:26.481251",
   "package_url": "https://pypi.org/project/proalgotrader-core/"
 }

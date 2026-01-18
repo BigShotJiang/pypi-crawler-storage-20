@@ -1,11 +1,11 @@
 {
   "name": "pymud",
-  "version": "0.22.3",
+  "version": "0.22.3.post1",
   "summary": "a MUD Client written in Python",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pymud-0.22.3.tar.gz",
-  "download_time": "2026-01-18T03:30:37.385679",
+  "download_filename": "pymud-0.22.3.post1.tar.gz",
+  "download_time": "2026-01-18T04:31:54.057420",
   "package_url": "https://pypi.org/project/pymud/"
 }

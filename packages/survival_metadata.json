@@ -1,11 +1,11 @@
 {
   "name": "survival",
-  "version": "1.1.25",
+  "version": "1.1.27",
   "summary": "A high-performance survival analysis library written in Rust with Python bindings",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "survival-1.1.25.tar.gz",
-  "download_time": "2026-01-17T21:18:50.978535",
+  "download_filename": "survival-1.1.27.tar.gz",
+  "download_time": "2026-01-18T04:31:32.205463",
   "package_url": "https://pypi.org/project/survival/"
 }

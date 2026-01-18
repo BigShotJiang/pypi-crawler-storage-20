@@ -1,11 +1,11 @@
 {
   "name": "wardy-utils",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "General Utilities",
   "author": "Wardy",
   "license": null,
   "home_page": null,
-  "download_filename": "wardy_utils-0.5.1.tar.gz",
-  "download_time": "2026-01-18T03:30:09.663726",
+  "download_filename": "wardy_utils-0.5.2.tar.gz",
+  "download_time": "2026-01-18T04:31:45.469257",
   "package_url": "https://pypi.org/project/wardy-utils/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "iris-agent",
+  "version": "0.1.2",
+  "summary": "A lightweight Python AI agent framework for building autonomous agents.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "iris_agent-0.1.2.tar.gz",
+  "download_time": "2026-01-18T04:31:38.715893",
+  "package_url": "https://pypi.org/project/iris-agent/"
+}

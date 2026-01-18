@@ -1,0 +1,11 @@
+{
+  "name": "py-models-parser",
+  "version": "1.0.0",
+  "summary": "Parser for Different Python Models (Pydantic, Enums, ORMs: Tortoise, SqlAlchemy, GinoORM, PonyORM, Pydal tables) to extract information about columns(attrs), model, table args,etc in one format.",
+  "author": "Iuliia Volkova",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "py_models_parser-1.0.0.tar.gz",
+  "download_time": "2026-01-18T04:31:39.284918",
+  "package_url": "https://pypi.org/project/py-models-parser/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "yadab-STT",
+  "version": "0.1",
+  "summary": "this is speech to text package created by yadab rokka",
+  "author": "YadabRokka",
+  "license": null,
+  "home_page": null,
+  "download_filename": "yadab_stt-0.1.tar.gz",
+  "download_time": "2026-01-18T04:31:27.615905",
+  "package_url": "https://pypi.org/project/yadab-STT/"
+}

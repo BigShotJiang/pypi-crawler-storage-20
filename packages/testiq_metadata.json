@@ -1,11 +1,11 @@
 {
   "name": "testiq",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "summary": "TestIQ - Intelligent test analysis for finding duplicate and redundant tests using coverage analysis",
   "author": "Kiran K Kotari",
   "license": null,
   "home_page": null,
-  "download_filename": "testiq-0.2.0.tar.gz",
-  "download_time": "2026-01-16T23:34:28.579179",
+  "download_filename": "testiq-0.2.2.tar.gz",
+  "download_time": "2026-01-18T04:31:52.374883",
   "package_url": "https://pypi.org/project/testiq/"
 }
