@@ -1,11 +1,11 @@
 {
   "name": "ninjacli",
-  "version": "0.1.0",
-  "summary": "Add your description here",
+  "version": "0.2.1",
+  "summary": "Ninja CLI is a high-performance terminal assistant that bridges the gap between natural language and system execution. Powered by state-of-the-art LLMs, it allows you to build, manage, and automate your development workflow using simple conversational commands.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "ninjacli-0.1.0.tar.gz",
-  "download_time": "2026-01-18T18:27:08.461016",
+  "download_filename": "ninjacli-0.2.1.tar.gz",
+  "download_time": "2026-01-18T19:16:27.227730",
   "package_url": "https://pypi.org/project/ninjacli/"
 }

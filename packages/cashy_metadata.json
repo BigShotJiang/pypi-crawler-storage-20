@@ -1,0 +1,11 @@
+{
+  "name": "cashy",
+  "version": "1.0.0",
+  "summary": "A simple Live currency converter using the Frankfurter API",
+  "author": "Mohsin Nasir",
+  "license": null,
+  "home_page": "https://github.com/mohsin-nasir/cashy",
+  "download_filename": "cashy-1.0.0.tar.gz",
+  "download_time": "2026-01-18T19:16:12.778269",
+  "package_url": "https://pypi.org/project/cashy/"
+}
