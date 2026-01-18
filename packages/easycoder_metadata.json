@@ -1,11 +1,11 @@
 {
   "name": "easycoder",
-  "version": "260118.1",
+  "version": "260118.3",
   "summary": "Rapid scripting in English",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "easycoder-260118.1-py2.py3-none-any.whl",
-  "download_time": "2026-01-18T11:44:35.117591",
+  "download_filename": "easycoder-260118.3-py2.py3-none-any.whl",
+  "download_time": "2026-01-18T16:24:12.092914",
   "package_url": "https://pypi.org/project/easycoder/"
 }

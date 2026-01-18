@@ -1,11 +1,11 @@
 {
   "name": "basilisk-engine",
-  "version": "0.2.4",
+  "version": "0.2.9",
   "summary": "Python bindings for the Basilisk C++ library",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "basilisk_engine-0.2.4.tar.gz",
-  "download_time": "2026-01-14T19:35:32.649279",
+  "download_filename": "basilisk_engine-0.2.9.tar.gz",
+  "download_time": "2026-01-18T16:23:56.409350",
   "package_url": "https://pypi.org/project/basilisk-engine/"
 }

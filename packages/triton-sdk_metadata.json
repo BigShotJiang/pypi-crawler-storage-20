@@ -1,0 +1,11 @@
+{
+  "name": "triton-sdk",
+  "version": "0.1.0",
+  "summary": "Enterprise-grade LLM middleware for monitoring and metadata tracking",
+  "author": "Triton Team",
+  "license": "MIT",
+  "home_page": "https://github.com/triton/sdk",
+  "download_filename": "triton_sdk-0.1.0.tar.gz",
+  "download_time": "2026-01-18T16:24:05.808374",
+  "package_url": "https://pypi.org/project/triton-sdk/"
+}

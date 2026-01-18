@@ -1,0 +1,11 @@
+{
+  "name": "netclusterWH",
+  "version": "0.2.0",
+  "summary": "Distributed compute network using WebSockets. Clients are also workers.",
+  "author": "Your Name",
+  "license": null,
+  "home_page": null,
+  "download_filename": "netclusterwh-0.2.0.tar.gz",
+  "download_time": "2026-01-18T16:23:41.122421",
+  "package_url": "https://pypi.org/project/netclusterWH/"
+}

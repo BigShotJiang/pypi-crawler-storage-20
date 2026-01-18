@@ -1,11 +1,11 @@
 {
   "name": "action-engine",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "action_engine-0.3.1-cp310-abi3-macosx_15_0_arm64.whl",
-  "download_time": "2026-01-16T14:50:30.648560",
+  "download_filename": "action_engine-0.3.2-cp310-abi3-macosx_15_0_arm64.whl",
+  "download_time": "2026-01-18T16:24:09.489304",
   "package_url": "https://pypi.org/project/action-engine/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "cognitive-twin",
+  "version": "3.0.0",
+  "summary": "User pattern learning with trajectory-aware DPO training",
+  "author": "Mohamed Diomande",
+  "license": null,
+  "home_page": null,
+  "download_filename": "cognitive_twin-3.0.0.tar.gz",
+  "download_time": "2026-01-18T16:24:04.244394",
+  "package_url": "https://pypi.org/project/cognitive-twin/"
+}

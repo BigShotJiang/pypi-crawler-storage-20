@@ -1,0 +1,11 @@
+{
+  "name": "secuscan",
+  "version": "1.1.3",
+  "summary": "A dual-platform static vulnerability scanner for Android and Web applications.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "secuscan-1.1.3.tar.gz",
+  "download_time": "2026-01-18T16:23:52.137621",
+  "package_url": "https://pypi.org/project/secuscan/"
+}

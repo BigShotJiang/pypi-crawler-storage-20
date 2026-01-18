@@ -1,11 +1,11 @@
 {
   "name": "clientele",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "summary": "Clientele is a different way to build Python API Clients",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "clientele-1.6.0.tar.gz",
-  "download_time": "2026-01-14T15:00:01.259905",
+  "download_filename": "clientele-1.7.0.tar.gz",
+  "download_time": "2026-01-18T16:23:48.489159",
   "package_url": "https://pypi.org/project/clientele/"
 }

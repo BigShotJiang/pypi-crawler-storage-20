@@ -1,11 +1,11 @@
 {
   "name": "modm-devices",
-  "version": "0.12.0",
+  "version": "0.12.1",
   "summary": "Curated data for AVR and ARM Cortex-M devices",
   "author": "Niklas Hauser",
   "license": "MPL-2.0",
   "home_page": "https://github.com/modm-io/modm-devices",
-  "download_filename": "modm_devices-0.12.0.tar.gz",
-  "download_time": "2026-01-12T19:49:45.631392",
+  "download_filename": "modm_devices-0.12.1.tar.gz",
+  "download_time": "2026-01-18T16:24:02.684660",
   "package_url": "https://pypi.org/project/modm-devices/"
 }

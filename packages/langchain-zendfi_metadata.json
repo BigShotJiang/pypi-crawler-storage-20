@@ -1,0 +1,11 @@
+{
+  "name": "langchain-zendfi",
+  "version": "0.2.0",
+  "summary": "LangChain tools for autonomous cryptocurrency payments on Solana via ZendFi",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "langchain_zendfi-0.2.0.tar.gz",
+  "download_time": "2026-01-18T16:23:42.684608",
+  "package_url": "https://pypi.org/project/langchain-zendfi/"
+}

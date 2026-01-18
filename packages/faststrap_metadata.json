@@ -1,11 +1,11 @@
 {
   "name": "faststrap",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "summary": "Modern Bootstrap 5 components for FastHTML - Build beautiful UIs in pure Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "faststrap-0.5.2.tar.gz",
-  "download_time": "2026-01-18T13:50:01.255258",
+  "download_filename": "faststrap-0.5.3.tar.gz",
+  "download_time": "2026-01-18T16:24:16.325423",
   "package_url": "https://pypi.org/project/faststrap/"
 }
