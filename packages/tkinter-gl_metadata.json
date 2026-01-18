@@ -1,0 +1,11 @@
+{
+  "name": "tkinter-gl",
+  "version": "1.1",
+  "summary": "A base class for GL rendering surfaces in tkinter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tkinter_gl-1.1.tar.gz",
+  "download_time": "2026-01-18T16:49:24.754706",
+  "package_url": "https://pypi.org/project/tkinter-gl/"
+}

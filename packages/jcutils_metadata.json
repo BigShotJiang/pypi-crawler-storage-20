@@ -1,11 +1,11 @@
 {
   "name": "jcutils",
-  "version": "0.3.4",
+  "version": "0.1.0",
   "summary": "python utils",
   "author": null,
   "license": "MIT License",
   "home_page": null,
-  "download_filename": "jcutils-0.3.4.tar.gz",
-  "download_time": "2026-01-18T08:50:27.312003",
+  "download_filename": "jcutils-0.1.0-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-18T16:49:10.345009",
   "package_url": "https://pypi.org/project/jcutils/"
 }

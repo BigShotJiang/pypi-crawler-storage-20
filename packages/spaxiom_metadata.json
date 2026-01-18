@@ -1,0 +1,11 @@
+{
+  "name": "spaxiom",
+  "version": "0.1.0",
+  "summary": "An embedded domain-specific language for spatial sensor fusion and AI",
+  "author": "Joe Scanlin",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "spaxiom-0.1.0.tar.gz",
+  "download_time": "2026-01-18T16:49:27.879212",
+  "package_url": "https://pypi.org/project/spaxiom/"
+}

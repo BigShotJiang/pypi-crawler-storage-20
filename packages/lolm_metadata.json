@@ -1,0 +1,11 @@
+{
+  "name": "lolm",
+  "version": "0.1.8",
+  "summary": "Lightweight Orchestrated LLM Manager - Multi-provider LLM configuration and management",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "lolm-0.1.8.tar.gz",
+  "download_time": "2026-01-18T16:49:17.020949",
+  "package_url": "https://pypi.org/project/lolm/"
+}

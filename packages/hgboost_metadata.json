@@ -1,0 +1,11 @@
+{
+  "name": "hgboost",
+  "version": "1.1.7",
+  "summary": "hgboost is a python package for hyperparameter optimization for xgboost, catboost and lightboost for both classification and regression tasks.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "hgboost-1.1.7.tar.gz",
+  "download_time": "2026-01-18T16:49:35.623699",
+  "package_url": "https://pypi.org/project/hgboost/"
+}

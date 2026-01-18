@@ -1,0 +1,11 @@
+{
+  "name": "logic2test",
+  "version": "0.1.8",
+  "summary": "Generate test scaffolds from Code2Logic output files",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "logic2test-0.1.8.tar.gz",
+  "download_time": "2026-01-18T16:49:16.510378",
+  "package_url": "https://pypi.org/project/logic2test/"
+}

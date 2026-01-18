@@ -1,0 +1,11 @@
+{
+  "name": "sentry-dingtalk-notify",
+  "version": "1.1.1",
+  "summary": "A sentry extension integrates DingTalk robot webhook",
+  "author": "lanxuexing",
+  "license": "MIT",
+  "home_page": "https://github.com/lanxuexing/sentry-dingtalk-notify",
+  "download_filename": "sentry_dingtalk_notify-1.1.1.tar.gz",
+  "download_time": "2026-01-18T16:49:12.397509",
+  "package_url": "https://pypi.org/project/sentry-dingtalk-notify/"
+}

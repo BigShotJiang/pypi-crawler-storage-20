@@ -1,0 +1,11 @@
+{
+  "name": "feeluown",
+  "version": "4.1.16",
+  "summary": "*nix music player",
+  "author": "feeluown",
+  "license": "GPL-3.0",
+  "home_page": "https://github.com/feeluown/FeelUOwn",
+  "download_filename": "feeluown-4.1.16.tar.gz",
+  "download_time": "2026-01-18T16:49:27.368397",
+  "package_url": "https://pypi.org/project/feeluown/"
+}

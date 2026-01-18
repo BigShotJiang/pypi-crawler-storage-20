@@ -1,11 +1,11 @@
 {
   "name": "amarantos",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "Tips and tools for personal wellness and longevity",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "amarantos-0.1.1.tar.gz",
-  "download_time": "2026-01-17T19:52:11.155272",
+  "download_filename": "amarantos-0.1.2.tar.gz",
+  "download_time": "2026-01-18T16:49:30.981888",
   "package_url": "https://pypi.org/project/amarantos/"
 }

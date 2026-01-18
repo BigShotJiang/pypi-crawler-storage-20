@@ -1,0 +1,11 @@
+{
+  "name": "cleany-cli",
+  "version": "0.2.0",
+  "summary": "Interactive CLI tool to clean and prune tabular data files",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "cleany_cli-0.2.0.tar.gz",
+  "download_time": "2026-01-18T16:49:13.943181",
+  "package_url": "https://pypi.org/project/cleany-cli/"
+}

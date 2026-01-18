@@ -1,11 +1,11 @@
 {
   "name": "dmart",
-  "version": "0.1.10",
+  "version": "1.4.2",
   "summary": null,
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "dmart-0.1.10.tar.gz",
-  "download_time": "2026-01-12T17:37:30.654278",
+  "download_filename": "dmart-1.4.2-py3-none-any.whl",
+  "download_time": "2026-01-18T16:49:18.046733",
   "package_url": "https://pypi.org/project/dmart/"
 }
