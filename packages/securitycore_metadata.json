@@ -1,11 +1,11 @@
 {
   "name": "securitycore",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "summary": "Модульная библиотека для анализа, защиты и валидации данных",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "securitycore-1.0.0.tar.gz",
-  "download_time": "2026-01-16T19:22:19.240822",
+  "download_filename": "securitycore-1.0.3.tar.gz",
+  "download_time": "2026-01-18T19:52:37.491534",
   "package_url": "https://pypi.org/project/securitycore/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fedrf4panod",
+  "version": "0.0.2",
+  "summary": "Federated Random Forest for non overlapping features python package.",
+  "author": "Amirreza Aleyasin - Youngjun Park - Cord Schmidt - Lion Philip Wolf",
+  "license": "MIT",
+  "home_page": "https://gitlab.gwdg.de/cdss/fairpact/fedrf4panod_pip",
+  "download_filename": "fedrf4panod-0.0.2.tar.gz",
+  "download_time": "2026-01-18T19:52:40.146536",
+  "package_url": "https://pypi.org/project/fedrf4panod/"
+}

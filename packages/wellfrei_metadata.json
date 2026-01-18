@@ -1,0 +1,11 @@
+{
+  "name": "wellfrei",
+  "version": "0.1.1",
+  "summary": "Scientific algorithm developed by the Wellfrei research group",
+  "author": "Wellfrei Research Group",
+  "license": null,
+  "home_page": null,
+  "download_filename": "wellfrei-0.1.1.tar.gz",
+  "download_time": "2026-01-18T19:52:22.578913",
+  "package_url": "https://pypi.org/project/wellfrei/"
+}

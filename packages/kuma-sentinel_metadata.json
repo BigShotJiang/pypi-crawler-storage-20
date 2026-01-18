@@ -1,0 +1,11 @@
+{
+  "name": "kuma-sentinel",
+  "version": "0.0.1",
+  "summary": "Extensible monitoring agent with Uptime Kuma integration. Includes port scanning with heartbeat monitoring.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "kuma_sentinel-0.0.1.tar.gz",
+  "download_time": "2026-01-18T19:52:43.280544",
+  "package_url": "https://pypi.org/project/kuma-sentinel/"
+}

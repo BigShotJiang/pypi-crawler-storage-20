@@ -1,0 +1,11 @@
+{
+  "name": "scak",
+  "version": "1.1.0",
+  "summary": "Self-Correcting Agent Kernel: Automated alignment via differential auditing and semantic memory hygiene for production AI agents",
+  "author": "Self-Correcting Agent Team",
+  "license": "MIT",
+  "home_page": "https://github.com/imran-siddique/self-correcting-agent-kernel",
+  "download_filename": "scak-1.1.0.tar.gz",
+  "download_time": "2026-01-18T19:52:28.973472",
+  "package_url": "https://pypi.org/project/scak/"
+}

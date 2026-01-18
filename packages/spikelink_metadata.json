@@ -1,0 +1,11 @@
+{
+  "name": "spikelink",
+  "version": "0.1.1",
+  "summary": "Spike-native transport for neuromorphic systems",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "spikelink-0.1.1.tar.gz",
+  "download_time": "2026-01-18T19:52:42.214339",
+  "package_url": "https://pypi.org/project/spikelink/"
+}
