@@ -1,0 +1,11 @@
+{
+  "name": "klutshnik",
+  "version": "0.4.0",
+  "summary": "Klutshnik CLI client",
+  "author": "Stefan Marsiske",
+  "license": "GPLv3",
+  "home_page": "https://klutshnik.info/",
+  "download_filename": "klutshnik-0.4.0.tar.gz",
+  "download_time": "2026-01-18T01:43:18.725966",
+  "package_url": "https://pypi.org/project/klutshnik/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "slack-claude-code",
+  "version": "0.1.1",
+  "summary": "Slack app for running Claude Code CLI commands",
+  "author": "Dan",
+  "license": null,
+  "home_page": null,
+  "download_filename": "slack_claude_code-0.1.1.tar.gz",
+  "download_time": "2026-01-18T01:43:12.387738",
+  "package_url": "https://pypi.org/project/slack-claude-code/"
+}

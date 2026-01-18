@@ -1,11 +1,11 @@
 {
   "name": "jps-nextflow-utils",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "summary": "Offline analysis of Nextflow run artifacts - audit, report, and compare workflow runs",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "jps_nextflow_utils-0.1.0.tar.gz",
-  "download_time": "2026-01-17T19:52:16.867627",
+  "download_filename": "jps_nextflow_utils-0.2.0.tar.gz",
+  "download_time": "2026-01-18T01:42:50.021748",
   "package_url": "https://pypi.org/project/jps-nextflow-utils/"
 }

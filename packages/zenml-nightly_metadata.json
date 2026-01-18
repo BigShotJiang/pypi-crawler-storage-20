@@ -1,11 +1,11 @@
 {
   "name": "zenml-nightly",
-  "version": "0.93.1.dev20260117",
+  "version": "0.93.1.dev20260118",
   "summary": "ZenML: MLOps for Reliable AI: from Classical AI to Agents.",
   "author": "ZenML GmbH",
   "license": null,
   "home_page": "https://zenml.io",
-  "download_filename": "zenml_nightly-0.93.1.dev20260117.tar.gz",
-  "download_time": "2026-01-17T01:22:57.874648",
+  "download_filename": "zenml_nightly-0.93.1.dev20260118.tar.gz",
+  "download_time": "2026-01-18T01:43:11.876497",
   "package_url": "https://pypi.org/project/zenml-nightly/"
 }

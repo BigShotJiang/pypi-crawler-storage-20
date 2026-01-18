@@ -1,0 +1,11 @@
+{
+  "name": "dbtmeshification",
+  "version": "0.0.1",
+  "summary": "A dbt companion for unit testing, column-level lineage, and more.",
+  "author": "Ahmed Muhammad",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "dbtmeshification-0.0.1.tar.gz",
+  "download_time": "2026-01-18T01:43:13.947920",
+  "package_url": "https://pypi.org/project/dbtmeshification/"
+}

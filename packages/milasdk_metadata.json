@@ -1,11 +1,11 @@
 {
   "name": "milasdk",
-  "version": "2026.1.1",
+  "version": "2026.1.3",
   "summary": "Python SDK for Mila Air Purifiers",
   "author": "Jack Simbach",
   "license": "MIT",
   "home_page": "https://github.com/simbaja/milasdk",
-  "download_filename": "milasdk-2026.1.1.tar.gz",
-  "download_time": "2026-01-16T14:22:24.993659",
+  "download_filename": "milasdk-2026.1.3.tar.gz",
+  "download_time": "2026-01-18T01:43:10.196451",
   "package_url": "https://pypi.org/project/milasdk/"
 }

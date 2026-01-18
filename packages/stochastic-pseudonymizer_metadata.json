@@ -1,0 +1,11 @@
+{
+  "name": "stochastic-pseudonymizer",
+  "version": "1.0.0",
+  "summary": "Generate pseudonymous tokens with built-in plausible deniability",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stochastic_pseudonymizer-1.0.0.tar.gz",
+  "download_time": "2026-01-18T01:43:04.989616",
+  "package_url": "https://pypi.org/project/stochastic-pseudonymizer/"
+}
