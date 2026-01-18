@@ -1,11 +1,11 @@
 {
   "name": "lrcgen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "summary": "AI-powered LRC generator with Whisper and LLM correction",
   "author": "lihan3238",
   "license": null,
   "home_page": null,
-  "download_filename": "lrcgen-0.1.2.tar.gz",
-  "download_time": "2026-01-18T11:44:46.945683",
+  "download_filename": "lrcgen-0.1.3.tar.gz",
+  "download_time": "2026-01-18T11:54:27.532716",
   "package_url": "https://pypi.org/project/lrcgen/"
 }

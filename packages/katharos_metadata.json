@@ -1,0 +1,11 @@
+{
+  "name": "katharos",
+  "version": "0.2.1",
+  "summary": "A functional programming library for Python that provides algebraic abstractions like Semigroups, Monoids, Functors, Applicatives, and Monads, along with immutable data structures to enable composable, type-safe, and side-effect-free code.",
+  "author": "Kamal",
+  "license": null,
+  "home_page": null,
+  "download_filename": "katharos-0.2.1.tar.gz",
+  "download_time": "2026-01-18T11:54:28.558005",
+  "package_url": "https://pypi.org/project/katharos/"
+}

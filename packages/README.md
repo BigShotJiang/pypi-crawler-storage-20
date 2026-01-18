@@ -1,13 +1,36 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-18T11:45:11.853835
-- **Total Packages**: 79
-- **Total Size**: 10.65 MB
+- **Download Time**: 2026-01-18T11:55:04.076482
+- **Total Packages**: 84
+- **Total Size**: 7.78 MB
 
 ## Packages List
-- goblin-ai
+- pyahmia
+- doclify
 - jewei-mcp-nacos
+- finanfut-billing-sdk
+- exec-sandbox
+- mlhp
+- dnd-5e-core
+- topicminer-louati
+- snoogle13-vault-secrets
+- bentley-ottmann
+- plato-sdk-v2
+- ainotebookdev
+- antyx
+- lrcgen
+- apitally
+- katharos
+- userbot-auth
+- topsis-saanvi-102483080
+- aboba
+- sqlalchemy-session-proxy
+- MaaDebugger
+- django-flex
+- t402
+- zbWidgetLib
+- goblin-ai
 - adamixture
 - minecode-mcp
 - arpakitlib
@@ -18,7 +41,6 @@
 - eaheog
 - torch-batteries
 - ogcore
-- topicminer-louati
 - sqlacodegen
 - outerbounds
 - fast-robotstxt
@@ -37,7 +59,6 @@
 - xlwings-utils
 - mcp-context-server
 - instaui-shiki
-- lrcgen
 - nonebot-plugin-railwaytools
 - mchart
 - qkernel
@@ -46,7 +67,6 @@
 - gitlint-rai
 - chaosmath
 - dramatiq
-- antyx
 - torchx-nightly
 - zobar
 - dslighting
@@ -70,18 +90,3 @@
 - kladml
 - psh2bat
 - ksapi
-- tzafon
-- topsis-shivank-102303655
-- winspot
-- django-describe
-- compit-inext-api
-- fuzzybunny
-- kdaquila-structure-lint
-- odoo-addon-mgmtsystem
-- pygraphkit
-- chess-env-rl
-- helper-streamlit-utils
-- avantis-trader-sdk
-- pydmf
-- sd-webui-all-in-one
-- kita
