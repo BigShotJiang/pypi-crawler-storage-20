@@ -1,11 +1,11 @@
 {
   "name": "jpylib-jyrgenn",
-  "version": "2026.117.1043",
+  "version": "2026.118.1600",
   "summary": "Utilities library with several more or less independent components",
   "author": "Juergen Nickelsen",
   "license": null,
   "home_page": "https://codeberg.org/jyrgenn/jpylib/",
-  "download_filename": "jpylib_jyrgenn-2026.117.1043.tar.gz",
-  "download_time": "2026-01-17T09:53:00.693118",
+  "download_filename": "jpylib_jyrgenn-2026.118.1600.tar.gz",
+  "download_time": "2026-01-18T15:20:53.716843",
   "package_url": "https://pypi.org/project/jpylib-jyrgenn/"
 }

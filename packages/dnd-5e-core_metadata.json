@@ -1,11 +1,11 @@
 {
   "name": "dnd-5e-core",
-  "version": "0.2.2",
-  "summary": "Complete D&D 5e Rules Engine with Magic Items, Defensive Spells & Conditions: 332 monsters, 319+ spells, combat conditions, treasure system. 100% offline.",
+  "version": "0.2.4",
+  "summary": "Complete D&D 5e Rules Engine with Condition Parsing, Magic Items & Combat System: 332 monsters, 319+ spells, automatic condition application. 100% offline.",
   "author": "D&D Development Team",
   "license": "MIT",
   "home_page": "https://github.com/codingame-team/dnd-5e-core",
-  "download_filename": "dnd_5e_core-0.2.2.tar.gz",
-  "download_time": "2026-01-18T13:20:55.656250",
+  "download_filename": "dnd_5e_core-0.2.4.tar.gz",
+  "download_time": "2026-01-18T15:20:40.257692",
   "package_url": "https://pypi.org/project/dnd-5e-core/"
 }

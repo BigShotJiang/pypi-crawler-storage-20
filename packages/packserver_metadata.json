@@ -1,0 +1,11 @@
+{
+  "name": "packserver",
+  "version": "1.0.0",
+  "summary": "A simple Minecraft Resource Pack server",
+  "author": "Jone",
+  "license": null,
+  "home_page": null,
+  "download_filename": "packserver-1.0.0.tar.gz",
+  "download_time": "2026-01-18T15:20:47.232329",
+  "package_url": "https://pypi.org/project/packserver/"
+}

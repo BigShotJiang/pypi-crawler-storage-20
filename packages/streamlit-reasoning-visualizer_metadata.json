@@ -1,0 +1,11 @@
+{
+  "name": "streamlit-reasoning-visualizer",
+  "version": "0.1.0",
+  "summary": "A Streamlit component to visualize LLM reasoning processes with collapsible thought sections and rich markdown/LaTeX rendering",
+  "author": "Ketan Mahandule",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ketanmahandule/streamlit-reasoning-visualizer",
+  "download_filename": "streamlit_reasoning_visualizer-0.1.0.tar.gz",
+  "download_time": "2026-01-18T15:20:44.925175",
+  "package_url": "https://pypi.org/project/streamlit-reasoning-visualizer/"
+}

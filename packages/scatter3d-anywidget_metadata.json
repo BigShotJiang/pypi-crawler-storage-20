@@ -1,0 +1,11 @@
+{
+  "name": "scatter3d-anywidget",
+  "version": "0.1.3",
+  "summary": "3D scatter widget with lasso selection",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "scatter3d_anywidget-0.1.3.tar.gz",
+  "download_time": "2026-01-18T15:20:55.450819",
+  "package_url": "https://pypi.org/project/scatter3d-anywidget/"
+}

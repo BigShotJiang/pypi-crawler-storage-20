@@ -1,11 +1,11 @@
 {
   "name": "mlops-project-generator",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "summary": "A CLI tool that generates production-ready MLOps project templates for Scikit-learn, PyTorch, and TensorFlow",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "mlops_project_generator-1.0.2.tar.gz",
-  "download_time": "2026-01-17T06:28:54.603061",
+  "download_filename": "mlops_project_generator-1.0.6.tar.gz",
+  "download_time": "2026-01-18T15:20:50.759843",
   "package_url": "https://pypi.org/project/mlops-project-generator/"
 }

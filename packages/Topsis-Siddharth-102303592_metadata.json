@@ -1,11 +1,11 @@
 {
   "name": "Topsis-Siddharth-102303592",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A command-line implementation of TOPSIS (MCDM) in Python",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "topsis_siddharth_102303592-1.0.0.tar.gz",
-  "download_time": "2026-01-17T12:36:16.560068",
+  "download_filename": "topsis_siddharth_102303592-1.0.1.tar.gz",
+  "download_time": "2026-01-18T15:20:46.656485",
   "package_url": "https://pypi.org/project/Topsis-Siddharth-102303592/"
 }

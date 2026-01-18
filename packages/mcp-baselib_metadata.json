@@ -1,11 +1,11 @@
 {
   "name": "mcp-baselib",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "summary": "MCP utilities",
   "author": "Gregor Roth",
   "license": null,
   "home_page": null,
-  "download_filename": "mcp_baselib-1.0.2.tar.gz",
-  "download_time": "2026-01-18T14:43:41.416788",
+  "download_filename": "mcp_baselib-1.0.3.tar.gz",
+  "download_time": "2026-01-18T15:21:01.326060",
   "package_url": "https://pypi.org/project/mcp-baselib/"
 }

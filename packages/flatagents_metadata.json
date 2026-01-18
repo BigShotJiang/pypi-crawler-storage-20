@@ -1,11 +1,11 @@
 {
   "name": "flatagents",
-  "version": "0.5.1",
+  "version": "0.7.0",
   "summary": "A lightweight framework for building LLM-powered agents and composable state machines with pluggable backends.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "flatagents-0.5.1.tar.gz",
-  "download_time": "2026-01-18T03:29:54.090391",
+  "download_filename": "flatagents-0.7.0.tar.gz",
+  "download_time": "2026-01-18T15:21:04.285100",
   "package_url": "https://pypi.org/project/flatagents/"
 }

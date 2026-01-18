@@ -1,20 +1,67 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-18T14:54:42.513048
-- **Total Packages**: 89
-- **Total Size**: 4.31 MB
+- **Download Time**: 2026-01-18T15:21:26.511795
+- **Total Packages**: 83
+- **Total Size**: 33.55 MB
 
 ## Packages List
+- devops-aws-costlens
+- orbit-torch
+- claude-sage
+- csvnorm
+- the37lab-database-tools
+- dnd-5e-core
+- sl-gme
+- superwise-api
+- oscura
+- pyTooling
+- skillhub-mcp
+- SURE-tools
+- pragmatiks-gcp-provider
+- streamlit-reasoning-visualizer
+- claude-board
+- abcsphinx
+- Topsis-Siddharth-102303592
+- packserver
+- py-docker-admin
+- argus-debate-ai
+- pyfastmvc
+- statezero
+- wesamoyo
+- mlops-project-generator
+- pillowstrap
+- survival
+- orbs-cli
+- pythonic-fp-iterables
+- jpylib-jyrgenn
+- empowernow-common
+- rapyer
+- scatter3d-anywidget
+- neuropipeline
+- ai-critic
+- roksta
+- charmarr-lib-core
+- neuroglia-python
+- rag-plusplus
+- tarang
+- py-queue-bus
+- mcp-baselib
+- poetry-plugin-export
+- tiebameow
+- anselmjuan
+- dbmerge
+- flatagents
+- django-polls-pulya
+- complexity-model
+- zen-temple
 - hyper2kvm
 - mridu-manda
 - zsh-tool-mcp
 - jewei-mcp-nacos
 - hcom
-- superwise-api
 - py7zr
 - locoformer
-- orbs-cli
 - symqnet-molopt
 - experimaestro
 - git-remote-workshopstudio
@@ -34,7 +81,6 @@
 - lmfetch
 - mlc-db-models
 - lus
-- devops-aws-costlens
 - language-pipes
 - gtfs-station-stop
 - tenro
@@ -43,55 +89,3 @@
 - imessage-max
 - cc-python
 - SwapLayer
-- wesamoyo
-- scadm
-- linux-profiler-mcp
-- mcp-baselib
-- trendspyg
-- django-polls-pulya
-- lrcgen
-- fujin-secrets-doppler
-- fujin-secrets-bitwarden
-- fujin-secrets-1password
-- fujin-cli
-- foundry-mcp
-- starlette-authlib
-- pandoraspec
-- canon-keeper-mcp
-- topsis-manya-102317119
-- codeppr
-- suphia
-- raps-bindings
-- abcsphinx
-- google-workspace-unlimited
-- pearmut
-- comdirect-api-wrapper
-- pyicloud
-- pillowstrap
-- bongram
-- codegraph
-- rcdl
-- dataprof
-- gitlint-rai
-- jasmine-rice
-- slurm-util
-- constriction
-- mcp-ocr
-- survival
-- neuropipeline
-- hf-inference-acp
-- fast-agent-acp
-- fast-agent-mcp
-- aws-inventory-manager
-- openreward
-- gptcomet
-- wiggum
-- abstractsemantics
-- fine-python-ast
-- csvnorm
-- torchpipe
-- xlwings-utils
-- kubeflow-sdk-akash
-- odoo-addon-pos-payment-method-cashdro
-- biotuner
-- tool-compass
