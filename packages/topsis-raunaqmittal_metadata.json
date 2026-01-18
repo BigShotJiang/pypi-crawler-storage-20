@@ -1,0 +1,11 @@
+{
+  "name": "topsis-raunaqmittal",
+  "version": "0.1.0",
+  "summary": "TOPSIS implementation for multi-criteria decision making",
+  "author": "Raunaq Mittal",
+  "license": null,
+  "home_page": "https://github.com/raunaqmittal/Topsis-Package",
+  "download_filename": "topsis_raunaqmittal-0.1.0.tar.gz",
+  "download_time": "2026-01-18T11:32:45.968730",
+  "package_url": "https://pypi.org/project/topsis-raunaqmittal/"
+}

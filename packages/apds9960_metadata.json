@@ -1,0 +1,11 @@
+{
+  "name": "apds9960",
+  "version": "0.3.0",
+  "summary": "Python APDS-9960 Library",
+  "author": "Thomas Liske",
+  "license": "GPLv3+",
+  "home_page": "https://github.com/liske/python-apds9960/",
+  "download_filename": "apds9960-0.3.0.tar.gz",
+  "download_time": "2026-01-18T11:32:40.184826",
+  "package_url": "https://pypi.org/project/apds9960/"
+}

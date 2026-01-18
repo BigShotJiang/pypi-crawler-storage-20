@@ -1,11 +1,11 @@
 {
   "name": "antyx",
-  "version": "0.1.7",
+  "version": "0.1.9",
   "summary": "Antyx is an automated EDA engine designed to generate fast, structured and professional exploratory reports from any tabular dataset.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "antyx-0.1.7.tar.gz",
-  "download_time": "2026-01-18T11:17:17.887930",
+  "download_filename": "antyx-0.1.9-py3-none-any.whl",
+  "download_time": "2026-01-18T11:32:36.035757",
   "package_url": "https://pypi.org/project/antyx/"
 }

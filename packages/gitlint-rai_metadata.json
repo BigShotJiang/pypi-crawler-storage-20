@@ -1,0 +1,11 @@
+{
+  "name": "gitlint-rai",
+  "version": "0.1.5",
+  "summary": "Gitlint plugin for RAI footer validation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gitlint_rai-0.1.5.tar.gz",
+  "download_time": "2026-01-18T11:32:34.495393",
+  "package_url": "https://pypi.org/project/gitlint-rai/"
+}

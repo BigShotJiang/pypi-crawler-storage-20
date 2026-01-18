@@ -1,11 +1,11 @@
 {
   "name": "canon-keeper-mcp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "MCP server for extracting and persisting learnings from Copilot conversations",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "canon_keeper_mcp-0.1.1.tar.gz",
-  "download_time": "2026-01-18T11:17:24.639296",
+  "download_filename": "canon_keeper_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-18T11:32:43.847514",
   "package_url": "https://pypi.org/project/canon-keeper-mcp/"
 }

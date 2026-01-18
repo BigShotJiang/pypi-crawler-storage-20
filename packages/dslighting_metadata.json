@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "1.9.12",
+  "version": "1.9.13",
   "summary": "End-to-End Data Science Agent - Intelligent automation for data science tasks",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "dslighting-1.9.12.tar.gz",
-  "download_time": "2026-01-18T05:50:23.203696",
+  "download_filename": "dslighting-1.9.13.tar.gz",
+  "download_time": "2026-01-18T11:32:37.588102",
   "package_url": "https://pypi.org/project/dslighting/"
 }
