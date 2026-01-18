@@ -1,0 +1,11 @@
+{
+  "name": "phold",
+  "version": "1.2.1",
+  "summary": "Phage Annotations using Protein Structures",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "phold-1.2.1.tar.gz",
+  "download_time": "2026-01-18T23:19:51.343925",
+  "package_url": "https://pypi.org/project/phold/"
+}

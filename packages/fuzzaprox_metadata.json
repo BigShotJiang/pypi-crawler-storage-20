@@ -1,0 +1,11 @@
+{
+  "name": "fuzzaprox",
+  "version": "0.0.2",
+  "summary": "F-transform approximation over residuated lattices",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "fuzzaprox-0.0.2.tar.gz",
+  "download_time": "2026-01-18T23:20:18.731159",
+  "package_url": "https://pypi.org/project/fuzzaprox/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "gebpy",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "summary": "GebPy is a Python-based, open source tool for the generation of geological data of minerals, rocks and complete lithological sequences.",
   "author": "Maximilian Alexander Beeskow",
   "license": "LGPL-3.0",
   "home_page": "https://github.com/MABeeskow/GebPy",
-  "download_filename": "gebpy-1.1.9.tar.gz",
-  "download_time": "2026-01-16T14:22:56.978989",
+  "download_filename": "gebpy-1.1.10.tar.gz",
+  "download_time": "2026-01-18T23:20:19.793837",
   "package_url": "https://pypi.org/project/gebpy/"
 }

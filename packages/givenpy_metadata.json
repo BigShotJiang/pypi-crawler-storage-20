@@ -1,0 +1,11 @@
+{
+  "name": "givenpy",
+  "version": "1.0.5",
+  "summary": "A simple micro BDD framework for Python",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "givenpy-1.0.5.tar.gz",
+  "download_time": "2026-01-18T23:20:14.870176",
+  "package_url": "https://pypi.org/project/givenpy/"
+}

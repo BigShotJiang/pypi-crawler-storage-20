@@ -1,11 +1,11 @@
 {
   "name": "Dataframe-timeseries-mon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "DataFrame ordered-window extraction with diagnostics and an envvar-based monitoring integration layer",
   "author": "Marcin Kowalczyk",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "dataframe_timeseries_mon-1.0.0.tar.gz",
-  "download_time": "2026-01-17T18:53:25.320807",
+  "download_filename": "dataframe_timeseries_mon-1.0.1.tar.gz",
+  "download_time": "2026-01-18T23:20:26.486870",
   "package_url": "https://pypi.org/project/Dataframe-timeseries-mon/"
 }

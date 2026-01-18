@@ -1,11 +1,11 @@
 {
   "name": "nlsc",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "summary": "Natural Language Source Compiler - Compile .nl specs to executable code",
   "author": "Vario (Mnehmos)",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "nlsc-0.2.0.tar.gz",
-  "download_time": "2026-01-18T20:45:43.714116",
+  "download_filename": "nlsc-0.2.1.tar.gz",
+  "download_time": "2026-01-18T23:20:24.874840",
   "package_url": "https://pypi.org/project/nlsc/"
 }
