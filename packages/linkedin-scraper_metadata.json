@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-scraper",
+  "version": "3.0.2",
+  "summary": "Async LinkedIn scraper for profiles, companies, and jobs",
+  "author": "Joey Sham",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/joeyism/linkedin_scraper",
+  "download_filename": "linkedin_scraper-3.0.2.tar.gz",
+  "download_time": "2026-01-18T22:46:02.169998",
+  "package_url": "https://pypi.org/project/linkedin-scraper/"
+}

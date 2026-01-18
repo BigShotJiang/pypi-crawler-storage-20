@@ -1,0 +1,11 @@
+{
+  "name": "kanoa",
+  "version": "0.5.0",
+  "summary": "AI-powered interpretation of data science outputs with multi-backend support",
+  "author": "Daniel Fry",
+  "license": null,
+  "home_page": "https://github.com/lhzn-io/kanoa",
+  "download_filename": "kanoa-0.5.0.tar.gz",
+  "download_time": "2026-01-18T22:46:13.739172",
+  "package_url": "https://pypi.org/project/kanoa/"
+}
