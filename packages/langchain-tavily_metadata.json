@@ -1,0 +1,11 @@
+{
+  "name": "langchain-tavily",
+  "version": "0.2.17",
+  "summary": "An integration package connecting Tavily and LangChain",
+  "author": null,
+  "license": "MIT",
+  "home_page": "https://github.com/tavily-ai/langchain-tavily",
+  "download_filename": "langchain_tavily-0.2.17.tar.gz",
+  "download_time": "2026-01-18T13:20:35.044052",
+  "package_url": "https://pypi.org/project/langchain-tavily/"
+}

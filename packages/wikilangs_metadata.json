@@ -1,0 +1,11 @@
+{
+  "name": "wikilangs",
+  "version": "0.1.2",
+  "summary": "A Python package for consuming Wikipedia language models including tokenizers, ngram models, markov chains, and vocabularies.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "wikilangs-0.1.2.tar.gz",
+  "download_time": "2026-01-18T13:21:03.403256",
+  "package_url": "https://pypi.org/project/wikilangs/"
+}

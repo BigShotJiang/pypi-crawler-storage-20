@@ -1,0 +1,11 @@
+{
+  "name": "bontakte",
+  "version": "0.1.0",
+  "summary": "Python-библиотека для создания ботов ВКонтакте",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "bontakte-0.1.0.tar.gz",
+  "download_time": "2026-01-18T13:20:35.556046",
+  "package_url": "https://pypi.org/project/bontakte/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pylibvirt",
+  "version": "0.0.12",
+  "summary": "Python package to orchestrate libvirt API from yaml declaration file",
+  "author": "Sevolith",
+  "license": "GPL-2.0-or-later",
+  "home_page": "https://gitlab.com/Sevolith/Python-Libvirt/",
+  "download_filename": "pylibvirt-0.0.12.tar.gz",
+  "download_time": "2026-01-18T13:20:38.123851",
+  "package_url": "https://pypi.org/project/pylibvirt/"
+}

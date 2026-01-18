@@ -1,0 +1,11 @@
+{
+  "name": "sunenergyxt",
+  "version": "1.0.0",
+  "summary": "Python library for controlling SunEnergyXT (BK215, B215, EV3600) battery storage devices",
+  "author": "Sonnenladen GmbH",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sunenergyxt-1.0.0.tar.gz",
+  "download_time": "2026-01-18T13:20:43.832397",
+  "package_url": "https://pypi.org/project/sunenergyxt/"
+}

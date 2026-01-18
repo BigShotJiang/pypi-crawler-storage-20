@@ -1,0 +1,11 @@
+{
+  "name": "session-forge",
+  "version": "0.1.0",
+  "summary": "Session Forge (sf): orchestrate remote worktrees and project setup for HAPI-managed sessions.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "session_forge-0.1.0.tar.gz",
+  "download_time": "2026-01-18T13:20:39.148262",
+  "package_url": "https://pypi.org/project/session-forge/"
+}

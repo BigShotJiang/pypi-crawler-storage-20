@@ -1,11 +1,11 @@
 {
   "name": "eaheog",
-  "version": "0.2.6",
+  "version": "0.2.8",
   "summary": "EOG-HPO Client SDK for intelligent hyperparameter recommendations",
   "author": "HK Pandey",
   "license": null,
   "home_page": "https://www.eaheog.com",
-  "download_filename": "eaheog-0.2.6.tar.gz",
-  "download_time": "2026-01-18T12:37:34.254485",
+  "download_filename": "eaheog-0.2.8.tar.gz",
+  "download_time": "2026-01-18T13:21:05.970174",
   "package_url": "https://pypi.org/project/eaheog/"
 }

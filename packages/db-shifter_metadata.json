@@ -1,0 +1,11 @@
+{
+  "name": "db-shifter",
+  "version": "0.1.8",
+  "summary": "A smart tool to sync missing rows between two PostgreSQL databases.",
+  "author": "superman",
+  "license": null,
+  "home_page": "https://github.com/goodness5/db-shifter",
+  "download_filename": "db_shifter-0.1.8.tar.gz",
+  "download_time": "2026-01-18T13:20:31.946633",
+  "package_url": "https://pypi.org/project/db-shifter/"
+}

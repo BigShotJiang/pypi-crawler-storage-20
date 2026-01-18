@@ -1,11 +1,11 @@
 {
   "name": "abcsphinx",
-  "version": "1.3.5",
+  "version": "1.3.6",
   "summary": "sphinx 用于渲染ABC代码的扩展库.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "abcsphinx-1.3.5.tar.gz",
-  "download_time": "2026-01-18T12:37:11.592649",
+  "download_filename": "abcsphinx-1.3.6.tar.gz",
+  "download_time": "2026-01-18T13:20:46.912874",
   "package_url": "https://pypi.org/project/abcsphinx/"
 }

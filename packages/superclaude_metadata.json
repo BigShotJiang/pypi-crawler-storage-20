@@ -1,0 +1,11 @@
+{
+  "name": "superclaude",
+  "version": "4.2.0",
+  "summary": "AI-enhanced development framework for Claude Code - pytest plugin with optional skills",
+  "author": "Kazuki Nakai",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "superclaude-4.2.0.tar.gz",
+  "download_time": "2026-01-18T13:20:30.918636",
+  "package_url": "https://pypi.org/project/superclaude/"
+}
