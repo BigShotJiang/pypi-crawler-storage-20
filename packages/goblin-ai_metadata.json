@@ -1,11 +1,11 @@
 {
   "name": "goblin-ai",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "summary": "Free AI Image Generation - 34 Models, unlimited, no API key needed",
   "author": "Goblin Team",
-  "license": null,
+  "license": "Proprietary",
   "home_page": null,
-  "download_filename": "goblin_ai-1.0.0.tar.gz",
-  "download_time": "2026-01-18T08:26:05.716413",
+  "download_filename": "goblin_ai-1.0.2-cp311-cp311-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-18T08:50:28.846306",
   "package_url": "https://pypi.org/project/goblin-ai/"
 }
