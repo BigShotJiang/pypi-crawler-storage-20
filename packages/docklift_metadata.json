@@ -1,0 +1,11 @@
+{
+  "name": "docklift",
+  "version": "0.1.0",
+  "summary": "Deploy web applications to VPS using Docker Compose with automatic SSL",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "docklift-0.1.0.tar.gz",
+  "download_time": "2026-01-18T23:43:10.797369",
+  "package_url": "https://pypi.org/project/docklift/"
+}

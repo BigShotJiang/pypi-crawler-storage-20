@@ -1,11 +1,11 @@
 {
   "name": "autotsforecast",
-  "version": "0.3.8",
+  "version": "0.3.9",
   "summary": "Automated time series forecasting with Chronos-2 foundation model (zero-shot, no training required), per-series model selection, and interpretability.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "autotsforecast-0.3.8.tar.gz",
-  "download_time": "2026-01-18T23:20:01.545140",
+  "download_filename": "autotsforecast-0.3.9.tar.gz",
+  "download_time": "2026-01-18T23:43:32.022950",
   "package_url": "https://pypi.org/project/autotsforecast/"
 }

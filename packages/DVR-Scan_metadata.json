@@ -1,0 +1,11 @@
+{
+  "name": "DVR-Scan",
+  "version": "1.8.2",
+  "summary": "Tool for finding and extracting motion events in video files (e.g. security camera footage).",
+  "author": "Brandon Castellano",
+  "license": "BSD 2-Clause License",
+  "home_page": "https://www.dvr-scan.com/",
+  "download_filename": "dvr_scan-1.8.2.tar.gz",
+  "download_time": "2026-01-18T23:43:25.132203",
+  "package_url": "https://pypi.org/project/DVR-Scan/"
+}

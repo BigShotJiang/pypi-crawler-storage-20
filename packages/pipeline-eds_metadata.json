@@ -1,11 +1,11 @@
 {
   "name": "pipeline-eds",
-  "version": "0.4.12",
+  "version": "0.4.13",
   "summary": "A Python API pipeline library and CLI toolkit for Emerson Ovation EDS systems — built for engineers, control technicians, and wastewater SCADA teams.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "pipeline_eds-0.4.12.tar.gz",
-  "download_time": "2026-01-18T23:19:51.913142",
+  "download_filename": "pipeline_eds-0.4.13.tar.gz",
+  "download_time": "2026-01-18T23:43:42.104239",
   "package_url": "https://pypi.org/project/pipeline-eds/"
 }
