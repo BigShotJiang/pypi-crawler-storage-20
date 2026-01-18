@@ -1,0 +1,11 @@
+{
+  "name": "napari-simpleannotate",
+  "version": "0.1.4",
+  "summary": "A napari plugin for simple image and video annotation",
+  "author": null,
+  "license": "BSD-3-Clause",
+  "home_page": null,
+  "download_filename": "napari_simpleannotate-0.1.4.tar.gz",
+  "download_time": "2026-01-18T09:21:21.834838",
+  "package_url": "https://pypi.org/project/napari-simpleannotate/"
+}

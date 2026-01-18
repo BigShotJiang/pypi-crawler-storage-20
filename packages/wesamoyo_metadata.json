@@ -1,11 +1,11 @@
 {
   "name": "wesamoyo",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "summary": "Wesamoyo AI SDK for transformer architectures",
   "author": "Houndtid Labs",
   "license": null,
   "home_page": "https://github.com/houndtid/wesamoyo",
-  "download_filename": "wesamoyo-1.0.3.tar.gz",
-  "download_time": "2026-01-18T08:50:29.359500",
+  "download_filename": "wesamoyo-1.0.4.tar.gz",
+  "download_time": "2026-01-18T09:21:10.261236",
   "package_url": "https://pypi.org/project/wesamoyo/"
 }

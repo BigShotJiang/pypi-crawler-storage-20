@@ -1,11 +1,11 @@
 {
   "name": "tracetree",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Universal traceability validation and rollup for requirements-to-tests mapping.",
   "author": "Technoculture",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "tracetree-0.1.5.tar.gz",
-  "download_time": "2026-01-17T13:20:40.271704",
+  "download_filename": "tracetree-0.1.7.tar.gz",
+  "download_time": "2026-01-18T09:20:57.499286",
   "package_url": "https://pypi.org/project/tracetree/"
 }

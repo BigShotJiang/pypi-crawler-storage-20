@@ -1,0 +1,11 @@
+{
+  "name": "django-turnstile",
+  "version": "0.1.3",
+  "summary": "Add Cloudflare Turnstile validator widget to the forms of your django project",
+  "author": "zmh-program",
+  "license": "MIT",
+  "home_page": "https://github.com/zmh-program",
+  "download_filename": "django_turnstile-0.1.3.tar.gz",
+  "download_time": "2026-01-18T09:20:53.363727",
+  "package_url": "https://pypi.org/project/django-turnstile/"
+}

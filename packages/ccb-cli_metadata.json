@@ -1,0 +1,11 @@
+{
+  "name": "ccb-cli",
+  "version": "2.2.0",
+  "summary": "Convert to Comic Book - 将图片文件夹或压缩包转换为漫画书格式",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "ccb_cli-2.2.0.tar.gz",
+  "download_time": "2026-01-18T09:21:23.366207",
+  "package_url": "https://pypi.org/project/ccb-cli/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "janusx",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "summary": "A Suite of Genotyping Tools for Genome-Wide Association Study and Genomic Selection",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "janusx-1.0.9.tar.gz",
-  "download_time": "2026-01-14T19:40:23.568541",
+  "download_filename": "janusx-1.0.10.tar.gz",
+  "download_time": "2026-01-18T09:21:04.956247",
   "package_url": "https://pypi.org/project/janusx/"
 }

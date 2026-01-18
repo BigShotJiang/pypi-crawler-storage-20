@@ -1,11 +1,11 @@
 {
   "name": "toolm",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A lightweight framework for building AI Agents using Google Gemini API.",
   "author": "Louati Mahdi",
   "license": null,
   "home_page": "https://github.com/mahdi123-tech",
-  "download_filename": "toolm-0.1.0.tar.gz",
-  "download_time": "2026-01-18T08:50:35.116069",
+  "download_filename": "toolm-0.1.1.tar.gz",
+  "download_time": "2026-01-18T09:21:22.855495",
   "package_url": "https://pypi.org/project/toolm/"
 }
