@@ -1,0 +1,11 @@
+{
+  "name": "typecheck-runtime",
+  "version": "0.2.0",
+  "summary": "Tiny runtime checker for typing annotations (dict[str,str], list[T], unions, literals) with an Option-like API.",
+  "author": "Lukas Svoboda",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "typecheck_runtime-0.2.0.tar.gz",
+  "download_time": "2026-01-18T15:43:15.294991",
+  "package_url": "https://pypi.org/project/typecheck-runtime/"
+}

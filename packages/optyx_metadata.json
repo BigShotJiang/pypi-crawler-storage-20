@@ -1,0 +1,11 @@
+{
+  "name": "optyx",
+  "version": "1.2.2",
+  "summary": "Intuitive symbolic interface for constrained optimization problems",
+  "author": "Dagmawi B. Tadesse",
+  "license": null,
+  "home_page": null,
+  "download_filename": "optyx-1.2.2.tar.gz",
+  "download_time": "2026-01-18T15:43:15.806653",
+  "package_url": "https://pypi.org/project/optyx/"
+}

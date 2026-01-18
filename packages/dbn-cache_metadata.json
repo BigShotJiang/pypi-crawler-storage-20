@@ -1,11 +1,11 @@
 {
   "name": "dbn-cache",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "summary": "Download and cache historical market data from Databento",
   "author": "Aziz Uysal",
   "license": null,
   "home_page": null,
-  "download_filename": "dbn_cache-1.2.0.tar.gz",
-  "download_time": "2026-01-16T22:57:53.980551",
+  "download_filename": "dbn_cache-1.2.1.tar.gz",
+  "download_time": "2026-01-18T15:43:31.233426",
   "package_url": "https://pypi.org/project/dbn-cache/"
 }

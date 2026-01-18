@@ -1,0 +1,11 @@
+{
+  "name": "kspl",
+  "version": "1.9.0",
+  "summary": "KConfig GUI for Software Product Lines with multiple variants.",
+  "author": "Cuinixam",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "kspl-1.9.0.tar.gz",
+  "download_time": "2026-01-18T15:43:19.098371",
+  "package_url": "https://pypi.org/project/kspl/"
+}

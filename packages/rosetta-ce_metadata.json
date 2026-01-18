@@ -1,0 +1,11 @@
+{
+  "name": "rosetta-ce",
+  "version": "1.7.7",
+  "summary": "Rosetta is a Python package that can be used to fake security logs and alerts for testing different detection and response use cases.",
+  "author": "Ayman Mahmoud",
+  "license": null,
+  "home_page": "https://github.com/ayman-m/rosetta",
+  "download_filename": "rosetta_ce-1.7.7.tar.gz",
+  "download_time": "2026-01-18T15:43:39.020211",
+  "package_url": "https://pypi.org/project/rosetta-ce/"
+}

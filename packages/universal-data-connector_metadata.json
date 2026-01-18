@@ -1,0 +1,11 @@
+{
+  "name": "universal-data-connector",
+  "version": "0.1.1",
+  "summary": "A Python package to query Oracle databases via CLI.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "universal_data_connector-0.1.1.tar.gz",
+  "download_time": "2026-01-18T15:43:29.657967",
+  "package_url": "https://pypi.org/project/universal-data-connector/"
+}

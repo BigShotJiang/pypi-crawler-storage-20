@@ -1,11 +1,11 @@
 {
   "name": "jupyters-server",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Commercial-grade Jupyter MCP server - Give your AI assistant superpowers with notebooks",
   "author": null,
   "license": "Commercial",
   "home_page": null,
-  "download_filename": "jupyters_server-0.1.7.tar.gz",
-  "download_time": "2026-01-17T11:54:17.935844",
+  "download_filename": "jupyters_server-0.1.8.tar.gz",
+  "download_time": "2026-01-18T15:43:22.253414",
   "package_url": "https://pypi.org/project/jupyters-server/"
 }
