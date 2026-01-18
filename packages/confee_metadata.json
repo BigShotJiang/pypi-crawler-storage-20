@@ -1,11 +1,11 @@
 {
   "name": "confee",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "summary": "Configuration Enhanced & Easy ☕️ - A Hydra-like configuration parser helper package",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "confee-0.3.4.tar.gz",
-  "download_time": "2026-01-18T07:20:11.742706",
+  "download_filename": "confee-0.3.5.tar.gz",
+  "download_time": "2026-01-18T07:42:15.496184",
   "package_url": "https://pypi.org/project/confee/"
 }

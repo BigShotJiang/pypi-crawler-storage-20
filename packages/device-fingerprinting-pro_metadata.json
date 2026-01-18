@@ -1,0 +1,11 @@
+{
+  "name": "device-fingerprinting-pro",
+  "version": "2.2.3",
+  "summary": "Hardware device fingerprinting with post-quantum cryptography, TPM support, and ML-based anomaly detection",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "device_fingerprinting_pro-2.2.3.tar.gz",
+  "download_time": "2026-01-18T07:42:16.008125",
+  "package_url": "https://pypi.org/project/device-fingerprinting-pro/"
+}

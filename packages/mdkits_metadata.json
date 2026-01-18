@@ -1,11 +1,11 @@
 {
   "name": "mdkits",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "summary": "kits for md or dft",
   "author": "jxxcr",
   "license": "MIT",
   "home_page": "https://github.com/jxxcr/mdkits",
-  "download_filename": "mdkits-1.2.4.tar.gz",
-  "download_time": "2026-01-18T05:50:21.514902",
+  "download_filename": "mdkits-1.2.5.tar.gz",
+  "download_time": "2026-01-18T07:42:28.369859",
   "package_url": "https://pypi.org/project/mdkits/"
 }
