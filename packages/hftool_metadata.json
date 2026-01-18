@@ -1,0 +1,11 @@
+{
+  "name": "hftool",
+  "version": "0.5.0",
+  "summary": "A CLI for Hugging Face models: text-to-image, text-to-video, TTS, ASR, and more.",
+  "author": null,
+  "license": "MIT License",
+  "home_page": null,
+  "download_filename": "hftool-0.5.0.tar.gz",
+  "download_time": "2026-01-18T03:30:26.507555",
+  "package_url": "https://pypi.org/project/hftool/"
+}

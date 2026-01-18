@@ -1,0 +1,11 @@
+{
+  "name": "lightwave-core",
+  "version": "0.3.2",
+  "summary": "Shared Django utilities for LightWave Media projects",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "lightwave_core-0.3.2.tar.gz",
+  "download_time": "2026-01-18T03:30:30.137085",
+  "package_url": "https://pypi.org/project/lightwave-core/"
+}

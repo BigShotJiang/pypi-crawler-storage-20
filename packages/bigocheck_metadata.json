@@ -1,0 +1,11 @@
+{
+  "name": "bigocheck",
+  "version": "0.2.0",
+  "summary": "Zero-dependency empirical Big-O complexity checker for Python with CLI, assertions, and pytest integration",
+  "author": "gadwant",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "bigocheck-0.2.0.tar.gz",
+  "download_time": "2026-01-18T03:30:24.936935",
+  "package_url": "https://pypi.org/project/bigocheck/"
+}

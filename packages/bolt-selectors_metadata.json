@@ -1,0 +1,11 @@
+{
+  "name": "bolt-selectors",
+  "version": "0.4.0",
+  "summary": "A library that allows selectors to be manipulated in a pythonic way",
+  "author": "TheNuclearNexus",
+  "license": null,
+  "home_page": null,
+  "download_filename": "bolt_selectors-0.4.0.tar.gz",
+  "download_time": "2026-01-18T03:30:01.322670",
+  "package_url": "https://pypi.org/project/bolt-selectors/"
+}

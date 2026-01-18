@@ -1,11 +1,11 @@
 {
   "name": "eftoolkit",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "summary": "A streamlined Python toolkit for everyday programming tasks and utilities",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "eftoolkit-1.1.1.tar.gz",
-  "download_time": "2026-01-18T01:43:12.900157",
+  "download_filename": "eftoolkit-2.0.0.tar.gz",
+  "download_time": "2026-01-18T03:30:04.472997",
   "package_url": "https://pypi.org/project/eftoolkit/"
 }

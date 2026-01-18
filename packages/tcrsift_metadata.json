@@ -1,0 +1,11 @@
+{
+  "name": "tcrsift",
+  "version": "0.2.0",
+  "summary": "T-cell receptor selection for TCR-T studies from antigen specific culture and scRNA/VDJ sequencing",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tcrsift-0.2.0.tar.gz",
+  "download_time": "2026-01-18T03:30:38.417849",
+  "package_url": "https://pypi.org/project/tcrsift/"
+}

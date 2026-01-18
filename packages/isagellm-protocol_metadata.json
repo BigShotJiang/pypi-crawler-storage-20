@@ -1,0 +1,11 @@
+{
+  "name": "isagellm-protocol",
+  "version": "0.1.0.1",
+  "summary": "sageLLM protocol types and validation (Protocol v0.1)",
+  "author": "IntelliStream Team",
+  "license": "Proprietary - IntelliStream",
+  "home_page": null,
+  "download_filename": "isagellm_protocol-0.1.0.1-cp311-none-any.whl",
+  "download_time": "2026-01-18T03:30:16.686360",
+  "package_url": "https://pypi.org/project/isagellm-protocol/"
+}

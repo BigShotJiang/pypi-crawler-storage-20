@@ -1,11 +1,11 @@
 {
   "name": "jl-ecms-server",
-  "version": "0.27.0",
+  "version": "0.29.0",
   "summary": "MIRIX Server - Multi-Agent Personal Assistant with Advanced Memory System",
   "author": "Mirix AI",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/Mirix-AI/MIRIX",
-  "download_filename": "jl_ecms_server-0.27.0.tar.gz",
-  "download_time": "2026-01-18T01:42:53.210877",
+  "download_filename": "jl_ecms_server-0.29.0.tar.gz",
+  "download_time": "2026-01-18T03:30:22.882541",
   "package_url": "https://pypi.org/project/jl-ecms-server/"
 }
