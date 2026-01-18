@@ -1,0 +1,11 @@
+{
+  "name": "django-item-messages",
+  "version": "0.2",
+  "summary": "Render item specific messages in the changelist view of the Django admin backend.",
+  "author": "Thomas Leichtfuß",
+  "license": "BSD License",
+  "home_page": "https://github.com/thomst/django-item-messages",
+  "download_filename": "django_item_messages-0.2.tar.gz",
+  "download_time": "2026-01-18T12:37:16.922132",
+  "package_url": "https://pypi.org/project/django-item-messages/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "satharmony",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "summary": "Sensor emulation and harmonization for Earth Observation (Sentinel-2 → Landsat MSS).",
   "author": "Julio Contreras",
   "license": "MIT",
   "home_page": "https://github.com/IPL-UV/satharmony",
-  "download_filename": "satharmony-0.1.7.tar.gz",
-  "download_time": "2026-01-18T08:26:08.269455",
+  "download_filename": "satharmony-0.1.8.tar.gz",
+  "download_time": "2026-01-18T12:37:41.430180",
   "package_url": "https://pypi.org/project/satharmony/"
 }

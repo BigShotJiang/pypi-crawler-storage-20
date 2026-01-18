@@ -1,0 +1,11 @@
+{
+  "name": "bodhi-messages",
+  "version": "25.11.3",
+  "summary": "JSON schema for messages sent by Bodhi",
+  "author": "Fedora Infrastructure Team",
+  "license": "GPL-2.0-or-later",
+  "home_page": null,
+  "download_filename": "bodhi_messages-25.11.3.tar.gz",
+  "download_time": "2026-01-18T12:37:47.066077",
+  "package_url": "https://pypi.org/project/bodhi-messages/"
+}

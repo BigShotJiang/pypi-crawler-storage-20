@@ -1,0 +1,11 @@
+{
+  "name": "veriafy",
+  "version": "1.0.0",
+  "summary": "VERIAFY - AI Content Moderation CLI",
+  "author": "Joss Bittner",
+  "license": "Proprietary",
+  "home_page": "https://veriafy.ai",
+  "download_filename": "veriafy-1.0.0-py3-none-any.whl",
+  "download_time": "2026-01-18T12:37:27.148909",
+  "package_url": "https://pypi.org/project/veriafy/"
+}

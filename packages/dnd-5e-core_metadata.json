@@ -1,11 +1,11 @@
 {
   "name": "dnd-5e-core",
-  "version": "0.1.9",
-  "summary": "Complete D&D 5e Rules Engine: Official encounter tables, gold rewards, 332 monsters, 319 spells, standalone loaders. 100% offline, UI-agnostic.",
+  "version": "0.2.1",
+  "summary": "Complete D&D 5e Rules Engine with Magic Items, Defensive Spells & Conditions: 332 monsters, 319+ spells, combat conditions, treasure system. 100% offline.",
   "author": "D&D Development Team",
   "license": "MIT",
   "home_page": "https://github.com/codingame-team/dnd-5e-core",
-  "download_filename": "dnd_5e_core-0.1.9.tar.gz",
-  "download_time": "2026-01-17T18:27:47.992023",
+  "download_filename": "dnd_5e_core-0.2.1.tar.gz",
+  "download_time": "2026-01-18T12:37:40.919888",
   "package_url": "https://pypi.org/project/dnd-5e-core/"
 }

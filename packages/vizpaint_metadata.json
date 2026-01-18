@@ -1,11 +1,11 @@
 {
   "name": "vizpaint",
-  "version": "0.1.0",
-  "summary": "A comprehensive data visualization library",
-  "author": "Your Name",
+  "version": "0.1.3",
+  "summary": "A feature-rich Python visualization library with 2D/3D charts, rose plots, and an easy-to-use API built on Matplotlib.",
+  "author": "zhouxinjun",
   "license": null,
-  "home_page": null,
-  "download_filename": "vizpaint-0.1.0.tar.gz",
-  "download_time": "2026-01-17T07:51:51.756764",
+  "home_page": "https://pypi.org/project/vizpaint/",
+  "download_filename": "vizpaint-0.1.3.tar.gz",
+  "download_time": "2026-01-18T12:37:50.631256",
   "package_url": "https://pypi.org/project/vizpaint/"
 }
