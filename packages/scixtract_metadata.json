@@ -1,11 +1,11 @@
 {
   "name": "scixtract",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "AI-assisted scientific PDF text extraction using local Ollama models",
   "author": "Reto Stamm",
   "license": "GPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "scixtract-1.1.0.tar.gz",
-  "download_time": "2026-01-18T13:20:38.635129",
+  "download_filename": "scixtract-1.1.1.tar.gz",
+  "download_time": "2026-01-18T19:31:08.244633",
   "package_url": "https://pypi.org/project/scixtract/"
 }

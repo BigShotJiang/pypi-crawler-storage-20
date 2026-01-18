@@ -1,11 +1,11 @@
 {
   "name": "nicett6-pp81381",
-  "version": "0.33",
+  "version": "0.34",
   "summary": "Nice TT6 tubular motor controller APIs",
   "author": "Phil Porter",
   "license": null,
   "home_page": "https://github.com/pp81381/nicett6",
-  "download_filename": "nicett6_pp81381-0.33.tar.gz",
-  "download_time": "2026-01-12T22:45:02.089577",
+  "download_filename": "nicett6_pp81381-0.34.tar.gz",
+  "download_time": "2026-01-18T19:31:18.864665",
   "package_url": "https://pypi.org/project/nicett6-pp81381/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "skyfield",
+  "version": "1.54",
+  "summary": "Elegant astronomy for Python",
+  "author": "Brandon Rhodes",
+  "license": "MIT",
+  "home_page": "http://github.com/brandon-rhodes/python-skyfield/",
+  "download_filename": "skyfield-1.54.tar.gz",
+  "download_time": "2026-01-18T19:31:27.282476",
+  "package_url": "https://pypi.org/project/skyfield/"
+}

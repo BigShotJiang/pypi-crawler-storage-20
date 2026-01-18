@@ -1,0 +1,11 @@
+{
+  "name": "llm-workers",
+  "version": "1.0.0rc9",
+  "summary": "Core library for experimenting with LLMs - provides configuration, workers, tools, and LLM integrations",
+  "author": "Dmitry Mikhaylov",
+  "license": null,
+  "home_page": "https://mrbagheera.github.io/llm-workers/",
+  "download_filename": "llm_workers-1.0.0rc9.tar.gz",
+  "download_time": "2026-01-18T19:31:10.341966",
+  "package_url": "https://pypi.org/project/llm-workers/"
+}

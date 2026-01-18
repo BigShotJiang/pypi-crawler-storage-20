@@ -1,11 +1,11 @@
 {
   "name": "Topsis-Manya-102303254",
-  "version": "0.1",
-  "summary": "TOPSIS Multi-Criteria Decision Making Tool",
-  "author": "Manya Garg",
+  "version": "0.1.1",
+  "summary": "TOPSIS command line tool for MCDM problems.",
+  "author": null,
   "license": null,
-  "home_page": "https://github.com/yourusername/Topsis-Manya-102303254",
-  "download_filename": "topsis_manya_102303254-0.1.tar.gz",
-  "download_time": "2026-01-18T17:18:14.523300",
+  "home_page": null,
+  "download_filename": "topsis_manya_102303254-0.1.1-py3-none-any.whl",
+  "download_time": "2026-01-18T19:31:02.181825",
   "package_url": "https://pypi.org/project/Topsis-Manya-102303254/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "swiftbat",
+  "version": "0.1.6",
+  "summary": "Routines for dealing with data from BAT on the Neil Gehrels Swift Observatory",
+  "author": "David M. Palmer",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/lanl/swiftbat_python/",
+  "download_filename": "swiftbat-0.1.6.tar.gz",
+  "download_time": "2026-01-18T19:31:23.586067",
+  "package_url": "https://pypi.org/project/swiftbat/"
+}
