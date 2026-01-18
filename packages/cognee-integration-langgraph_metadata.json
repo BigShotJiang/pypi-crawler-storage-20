@@ -1,0 +1,11 @@
+{
+  "name": "cognee-integration-langgraph",
+  "version": "0.1.7",
+  "summary": "A powerful integration between LangGraph and Cognee providing intelligent knowledge management and retrieval capabilities for AI agents",
+  "author": "Cognee team",
+  "license": null,
+  "home_page": "https://github.com/topoteretes/cognee-integration-langgraph",
+  "download_filename": "cognee_integration_langgraph-0.1.7.tar.gz",
+  "download_time": "2026-01-18T14:19:29.670363",
+  "package_url": "https://pypi.org/project/cognee-integration-langgraph/"
+}

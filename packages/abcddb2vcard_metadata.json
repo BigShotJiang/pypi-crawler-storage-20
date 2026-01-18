@@ -1,0 +1,11 @@
+{
+  "name": "abcddb2vcard",
+  "version": "1.2.2",
+  "summary": "Convert AddressBook database (.abcddb) to Contacts VCards file (.vcf)",
+  "author": "relikd",
+  "license": "MIT",
+  "home_page": "https://github.com/relikd/abcddb2vcard",
+  "download_filename": "abcddb2vcard-1.2.2.tar.gz",
+  "download_time": "2026-01-18T14:19:30.242227",
+  "package_url": "https://pypi.org/project/abcddb2vcard/"
+}

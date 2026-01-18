@@ -1,0 +1,11 @@
+{
+  "name": "omymodels",
+  "version": "1.0.0",
+  "summary": "O! My Models (omymodels) is a library to generate Python Models for SQLAlchemy (ORM & Core), SQLModel, GinoORM, Pydantic, Pydal tables & Python Dataclasses from SQL DDL. And convert one models to another.",
+  "author": "Iuliia Volkova",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "omymodels-1.0.0.tar.gz",
+  "download_time": "2026-01-18T14:19:27.084509",
+  "package_url": "https://pypi.org/project/omymodels/"
+}

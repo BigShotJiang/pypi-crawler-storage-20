@@ -1,11 +1,11 @@
 {
   "name": "mi-mtts",
-  "version": "1.0.2.post2",
+  "version": "1.0.3.post1",
   "summary": "MAICA MTTS (Backend)",
   "author": "EdgeInfinity",
   "license": null,
   "home_page": "https://github.com/Mon1-innovation/MAICA-MTTS",
-  "download_filename": "mi_mtts-1.0.2.post2.tar.gz",
-  "download_time": "2026-01-15T04:59:46.829483",
+  "download_filename": "mi_mtts-1.0.3.post1.tar.gz",
+  "download_time": "2026-01-18T14:19:31.902410",
   "package_url": "https://pypi.org/project/mi-mtts/"
 }

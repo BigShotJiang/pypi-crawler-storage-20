@@ -1,11 +1,11 @@
 {
   "name": "export_to_obsidian",
-  "version": "0.3.25.1",
+  "version": "0.3.25.2",
   "summary": "A tool to export all you need to obsidian",
   "author": "hx",
   "license": "AGPL-3.0",
   "home_page": "https://github.com/bGZo/playground/tree/2025/07/export-to-obsidian",
-  "download_filename": "export_to_obsidian-0.3.25.1.tar.gz",
-  "download_time": "2026-01-18T13:49:38.622018",
+  "download_filename": "export_to_obsidian-0.3.25.2.tar.gz",
+  "download_time": "2026-01-18T14:19:29.160642",
   "package_url": "https://pypi.org/project/export_to_obsidian/"
 }

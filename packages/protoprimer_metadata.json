@@ -1,0 +1,11 @@
+{
+  "name": "protoprimer",
+  "version": "0.5.1",
+  "summary": "Easy-to-use [single-touch, zero-args, self-contained, no-deps, cross-platform] bootstrap app & lib that escapes from pre-venv shell scripts to testable pure Python early-init logic, where an extensible DAG provisions a fully configured, isolated, per-repository environment",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "protoprimer-0.5.1.tar.gz",
+  "download_time": "2026-01-18T14:19:33.447698",
+  "package_url": "https://pypi.org/project/protoprimer/"
+}

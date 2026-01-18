@@ -1,11 +1,11 @@
 {
   "name": "xcpcio",
-  "version": "0.82.1",
+  "version": "0.82.2",
   "summary": "xcpcio python lib",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "xcpcio-0.82.1.tar.gz",
-  "download_time": "2026-01-18T01:43:19.749598",
+  "download_filename": "xcpcio-0.82.2.tar.gz",
+  "download_time": "2026-01-18T14:19:39.000180",
   "package_url": "https://pypi.org/project/xcpcio/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "comfy-headless",
+  "version": "2.5.1",
+  "summary": "Production-ready headless client for ComfyUI with AI-powered prompt intelligence, video generation, and modular architecture",
+  "author": "Mikey Frilot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "comfy_headless-2.5.1.tar.gz",
+  "download_time": "2026-01-18T14:19:19.225501",
+  "package_url": "https://pypi.org/project/comfy-headless/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "bongram",
+  "version": "0.1.0",
+  "summary": "Фреймворк для мгновенного создания Telegram-ботов на готовых шаблонах",
+  "author": "Triazov Kirill",
+  "license": null,
+  "home_page": "https://github.com/THWEDOKA/bongram",
+  "download_filename": "bongram-0.1.0.tar.gz",
+  "download_time": "2026-01-18T14:19:12.813509",
+  "package_url": "https://pypi.org/project/bongram/"
+}

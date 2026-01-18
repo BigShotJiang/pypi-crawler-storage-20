@@ -1,0 +1,11 @@
+{
+  "name": "pillowstrap",
+  "version": "1.0.0",
+  "summary": "A Bootstrap-like semantic wrapper for Python Pillow",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/pillowstrap",
+  "download_filename": "pillowstrap-1.0.0.tar.gz",
+  "download_time": "2026-01-18T14:19:02.077173",
+  "package_url": "https://pypi.org/project/pillowstrap/"
+}
