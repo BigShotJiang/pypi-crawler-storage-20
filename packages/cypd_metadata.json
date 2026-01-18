@@ -1,0 +1,11 @@
+{
+  "name": "cypd",
+  "version": "0.1.0",
+  "summary": "A Cython wrapper for libpd (Pure Data) with built-in audio support",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cypd-0.1.0-cp310-cp310-macosx_15_0_arm64.whl",
+  "download_time": "2026-01-18T22:56:36.611105",
+  "package_url": "https://pypi.org/project/cypd/"
+}
