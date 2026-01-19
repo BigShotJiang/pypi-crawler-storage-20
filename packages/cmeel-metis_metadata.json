@@ -1,0 +1,11 @@
+{
+  "name": "cmeel-metis",
+  "version": "5.2.1.1",
+  "summary": "cmeel distribution for METIS",
+  "author": null,
+  "license": null,
+  "home_page": "https://github.com/cmake-wheel/cmeel-metis",
+  "download_filename": "cmeel_metis-5.2.1.1.tar.gz",
+  "download_time": "2026-01-19T12:46:33.127975",
+  "package_url": "https://pypi.org/project/cmeel-metis/"
+}

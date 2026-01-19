@@ -1,0 +1,11 @@
+{
+  "name": "slthcore",
+  "version": "0.7.9",
+  "summary": "API generator based on yml file",
+  "author": "Breno Silva",
+  "license": "BSD License",
+  "home_page": "https://github.com/brenokcc",
+  "download_filename": "slthcore-0.7.9.tar.gz",
+  "download_time": "2026-01-19T12:46:46.783316",
+  "package_url": "https://pypi.org/project/slthcore/"
+}

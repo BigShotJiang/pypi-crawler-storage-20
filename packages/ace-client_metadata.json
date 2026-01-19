@@ -1,11 +1,11 @@
 {
   "name": "ace-client",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "CLI型AIエージェントACEをPythonから簡単に利用するためのラッパーライブラリ",
   "author": "Kurusugawa Computer",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "ace_client-0.1.1.tar.gz",
-  "download_time": "2026-01-19T11:57:41.914103",
+  "download_filename": "ace_client-0.1.2.tar.gz",
+  "download_time": "2026-01-19T12:46:19.156879",
   "package_url": "https://pypi.org/project/ace-client/"
 }

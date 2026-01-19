@@ -1,0 +1,11 @@
+{
+  "name": "proteas",
+  "version": "0.0.5",
+  "summary": "A module to create prompt templates dynamically",
+  "author": "Enes Kuzucu",
+  "license": null,
+  "home_page": "https://github.com/your_username/proteas",
+  "download_filename": "proteas-0.0.5.tar.gz",
+  "download_time": "2026-01-19T12:46:18.646517",
+  "package_url": "https://pypi.org/project/proteas/"
+}

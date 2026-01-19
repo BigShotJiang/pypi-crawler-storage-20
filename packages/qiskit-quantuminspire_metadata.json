@@ -1,0 +1,11 @@
+{
+  "name": "qiskit-quantuminspire",
+  "version": "0.16.0",
+  "summary": "Qiskit provider for Quantum Inspire backends ",
+  "author": "Quantum Inspire",
+  "license": null,
+  "home_page": "https://www.quantum-inspire.com",
+  "download_filename": "qiskit_quantuminspire-0.16.0.tar.gz",
+  "download_time": "2026-01-19T12:46:23.827910",
+  "package_url": "https://pypi.org/project/qiskit-quantuminspire/"
+}

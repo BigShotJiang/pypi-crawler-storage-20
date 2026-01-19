@@ -1,11 +1,11 @@
 {
   "name": "skolemizer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "summary": "A library with utils for performing Skolemization on blank nodes (RDF)",
   "author": "Stig B. Dørmænen",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Informasjonsforvaltning/skolemizer",
-  "download_filename": "skolemizer-2.0.0.tar.gz",
-  "download_time": "2026-01-19T11:48:10.805045",
+  "download_filename": "skolemizer-2.0.1.tar.gz",
+  "download_time": "2026-01-19T12:46:32.617685",
   "package_url": "https://pypi.org/project/skolemizer/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "mnemosynecore",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "summary": "Internal analytics toolkit for data pipelines",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "mnemosynecore-0.1.5-py3-none-any.whl",
-  "download_time": "2026-01-19T08:41:39.214452",
+  "download_filename": "mnemosynecore-0.1.7-py3-none-any.whl",
+  "download_time": "2026-01-19T12:46:09.369502",
   "package_url": "https://pypi.org/project/mnemosynecore/"
 }
