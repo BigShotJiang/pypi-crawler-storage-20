@@ -1,0 +1,11 @@
+{
+  "name": "mysqlengine",
+  "version": "1.1.4",
+  "summary": "A Cython-Accelerated, Pythonic MySQL ORM & Query Builder",
+  "author": "Jiefu Chen",
+  "license": "MIT license",
+  "home_page": "https://github.com/AresJef/MysqlEngine",
+  "download_filename": "mysqlengine-1.1.4.tar.gz",
+  "download_time": "2026-01-19T05:22:49.706292",
+  "package_url": "https://pypi.org/project/mysqlengine/"
+}

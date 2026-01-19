@@ -1,11 +1,11 @@
 {
   "name": "bloggy",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "summary": "A lightweight, elegant blogging platform built with FastHTML",
   "author": "Yeshwanth",
   "license": "Apache-2.0",
   "home_page": "https://github.com/yeshwanth/bloggy",
-  "download_filename": "bloggy-0.2.7.tar.gz",
-  "download_time": "2026-01-17T05:31:37.214092",
+  "download_filename": "bloggy-0.2.8.tar.gz",
+  "download_time": "2026-01-19T05:22:55.103461",
   "package_url": "https://pypi.org/project/bloggy/"
 }

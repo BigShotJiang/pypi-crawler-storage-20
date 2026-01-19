@@ -1,11 +1,11 @@
 {
   "name": "pystatsv1",
-  "version": "0.22.0",
+  "version": "0.22.1",
   "summary": "PyStatsV1: applied statistics labs in Python.",
   "author": "PyStatsV1 contributors",
   "license": null,
   "home_page": null,
-  "download_filename": "pystatsv1-0.22.0.tar.gz",
-  "download_time": "2026-01-18T08:25:56.936761",
+  "download_filename": "pystatsv1-0.22.1.tar.gz",
+  "download_time": "2026-01-19T05:22:32.841228",
   "package_url": "https://pypi.org/project/pystatsv1/"
 }

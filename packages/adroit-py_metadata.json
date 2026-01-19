@@ -1,0 +1,11 @@
+{
+  "name": "adroit-py",
+  "version": "0.1.0",
+  "summary": "Lightweight Python wrapper for Adroit OLE server",
+  "author": "Diego Acuña",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "adroit_py-0.1.0.tar.gz",
+  "download_time": "2026-01-19T05:22:20.774077",
+  "package_url": "https://pypi.org/project/adroit-py/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sentinel-csrf",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "summary": "A verification-driven CSRF exploitation assistant for VAPT teams",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sentinel_csrf-1.0.7.tar.gz",
-  "download_time": "2026-01-18T05:01:10.583032",
+  "download_filename": "sentinel_csrf-1.0.8.tar.gz",
+  "download_time": "2026-01-19T05:22:32.301995",
   "package_url": "https://pypi.org/project/sentinel-csrf/"
 }

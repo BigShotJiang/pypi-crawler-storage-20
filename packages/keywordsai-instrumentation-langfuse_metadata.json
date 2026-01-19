@@ -1,0 +1,11 @@
+{
+  "name": "keywordsai-instrumentation-langfuse",
+  "version": "0.1.1",
+  "summary": "OTEL-compliant instrumentation for Langfuse to send traces to Keywords AI",
+  "author": "Keywords AI",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "keywordsai_instrumentation_langfuse-0.1.1.tar.gz",
+  "download_time": "2026-01-19T05:22:48.061870",
+  "package_url": "https://pypi.org/project/keywordsai-instrumentation-langfuse/"
+}

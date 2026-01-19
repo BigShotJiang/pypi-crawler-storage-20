@@ -1,11 +1,11 @@
 {
   "name": "toy-gpt-train-300-context-2",
-  "version": "0.9.4",
+  "version": "0.9.5",
   "summary": "Toy GPT next-token prediction using a 2-token context window.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "toy_gpt_train_300_context_2-0.9.4.tar.gz",
-  "download_time": "2026-01-19T01:31:28.746825",
+  "download_filename": "toy_gpt_train_300_context_2-0.9.5.tar.gz",
+  "download_time": "2026-01-19T05:22:58.924750",
   "package_url": "https://pypi.org/project/toy-gpt-train-300-context-2/"
 }

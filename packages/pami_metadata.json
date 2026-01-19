@@ -1,0 +1,11 @@
+{
+  "name": "pami",
+  "version": "2026.1.19.1",
+  "summary": "This software is being developed at the University of Aizu, Aizu-Wakamatsu, Fukushima, Japan",
+  "author": "Rage Uday Kiran",
+  "license": "GPLv3",
+  "home_page": "https://github.com/udayLab/PAMI",
+  "download_filename": "pami-2026.1.19.1.tar.gz",
+  "download_time": "2026-01-19T05:22:29.021685",
+  "package_url": "https://pypi.org/project/pami/"
+}

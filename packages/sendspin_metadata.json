@@ -1,11 +1,11 @@
 {
   "name": "sendspin",
-  "version": "4.2.0",
+  "version": "4.2.1",
   "summary": "Synchronized audio player for Sendspin servers",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "sendspin-4.2.0.tar.gz",
-  "download_time": "2026-01-18T04:31:11.851768",
+  "download_filename": "sendspin-4.2.1.tar.gz",
+  "download_time": "2026-01-19T05:22:44.838784",
   "package_url": "https://pypi.org/project/sendspin/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "alibabacloud-websitebuild20250429",
-  "version": "2.8.2",
+  "version": "2.8.3",
   "summary": "Alibaba Cloud WebsiteBuild (20250429) SDK Library for Python",
   "author": "Alibaba Cloud SDK",
   "license": "Apache License 2.0",
   "home_page": "https://github.com/aliyun/alibabacloud-python-sdk",
-  "download_filename": "alibabacloud_websitebuild20250429-2.8.2.tar.gz",
-  "download_time": "2026-01-17T17:18:26.214391",
+  "download_filename": "alibabacloud_websitebuild20250429-2.8.3.tar.gz",
+  "download_time": "2026-01-19T05:22:54.037316",
   "package_url": "https://pypi.org/project/alibabacloud-websitebuild20250429/"
 }

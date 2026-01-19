@@ -1,0 +1,11 @@
+{
+  "name": "pfid",
+  "version": "0.1.0",
+  "summary": "PFID - A ULID-like identifier format with partition support",
+  "author": "Prefactor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pfid-0.1.0.tar.gz",
+  "download_time": "2026-01-19T05:22:27.389673",
+  "package_url": "https://pypi.org/project/pfid/"
+}
