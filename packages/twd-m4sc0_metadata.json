@@ -1,11 +1,11 @@
 {
   "name": "twd-m4sc0",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "summary": "TWD by m4sc0",
   "author": "m4sc0",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "twd_m4sc0-3.0.2.tar.gz",
-  "download_time": "2026-01-18T13:20:27.316621",
+  "download_filename": "twd_m4sc0-3.0.3.tar.gz",
+  "download_time": "2026-01-19T01:31:50.955684",
   "package_url": "https://pypi.org/project/twd-m4sc0/"
 }

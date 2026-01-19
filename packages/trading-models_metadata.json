@@ -1,11 +1,11 @@
 {
   "name": "trading-models",
-  "version": "0.3.5",
+  "version": "0.3.7",
   "summary": "MLP, CNN, Transformer models for time-series trading predictions.",
   "author": "Ricky Ding",
   "license": "MIT",
   "home_page": "https://github.com/SerenaTradingResearch/trading-models",
-  "download_filename": "trading_models-0.3.5.tar.gz",
-  "download_time": "2026-01-17T13:20:38.202609",
+  "download_filename": "trading_models-0.3.7.tar.gz",
+  "download_time": "2026-01-19T01:31:24.462850",
   "package_url": "https://pypi.org/project/trading-models/"
 }

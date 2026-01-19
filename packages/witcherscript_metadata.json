@@ -1,0 +1,11 @@
+{
+  "name": "witcherscript",
+  "version": "1.2.1",
+  "summary": "A programming language inspired by The Witcher 3: Wild Hunt",
+  "author": "WitcherScript Contributors",
+  "license": null,
+  "home_page": "https://github.com/rwnicholas/WitcherScript",
+  "download_filename": "witcherscript-1.2.1.tar.gz",
+  "download_time": "2026-01-19T01:31:33.646771",
+  "package_url": "https://pypi.org/project/witcherscript/"
+}

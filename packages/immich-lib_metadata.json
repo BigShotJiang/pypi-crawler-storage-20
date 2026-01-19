@@ -1,0 +1,11 @@
+{
+  "name": "immich-lib",
+  "version": "0.2.0",
+  "summary": "A Python library and CLI tool for interacting with Immich",
+  "author": "guanana",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "immich_lib-0.2.0.tar.gz",
+  "download_time": "2026-01-19T01:31:58.738759",
+  "package_url": "https://pypi.org/project/immich-lib/"
+}

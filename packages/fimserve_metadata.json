@@ -1,11 +1,11 @@
 {
   "name": "fimserve",
-  "version": "0.1.90",
+  "version": "0.1.91",
   "summary": "Framework which is developed with the purpose of quickly generating Flood Inundation Maps (FIM) for emergency response and risk assessment. It is developed under Surface Dynamics Modeling Lab (SDML).",
   "author": null,
   "license": "GPL-3.0",
   "home_page": null,
-  "download_filename": "fimserve-0.1.90-py3-none-any.whl",
-  "download_time": "2026-01-18T04:31:49.007636",
+  "download_filename": "fimserve-0.1.91.tar.gz",
+  "download_time": "2026-01-19T01:31:39.422168",
   "package_url": "https://pypi.org/project/fimserve/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "cascade-lattice",
-  "version": "0.6.0",
+  "version": "0.6.2",
   "summary": "Universal AI provenance layer — cryptographic receipts for every call, HOLD inference halt protocol, and code diagnostics",
   "author": "Jeff Towers",
   "license": null,
   "home_page": null,
-  "download_filename": "cascade_lattice-0.6.0.tar.gz",
-  "download_time": "2026-01-13T19:00:45.107090",
+  "download_filename": "cascade_lattice-0.6.2.tar.gz",
+  "download_time": "2026-01-19T01:32:01.847677",
   "package_url": "https://pypi.org/project/cascade-lattice/"
 }
