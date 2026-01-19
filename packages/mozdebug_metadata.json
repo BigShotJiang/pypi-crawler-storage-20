@@ -1,0 +1,11 @@
+{
+  "name": "mozdebug",
+  "version": "0.4.0",
+  "summary": "Utilities for running applications under native code debuggers intended for use in Mozilla testing",
+  "author": "Mozilla Automation and Testing Team",
+  "license": "MPL",
+  "home_page": "https://wiki.mozilla.org/Auto-tools/Projects/Mozbase",
+  "download_filename": "mozdebug-0.4.0.tar.gz",
+  "download_time": "2026-01-19T09:08:21.300206",
+  "package_url": "https://pypi.org/project/mozdebug/"
+}

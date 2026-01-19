@@ -1,0 +1,11 @@
+{
+  "name": "otel-analyzer-mcp",
+  "version": "0.1.1",
+  "summary": "MCP server for analyzing OpenTelemetry traces",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "otel_analyzer_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-19T09:08:03.773398",
+  "package_url": "https://pypi.org/project/otel-analyzer-mcp/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "flask-openapi-elements",
+  "version": "9.0.15",
+  "summary": "Provide Stoplight Elements UI for flask-openapi.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_openapi_elements-9.0.15.tar.gz",
+  "download_time": "2026-01-19T09:07:56.272570",
+  "package_url": "https://pypi.org/project/flask-openapi-elements/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "whatsapp-toolkit",
-  "version": "1.8.5",
+  "version": "1.9.0",
   "summary": "Una biblioteca para interactuar con la API de WhatsApp desde Python usando Evolution API",
   "author": "Fernando Leon Franco",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "whatsapp_toolkit-1.8.5.tar.gz",
-  "download_time": "2026-01-19T08:41:49.125492",
+  "download_filename": "whatsapp_toolkit-1.9.0.tar.gz",
+  "download_time": "2026-01-19T09:07:45.760707",
   "package_url": "https://pypi.org/project/whatsapp-toolkit/"
 }

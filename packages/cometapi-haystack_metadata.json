@@ -1,0 +1,11 @@
+{
+  "name": "cometapi-haystack",
+  "version": "2.0.1",
+  "summary": "Use Comet API with Haystack to build AI applications with 500+ AI models.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cometapi_haystack-2.0.1.tar.gz",
+  "download_time": "2026-01-19T09:08:20.725287",
+  "package_url": "https://pypi.org/project/cometapi-haystack/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "scanix",
+  "version": "2.0.0",
+  "summary": "⚡ Fast and powerful static code security scanner - Détecte 25+ vulnérabilités OWASP",
+  "author": "Riyad ODJOUADE",
+  "license": "MIT",
+  "home_page": "https://github.com/Ore2025/scanix",
+  "download_filename": "scanix-2.0.0.tar.gz",
+  "download_time": "2026-01-19T09:07:46.382801",
+  "package_url": "https://pypi.org/project/scanix/"
+}

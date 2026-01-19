@@ -1,0 +1,11 @@
+{
+  "name": "flask-openapi-rapipdf",
+  "version": "2.2.1",
+  "summary": "Provide RapiPDF UI for flask-openapi.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_openapi_rapipdf-2.2.1.tar.gz",
+  "download_time": "2026-01-19T09:07:53.948160",
+  "package_url": "https://pypi.org/project/flask-openapi-rapipdf/"
+}

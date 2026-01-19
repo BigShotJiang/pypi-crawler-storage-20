@@ -1,0 +1,11 @@
+{
+  "name": "salt-bundle",
+  "version": "1.0.3",
+  "summary": "Salt package manager prototype",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "salt_bundle-1.0.3.tar.gz",
+  "download_time": "2026-01-19T09:08:15.480723",
+  "package_url": "https://pypi.org/project/salt-bundle/"
+}

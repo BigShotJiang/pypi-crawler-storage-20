@@ -1,0 +1,11 @@
+{
+  "name": "envgd",
+  "version": "0.1.2",
+  "summary": "Safe Environment Variable Loader",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "envgd-0.1.2.tar.gz",
+  "download_time": "2026-01-19T09:08:02.592062",
+  "package_url": "https://pypi.org/project/envgd/"
+}
