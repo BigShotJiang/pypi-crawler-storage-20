@@ -1,11 +1,11 @@
 {
   "name": "pyFroniusReg",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "summary": "A library to make interacting with Fronius inverters and storage systems simpler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pyfroniusreg-0.2.2.tar.gz",
-  "download_time": "2026-01-19T04:39:29.253064",
+  "download_filename": "pyfroniusreg-0.2.3.tar.gz",
+  "download_time": "2026-01-19T05:57:06.753791",
   "package_url": "https://pypi.org/project/pyFroniusReg/"
 }

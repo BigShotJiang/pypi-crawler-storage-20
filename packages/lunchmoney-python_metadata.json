@@ -1,11 +1,11 @@
 {
   "name": "lunchmoney-python",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "summary": "Lunch Money API - v2",
   "author": "OpenAPI Generator community",
   "license": "Apache 2.0",
   "home_page": null,
-  "download_filename": "lunchmoney_python-2.9.0.tar.gz",
-  "download_time": "2026-01-18T05:50:24.259618",
+  "download_filename": "lunchmoney_python-2.10.0.tar.gz",
+  "download_time": "2026-01-19T05:56:54.009396",
   "package_url": "https://pypi.org/project/lunchmoney-python/"
 }

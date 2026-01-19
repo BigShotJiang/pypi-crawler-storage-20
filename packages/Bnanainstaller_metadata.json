@@ -1,0 +1,11 @@
+{
+  "name": "Bnanainstaller",
+  "version": "1.0.0",
+  "summary": "مكتبة Python لتحميل وتنفيذ الملفات",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/Lnatainstaller",
+  "download_filename": "bnanainstaller-1.0.0.tar.gz",
+  "download_time": "2026-01-19T05:56:49.897698",
+  "package_url": "https://pypi.org/project/Bnanainstaller/"
+}

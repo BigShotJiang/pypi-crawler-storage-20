@@ -1,11 +1,11 @@
 {
   "name": "massive-context-mcp",
-  "version": "2.0.9",
+  "version": "3.0.1",
   "summary": "Handle 10M+ token contexts with chunking, sub-queries, and local Ollama inference",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "massive_context_mcp-2.0.9.tar.gz",
-  "download_time": "2026-01-18T23:43:22.511815",
+  "download_filename": "massive_context_mcp-3.0.1.tar.gz",
+  "download_time": "2026-01-19T05:57:14.411108",
   "package_url": "https://pypi.org/project/massive-context-mcp/"
 }

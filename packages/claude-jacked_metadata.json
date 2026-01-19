@@ -1,0 +1,11 @@
+{
+  "name": "claude-jacked",
+  "version": "0.1.0",
+  "summary": "Cross-machine semantic search for Claude Code sessions",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "claude_jacked-0.1.0.tar.gz",
+  "download_time": "2026-01-19T05:57:18.193915",
+  "package_url": "https://pypi.org/project/claude-jacked/"
+}

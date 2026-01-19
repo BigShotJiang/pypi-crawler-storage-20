@@ -1,0 +1,11 @@
+{
+  "name": "plover-python-dictionary",
+  "version": "1.2.1",
+  "summary": "Python dictionaries support for Plover",
+  "author": "Benoit Pierre",
+  "license": "GNU General Public License v2 or later (GPLv2+)",
+  "home_page": "https://github.com/benoit-pierre/plover_python_dictionary",
+  "download_filename": "plover_python_dictionary-1.2.1.tar.gz",
+  "download_time": "2026-01-19T05:57:07.296723",
+  "package_url": "https://pypi.org/project/plover-python-dictionary/"
+}

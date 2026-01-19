@@ -1,11 +1,11 @@
 {
   "name": "uipath-dev",
-  "version": "0.0.16",
+  "version": "0.0.17",
   "summary": "UiPath Developer Console",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "uipath_dev-0.0.16.tar.gz",
-  "download_time": "2026-01-15T07:45:36.480423",
+  "download_filename": "uipath_dev-0.0.17.tar.gz",
+  "download_time": "2026-01-19T05:56:46.075622",
   "package_url": "https://pypi.org/project/uipath-dev/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "torchfbm",
+  "version": "0.3.0",
+  "summary": "High-performance Fractional Brownian Motion toolkit for PyTorch",
+  "author": "Ivan Habib",
+  "license": "MIT",
+  "home_page": "https://github.com/i-habib/torchfbm",
+  "download_filename": "torchfbm-0.3.0.tar.gz",
+  "download_time": "2026-01-19T05:56:58.721064",
+  "package_url": "https://pypi.org/project/torchfbm/"
+}
