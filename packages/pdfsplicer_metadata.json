@@ -1,0 +1,11 @@
+{
+  "name": "pdfsplicer",
+  "version": "0.0.2",
+  "summary": "A simple CLI to edit PDFs",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "pdfsplicer-0.0.2.tar.gz",
+  "download_time": "2026-01-19T07:09:16.433674",
+  "package_url": "https://pypi.org/project/pdfsplicer/"
+}

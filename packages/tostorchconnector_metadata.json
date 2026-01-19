@@ -1,0 +1,11 @@
+{
+  "name": "tostorchconnector",
+  "version": "1.1.10",
+  "summary": "TOS connector integration for PyTorch",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "tostorchconnector-1.1.10.tar.gz",
+  "download_time": "2026-01-19T07:09:19.561877",
+  "package_url": "https://pypi.org/project/tostorchconnector/"
+}

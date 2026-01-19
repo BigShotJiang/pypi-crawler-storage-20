@@ -1,11 +1,11 @@
 {
   "name": "git-commit-summary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "A powerful CLI tool to summarize git commits with rich visual feedback.",
   "author": "Sai Annam",
   "license": null,
   "home_page": "https://github.com/otaku0304/git-commit-summary",
-  "download_filename": "git_commit_summary-1.0.0.tar.gz",
-  "download_time": "2026-01-17T22:45:09.770622",
+  "download_filename": "git_commit_summary-1.0.1.tar.gz",
+  "download_time": "2026-01-19T07:09:45.383853",
   "package_url": "https://pypi.org/project/git-commit-summary/"
 }

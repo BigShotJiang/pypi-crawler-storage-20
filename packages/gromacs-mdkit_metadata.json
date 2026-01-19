@@ -1,0 +1,11 @@
+{
+  "name": "gromacs-mdkit",
+  "version": "1.0.0",
+  "summary": "A molecular dynamics preprocessing toolkit for GROMACS",
+  "author": "Pengcheng Li",
+  "license": "MIT",
+  "home_page": "https://github.com/yourusername/gromacs-mdkit",
+  "download_filename": "gromacs_mdkit-1.0.0.tar.gz",
+  "download_time": "2026-01-19T07:09:28.277271",
+  "package_url": "https://pypi.org/project/gromacs-mdkit/"
+}

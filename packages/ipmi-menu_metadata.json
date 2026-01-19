@@ -1,0 +1,11 @@
+{
+  "name": "ipmi-menu",
+  "version": "1.0.3",
+  "summary": "Interactive ipmitool menu",
+  "author": "Florian THIERCELIN",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "ipmi_menu-1.0.3.tar.gz",
+  "download_time": "2026-01-19T07:09:32.954501",
+  "package_url": "https://pypi.org/project/ipmi-menu/"
+}

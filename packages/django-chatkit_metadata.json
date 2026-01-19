@@ -1,11 +1,11 @@
 {
   "name": "django-chatkit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A pluggable real-time chat app for Django (Channels) with multi-file uploads and light/dark UI.",
   "author": null,
-  "license": "BSD-3-Clause",
+  "license": null,
   "home_page": null,
-  "download_filename": "django_chatkit-0.1.0.tar.gz",
-  "download_time": "2026-01-19T06:37:32.775814",
+  "download_filename": "django_chatkit-0.1.1.tar.gz",
+  "download_time": "2026-01-19T07:09:15.921170",
   "package_url": "https://pypi.org/project/django-chatkit/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "fakecbed",
+  "version": "0.5.3",
+  "summary": "A Python library for generating quickly images that imitate convergent beam electron diffraction patterns.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "fakecbed-0.5.3.tar.gz",
+  "download_time": "2026-01-19T07:09:19.043645",
+  "package_url": "https://pypi.org/project/fakecbed/"
+}

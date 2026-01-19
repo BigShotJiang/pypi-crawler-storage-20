@@ -1,11 +1,11 @@
 {
   "name": "outerbounds",
-  "version": "0.11.6",
+  "version": "0.11.7",
   "summary": "More Data Science, Less Administration",
   "author": "Outerbounds, Inc.",
   "license": "Proprietary",
   "home_page": null,
-  "download_filename": "outerbounds-0.11.6-py3-none-any.whl",
-  "download_time": "2026-01-19T05:23:00.533918",
+  "download_filename": "outerbounds-0.11.7-py3-none-any.whl",
+  "download_time": "2026-01-19T07:09:55.178396",
   "package_url": "https://pypi.org/project/outerbounds/"
 }

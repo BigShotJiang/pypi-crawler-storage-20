@@ -1,0 +1,11 @@
+{
+  "name": "qpretrieve",
+  "version": "0.6.0",
+  "summary": "library for phase retrieval from holograms",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "qpretrieve-0.6.0.tar.gz",
+  "download_time": "2026-01-19T07:09:44.871851",
+  "package_url": "https://pypi.org/project/qpretrieve/"
+}

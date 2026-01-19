@@ -1,11 +1,11 @@
 {
   "name": "fiddler-langgraph",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "summary": "Python SDK for instrumenting GenAI Applications with Fiddler",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "fiddler_langgraph-1.2.0.tar.gz",
-  "download_time": "2026-01-14T10:22:30.704252",
+  "download_filename": "fiddler_langgraph-1.3.0.tar.gz",
+  "download_time": "2026-01-19T07:09:13.857990",
   "package_url": "https://pypi.org/project/fiddler-langgraph/"
 }

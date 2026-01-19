@@ -1,11 +1,11 @@
 {
   "name": "pulumi-aws-native",
-  "version": "1.48.0",
+  "version": "1.49.0",
   "summary": "A native Pulumi package for creating and managing Amazon Web Services (AWS) resources.",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "pulumi_aws_native-1.48.0.tar.gz",
-  "download_time": "2026-01-13T06:29:34.750675",
+  "download_filename": "pulumi_aws_native-1.49.0.tar.gz",
+  "download_time": "2026-01-19T07:09:30.902793",
   "package_url": "https://pypi.org/project/pulumi-aws-native/"
 }

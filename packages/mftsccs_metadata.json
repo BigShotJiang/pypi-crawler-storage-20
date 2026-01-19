@@ -1,0 +1,11 @@
+{
+  "name": "mftsccs",
+  "version": "0.1.9",
+  "summary": "A Python library for Concept-Connection System (CCS) - offline-first knowledge graph management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "mftsccs-0.1.9.tar.gz",
+  "download_time": "2026-01-19T07:09:29.835824",
+  "package_url": "https://pypi.org/project/mftsccs/"
+}
