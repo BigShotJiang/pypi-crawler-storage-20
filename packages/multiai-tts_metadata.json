@@ -1,0 +1,11 @@
+{
+  "name": "multiai-tts",
+  "version": "0.2.0",
+  "summary": "TTS extension for multiai using OpenAI, Google GenAI and Azure Speech",
+  "author": "Katsutoshi Seki",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "multiai_tts-0.2.0.tar.gz",
+  "download_time": "2026-01-19T10:28:15.140557",
+  "package_url": "https://pypi.org/project/multiai-tts/"
+}

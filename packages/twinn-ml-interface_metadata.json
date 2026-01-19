@@ -1,0 +1,11 @@
+{
+  "name": "twinn-ml-interface",
+  "version": "0.7.0",
+  "summary": "Machine learning model contracts with machine learning infrastructure",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "twinn_ml_interface-0.7.0.tar.gz",
+  "download_time": "2026-01-19T10:28:35.490115",
+  "package_url": "https://pypi.org/project/twinn-ml-interface/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cg-jupyter-mux",
+  "version": "0.2.2",
+  "summary": "A multiplexer for the Jupyter kernel protocol using JSON Lines (JSONL) over stdin/stdout.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cg_jupyter_mux-0.2.2.tar.gz",
+  "download_time": "2026-01-19T10:28:31.665534",
+  "package_url": "https://pypi.org/project/cg-jupyter-mux/"
+}

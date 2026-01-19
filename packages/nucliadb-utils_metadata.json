@@ -1,11 +1,11 @@
 {
   "name": "nucliadb-utils",
-  "version": "6.10.0.post5788",
+  "version": "6.10.0.post5793",
   "summary": "NucliaDB util library",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "nucliadb_utils-6.10.0.post5788-py3-none-any.whl",
-  "download_time": "2026-01-19T09:53:09.363440",
+  "download_filename": "nucliadb_utils-6.10.0.post5793-py3-none-any.whl",
+  "download_time": "2026-01-19T10:28:57.257674",
   "package_url": "https://pypi.org/project/nucliadb-utils/"
 }
