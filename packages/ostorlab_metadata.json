@@ -1,11 +1,11 @@
 {
   "name": "ostorlab",
-  "version": "1.9.8",
+  "version": "1.9.9",
   "summary": "OXO Scanner Orchestrator for the Modern Age.",
   "author": "Ostorlab",
   "license": "Apache-2.0",
   "home_page": "https://github.com/Ostorlab/ostorlab",
-  "download_filename": "ostorlab-1.9.8.tar.gz",
-  "download_time": "2026-01-13T11:18:36.336873",
+  "download_filename": "ostorlab-1.9.9.tar.gz",
+  "download_time": "2026-01-19T09:52:31.758832",
   "package_url": "https://pypi.org/project/ostorlab/"
 }

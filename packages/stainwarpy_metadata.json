@@ -1,0 +1,11 @@
+{
+  "name": "stainwarpy",
+  "version": "0.2.1",
+  "summary": "Tools for image registration between multiplexed and HnE stained tissue images",
+  "author": "Thusheera Kumarasekara",
+  "license": "MIT",
+  "home_page": "https://github.com/tckumarasekara/stainwarpy",
+  "download_filename": "stainwarpy-0.2.1.tar.gz",
+  "download_time": "2026-01-19T09:52:53.155213",
+  "package_url": "https://pypi.org/project/stainwarpy/"
+}

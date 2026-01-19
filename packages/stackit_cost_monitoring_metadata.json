@@ -1,0 +1,11 @@
+{
+  "name": "stackit_cost_monitoring",
+  "version": "0.8.2",
+  "summary": "Nagios plugin to monitor cloud costs in the StackIT cloud.",
+  "author": "Harald Wilhelmi",
+  "license": "GNU Public License v3",
+  "home_page": "https://github.com/dieterich-lab/stackit_cost_monitoring",
+  "download_filename": "stackit_cost_monitoring-0.8.2.tar.gz",
+  "download_time": "2026-01-19T09:52:25.507423",
+  "package_url": "https://pypi.org/project/stackit_cost_monitoring/"
+}

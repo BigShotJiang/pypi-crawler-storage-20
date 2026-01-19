@@ -1,0 +1,11 @@
+{
+  "name": "kevin-toolbox",
+  "version": "1.4.14",
+  "summary": "一个常用的工具代码包集合",
+  "author": "kevin hsu",
+  "license": "MIT",
+  "home_page": "https://github.com/cantbeblank96/kevin_toolbox",
+  "download_filename": "kevin_toolbox-1.4.14-py3-none-any.whl",
+  "download_time": "2026-01-19T09:52:21.318721",
+  "package_url": "https://pypi.org/project/kevin-toolbox/"
+}

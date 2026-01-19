@@ -1,11 +1,11 @@
 {
   "name": "python3-ssh",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "summary": "used to ssh to exe cmd or scp file",
   "author": "redrose2100",
   "license": "MIT",
   "home_page": "https://gitee.com/devops_dev/ssh",
-  "download_filename": "python3_ssh-1.0.4.tar.gz",
-  "download_time": "2026-01-13T03:13:57.725000",
+  "download_filename": "python3_ssh-1.0.5.tar.gz",
+  "download_time": "2026-01-19T09:52:46.291125",
   "package_url": "https://pypi.org/project/python3-ssh/"
 }

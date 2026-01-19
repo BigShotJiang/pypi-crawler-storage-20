@@ -1,0 +1,11 @@
+{
+  "name": "unwrappy",
+  "version": "0.1.0",
+  "summary": "Yet another Rust-inspired Result and Option ergonomics brought to Python, enabling safe, expressive error handling with errors as values.",
+  "author": "Leonardo Diegues",
+  "license": null,
+  "home_page": null,
+  "download_filename": "unwrappy-0.1.0.tar.gz",
+  "download_time": "2026-01-19T09:52:50.540754",
+  "package_url": "https://pypi.org/project/unwrappy/"
+}

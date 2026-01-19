@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-pydantic",
+  "version": "18.0.1.1.0",
+  "summary": "Utility addon to ease mapping between Pydantic and Odoo models",
+  "author": "ACSONE SA/NV,Odoo Community Association (OCA)",
+  "license": "LGPL-3",
+  "home_page": "https://github.com/OCA/rest-framework",
+  "download_filename": "odoo_addon_pydantic-18.0.1.1.0-py3-none-any.whl",
+  "download_time": "2026-01-19T09:52:54.701030",
+  "package_url": "https://pypi.org/project/odoo-addon-pydantic/"
+}

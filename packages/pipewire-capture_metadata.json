@@ -1,0 +1,11 @@
+{
+  "name": "pipewire-capture",
+  "version": "0.2.8",
+  "summary": "Python library for PipeWire video capture with pre-built wheels",
+  "author": "qube",
+  "license": null,
+  "home_page": null,
+  "download_filename": "pipewire_capture-0.2.8-cp39-abi3-manylinux_2_34_aarch64.whl",
+  "download_time": "2026-01-19T09:53:04.144250",
+  "package_url": "https://pypi.org/project/pipewire-capture/"
+}
