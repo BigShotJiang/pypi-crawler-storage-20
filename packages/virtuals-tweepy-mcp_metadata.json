@@ -1,11 +1,11 @@
 {
   "name": "virtuals-tweepy-mcp",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "summary": "MCP server for X (Twitter) via Virtuals GAME SDK - 37 tools for tweets, search, users, and engagement",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "virtuals_tweepy_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-19T07:09:14.885279",
+  "download_filename": "virtuals_tweepy_mcp-0.1.2.tar.gz",
+  "download_time": "2026-01-19T07:47:00.059234",
   "package_url": "https://pypi.org/project/virtuals-tweepy-mcp/"
 }

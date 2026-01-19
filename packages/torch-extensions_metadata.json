@@ -1,11 +1,11 @@
 {
   "name": "torch-extensions",
-  "version": "0.0.3",
+  "version": "0.0.6",
   "summary": "pytorch通用模型导出",
   "author": "zhumingwu",
   "license": null,
   "home_page": null,
-  "download_filename": "torch_extensions-0.0.3-py3-none-any.whl",
-  "download_time": "2026-01-19T05:22:46.974739",
+  "download_filename": "torch_extensions-0.0.6.tar.gz",
+  "download_time": "2026-01-19T07:46:51.647596",
   "package_url": "https://pypi.org/project/torch-extensions/"
 }

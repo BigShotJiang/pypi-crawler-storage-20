@@ -1,0 +1,11 @@
+{
+  "name": "azure-mgmt-communication",
+  "version": "2.2.0",
+  "summary": "Microsoft Azure Communication Management Client Library for Python",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "azure_mgmt_communication-2.2.0.tar.gz",
+  "download_time": "2026-01-19T07:46:50.606326",
+  "package_url": "https://pypi.org/project/azure-mgmt-communication/"
+}

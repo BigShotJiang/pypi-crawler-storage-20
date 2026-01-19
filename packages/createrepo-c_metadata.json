@@ -1,0 +1,11 @@
+{
+  "name": "createrepo-c",
+  "version": "1.2.2",
+  "summary": "C implementation of createrepo",
+  "author": "RPM Software Management",
+  "license": "GPLv2+",
+  "home_page": "https://github.com/rpm-software-management",
+  "download_filename": "createrepo_c-1.2.2.tar.gz",
+  "download_time": "2026-01-19T07:47:12.675082",
+  "package_url": "https://pypi.org/project/createrepo-c/"
+}

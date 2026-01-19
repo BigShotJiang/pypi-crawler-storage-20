@@ -1,11 +1,11 @@
 {
   "name": "barie-media-watcher-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "Media Watcher MCP Server for performing sentiment analysis and media monitoring via the Model Context Protocol",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "barie_media_watcher_mcp-0.1.0.tar.gz",
-  "download_time": "2026-01-19T07:09:52.591908",
+  "download_filename": "barie_media_watcher_mcp-0.1.1.tar.gz",
+  "download_time": "2026-01-19T07:47:26.761425",
   "package_url": "https://pypi.org/project/barie-media-watcher-mcp/"
 }

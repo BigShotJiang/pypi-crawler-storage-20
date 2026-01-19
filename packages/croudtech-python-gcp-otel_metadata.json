@@ -1,11 +1,11 @@
 {
   "name": "croudtech-python-gcp-otel",
-  "version": "0.3.1",
+  "version": "1.0.1",
   "summary": "OpenTelemetry configuration utilities for GCP Cloud Trace and Cloud Logging",
   "author": "CroudTech",
   "license": null,
   "home_page": null,
-  "download_filename": "croudtech_python_gcp_otel-0.3.1.tar.gz",
-  "download_time": "2026-01-19T07:09:24.164682",
+  "download_filename": "croudtech_python_gcp_otel-1.0.1.tar.gz",
+  "download_time": "2026-01-19T07:46:52.739534",
   "package_url": "https://pypi.org/project/croudtech-python-gcp-otel/"
 }

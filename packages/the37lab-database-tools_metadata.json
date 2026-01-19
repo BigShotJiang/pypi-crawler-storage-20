@@ -1,11 +1,11 @@
 {
   "name": "the37lab-database-tools",
-  "version": "0.1.1768749223",
+  "version": "0.1.1768808557",
   "summary": "PostgreSQL database tools including DDL migration management and connection pooling",
   "author": "the37Lab",
   "license": null,
   "home_page": null,
-  "download_filename": "the37lab_database_tools-0.1.1768749223.tar.gz",
-  "download_time": "2026-01-18T15:20:39.614004",
+  "download_filename": "the37lab_database_tools-0.1.1768808557.tar.gz",
+  "download_time": "2026-01-19T07:46:55.849322",
   "package_url": "https://pypi.org/project/the37lab-database-tools/"
 }

@@ -1,11 +1,11 @@
 {
   "name": "reminix-runtime",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "summary": "Reminix Runtime - Serve AI agents as REST APIs with streaming support",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "reminix_runtime-0.0.5.tar.gz",
-  "download_time": "2026-01-17T20:44:51.610319",
+  "download_filename": "reminix_runtime-0.0.6.tar.gz",
+  "download_time": "2026-01-19T07:47:30.409800",
   "package_url": "https://pypi.org/project/reminix-runtime/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "ovos-skill-weather",
+  "version": "1.0.6",
+  "summary": "ovos skill plugin",
+  "author": "JarbasAi",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-skill-weather",
+  "download_filename": "ovos-skill-weather-1.0.6.tar.gz",
+  "download_time": "2026-01-19T07:46:52.219195",
+  "package_url": "https://pypi.org/project/ovos-skill-weather/"
+}
