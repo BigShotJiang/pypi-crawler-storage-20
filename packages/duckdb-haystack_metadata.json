@@ -1,0 +1,11 @@
+{
+  "name": "duckdb-haystack",
+  "version": "0.0.1.post1",
+  "summary": "Haystack document store and retriever for DuckDB VSS",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "duckdb_haystack-0.0.1.post1.tar.gz",
+  "download_time": "2026-01-19T14:06:51.329408",
+  "package_url": "https://pypi.org/project/duckdb-haystack/"
+}

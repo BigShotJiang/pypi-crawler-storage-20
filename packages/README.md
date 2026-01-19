@@ -1,11 +1,34 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-19T13:38:10.850596
+- **Download Time**: 2026-01-19T14:07:44.703689
 - **Total Packages**: 87
-- **Total Size**: 29.63 MB
+- **Total Size**: 27.3 MB
 
 ## Packages List
+- duckdb-haystack
+- ksmyvoteinfo
+- esiaccel
+- sphinx-icore-open-theme
+- scikit-fem
+- fuse-io
+- arpakitlib
+- fbgemm-gpu-nightly-cpu
+- cafaeval
+- pyscf-sidereus
+- sticker-convert
+- pythonic-fp-containers
+- qBitrr2
+- tg-prepare
+- shopee-smartqms-mcp
+- evonet
+- pylibfranka
+- whitebox-plugin-device-status
+- dslighting
+- soweak
+- gwc-pybundle
+- metaxy
+- policy-agent
 - termtap
 - trustgraph-vertexai
 - trustgraph-ocr
@@ -22,7 +45,6 @@
 - dshellInterpreter
 - glaip-sdk
 - service-forge
-- Topsis-Saanchi-102303323
 - shopee-skynet-python-package-register
 - sh-batch-grid-builder
 - wagtail-sitemap-seo
@@ -38,7 +60,6 @@
 - maquinaweb-shared-auth
 - log-signatures-pytorch
 - shopee-skynet-py-test-mcp
-- dslighting
 - symqnet-molopt
 - mf2dom
 - dycw-pre-commit-hooks
@@ -53,7 +74,6 @@
 - shopee-aip-nunchaku
 - flow.record
 - hermes-core-python
-- fuse-io
 - ol-openedx-course-translations
 - actions-work-items
 - osbng
@@ -73,23 +93,3 @@
 - xgrammar
 - ol-openedx-chat-xblock
 - freezeburn
-- git-clode
-- scp-constructor
-- scp-servicenow
-- marklassian
-- cmk-dev-tools
-- pennylane-quantuminspire
-- bk-plugin-runtime
-- physicsworks-python
-- pyconnpg
-- mrseq
-- dissect.target
-- conviso-ast
-- shopee-skynet-td2code
-- django-bulk-drf
-- mydisct-solver
-- codibox
-- redis-benchmarks-specification
-- cognite-neat
-- mapminer
-- violit
