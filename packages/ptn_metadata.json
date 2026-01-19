@@ -1,11 +1,11 @@
 {
   "name": "ptn",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "summary": "Web-based terminal accessible from phone via Cloudflare Tunnel",
   "author": "Porterminal Contributors",
   "license": "AGPL-3.0-or-later",
   "home_page": null,
-  "download_filename": "ptn-0.5.1.tar.gz",
-  "download_time": "2026-01-19T05:22:57.275902",
+  "download_filename": "ptn-0.5.2.tar.gz",
+  "download_time": "2026-01-19T08:41:38.703222",
   "package_url": "https://pypi.org/project/ptn/"
 }

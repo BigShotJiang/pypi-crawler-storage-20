@@ -1,0 +1,11 @@
+{
+  "name": "takopi-tunnel",
+  "version": "0.1.0",
+  "summary": "Cloudflared tunnel management plugin for takopi",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "takopi_tunnel-0.1.0.tar.gz",
+  "download_time": "2026-01-19T08:41:49.655425",
+  "package_url": "https://pypi.org/project/takopi-tunnel/"
+}

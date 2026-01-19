@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-delivery-cbl",
+  "version": "17.0.2.0.0",
+  "summary": "Integrate CBL webservice",
+  "author": "Sygel, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/delivery-carrier",
+  "download_filename": "odoo_addon_delivery_cbl-17.0.2.0.0-py3-none-any.whl",
+  "download_time": "2026-01-19T08:42:07.840928",
+  "package_url": "https://pypi.org/project/odoo-addon-delivery-cbl/"
+}

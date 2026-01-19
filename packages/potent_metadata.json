@@ -1,11 +1,11 @@
 {
   "name": "potent",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "summary": "An idempotent way to run shell scripts.",
   "author": "David Brownman",
   "license": null,
   "home_page": null,
-  "download_filename": "potent-0.2.1.tar.gz",
-  "download_time": "2026-01-18T05:31:07.763403",
+  "download_filename": "potent-0.2.2.tar.gz",
+  "download_time": "2026-01-19T08:42:17.250766",
   "package_url": "https://pypi.org/project/potent/"
 }

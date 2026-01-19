@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-delivery-easypost-oca",
+  "version": "18.0.1.0.0.2",
+  "summary": "OCA Delivery Easypost",
+  "author": "Binhex, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/delivery-carrier",
+  "download_filename": "odoo_addon_delivery_easypost_oca-18.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-19T08:42:03.749314",
+  "package_url": "https://pypi.org/project/odoo-addon-delivery-easypost-oca/"
+}

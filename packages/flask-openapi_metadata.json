@@ -1,0 +1,11 @@
+{
+  "name": "flask-openapi",
+  "version": "4.3.1",
+  "summary": "Generate REST API and OpenAPI documentation for your Flask project.",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "flask_openapi-4.3.1-py3-none-any.whl",
+  "download_time": "2026-01-19T08:41:37.141074",
+  "package_url": "https://pypi.org/project/flask-openapi/"
+}

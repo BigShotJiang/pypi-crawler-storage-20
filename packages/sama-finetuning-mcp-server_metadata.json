@@ -1,0 +1,11 @@
+{
+  "name": "sama-finetuning-mcp-server",
+  "version": "0.1.0",
+  "summary": "An MCP server for sama finetuning mcp server operations and management",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "sama_finetuning_mcp_server-0.1.0.tar.gz",
+  "download_time": "2026-01-19T08:41:37.676422",
+  "package_url": "https://pypi.org/project/sama-finetuning-mcp-server/"
+}

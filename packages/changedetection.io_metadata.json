@@ -1,11 +1,11 @@
 {
   "name": "changedetection.io",
-  "version": "0.52.6",
+  "version": "0.52.7",
   "summary": "Website change detection and monitoring service, detect changes to web pages and send alerts/notifications.",
   "author": "dgtlmoon",
   "license": "Apache License 2.0",
   "home_page": "https://changedetection.io",
-  "download_filename": "changedetection_io-0.52.6.tar.gz",
-  "download_time": "2026-01-15T21:44:23.313393",
+  "download_filename": "changedetection_io-0.52.7.tar.gz",
+  "download_time": "2026-01-19T08:41:40.272818",
   "package_url": "https://pypi.org/project/changedetection.io/"
 }

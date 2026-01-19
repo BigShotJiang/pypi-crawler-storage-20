@@ -1,0 +1,11 @@
+{
+  "name": "jcgraph",
+  "version": "0.1.0",
+  "summary": "Java代码知识图谱构建工具",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "jcgraph-0.1.0.tar.gz",
+  "download_time": "2026-01-19T08:41:55.322115",
+  "package_url": "https://pypi.org/project/jcgraph/"
+}

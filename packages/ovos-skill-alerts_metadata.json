@@ -1,0 +1,11 @@
+{
+  "name": "ovos-skill-alerts",
+  "version": "0.1.28",
+  "summary": null,
+  "author": "Emphasize,OpenVoiceOS",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/OpenVoiceOS/ovos-skill-alerts",
+  "download_filename": "ovos_skill_alerts-0.1.28.tar.gz",
+  "download_time": "2026-01-19T08:41:56.917036",
+  "package_url": "https://pypi.org/project/ovos-skill-alerts/"
+}

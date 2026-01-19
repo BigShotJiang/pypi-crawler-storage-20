@@ -1,0 +1,11 @@
+{
+  "name": "dj-payfast",
+  "version": "0.1.10",
+  "summary": "Django PayFast integration library for South African payments",
+  "author": "Carrington Muleya",
+  "license": "MIT",
+  "home_page": "https://github.com/carrington-dev/dj-payfast",
+  "download_filename": "dj_payfast-0.1.10.tar.gz",
+  "download_time": "2026-01-19T08:42:22.028851",
+  "package_url": "https://pypi.org/project/dj-payfast/"
+}

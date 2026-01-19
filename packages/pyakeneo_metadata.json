@@ -1,0 +1,11 @@
+{
+  "name": "pyakeneo",
+  "version": "1.1.0",
+  "summary": "Python client for the Akeneo API REST",
+  "author": "Kave Tech",
+  "license": "MIT",
+  "home_page": "https://github.com/KaveTech/akeneo_api_client",
+  "download_filename": "pyakeneo-1.1.0.tar.gz",
+  "download_time": "2026-01-19T08:42:12.510726",
+  "package_url": "https://pypi.org/project/pyakeneo/"
+}
