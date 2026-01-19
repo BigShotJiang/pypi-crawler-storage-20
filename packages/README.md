@@ -1,23 +1,58 @@
 # PyPI Packages Downloaded
 
 ## Download Summary
-- **Download Time**: 2026-01-19T11:48:31.854638
-- **Total Packages**: 90
-- **Total Size**: 31.33 MB
+- **Download Time**: 2026-01-19T11:58:15.512750
+- **Total Packages**: 88
+- **Total Size**: 9.18 MB
 
 ## Packages List
+- endoreg-db
+- sqlalchemy-session-proxy
+- savepagenow
+- backpropagate
+- tiny-tui
+- cyvest
+- q8s
+- django-ninja-aio-crud
+- dslighting
+- azure-mgmt-dellstorage
+- causalexplain
+- neuroglia-python
+- tklr-dgraham
+- pla-analysis
+- datateam-moss
+- simasm
+- fastMONAI
+- pyagnostics
+- localstack-core
+- autodocgenerator
+- fuse-io
+- quicklearnkit
+- ace-client
+- azure-doc-intelligence-haystack
+- torch-extensions
+- latitude-sdk
+- modern-di-faststream
+- modern-di-litestar
+- modern-di-fastapi
+- modern-di
+- fb-vmware
+- derive-client
+- querit
+- cmeel
+- odoo-addon-mrp-bom-component-menu
+- mcp-email-server
+- jao-py
+- n-filej
 - living-doc-utilities
 - ogc-na
 - garf-google-ads
 - cms_enhance
-- pla-analysis
 - osbng
 - kitagentsdk
-- torch-extensions
 - phenolrs
 - oxford-colors
 - pax1000-controller
-- autodocgenerator
 - finam-mcp-server
 - python-amazon-sp-api
 - sasefied
@@ -32,7 +67,6 @@
 - geoveil-cn0
 - quantumsignals-client
 - quantvn
-- fuse-io
 - zrb-extras
 - hfortix
 - hfortix-fortios
@@ -45,7 +79,6 @@
 - kcwredis
 - pyservx
 - zsh-tool-mcp
-- dslighting
 - fastpluggy-tasks-worker
 - mkdocstrings
 - breez-sdk-spark
@@ -61,38 +94,3 @@
 - nvidia-nat-test
 - nvidia-nat-strands
 - vllm-sr
-- essence-wars
-- nvidia-nat-phoenix
-- ace-client
-- nvidia-nat-mcp
-- hidratespark-mcp
-- nvidia-nat-ingestion
-- bilibili-rater
-- simasm
-- nvidia-nat-adk
-- nvidia-nat-openpipe-art
-- causalexplain
-- nvidia-nat-llama-index
-- digitalhub
-- nvidia-nat-profiling
-- algokit-subscriber
-- torchx-nightly
-- nvidia-nat-opentelemetry
-- twaddle
-- nvidia-nat-nemo-customizer
-- nvidia-nat-mem0ai
-- libertem-qd-mpx
-- jobextractor
-- nvidia-nat
-- libertem-dectris
-- libertem-asi-tpx3
-- datus-semantic-metricflow
-- nvidia-nat-mysql
-- nvidia-nat-data-flywheel
-- cell-imaging-utils
-- nvidia-nat-all
-- fastled
-- xpander-sdk
-- nvidia-nat-weave
-- kata-workspace
-- nvidia-nat-a2a

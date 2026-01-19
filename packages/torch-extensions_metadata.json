@@ -1,11 +1,11 @@
 {
   "name": "torch-extensions",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "summary": "pytorch通用模型导出",
   "author": "zhumingwu",
   "license": null,
   "home_page": null,
-  "download_filename": "torch_extensions-0.1.8-cp38-abi3-win_amd64.whl",
-  "download_time": "2026-01-19T11:47:48.068009",
+  "download_filename": "torch_extensions-0.1.9-cp38-abi3-win_amd64.whl",
+  "download_time": "2026-01-19T11:57:42.938206",
   "package_url": "https://pypi.org/project/torch-extensions/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "backpropagate",
+  "version": "0.1.0",
+  "summary": "Production-ready headless LLM fine-tuning with smart defaults, Windows support, and modular architecture",
+  "author": "Mikey Frilot",
+  "license": null,
+  "home_page": null,
+  "download_filename": "backpropagate-0.1.0.tar.gz",
+  "download_time": "2026-01-19T11:57:31.607117",
+  "package_url": "https://pypi.org/project/backpropagate/"
+}

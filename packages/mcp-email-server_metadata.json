@@ -1,0 +1,11 @@
+{
+  "name": "mcp-email-server",
+  "version": "0.5.5",
+  "summary": "IMAP and SMTP via MCP Server",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mcp_email_server-0.5.5.tar.gz",
+  "download_time": "2026-01-19T11:57:48.581959",
+  "package_url": "https://pypi.org/project/mcp-email-server/"
+}
