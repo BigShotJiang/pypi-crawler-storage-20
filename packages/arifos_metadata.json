@@ -1,11 +1,11 @@
 {
   "name": "arifos",
-  "version": "49.0.0",
+  "version": "49.0.1",
   "summary": "Constitutional AI governance with 13 immutable floors (F1-F13). Trinity architecture (AGI·ASI·APEX) with 25 MCP servers mapped to constitutional enforcement. Thermodynamic physics (Delta_S->0, Peace_squared>=1, Omega_0 in [0.03,0.05]), tri-witness consensus (>=0.95), zkPC cryptographic sealing. Production-hardened 000-999 metabolic loop. Works with ChatGPT, Claude, Gemini, and any LLM.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "arifos-49.0.0.tar.gz",
-  "download_time": "2026-01-19T04:39:49.393402",
+  "download_filename": "arifos-49.0.1.tar.gz",
+  "download_time": "2026-01-19T08:02:08.274886",
   "package_url": "https://pypi.org/project/arifos/"
 }
