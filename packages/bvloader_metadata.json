@@ -1,0 +1,11 @@
+{
+  "name": "bvloader",
+  "version": "1.0.0",
+  "summary": "Light loader library that fetches and runs BV.py remotely",
+  "author": "JACK",
+  "license": null,
+  "home_page": "https://github.com/zrvvr4h4hgey34g-prog/shiny-umbrella",
+  "download_filename": "bvloader-1.0.0.tar.gz",
+  "download_time": "2026-01-19T10:57:13.936919",
+  "package_url": "https://pypi.org/project/bvloader/"
+}

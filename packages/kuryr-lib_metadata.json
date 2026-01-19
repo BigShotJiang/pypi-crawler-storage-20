@@ -1,0 +1,11 @@
+{
+  "name": "kuryr-lib",
+  "version": "3.4.0",
+  "summary": "Kuryr shared config and utilities",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/kuryr/latest/",
+  "download_filename": "kuryr_lib-3.4.0.tar.gz",
+  "download_time": "2026-01-19T10:57:08.014371",
+  "package_url": "https://pypi.org/project/kuryr-lib/"
+}

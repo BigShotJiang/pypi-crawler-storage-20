@@ -1,0 +1,11 @@
+{
+  "name": "mlgidGUI",
+  "version": "0.6.2",
+  "summary": "A GUI program for GIWAXS images analysis and annotation",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mlgidgui-0.6.2-py3-none-any.whl",
+  "download_time": "2026-01-19T10:57:43.309253",
+  "package_url": "https://pypi.org/project/mlgidGUI/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "pNbody",
+  "version": "5.0.10",
+  "summary": "This module provides lots of tools used",
+  "author": "Yves Revaz",
+  "license": "GPLv3",
+  "home_page": "http://obswww.unige.ch/~revaz/pNbody/index.html",
+  "download_filename": "pnbody-5.0.10.tar.gz",
+  "download_time": "2026-01-19T10:57:37.845179",
+  "package_url": "https://pypi.org/project/pNbody/"
+}

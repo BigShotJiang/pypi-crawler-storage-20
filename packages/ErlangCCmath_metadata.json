@@ -1,0 +1,11 @@
+{
+  "name": "ErlangCCmath",
+  "version": "1.2.1",
+  "summary": "Erlang C, X, and Chat Functions for Python",
+  "author": "K. Berkan Arik",
+  "license": "MIT",
+  "home_page": "https://github.com/ccmath/erlang/Erlang_Python",
+  "download_filename": "erlangccmath-1.2.1.tar.gz",
+  "download_time": "2026-01-19T10:57:14.482228",
+  "package_url": "https://pypi.org/project/ErlangCCmath/"
+}

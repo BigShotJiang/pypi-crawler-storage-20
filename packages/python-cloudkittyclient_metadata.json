@@ -1,0 +1,11 @@
+{
+  "name": "python-cloudkittyclient",
+  "version": "6.0.0",
+  "summary": "API client of cloudkitty, Rating as a Service project.",
+  "author": "OpenStack",
+  "license": null,
+  "home_page": "https://docs.openstack.org/python-cloudkittyclient/latest/",
+  "download_filename": "python_cloudkittyclient-6.0.0.tar.gz",
+  "download_time": "2026-01-19T10:57:08.558302",
+  "package_url": "https://pypi.org/project/python-cloudkittyclient/"
+}

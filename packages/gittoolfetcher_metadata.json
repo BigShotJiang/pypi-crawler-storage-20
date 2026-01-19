@@ -1,0 +1,11 @@
+{
+  "name": "gittoolfetcher",
+  "version": "1.2.1",
+  "summary": "A git management tool, making it easy to install and use multiple concurent version of a same project.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "gittoolfetcher-1.2.1.tar.gz",
+  "download_time": "2026-01-19T10:57:36.224094",
+  "package_url": "https://pypi.org/project/gittoolfetcher/"
+}

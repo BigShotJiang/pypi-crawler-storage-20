@@ -1,0 +1,11 @@
+{
+  "name": "d0fus",
+  "version": "1.0.4",
+  "summary": "Design 0-dimensional for Fusion Systems - Tokamak power plant design and optimization tool",
+  "author": null,
+  "license": "CeCILL-C",
+  "home_page": null,
+  "download_filename": "d0fus-1.0.4.tar.gz",
+  "download_time": "2026-01-19T10:57:43.851161",
+  "package_url": "https://pypi.org/project/d0fus/"
+}

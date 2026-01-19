@@ -1,11 +1,11 @@
 {
   "name": "matrice-analytics",
-  "version": "0.1.124",
+  "version": "0.1.125",
   "summary": "Common server utilities for Matrice.ai services",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "matrice_analytics-0.1.124.tar.gz",
-  "download_time": "2026-01-19T10:28:10.198008",
+  "download_filename": "matrice_analytics-0.1.125.tar.gz",
+  "download_time": "2026-01-19T10:57:25.835905",
   "package_url": "https://pypi.org/project/matrice-analytics/"
 }

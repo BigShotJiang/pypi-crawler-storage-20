@@ -1,11 +1,11 @@
 {
   "name": "claude-vault",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "Sync Claude conversations to Obsidian markdown files",
   "author": "Mario Padilla",
   "license": "AGPL-3.0-or-later OR Commercial",
   "home_page": null,
-  "download_filename": "claude_vault-0.3.1.tar.gz",
-  "download_time": "2026-01-13T10:21:12.141621",
+  "download_filename": "claude_vault-0.4.1.tar.gz",
+  "download_time": "2026-01-19T10:57:33.448711",
   "package_url": "https://pypi.org/project/claude-vault/"
 }

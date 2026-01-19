@@ -1,0 +1,11 @@
+{
+  "name": "yamc",
+  "version": "0.3.0",
+  "summary": "Yet Another Monte Carlo code for neutron transport simulations",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "yamc-0.3.0-cp39-abi3-macosx_11_0_arm64.whl",
+  "download_time": "2026-01-19T10:57:21.898206",
+  "package_url": "https://pypi.org/project/yamc/"
+}

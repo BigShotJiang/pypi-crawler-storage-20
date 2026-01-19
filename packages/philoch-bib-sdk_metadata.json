@@ -1,11 +1,11 @@
 {
   "name": "philoch-bib-sdk",
-  "version": "0.4.0",
+  "version": "0.4.2",
   "summary": "Standard development kit for the Philosophie Bibliography project",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "philoch_bib_sdk-0.4.0.tar.gz",
-  "download_time": "2026-01-18T23:20:00.997030",
+  "download_filename": "philoch_bib_sdk-0.4.2.tar.gz",
+  "download_time": "2026-01-19T10:57:26.925875",
   "package_url": "https://pypi.org/project/philoch-bib-sdk/"
 }
