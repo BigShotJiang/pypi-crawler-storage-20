@@ -1,11 +1,11 @@
 {
   "name": "quiz-gen",
-  "version": "0.1.4",
+  "version": "0.1.7",
   "summary": "AI-powered quiz generator for regulatory, certification, and educational documentation",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "quiz_gen-0.1.4.tar.gz",
-  "download_time": "2026-01-19T12:46:11.422331",
+  "download_filename": "quiz_gen-0.1.7.tar.gz",
+  "download_time": "2026-01-19T13:37:36.485984",
   "package_url": "https://pypi.org/project/quiz-gen/"
 }

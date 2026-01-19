@@ -1,0 +1,11 @@
+{
+  "name": "cmk-dev-tools",
+  "version": "0.1.0",
+  "summary": "Checkmk Dev Tools",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "cmk_dev_tools-0.1.0.tar.gz",
+  "download_time": "2026-01-19T13:38:02.579131",
+  "package_url": "https://pypi.org/project/cmk-dev-tools/"
+}

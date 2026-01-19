@@ -1,0 +1,11 @@
+{
+  "name": "codibox",
+  "version": "1.0.0",
+  "summary": "A reusable package for executing Python code in Docker containers and extracting charts/images",
+  "author": "Your Name",
+  "license": null,
+  "home_page": "https://github.com/yourusername/codibox",
+  "download_filename": "codibox-1.0.0.tar.gz",
+  "download_time": "2026-01-19T13:38:08.241914",
+  "package_url": "https://pypi.org/project/codibox/"
+}

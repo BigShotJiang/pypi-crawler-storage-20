@@ -1,11 +1,11 @@
 {
   "name": "rlm-toolkit",
-  "version": "1.0.1",
+  "version": "1.2.1",
   "summary": "Recursive Language Models Toolkit for processing unlimited context",
   "author": null,
   "license": "Apache-2.0",
   "home_page": null,
-  "download_filename": "rlm_toolkit-1.0.1.tar.gz",
-  "download_time": "2026-01-18T01:43:20.790187",
+  "download_filename": "rlm_toolkit-1.2.1.tar.gz",
+  "download_time": "2026-01-19T13:37:33.843091",
   "package_url": "https://pypi.org/project/rlm-toolkit/"
 }

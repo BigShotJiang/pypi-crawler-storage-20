@@ -1,0 +1,11 @@
+{
+  "name": "actions-work-items",
+  "version": "0.2.0",
+  "summary": "Drop-in replacement for robocorp-workitems with broader applicability",
+  "author": "Community Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "actions_work_items-0.2.0.tar.gz",
+  "download_time": "2026-01-19T13:37:48.489748",
+  "package_url": "https://pypi.org/project/actions-work-items/"
+}

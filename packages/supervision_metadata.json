@@ -1,0 +1,11 @@
+{
+  "name": "supervision",
+  "version": "0.27.0",
+  "summary": "A set of easy-to-use utils that will come in handy in any Computer Vision project",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "supervision-0.27.0.tar.gz",
+  "download_time": "2026-01-19T13:37:56.265464",
+  "package_url": "https://pypi.org/project/supervision/"
+}

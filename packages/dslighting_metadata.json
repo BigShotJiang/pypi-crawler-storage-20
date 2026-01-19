@@ -1,11 +1,11 @@
 {
   "name": "dslighting",
-  "version": "2.0.9",
-  "summary": "DSLighting 2.0 - Complete DSAT Inheritance + Custom Operator Support",
+  "version": "2.1.4",
+  "summary": "DSLighting 2.1.4 - Add run() method to BaseAgent for easier custom agent development",
   "author": "DSLighting Team",
   "license": "AGPL-3.0",
   "home_page": null,
-  "download_filename": "dslighting-2.0.9.tar.gz",
-  "download_time": "2026-01-19T11:57:34.192120",
+  "download_filename": "dslighting-2.1.4.tar.gz",
+  "download_time": "2026-01-19T13:37:39.078782",
   "package_url": "https://pypi.org/project/dslighting/"
 }

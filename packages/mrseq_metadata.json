@@ -1,0 +1,11 @@
+{
+  "name": "mrseq",
+  "version": "0.260119",
+  "summary": "(Py)Pulseq-based MRI sequences.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "mrseq-0.260119.tar.gz",
+  "download_time": "2026-01-19T13:38:05.163176",
+  "package_url": "https://pypi.org/project/mrseq/"
+}

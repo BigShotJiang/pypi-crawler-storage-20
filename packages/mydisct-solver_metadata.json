@@ -1,0 +1,11 @@
+{
+  "name": "mydisct-solver",
+  "version": "1.0.2",
+  "summary": "Official Python library for MyDisct Solver - Enterprise AI-Powered Captcha Solving Service with 20+ token types and 25+ image types",
+  "author": "MyDisct Solver",
+  "license": "MIT",
+  "home_page": "https://github.com/mydisctsolver/MyDisct-Solver",
+  "download_filename": "mydisct_solver-1.0.2.tar.gz",
+  "download_time": "2026-01-19T13:38:07.730002",
+  "package_url": "https://pypi.org/project/mydisct-solver/"
+}
