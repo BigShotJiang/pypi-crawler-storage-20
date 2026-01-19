@@ -1,0 +1,11 @@
+{
+  "name": "forecastfactor-publisher",
+  "version": "1.0.6",
+  "summary": "A library for publishing forecast data to an API",
+  "author": "Ricardo Teixeira",
+  "license": null,
+  "home_page": null,
+  "download_filename": "forecastfactor_publisher-1.0.6.tar.gz",
+  "download_time": "2026-01-19T11:47:52.754438",
+  "package_url": "https://pypi.org/project/forecastfactor-publisher/"
+}

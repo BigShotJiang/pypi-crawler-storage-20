@@ -1,11 +1,11 @@
 {
   "name": "zsh-tool-mcp",
-  "version": "0.4.6",
+  "version": "0.4.73",
   "summary": "Zsh for Claude Code. PTY mode lets Claude type passwords. NEVERHANG + A.L.A.N.",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "zsh_tool_mcp-0.4.6-py3-none-any.whl",
-  "download_time": "2026-01-18T14:53:56.406241",
+  "download_filename": "zsh_tool_mcp-0.4.73-py3-none-any.whl",
+  "download_time": "2026-01-19T11:48:04.608693",
   "package_url": "https://pypi.org/project/zsh-tool-mcp/"
 }

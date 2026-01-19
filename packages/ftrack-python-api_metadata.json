@@ -1,0 +1,11 @@
+{
+  "name": "ftrack-python-api",
+  "version": "3.0.6",
+  "summary": "Python API for ftrack.",
+  "author": "ftrack",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/ftrackhq/ftrack-python",
+  "download_filename": "ftrack_python_api-3.0.6-py3-none-any.whl",
+  "download_time": "2026-01-19T11:48:01.542646",
+  "package_url": "https://pypi.org/project/ftrack-python-api/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "hidratespark-mcp",
+  "version": "1.0.1",
+  "summary": "MCP server for HidrateSpark smart water bottle API integration",
+  "author": "Mario Mosca",
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "hidratespark_mcp-1.0.1.tar.gz",
+  "download_time": "2026-01-19T11:48:15.908758",
+  "package_url": "https://pypi.org/project/hidratespark-mcp/"
+}

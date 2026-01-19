@@ -1,11 +1,11 @@
 {
   "name": "pax1000-controller",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "summary": "A library to controlle the Thorlabs PAX1000 polarimeter",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pax1000_controller-0.0.1.tar.gz",
-  "download_time": "2026-01-14T12:40:32.054454",
+  "download_filename": "pax1000_controller-0.0.2.tar.gz",
+  "download_time": "2026-01-19T11:47:50.197071",
   "package_url": "https://pypi.org/project/pax1000-controller/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "finam-mcp-server",
+  "version": "0.1.6",
+  "summary": "Finam Trade API integration for Model Context Protocol (MCP)",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "finam_mcp_server-0.1.6.tar.gz",
+  "download_time": "2026-01-19T11:47:51.217177",
+  "package_url": "https://pypi.org/project/finam-mcp-server/"
+}
