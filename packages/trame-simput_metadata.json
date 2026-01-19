@@ -1,0 +1,11 @@
+{
+  "name": "trame-simput",
+  "version": "2.6.3",
+  "summary": "Simput implementation for trame ",
+  "author": "Kitware Inc.",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "trame_simput-2.6.3.tar.gz",
+  "download_time": "2026-01-19T11:22:58.505336",
+  "package_url": "https://pypi.org/project/trame-simput/"
+}

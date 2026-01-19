@@ -1,0 +1,11 @@
+{
+  "name": "PPOCRLabel",
+  "version": "3.1.5",
+  "summary": "PPOCRLabelv2 is a semi-automatic graphic annotation tool suitable for OCR field, with built-in PP-OCR model to automatically detect and re-recognize data. It is written in Python3 and PyQT5, supporting rectangular box, table, irregular text and key information annotation modes. Annotations can be directly used for the training of PP-OCR detection and recognition models.",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "ppocrlabel-3.1.5-py2.py3-none-any.whl",
+  "download_time": "2026-01-19T11:23:09.449909",
+  "package_url": "https://pypi.org/project/PPOCRLabel/"
+}

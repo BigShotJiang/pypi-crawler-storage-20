@@ -1,11 +1,11 @@
 {
   "name": "undatum",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "A powerful command-line tool for data processing and analysis",
   "author": "Ivan Begtin",
-  "license": "MIT",
+  "license": null,
   "home_page": "https://github.com/datacoon/undatum/",
-  "download_filename": "undatum-1.1.0-py2.py3-none-any.whl",
-  "download_time": "2026-01-18T08:26:01.556821",
+  "download_filename": "undatum-1.1.1.tar.gz",
+  "download_time": "2026-01-19T11:23:18.566870",
   "package_url": "https://pypi.org/project/undatum/"
 }

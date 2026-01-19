@@ -1,0 +1,11 @@
+{
+  "name": "hashsmith-cli",
+  "version": "0.1.0",
+  "summary": "Hashsmith CLI for encoding, decoding, hashing, and cracking",
+  "author": "Salih Sefer",
+  "license": "MIT",
+  "home_page": "https://github.com/salihsefer36/Hashsmith",
+  "download_filename": "hashsmith_cli-0.1.0.tar.gz",
+  "download_time": "2026-01-19T11:22:53.097958",
+  "package_url": "https://pypi.org/project/hashsmith-cli/"
+}

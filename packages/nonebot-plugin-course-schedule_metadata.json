@@ -1,0 +1,11 @@
+{
+  "name": "nonebot-plugin-course-schedule",
+  "version": "1.0.5",
+  "summary": "电子课程表",
+  "author": "Polaris_Light",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nonebot_plugin_course_schedule-1.0.5.tar.gz",
+  "download_time": "2026-01-19T11:23:00.727428",
+  "package_url": "https://pypi.org/project/nonebot-plugin-course-schedule/"
+}

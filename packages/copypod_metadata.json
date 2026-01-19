@@ -1,0 +1,11 @@
+{
+  "name": "copypod",
+  "version": "0.5.0",
+  "summary": "Copy a Kubernetes pod and run commands in its environment",
+  "author": "Jeppe Fihl-Pearson",
+  "license": null,
+  "home_page": null,
+  "download_filename": "copypod-0.5.0.tar.gz",
+  "download_time": "2026-01-19T11:22:37.786597",
+  "package_url": "https://pypi.org/project/copypod/"
+}

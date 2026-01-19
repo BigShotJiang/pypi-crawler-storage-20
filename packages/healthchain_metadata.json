@@ -1,0 +1,11 @@
+{
+  "name": "healthchain",
+  "version": "0.13.0",
+  "summary": "Open source framework for productionizing healthcare AI",
+  "author": null,
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "healthchain-0.13.0.tar.gz",
+  "download_time": "2026-01-19T11:22:57.409103",
+  "package_url": "https://pypi.org/project/healthchain/"
+}
