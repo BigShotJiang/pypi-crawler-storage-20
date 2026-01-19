@@ -1,11 +1,11 @@
 {
   "name": "pilot.linkstec",
-  "version": "0.0.92",
+  "version": "0.0.94",
   "summary": "pilot of the ship, a tool for managing and deploying Python projects.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "pilot_linkstec-0.0.92.tar.gz",
-  "download_time": "2026-01-16T06:31:24.747354",
+  "download_filename": "pilot_linkstec-0.0.94.tar.gz",
+  "download_time": "2026-01-19T04:39:20.569961",
   "package_url": "https://pypi.org/project/pilot.linkstec/"
 }

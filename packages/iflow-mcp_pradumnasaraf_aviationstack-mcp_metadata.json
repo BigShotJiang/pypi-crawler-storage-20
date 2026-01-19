@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_pradumnasaraf_aviationstack-mcp",
+  "version": "1.4.0",
+  "summary": "An MCP server using the AviationStack API to fetch real-time flight data including airline flights, airport schedules, future flights and aircraft types",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_pradumnasaraf_aviationstack_mcp-1.4.0.tar.gz",
+  "download_time": "2026-01-19T04:39:27.080618",
+  "package_url": "https://pypi.org/project/iflow-mcp_pradumnasaraf_aviationstack-mcp/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "aegis-core",
-  "version": "1.11.1",
+  "version": "1.11.2",
   "summary": "A library to manipulate Mecha for language server usage",
   "author": "TheNuclearNexus",
   "license": null,
   "home_page": null,
-  "download_filename": "aegis_core-1.11.1.tar.gz",
-  "download_time": "2026-01-18T18:27:57.942106",
+  "download_filename": "aegis_core-1.11.2.tar.gz",
+  "download_time": "2026-01-19T04:39:35.805650",
   "package_url": "https://pypi.org/project/aegis-core/"
 }

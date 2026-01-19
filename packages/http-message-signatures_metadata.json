@@ -1,0 +1,11 @@
+{
+  "name": "http-message-signatures",
+  "version": "2.0.1",
+  "summary": "An implementation of the IETF HTTP Message Signatures draft standard",
+  "author": "Andrey Kislyuk",
+  "license": "Apache Software License",
+  "home_page": null,
+  "download_filename": "http_message_signatures-2.0.1.tar.gz",
+  "download_time": "2026-01-19T04:39:48.328649",
+  "package_url": "https://pypi.org/project/http-message-signatures/"
+}

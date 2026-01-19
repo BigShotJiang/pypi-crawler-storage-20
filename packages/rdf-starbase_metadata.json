@@ -1,0 +1,11 @@
+{
+  "name": "rdf-starbase",
+  "version": "0.1.0",
+  "summary": "A blazingly fast RDF-Star database powered by Polars",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "rdf_starbase-0.1.0.tar.gz",
+  "download_time": "2026-01-19T04:39:28.724707",
+  "package_url": "https://pypi.org/project/rdf-starbase/"
+}

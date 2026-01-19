@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-remove-odoo-enterprise",
+  "version": "19.0.1.0.0.4",
+  "summary": "Remove enterprise modules and setting items",
+  "author": "Eska, Onestein, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/server-brand",
+  "download_filename": "odoo_addon_remove_odoo_enterprise-19.0.1.0.0.4-py3-none-any.whl",
+  "download_time": "2026-01-19T04:39:44.495333",
+  "package_url": "https://pypi.org/project/odoo-addon-remove-odoo-enterprise/"
+}

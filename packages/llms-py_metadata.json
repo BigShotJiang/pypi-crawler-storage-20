@@ -1,11 +1,11 @@
 {
   "name": "llms-py",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "summary": "A lightweight CLI tool and OpenAI-compatible server for querying multiple Large Language Model (LLM) providers",
   "author": "ServiceStack",
   "license": null,
   "home_page": "https://github.com/ServiceStack/llms",
-  "download_filename": "llms_py-3.0.8.tar.gz",
-  "download_time": "2026-01-18T16:49:20.639187",
+  "download_filename": "llms_py-3.0.9.tar.gz",
+  "download_time": "2026-01-19T04:39:46.677791",
   "package_url": "https://pypi.org/project/llms-py/"
 }
