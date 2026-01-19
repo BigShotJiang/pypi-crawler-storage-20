@@ -1,11 +1,11 @@
 {
   "name": "PHStatsMethods",
-  "version": "0.1.13",
+  "version": "0.1.14",
   "summary": "This is a python package to calculate statistics in public health, including indicators for Fingertips.",
   "author": "Department of Health and Social Care",
   "license": "GPL-3.0",
-  "home_page": "https://github.com/DataS-DHSC/PHStatsMethods",
-  "download_filename": "phstatsmethods-0.1.13.tar.gz",
-  "download_time": "2026-01-19T14:49:49.553148",
+  "home_page": "https://github.com/dhsc-govuk/PHStatsMethods",
+  "download_filename": "phstatsmethods-0.1.14.tar.gz",
+  "download_time": "2026-01-19T15:26:25.681534",
   "package_url": "https://pypi.org/project/PHStatsMethods/"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "libservice",
+  "version": "1.0.2",
+  "summary": "Library for building InfraSonar services",
+  "author": "Cesbit",
+  "license": null,
+  "home_page": "https://github.com/infrasonar/python-libservice",
+  "download_filename": "libservice-1.0.2.tar.gz",
+  "download_time": "2026-01-19T15:26:24.129023",
+  "package_url": "https://pypi.org/project/libservice/"
+}

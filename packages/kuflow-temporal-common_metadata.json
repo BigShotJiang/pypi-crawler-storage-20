@@ -1,0 +1,11 @@
+{
+  "name": "kuflow-temporal-common",
+  "version": "3.2.1",
+  "summary": "KuFlow utilities to use Temporal.io",
+  "author": "KuFlow S.L.",
+  "license": "MIT",
+  "home_page": "https://kuflow.com/",
+  "download_filename": "kuflow_temporal_common-3.2.1.tar.gz",
+  "download_time": "2026-01-19T15:26:10.603305",
+  "package_url": "https://pypi.org/project/kuflow-temporal-common/"
+}

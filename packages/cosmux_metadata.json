@@ -1,11 +1,11 @@
 {
   "name": "cosmux",
-  "version": "0.3.1",
+  "version": "0.4.1",
   "summary": "AI Coding Agent Widget for Web Development - Code mutates like cosmic radiation",
   "author": "Cosmux Team",
   "license": null,
   "home_page": null,
-  "download_filename": "cosmux-0.3.1-py3-none-any.whl",
-  "download_time": "2026-01-19T14:49:50.635961",
+  "download_filename": "cosmux-0.4.1-py3-none-any.whl",
+  "download_time": "2026-01-19T15:26:19.885605",
   "package_url": "https://pypi.org/project/cosmux/"
 }
