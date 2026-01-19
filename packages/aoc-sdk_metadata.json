@@ -1,0 +1,11 @@
+{
+  "name": "aoc-sdk",
+  "version": "1.0.0",
+  "summary": "AOC APIs",
+  "author": "AOC developers",
+  "license": null,
+  "home_page": "https://github.com/arcfraofficial/aoc-python-sdk",
+  "download_filename": "aoc_sdk-1.0.0.tar.gz",
+  "download_time": "2026-01-19T06:37:34.360415",
+  "package_url": "https://pypi.org/project/aoc-sdk/"
+}

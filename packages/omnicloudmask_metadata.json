@@ -1,0 +1,11 @@
+{
+  "name": "omnicloudmask",
+  "version": "1.7.0",
+  "summary": "Python library for cloud and cloud shadow segmentation in high to moderate resolution satellite imagery",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "omnicloudmask-1.7.0.tar.gz",
+  "download_time": "2026-01-19T06:37:15.509686",
+  "package_url": "https://pypi.org/project/omnicloudmask/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "vibium-darwin-arm64",
+  "version": "0.1.4",
+  "summary": "Vibium clicker binary for macOS ARM64",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "vibium_darwin_arm64-0.1.4-py3-none-any.whl",
+  "download_time": "2026-01-19T06:37:06.617767",
+  "package_url": "https://pypi.org/project/vibium-darwin-arm64/"
+}

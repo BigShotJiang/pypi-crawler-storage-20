@@ -1,0 +1,11 @@
+{
+  "name": "jquants-api-client",
+  "version": "2.0.0",
+  "summary": "J-Quants API Client Library",
+  "author": "J-Quants Project Contributors",
+  "license": "Apache-2.0",
+  "home_page": null,
+  "download_filename": "jquants_api_client-2.0.0.tar.gz",
+  "download_time": "2026-01-19T06:37:25.498465",
+  "package_url": "https://pypi.org/project/jquants-api-client/"
+}

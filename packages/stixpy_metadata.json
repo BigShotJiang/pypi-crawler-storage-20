@@ -1,0 +1,11 @@
+{
+  "name": "stixpy",
+  "version": "0.2.0",
+  "summary": "An open-source Python analysis library for the Spectrometer Telescope for Imaging X-rays (STIX) instrument on Solar Obriter.",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "stixpy-0.2.0.tar.gz",
+  "download_time": "2026-01-19T06:37:10.840099",
+  "package_url": "https://pypi.org/project/stixpy/"
+}

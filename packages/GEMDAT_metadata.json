@@ -1,0 +1,11 @@
+{
+  "name": "GEMDAT",
+  "version": "1.6.3",
+  "summary": "Generalized Molecular Dynamics Analysis Tool",
+  "author": "Stef Smeets, Simone Ciarella, Theodosios Famprikis, Victor Landgraf",
+  "license": "Apache 2.0 License",
+  "home_page": null,
+  "download_filename": "gemdat-1.6.3.tar.gz",
+  "download_time": "2026-01-19T06:36:53.638471",
+  "package_url": "https://pypi.org/project/GEMDAT/"
+}

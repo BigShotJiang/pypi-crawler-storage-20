@@ -1,0 +1,11 @@
+{
+  "name": "esp-secure-cert-tool",
+  "version": "2.5.0",
+  "summary": "A python utility which helps to configure and provisionthe ESP platform with PKI credentials into the esp_secure_cert partition",
+  "author": "Espressif Systems",
+  "license": "Apache-2.0",
+  "home_page": "https://github.com/espressif/esp_secure_cert_mgr/blob/main/tools",
+  "download_filename": "esp_secure_cert_tool-2.5.0.tar.gz",
+  "download_time": "2026-01-19T06:37:13.423486",
+  "package_url": "https://pypi.org/project/esp-secure-cert-tool/"
+}

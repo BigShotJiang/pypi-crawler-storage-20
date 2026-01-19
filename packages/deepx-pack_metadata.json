@@ -1,11 +1,11 @@
 {
   "name": "deepx-pack",
-  "version": "1.0.6.post2",
-  "summary": "DeepH-pack, the latest iteration of DeepH, unites all the preceding DeepH methodologies into a cohesive package. This advanced version has been meticulously rewritten with JAX, enhancing its efficiency and capabilities.",
+  "version": "1.0.6.post3",
+  "summary": "DeepH-pack is a general-purpose neural network package for deep-learning electronic structure calculations. As the latest evolution of the DeepH framework, it integrates all prior methodologies into a unified, cohesive toolkit. This enhanced version has been fully rebuilt using JAX, delivering greater computational efficiency and expanded functionality.",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "deepx_pack-1.0.6.post2-py3-none-any.whl",
-  "download_time": "2026-01-16T10:22:47.115794",
+  "download_filename": "deepx_pack-1.0.6.post3-py3-none-any.whl",
+  "download_time": "2026-01-19T06:37:32.265525",
   "package_url": "https://pypi.org/project/deepx-pack/"
 }

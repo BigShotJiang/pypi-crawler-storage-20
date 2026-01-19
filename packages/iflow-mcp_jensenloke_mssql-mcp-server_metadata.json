@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_jensenloke_mssql-mcp-server",
+  "version": "1.0.1",
+  "summary": "A Model Context Protocol server for Microsoft SQL Server databases",
+  "author": "MSSQL MCP Server",
+  "license": null,
+  "home_page": "https://github.com/your-username/mssql-mcp-server",
+  "download_filename": "iflow_mcp_jensenloke_mssql_mcp_server-1.0.1.tar.gz",
+  "download_time": "2026-01-19T06:36:58.273908",
+  "package_url": "https://pypi.org/project/iflow-mcp_jensenloke_mssql-mcp-server/"
+}

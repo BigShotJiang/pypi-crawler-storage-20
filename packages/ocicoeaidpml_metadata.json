@@ -1,11 +1,11 @@
 {
   "name": "ocicoeaidpml",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "summary": "Spark schema analysis & ML use-case suggestion tool using OCI LLM",
   "author": "Your Name",
-  "license": "MIT",
+  "license": "Oracle COE JAPAC",
   "home_page": "https://github.com/yourusername/coeaidpml",
-  "download_filename": "ocicoeaidpml-0.1.2.tar.gz",
-  "download_time": "2026-01-18T08:26:10.956950",
+  "download_filename": "ocicoeaidpml-0.1.5.tar.gz",
+  "download_time": "2026-01-19T06:37:14.977479",
   "package_url": "https://pypi.org/project/ocicoeaidpml/"
 }

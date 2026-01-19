@@ -1,11 +1,11 @@
 {
   "name": "iamt",
-  "version": "1.1.27",
+  "version": "1.1.29",
   "summary": "Add your description here",
   "author": "lipanpan",
   "license": null,
   "home_page": null,
-  "download_filename": "iamt-1.1.27-py3-none-any.whl",
-  "download_time": "2026-01-18T06:30:29.105459",
+  "download_filename": "iamt-1.1.29-py3-none-any.whl",
+  "download_time": "2026-01-19T06:37:20.781762",
   "package_url": "https://pypi.org/project/iamt/"
 }
