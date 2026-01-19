@@ -1,0 +1,11 @@
+{
+  "name": "pytorch-ood",
+  "version": "0.2.3",
+  "summary": "A Library for Out-of-Distribution Detection with PyTorch",
+  "author": "Konstantin Kirchheim",
+  "license": "Apache 2.0",
+  "home_page": "https://github.com/kkirchheim/pytorch-ood",
+  "download_filename": "pytorch_ood-0.2.3-py3-none-any.whl",
+  "download_time": "2026-01-19T14:50:11.017724",
+  "package_url": "https://pypi.org/project/pytorch-ood/"
+}

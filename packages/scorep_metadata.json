@@ -1,0 +1,11 @@
+{
+  "name": "scorep",
+  "version": "4.5.1",
+  "summary": "This is a Score-P tracing package for python",
+  "author": "Andreas Gocht",
+  "license": null,
+  "home_page": "https://github.com/score-p/scorep_binding_python",
+  "download_filename": "scorep-4.5.1.tar.gz",
+  "download_time": "2026-01-19T14:50:36.057670",
+  "package_url": "https://pypi.org/project/scorep/"
+}

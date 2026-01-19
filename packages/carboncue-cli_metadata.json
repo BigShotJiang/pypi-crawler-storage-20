@@ -1,0 +1,11 @@
+{
+  "name": "carboncue-cli",
+  "version": "1.0.0",
+  "summary": "Terminal interface for carbon-aware development",
+  "author": null,
+  "license": "MIT",
+  "home_page": null,
+  "download_filename": "carboncue_cli-1.0.0.tar.gz",
+  "download_time": "2026-01-19T14:49:53.761449",
+  "package_url": "https://pypi.org/project/carboncue-cli/"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "delphai-rpc",
+  "version": "5.3.3",
+  "summary": "Queue-based RPC client, server and workflow",
+  "author": "Anton Ryzhov",
+  "license": null,
+  "home_page": null,
+  "download_filename": "delphai_rpc-5.3.3.tar.gz",
+  "download_time": "2026-01-19T14:49:54.280674",
+  "package_url": "https://pypi.org/project/delphai-rpc/"
+}

@@ -1,11 +1,11 @@
 {
   "name": "sy-python",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "summary": "Python bindings for sy - Modern file synchronization tool",
   "author": null,
   "license": "MIT",
   "home_page": null,
-  "download_filename": "sy_python-0.2.0.tar.gz",
-  "download_time": "2026-01-19T10:57:12.340783",
+  "download_filename": "sy_python-0.2.3.tar.gz",
+  "download_time": "2026-01-19T14:50:08.390996",
   "package_url": "https://pypi.org/project/sy-python/"
 }

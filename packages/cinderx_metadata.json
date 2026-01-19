@@ -1,11 +1,11 @@
 {
   "name": "cinderx",
-  "version": "2026.1.16.2",
+  "version": "2026.1.19.0",
   "summary": "High-performance Python runtime extension",
   "author": null,
   "license": null,
   "home_page": "https://www.github.com/facebookincubator/cinderx",
-  "download_filename": "cinderx-2026.1.16.2.tar.gz",
-  "download_time": "2026-01-17T10:56:02.974510",
+  "download_filename": "cinderx-2026.1.19.0.tar.gz",
+  "download_time": "2026-01-19T14:50:39.215372",
   "package_url": "https://pypi.org/project/cinderx/"
 }

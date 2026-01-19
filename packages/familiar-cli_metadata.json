@@ -1,11 +1,11 @@
 {
   "name": "familiar-cli",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "summary": "compose and invoke ai agent prompts from reusable templates",
   "author": null,
   "license": null,
   "home_page": null,
-  "download_filename": "familiar_cli-0.0.4.tar.gz",
-  "download_time": "2026-01-18T23:43:17.747125",
+  "download_filename": "familiar_cli-0.0.5.tar.gz",
+  "download_time": "2026-01-19T14:50:30.833311",
   "package_url": "https://pypi.org/project/familiar-cli/"
 }

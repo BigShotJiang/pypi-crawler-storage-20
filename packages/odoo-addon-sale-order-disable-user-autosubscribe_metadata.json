@@ -1,0 +1,11 @@
+{
+  "name": "odoo-addon-sale-order-disable-user-autosubscribe",
+  "version": "19.0.1.0.0.2",
+  "summary": "Remove the salesperson from autosubscribed sale followers",
+  "author": "Camptocamp SA, Odoo Community Association (OCA)",
+  "license": "AGPL-3",
+  "home_page": "https://github.com/OCA/sale-workflow",
+  "download_filename": "odoo_addon_sale_order_disable_user_autosubscribe-19.0.1.0.0.2-py3-none-any.whl",
+  "download_time": "2026-01-19T14:50:21.451896",
+  "package_url": "https://pypi.org/project/odoo-addon-sale-order-disable-user-autosubscribe/"
+}

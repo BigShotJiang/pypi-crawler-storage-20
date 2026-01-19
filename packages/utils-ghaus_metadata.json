@@ -1,0 +1,11 @@
+{
+  "name": "utils-ghaus",
+  "version": "0.3",
+  "summary": "A simple utility library for basic math and string operation.",
+  "author": "Ghaus Ali",
+  "license": null,
+  "home_page": null,
+  "download_filename": "utils_ghaus-0.3.tar.gz",
+  "download_time": "2026-01-19T14:50:09.435546",
+  "package_url": "https://pypi.org/project/utils-ghaus/"
+}

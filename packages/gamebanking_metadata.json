@@ -1,11 +1,11 @@
 {
   "name": "gamebanking",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "summary": "gamebanking is a module that makes coding currency in games easier.",
   "author": "CorruptDragon24",
   "license": null,
   "home_page": "https://www.youtube.com/@CorruptDragon24",
-  "download_filename": "gamebanking-1.1.0.tar.gz",
-  "download_time": "2026-01-18T16:23:59.530744",
+  "download_filename": "gamebanking-1.1.1.tar.gz",
+  "download_time": "2026-01-19T14:50:36.576457",
   "package_url": "https://pypi.org/project/gamebanking/"
 }
