@@ -1,0 +1,11 @@
+{
+  "name": "klepto",
+  "version": "0.2.8",
+  "summary": "persistent caching to memory, disk, or database",
+  "author": "Mike McKerns",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/uqfoundation/klepto",
+  "download_filename": "klepto-0.2.8.tar.gz",
+  "download_time": "2026-01-19T03:28:58.315953",
+  "package_url": "https://pypi.org/project/klepto/"
+}

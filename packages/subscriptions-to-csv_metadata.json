@@ -1,11 +1,11 @@
 {
   "name": "subscriptions-to-csv",
-  "version": "1.4.0",
+  "version": "1.7.3",
   "summary": "Convert subscription lists to CSV with EUR conversion",
   "author": "Subscription Converter Team",
   "license": "MIT",
   "home_page": null,
-  "download_filename": "subscriptions_to_csv-1.4.0.tar.gz",
-  "download_time": "2026-01-18T22:20:43.013711",
+  "download_filename": "subscriptions_to_csv-1.7.3.tar.gz",
+  "download_time": "2026-01-19T03:28:41.422353",
   "package_url": "https://pypi.org/project/subscriptions-to-csv/"
 }

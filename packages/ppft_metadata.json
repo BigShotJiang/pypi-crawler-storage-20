@@ -1,0 +1,11 @@
+{
+  "name": "ppft",
+  "version": "1.7.8",
+  "summary": "distributed and parallel Python",
+  "author": "Mike McKerns",
+  "license": "BSD-3-Clause",
+  "home_page": "https://github.com/uqfoundation/ppft",
+  "download_filename": "ppft-1.7.8.tar.gz",
+  "download_time": "2026-01-19T03:28:38.878904",
+  "package_url": "https://pypi.org/project/ppft/"
+}

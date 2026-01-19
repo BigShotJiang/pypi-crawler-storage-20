@@ -1,0 +1,11 @@
+{
+  "name": "iflow-mcp_automateyournetwork_aci_mcp",
+  "version": "0.1.4",
+  "summary": "A Model Context Protocol (MCP) server that provides full CRUD access to the Cisco ACI API",
+  "author": null,
+  "license": null,
+  "home_page": null,
+  "download_filename": "iflow_mcp_automateyournetwork_aci_mcp-0.1.4.tar.gz",
+  "download_time": "2026-01-19T03:28:29.796182",
+  "package_url": "https://pypi.org/project/iflow-mcp_automateyournetwork_aci_mcp/"
+}

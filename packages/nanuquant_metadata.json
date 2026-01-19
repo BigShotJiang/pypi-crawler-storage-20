@@ -1,0 +1,11 @@
+{
+  "name": "nanuquant",
+  "version": "0.1.0",
+  "summary": "Institutional quantitative analytics at Polars speed.",
+  "author": "Trade Conductor",
+  "license": null,
+  "home_page": null,
+  "download_filename": "nanuquant-0.1.0.tar.gz",
+  "download_time": "2026-01-19T03:28:39.524036",
+  "package_url": "https://pypi.org/project/nanuquant/"
+}
